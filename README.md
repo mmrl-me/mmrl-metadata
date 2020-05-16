@@ -35,7 +35,7 @@ Format description is as follows:
 * __genre-tags__ union of alpha 60 genre rubric, imdb genres, wikipedia genres
 * __cast-poc__ either "true" if lead POC or "false"
 * __cast-female__ number of cast that are female or female-identified
-* __plot-tags__ union of imdb plot keywords and alpha 60 POC tagging 
+* __plot-tags__ union of alpha 60 plot tagging rubric, imdb plot keywords
 * __plot-geo__ ostensible geography of media property
 * __plot-date__ ostensible time period, deduced from media property, with multiple time periods separated by comma if be
 * __distribution-tags__ wikipedia distributor, such as "netflix" or "disney+" or "cbs all access"
