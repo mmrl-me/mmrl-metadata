@@ -33,8 +33,8 @@ Format description is as follows:
 * __imdb-id__ the root page of the media property's IMDB.com entry
 * __wikipedia-id__ the root page of the media property's wikipedia.org entry
 * __genre-tags__ union of alpha 60 genre rubric, imdb genres, wikipedia genres
-* __cast_poc
-* __cast_female
+* __cast-poc__ either "true" if lead POC or "false"
+* __cast-female__ number of cast that are female or female-identified
 * __plot-tags__ union of imdb plot keywords and alpha 60 POC tagging 
 * __plot-geo__ ostensible geography of media property
 * __plot-date__ ostensible time period, deduced from media property, with multiple time periods separated by comma if be
