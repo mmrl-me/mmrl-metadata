@@ -26,7 +26,7 @@ Format description is as follows:
     
 * * *
     
-* __data-version__ last time new data fields were added, in compressed ISO date format, where 20200516 means YYYY-MM-DD of 2020-05-16. ##Don't change this.##
+* __data-version__ last time new data fields were added, in compressed ISO date format, where 20200516 means YYYY-MM-DD of 2020-05-16. *Don't change this.*
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF", and the only place where capital letters are allowed
 * __type__ media characteristics, such as "film", "serial", "software", "book"
 * __id__ if film, nothing, if serial either the season, such as "4" or the season and episode in compressed format, where 301 means SSEE of Season 3 Episode 1, leading zero of season dropped
