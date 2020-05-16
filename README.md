@@ -27,12 +27,14 @@ Format description is as follows:
 * * *
     
 * __data-version__ last time fields were added, in compressed ISO date format, where 20200516 means YYYY-MM-DD of 2020-05-16
-* __name media__ property identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF", and the only place where capital letters are allowed
+* __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF", and the only place where capital letters are allowed
 * __type__ media characteristics, such as "film", "serial", "software", "book"
 * __id__ if film, nothing, if serial either the season, such as "4" or the season and episode in compressed format, where 301 means SSEE of Season 3 Episode 1, leading zero of season dropped
 * __imdb-id__ the root page of the media property's IMDB.com entry
 * __wikipedia-id__ the root page of the media property's wikipedia.org entry
 * __genre-tags__ union of alpha 60 genre rubric, imdb genres, wikipedia genres
+* __cast_poc
+* __cast_female
 * __plot-tags__ union of imdb plot keywords and alpha 60 POC tagging 
 * __plot-geo__ ostensible geography of media property
 * __plot-date__ ostensible time period, deduced from media property, with multiple time periods separated by comma if be
