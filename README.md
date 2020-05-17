@@ -1,6 +1,6 @@
 # alpha60-metadata
 
-Metadata for alpha60 experimental results, organized per media object sampled, where *media object* is defined as a particular media instance such as a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, a leak of presidential tax reports, etc.
+Metadata for alpha60 experimental results, organized per media object sampled, where *media object* is defined as a particular media instance such as a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, future leaks of presidential tax reports, etc.
 
 Format description is as follows:
 
