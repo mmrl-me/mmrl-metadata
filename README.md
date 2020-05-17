@@ -50,7 +50,7 @@ Format description is as follows:
 * __cast-lead-genders__ lead or leads gender, comma separated list, "diverse ensemble" catch-all
 * __cast-lead-sexualities__ lead or leads sexuality, comma separated list, "diverse ensemble" catch-all
 * __distribution-tags__ wikipedia distributor, such as "netflix" or "disney+" or "cbs all access"
-* __production-tags__ unknown if useful, put prouduction overflow here
+* __production-tags__ optional, unknown if useful, put prouduction overflow here
 * __production-geo__ union wikipedia country of origin and imdb production details locations 
 * __notes__ optional, overflow and space for custom or prototype tagging 
 * __data-version__ last time new data fields were added, in compressed ISO date format, where 20200516 means YYYY-MM-DD of 2020-05-16. *Don't change this.*
