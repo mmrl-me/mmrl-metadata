@@ -1,19 +1,19 @@
 {
-    "data-version": "20200516",
-
     "name": "",
     "type": "",
     "id": "",
-
-    "imdb-id": "",
-    "wikipedia-id": "",
-
+    "id-imdb": "",
+    "id-wikipedia": "",
     "genre-tags": "",
     "plot-tags": "",
     "plot-geo": "",
     "plot-date": "",
-
+    "cast-lead-ethnicities": "",
+    "cast-lead-genders": "",
+    "cast-lead-sexualities": "",
     "distribution-tags": "",
     "production-tags": "",
-    "production-geo": ""
+    "production-geo": "",
+    "notes": "",
+    "data-version": "20200517"
 }
