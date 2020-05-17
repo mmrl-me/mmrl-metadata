@@ -17,8 +17,6 @@ Format description is as follows:
         "plot-geo": "",
         "plot-date": "",
 
-        "cast-poc": "",
-        "cast-female": "",
         "cast-lead-ethnicities": ""
         "cast-lead-genders": ""
         "cast-lead-sexualities": ""
@@ -44,8 +42,6 @@ Format description is as follows:
 * __plot-tags__ union of alpha 60 plot tagging rubric, imdb plot keywords
 * __plot-geo__ ostensible geography of media property
 * __plot-date__ ostensible time period, deduced from media property, with multiple time periods separated by comma if be
-* __cast-poc__ either "true" or "false" if regular cast contains at least 1 POC
-* __cast-female__ number of regular cast that are female or female-identified
 * __cast-lead-ethnicities__ lead or leads ethnicity, comma separated list, "diverse ensemble" catch-all
 * __cast-lead-genders__ lead or leads gender, comma separated list, "diverse ensemble" catch-all
 * __cast-lead-sexualities__ lead or leads sexuality, comma separated list, "diverse ensemble" catch-all
