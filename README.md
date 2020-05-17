@@ -5,39 +5,52 @@ Metadata for alpha60 experimental results, organized per media object sampled, w
 Format description is as follows:
 
     {
-        "data-version": "20200516",
-
         "name": "",
         "type": "",
         "id": "",
 
-        "imdb-id": "",
-        "wikipedia-id": "",
+        "id-imdb": "",
+        "id-wikipedia": "",
 
         "genre-tags": "",
         "plot-tags": "",
         "plot-geo": "",
         "plot-date": "",
 
+        "cast-poc": "",
+        "cast-female": "",
+        "cast-lead-ethnicities": ""
+        "cast-lead-genders": ""
+        "cast-lead-sexualities": ""
+        
         "distribution-tags": "",
         "production-tags": "",
         "production-geo": ""
+        
+        "notes": "",
+        
+        "data-version": "20200516",
     }
     
 * * *
     
-* __data-version__ last time new data fields were added, in compressed ISO date format, where 20200516 means YYYY-MM-DD of 2020-05-16. *Don't change this.*
+
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF", and the only place where capital letters are allowed
 * __type__ media characteristics, such as "film", "serial", "software", "book"
 * __id__ if film, nothing, if serial either the season, such as "4" or the season and episode in compressed format, where 301 means SSEE of Season 3 Episode 1, leading zero of season dropped
-* __imdb-id__ the root page of the media property's IMDB.com entry
-* __wikipedia-id__ the root page of the media property's wikipedia.org entry
+* __id-imdb__ the root page of the media property's IMDB.com entry
+* __id-wikipedia__ the root page of the media property's wikipedia.org entry
 * __genre-tags__ union of alpha 60 genre rubric, imdb genres, wikipedia genres
-* __cast-poc__ either "true" if lead POC or "false"
-* __cast-female__ number of cast that are female or female-identified
 * __plot-tags__ union of alpha 60 plot tagging rubric, imdb plot keywords
 * __plot-geo__ ostensible geography of media property
 * __plot-date__ ostensible time period, deduced from media property, with multiple time periods separated by comma if be
+* __cast-poc__ either "true" or "false" if regular cast contains at least 1 POC
+* __cast-female__ number of regular cast that are female or female-identified
+* __cast-lead-ethnicities__ lead or leads ethnicity, comma separated list, "diverse ensemble" catch-all
+* __cast-lead-genders__ lead or leads gender, comma separated list, "diverse ensemble" catch-all
+* __cast-lead-sexualities__ lead or leads sexuality, comma separated list, "diverse ensemble" catch-all
 * __distribution-tags__ wikipedia distributor, such as "netflix" or "disney+" or "cbs all access"
 * __production-tags__ unknown if useful, put prouduction overflow here
 * __production-geo__ union wikipedia country of origin and imdb production details locations 
+* __notes__ optional, overflow and space for custom or prototype tagging 
+* __data-version__ last time new data fields were added, in compressed ISO date format, where 20200516 means YYYY-MM-DD of 2020-05-16. *Don't change this.*
