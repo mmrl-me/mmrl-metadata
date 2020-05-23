@@ -15,9 +15,14 @@ Schema description is as follows:
         "id-wikipedia": "",
 
         "genre-tags": [""],
+        
         "plot-tags": [""],
         "plot-geo": [""],
         "plot-date": [""],
+          
+        "distribution-tags": [""],
+        "production-tags": [""],
+        "production-geo": [""],
 
         "cast-lead-1-ethnicities": [""],
         "cast-lead-1-genders": [""],
@@ -29,11 +34,27 @@ Schema description is as follows:
         
         "cast-lead-3-ethnicities": [""],
         "cast-lead-3-genders": [""],
-        "cast-lead-3-exualities": [""],
+        "cast-lead-3-sexualities": [""],
         
-        "distribution-tags": [""],
-        "production-tags": [""],
-        "production-geo": [""],
+        "cast-lead-3-ethnicities": [""],
+        "cast-lead-3-genders": [""],
+        "cast-lead-3-sexualities": [""],
+        
+        "cast-lead-3-ethnicities": [""],
+        "cast-lead-3-genders": [""],
+        "cast-lead-3-sexualities": [""],
+        
+         "cast-lead-3-ethnicities": [""],
+        "cast-lead-3-genders": [""],
+        "cast-lead-3-sexualities": [""],
+        
+         "cast-lead-3-ethnicities": [""],
+        "cast-lead-3-genders": [""],
+        "cast-lead-3-sexualities": [""],
+        
+        "cast-lead-3-ethnicities": [""],
+        "cast-lead-3-genders": [""],
+        "cast-lead-3-sexualities": [""],
         
         "notes": [""],
         
