@@ -4,7 +4,7 @@ Metadata for alpha60 experimental results, organized per media object sampled, w
 
 Tag existing media objects with metadata. Sort by streaming platform. Sort by genre. Try to find a schema to represent Bechdel, Villalobos, Gagen, DuVernay tests. Try to quantify “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
 
-Format description is as follows:
+Schema description is as follows:
 
     {
         "name": "",
@@ -19,9 +19,17 @@ Format description is as follows:
         "plot-geo": [""],
         "plot-date": [""],
 
-        "cast-lead-ethnicities": [""],
-        "cast-lead-genders": [""],
-        "cast-lead-sexualities": [""],
+        "cast-lead-1-ethnicities": [""],
+        "cast-lead-1-genders": [""],
+        "cast-lead-1-sexualities": [""],
+        
+        "cast-lead-2-ethnicities": [""],
+        "cast-lead-2-genders": [""],
+        "cast-lead-2-sexualities": [""],
+        
+        "cast-lead-3-ethnicities": [""],
+        "cast-lead-3-genders": [""],
+        "cast-lead-3-exualities": [""],
         
         "distribution-tags": [""],
         "production-tags": [""],
