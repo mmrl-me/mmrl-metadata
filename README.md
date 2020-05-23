@@ -2,6 +2,8 @@
 
 Metadata for alpha60 experimental results, organized per media object sampled, where *media object* is defined as a particular media instance such as a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, future leaks of presidential tax reports, etc.
 
+Tag existing media objects with metadata. Sort by streaming platform. Sort by genre. Try to find a schema to represent Bechdel, Villalobos, Gagen, DuVernay tests. Try to quantify “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
+
 Format description is as follows:
 
     {
