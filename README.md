@@ -31,6 +31,8 @@ Format description is as follows:
     }
     
 * * *
+ 
+ Rubric Documentation: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
     
 
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF", and the only place where capital letters are allowed
