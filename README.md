@@ -12,22 +12,22 @@ Format description is as follows:
         "id-imdb": "",
         "id-wikipedia": "",
 
-        "genre-tags": "",
-        "plot-tags": "",
-        "plot-geo": "",
-        "plot-date": "",
+        "genre-tags": [""],
+        "plot-tags": [""],
+        "plot-geo": [""],
+        "plot-date": [""],
 
-        "cast-lead-ethnicities": ""
-        "cast-lead-genders": ""
-        "cast-lead-sexualities": ""
+        "cast-lead-ethnicities": [""],
+        "cast-lead-genders": [""],
+        "cast-lead-sexualities": [""],
         
-        "distribution-tags": "",
-        "production-tags": "",
-        "production-geo": ""
+        "distribution-tags": [""],
+        "production-tags": [""],
+        "production-geo": [""],
         
-        "notes": "",
+        "notes": [""],
         
-        "data-version": "20200517",
+        "data-version": "20200517"
     }
     
 * * *
