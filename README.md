@@ -36,25 +36,25 @@ Schema description is as follows:
         "cast-lead-3-genders": [""],
         "cast-lead-3-sexualities": [""],
         
-        "cast-lead-3-ethnicities": [""],
-        "cast-lead-3-genders": [""],
-        "cast-lead-3-sexualities": [""],
+        "cast-lead-4-ethnicities": [""],
+        "cast-lead-4-genders": [""],
+        "cast-lead-4-sexualities": [""],
         
-        "cast-lead-3-ethnicities": [""],
-        "cast-lead-3-genders": [""],
-        "cast-lead-3-sexualities": [""],
+        "cast-lead-5-ethnicities": [""],
+        "cast-lead-5-genders": [""],
+        "cast-lead-5-sexualities": [""],
         
-         "cast-lead-3-ethnicities": [""],
-        "cast-lead-3-genders": [""],
-        "cast-lead-3-sexualities": [""],
+        "cast-lead-6-ethnicities": [""],
+        "cast-lead-6-genders": [""],
+        "cast-lead-6-sexualities": [""],
         
-         "cast-lead-3-ethnicities": [""],
-        "cast-lead-3-genders": [""],
-        "cast-lead-3-sexualities": [""],
+        "cast-lead-7-ethnicities": [""],
+        "cast-lead-7-genders": [""],
+        "cast-lead-7-sexualities": [""],
         
-        "cast-lead-3-ethnicities": [""],
-        "cast-lead-3-genders": [""],
-        "cast-lead-3-sexualities": [""],
+        "cast-lead-8-ethnicities": [""],
+        "cast-lead-8-genders": [""],
+        "cast-lead-8-sexualities": [""],
         
         "notes": [""],
         
