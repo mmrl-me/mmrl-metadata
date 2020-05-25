@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "Altered Carbon",
     "name-key": "altered-carbon-02",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "2",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt2261227",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Altered_Carbon_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["cyberpunk", "scifi", "crime", "action", "thriller", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["ai", "murder", "doppelganger", "stack"],
+    "plot-geo": ["bay city", "urban"],
+    "plot-date": ["2384"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["skydance television"],
+    "production-geo": ["canada", "vancouver"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
