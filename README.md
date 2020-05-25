@@ -1,6 +1,8 @@
 # alpha60-metadata
 
-Tag existing media objects with metadata. Sort by streaming platform. Sort by genre. Try to find a schema to represent Bechdel, Villalobos, Gagen, DuVernay tests. Try to quantify “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
+Experimental schema for media objects. 
+
+Goal is to provide a serialized form of media object useful for creating in-memory objects at runtime, and support sorting by streaming platform, genre, and cast diversity. Schema in development, to represent Bechdel, Villalobos, Gagen, DuVernay tests. Tagging to quantify “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
 
 Schema description is as follows:
 
@@ -64,12 +66,12 @@ Schema description is as follows:
     
 * * *
  
- Rubric Documentation: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
+ Background and Extended Rubric Documentation in this doc: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
     
 
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF"
-* __name-key__ **machine generated** key to hydrate this serialized representation to an in-memory a60::collection object
-* __name-key-sub__ optional **machine generated** key for subsetting collections to a particular episode or title  
+* __name-key__ *machine generated* key to hydrate this serialized representation to an in-memory a60::collection object
+* __name-key-sub__ optional *machine generated* key for subsetting collections to a particular episode or title  
 * __type__ media characteristics, such as "film", "serial", "software", "book"
 * __id__ optional numeric identity. If film, nothing, if serial either the season, such as "4" or the season and episode in compressed format, where 301 means SSEE of Season 3 Episode 1, leading zero of season dropped
 * __id-imdb__ the root page of the media property's IMDB.com entry
