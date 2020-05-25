@@ -70,8 +70,8 @@ Schema description is as follows:
     
 
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF"
-* __name-key__ *machine generated* key to hydrate this persistent representation to an in-memory a60::collection object *Don't change this.*
-* __name-key-sub__ optional *machine generated* key for subsetting collections to a particular episode or title  *Don't change this.*
+* __name-key__ *machine generated* key to hydrate this persistent representation to an in-memory a60::collection object. *Don't change this.*
+* __name-key-sub__ optional *machine generated* key for subsetting collections to a particular episode or title. *Don't change this.*
 * __type__ media characteristics, such as "film", "serial", "software", "book"
 * __id__ optional numeric identity. If film, nothing, if serial either the season, such as "4" or the season and episode in compressed format, where 301 means SSEE of Season 3 Episode 1, leading zero of season dropped
 * __id-imdb__ the root page of the media property's IMDB.com entry
