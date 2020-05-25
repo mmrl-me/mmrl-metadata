@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "Black Panther",
     "name-key": "black-panther",
     "name-key-sub": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt1825683",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
 
-    "genre-tags": [""],
+    "genre-tags": ["scifi", "action", "adventure", "superhero", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["king", "african king", "supervillian", "afrofuturism", "politics", "princess", "colonialism", "gadget", "costume"],
+    "plot-geo": ["africa", "usa", "oakland", "atlanta", "wakanda"],
+    "plot-date": ["future"],
 
-    "distribution-tags": [""],
+    "distribution-tags": ["marvel"],
     "production-tags": [""],
-    "production-geo": [""],
+    "production-geo": ["usa", "oakland", "atlanta", "south korea", "new york city", "africa"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
