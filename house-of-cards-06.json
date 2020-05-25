@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "House of Cards",
     "name-key": "house-of-cards-06",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "6",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt1856010/?ref_=ttkw_kw_tt",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["drama", "crime", "political drama", "political thriller"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["political corruption", "american politics"],
+    "plot-geo": ["usa", "washington dc"],
+    "plot-date": ["2018"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["media rights capital"],
+    "production-geo": ["usa", "baltimore"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],

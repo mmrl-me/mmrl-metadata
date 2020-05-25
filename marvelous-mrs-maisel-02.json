@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "The Marvelous Mrs. Maisel",
     "name-key": "marvelous-mrs-maisel-02",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "2",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt5788792",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy", "drama", "period drama"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["stand up comedy", "jewish family", "women working"],
+    "plot-geo": ["usa", "new york city"],
+    "plot-date": ["1959"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["amazon prime video"],
+    "production-tags": ["dorothy parker drank here productions"],
+    "production-geo": ["usa", "new york city"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
