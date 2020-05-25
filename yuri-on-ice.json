@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "Yuri!!! on Ice",
     "name-key": "yuri-on-ice",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "1",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt6112556",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Yuri_on_Ice",
 
-    "genre-tags": [""],
+    "genre-tags": ["sports", "anime", "comedy", "drama", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["ice skating", "figure skating", "gay subtext", "lgbtq subtext", "ambiguous"],
+    "plot-geo": ["japan", "hasetsu"],
+    "plot-date": ["2010s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["crunchyroll"],
+    "production-tags": ["mappa"],
+    "production-geo": ["japan", "tokyo"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
