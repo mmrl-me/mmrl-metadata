@@ -1,19 +1,56 @@
 {
     "name": "Fast & Furious",
+    "name-key": "fast-and-furious",
+    "name-key-sub": "",
     "type": "film",
     "id": "",
+
     "id-imdb": "https://www.imdb.com/title/tt1013752",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Fast_%26_Furious_(2009_film)",
-    "genre-tags": "action, adventure, thriller",
-    "plot-tags": "cars, street racing, revenge, heist, hijack",
-    "plot-geo": "united states, los angeles, mexican border, panama, dominican republic",
-    "plot-date": "late 2000s, 2009",
-    "cast-lead-ethnicities": "diverse ensemble",
-    "cast-lead-genders": "diverse ensemble",
-    "cast-lead-sexualities": "heterosexual",
-    "distribution-tags": "universal pictures, amazon prime",
-    "production-tags": "universal pictures",
-    "production-geo": "united states, los angeles, mexico, panama, dominican republic",
-    "notes": "",
-    "data-version": "20200517"
+
+    "genre-tags": ["action", "adventure", "thriller", "diverse ensemble"],
+
+    "plot-tags": ["cars", "street racing", "revenge", "heist", "hijack"],
+    "plot-geo": ["los angeles", "mexico", "mexican border", "panama", "dominican republic"],
+    "plot-date": ["2000s", "2009"],
+
+    "distribution-tags": ["universal pictures", "amazon prime"],
+    "production-tags": ["universal pictures"],
+    "production-geo": ["united states", "california", "los angeles", "mexico", "panama", "dominican republic"],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+
+    "notes": [""],
+
+    "data-version": "20200524"
 }
