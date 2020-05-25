@@ -2,25 +2,25 @@
     "name": "",
     "name-key": "defense-distributed",
     "name-key-sub": "",
-    "type": "",
+    "type": "software",
     "id": "",
 
     "id-imdb": "",
-    "id-wikipedia": "",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/3D_printed_firearms",
 
-    "genre-tags": [""],
+    "genre-tags": ["CAD", "legal drama", "open source digital publishing"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["USA", "Department of State", "court", "appeal", "export ban", "takedown", "undetectable firearms act", "international traffic in arms regulations", "ITAR", "constitution", "second ammendment", "first ammendment"],
+    "plot-geo": ["USA", "texas", "washington"],
+    "plot-date": ["2010s", "2020s"],
 
     "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "production-tags": ["defense distributed"],
+    "production-geo": ["usa", "texas"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["male"],
+    "cast-lead-1-sexualities": ["evil"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-genders": [""],
