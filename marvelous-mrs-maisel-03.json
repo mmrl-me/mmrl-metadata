@@ -1,19 +1,56 @@
 {
     "name": "The Marvelous Mrs. Maisel",
+    "name-key": "marvelous-mrs-maisel-03",
+    "name-key-sub": "",
     "type": "serial",
     "id": "3",
-    "id-imdb": "https://www.imdb.com/title/tt5788792/?ref_=ttep_ep_tt",
+
+    "id-imdb": ""https://www.imdb.com/title/tt5788792",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel",
-    "genre-tags": "comedy, drama, period drama",
-    "plot-tags": "stand up comedian, jewish family",
-    "plot-geo": "new york city",
-    "plot-date": "1960",
-    "cast-lead-ethnicities": "white",
-    "cast-lead-genders": "diverse ensemble",
-    "cast-lead-sexualities": "diverse ensemble",
-    "distribution-tags": "amazon prime video",
-    "production-tags": "new york city",
-    "production-geo": "dorothy parker drank here productions",
-    "notes": "",
-    "data-version": "20200517"
+
+    "genre-tags": ["comedy", "drama", "period drama"],
+
+    "plot-tags": ["stand up comedy", "working women", "jewish family"],
+    "plot-geo": ["usa", "new york city"],
+    "plot-date": ["1960"],
+
+    "distribution-tags": ["amazon prime video"],
+    "production-tags": ["dorothy parker drank here productions"],
+    "production-geo": ["usa", "new york city"],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+
+    "notes": [""],
+
+    "data-version": "20200524"
 }

@@ -1,19 +1,56 @@
 {
-    "name": "",
-    "type": "",
-    "id": "",
-    "id-imdb": "",
-    "id-wikipedia": "",
-    "genre-tags": "",
-    "plot-tags": "",
-    "plot-geo": "",
-    "plot-date": "",
-    "cast-lead-ethnicities": "",
-    "cast-lead-genders": "",
-    "cast-lead-sexualities": "",
-    "distribution-tags": "",
-    "production-tags": "",
-    "production-geo": "",
-    "notes": "",
-    "data-version": "20200517"
+    "name": "The Umbrella Academy",
+    "name-key": "umbrella-academy-01",
+    "name-key-sub": "",
+    "type": "serial",
+    "id": "1",
+
+    "id-imdb": "https://www.imdb.com/title/tt1312171",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)",
+
+    "genre-tags": ["black comedy", "drama", "scifi", "superhero", "fantasy", "diverse ensemble"],
+
+    "plot-tags": ["alternate history", "superhero", "family", "apocalypse", "time travel"],
+    "plot-geo": ["USA", "urban"],
+    "plot-date": ["2010s"],
+
+    "distribution-tags": ["netflix"],
+    "production-tags": ["borderline entertainment", "dark horse entertainment", "universal cable productions"],
+    "production-geo": ["canada", "ontario", "toronto"],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+
+    "notes": [""],
+
+    "data-version": "20200524"
 }

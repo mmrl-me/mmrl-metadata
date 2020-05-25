@@ -1,19 +1,56 @@
 {
     "name": "House of Cards",
-    "type": "serial",
-    "id": "5",
+    "name-key": "house-of-cards-05",
+    "name-key-sub": "",
+    "type": "5",
+    "id": "serial",
+
     "id-imdb": "https://www.imdb.com/title/tt1856010/?ref_=ttep_ep_tt",
     "id-wikipedia": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)",
-    "genre-tags": "drama, political drama, political thriller",
-    "plot-tags": "political corruption, american politics",
-    "plot-geo": "washington dc",
-    "plot-date": "2017",
-    "cast-lead-ethnicities": "white",
-    "cast-lead-genders": "diverse ensemble",
-    "cast-lead-sexualities": "heterosexual",
-    "distribution-tags": "netflix",
-    "production-tags": "media rights capital",
-    "production-geo": "baltimore",
-    "notes": "",
-    "data-version": "20200517"
+
+    "genre-tags": ["drama", "crime", "political drama", "political thriller"],
+
+    "plot-tags": ["political corruption", "american politics"],
+    "plot-geo": ["usa", "washington dc"],
+    "plot-date": ["2017"],
+
+    "distribution-tags": ["netflix"],
+    "production-tags": ["media rights capital"],
+    "production-geo": ["usa", "baltimore"],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+
+    "notes": [""],
+
+    "data-version": "20200524"
 }
