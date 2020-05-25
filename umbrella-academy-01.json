@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "The Umbrella Academy",
     "name-key": "umbrella-academy-01",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "1",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt1312171",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["black comedy", "drama", "scifi", "superhero", "fantasy", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["alternate history", "superhero", "family", "apocalypse", "time travel"],
+    "plot-geo": ["USA", "urban"],
+    "plot-date": ["2010s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["borderline entertainment", "dark horse entertainment", "universal cable productions"],
+    "production-geo": ["canada", "ontario", "toronto"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
