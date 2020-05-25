@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "Watchmen",
     "name-key": "watchmen-109",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "109",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt7049682",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Watchmen_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["superhero", "action", "drama", "mystery", "dystopia", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["alternate timeline", "race", "conspiracy", "police"],
+    "plot-geo": ["usa", "oklahoma", "tulsa"],
+    "plot-date": ["2019"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["hbo"],
+    "production-tags": ["white rabbit", "paramount television", "dc entertainment", "warner bros television"],
+    "production-geo": ["usa", "georgia"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
