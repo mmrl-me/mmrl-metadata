@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "The Tiger King and I",
     "name-key": "tiger-king-and-i",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "108",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt11823076",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Tiger_King",
 
-    "genre-tags": [""],
+    "genre-tags": ["true crime", "documentary"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["murder plot", "animal rights", "polygamy", "roadside zoo"],
+    "plot-geo": ["usa"],
+    "plot-date": ["2020"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["netflix"],
+    "production-geo": ["usa"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
