@@ -1,30 +1,30 @@
 {
-    "name": "",
+    "name": "Orange Is the New Black",
     "name-key": "orange-is-the-new-black-07",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "7",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt2372162/",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Orange_Is_the_New_Black",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy", "drama", "crime", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["prison", "corruption", "women in prison", "lesbian", "narcotics", "gang"],
+    "plot-geo": ["usa", "upstate new york"],
+    "plot-date": ["2019"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["tilted productions", "lionsgate television"],
+    "production-geo": ["usa", "new york"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["lesbian", "ambiguous"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-sexualities": ["lesbian"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-genders": [""],
