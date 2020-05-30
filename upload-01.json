@@ -1,34 +1,34 @@
 {
-    "name": "",
+    "name": "Upload",
     "name-key": "upload-01",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "1",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt7826376",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Upload_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy", "mystery", "scifi", "satire"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["afterlife", "death", "murder", "future", "virtual reality"],
+    "plot-geo": ["heaven", "usa"],
+    "plot-date": ["2033"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["amazon prime video"],
+    "production-tags": ["deedle-dee productions", "3 arts entertainment", "reunion pacific entertainment", "baral-waley productions", "amazon studios"],
+    "production-geo": ["canada", "vancouver"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["black", "african american"],
+    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-sexualities": ["straight"],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
-    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-genders": ["cis", "female"],
+    "cast-lead-3-sexualities": ["straight"],
 
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-genders": [""],
@@ -36,7 +36,7 @@
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-genders": [""],
-    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-sexualities": ["straight"],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-genders": [""],
