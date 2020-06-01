@@ -5,33 +5,33 @@
     "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt1856101",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Blade_Runner_2049",
 
-    "genre-tags": [""],
+    "genre-tags": ["action", "drama", "mystery", "science fiction"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["replicant", "android", "detective", "cyberpunk", "artificial intelligence", "dystopia", "sequel", "corporation"],
+    "plot-geo": ["los angeles"],
+    "plot-date": ["2049"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["warner bros pictures", "sony pictures releasing"],
+    "production-tags": ["alcon entertainment", "columbia pictures", "bud yorkin productions", "torridon films", "16:14 entertainment", "thunderbird entertainment", "scott free productions"],
+    "production-geo": ["hungary"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white", "android"],
+    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["male", "cis"],
+    "cast-lead-2-sexualities": ["straight"],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-genders": ["female", "cis"],
     "cast-lead-3-sexualities": [""],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-genders": ["male", "cis"],
     "cast-lead-4-sexualities": [""],
 
     "cast-lead-5-ethnicities": [""],
