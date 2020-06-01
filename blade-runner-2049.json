@@ -19,7 +19,7 @@
     "production-geo": ["hungary"],
 
     "cast-lead-1-ethnicities": ["white", "android"],
-    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-genders": ["male"],
     "cast-lead-1-sexualities": ["straight"],
 
     "cast-lead-2-ethnicities": ["white"],
@@ -34,8 +34,8 @@
     "cast-lead-4-genders": ["male", "cis"],
     "cast-lead-4-sexualities": [""],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-genders": [""],
+    "cast-lead-5-ethnicities": ["white", "android"],
+    "cast-lead-5-genders": ["female"],
     "cast-lead-5-sexualities": [""],
 
     "cast-lead-6-ethnicities": [""],
