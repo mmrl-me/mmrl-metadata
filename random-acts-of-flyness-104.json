@@ -1,26 +1,26 @@
 {
-    "name": "",
+    "name": "Random Acts of Flyness",
     "name-key": "random-acts-of-flyness-104",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "104",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt7942806",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Random_Acts_of_Flyness",
 
-    "genre-tags": [""],
+    "genre-tags": ["sketch comedy", "comedy", "variety"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["melodrama", "diverse ensemble", "surrealism", "race", "blackness," "queer", "police violence", "white privilege", "black masculinity"],
+    "plot-geo": ["usa"],
+    "plot-date": ["2018"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["hbo"],
+    "production-tags": ["mvmt", "a24"],
+    "production-geo": ["usa"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["black", "african american"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-genders": [""],
