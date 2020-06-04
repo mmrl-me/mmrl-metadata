@@ -1,30 +1,30 @@
 {
-    "name": "",
+    "name": "True Detective",
     "name-key": "true-detective-301",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "301",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt2356777",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/True_Detective",
 
-    "genre-tags": [""],
+    "genre-tags": ["anthology", "crime drama", "detective", "mystery", "neo-noir", "thriller"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["detective", "police investigation", "murder"],
+    "plot-geo": ["usa", "arkansas"],
+    "plot-date": ["1980", "1990", "2015"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["hbo"],
+    "production-tags": ["anonymous content", "parliament of owls", "passenger", "neon black", "lee caplin picture entertainment", "hbo entertainment"],
+    "production-geo": ["usa", "arkansas"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["black", "african american"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["cis", "male"],
+    "cast-lead-2-sexualities": ["straight"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-genders": [""],
