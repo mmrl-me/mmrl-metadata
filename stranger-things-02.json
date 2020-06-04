@@ -1,18 +1,18 @@
 {
-    "name": "",
+    "name": "Stranger Things",
     "name-key": "stranger-things-02",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "2",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt4574334",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Stranger_Things",
 
-    "genre-tags": [""],
+    "genre-tags": ["scifi", "horror", "period drama", "fantasy", "mystery", "thriller"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["supernatural", "government conspiracy", "telekinesis"],
+    "plot-geo": ["usa", "indiana", "hawkins"],
+    "plot-date": ["1980s"],
 
     "distribution-tags": [""],
     "production-tags": [""],
