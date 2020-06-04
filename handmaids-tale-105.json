@@ -1,14 +1,14 @@
 {
-    "name": "",
+    "name": "The Handmaid's Tale",
     "name-key": "handmaids-tale-105",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "105",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt5834204",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["drama", "speculative fiction", "thriller"],
 
     "plot-tags": [""],
     "plot-geo": [""],
