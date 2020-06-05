@@ -5,7 +5,7 @@ For more details, please read the
 [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/). 
 
 ## How to Report
-Email bdekoz+ccr@gnu.org or adekosnik+ccr@berkeley.edu.
+Email bkoz+ccr@gnu.org or adekosnik+ccr@berkeley.edu.
 
 <!--
 ## Project Specific Etiquette
