@@ -1,0 +1,56 @@
+{
+    "name": "Queer Eye",
+    "name-key": "queer-eye-2018-05",
+    "name-key-sub": "",
+    "type": "serial",
+    "id": "5",
+
+    "id-imdb": "https://www.imdb.com/title/tt7259746/",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Queer_Eye_(2018_TV_series)",
+
+    "genre-tags": ["reality tv", "reboot", "diverse ensemble"],
+
+    "plot-tags": ["gay", "lgbt", "fashion", "lifestyle", "self improvement"],
+    "plot-geo": ["usa", "atlanta"],
+    "plot-date": ["2020"],
+
+    "distribution-tags": ["netflix"],
+    "production-tags": ["scout productions", "itv entertainment"],
+    "production-geo": ["usa", "atlanta"],
+
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["gay"],
+
+    "cast-lead-2-ethnicities": ["south asian"],
+    "cast-lead-2-genders": ["cis", "male"],
+    "cast-lead-2-sexualities": ["gay"],
+
+    "cast-lead-3-ethnicities": ["african american", "black"],
+    "cast-lead-3-genders": ["cis", "male"],
+    "cast-lead-3-sexualities": ["gay"],
+
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-sexualities": ["gay"],
+
+    "cast-lead-5-ethnicities": ["white"],
+    "cast-lead-5-genders": ["cis", "male"],
+    "cast-lead-5-sexualities": ["gay"],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+
+    "notes": [""],
+
+    "data-version": "20200524"
+}
