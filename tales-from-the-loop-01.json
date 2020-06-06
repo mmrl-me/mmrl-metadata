@@ -8,7 +8,7 @@
     "id-imdb": "https://www.imdb.com/title/tt8741290",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Tales_from_the_Loop",
 
-    "genre-tags": ["drama", "scifi",],
+    "genre-tags": ["drama", "scifi"],
 
     "plot-tags": ["science", "altered reality", "machine", "ensemble"],
     "plot-geo": ["usa", "ohio", "mercer"],
