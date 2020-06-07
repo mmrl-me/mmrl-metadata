@@ -1,30 +1,30 @@
 {
-    "name": "",
+    "name": "Ozark",
     "name-key": "ozark-02",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "2",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt5071412",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Ozark_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["crime", "drama", "thriller"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["drug cartel", "money laundering", "family", "affair", "mafia"],
+    "plot-geo": ["usa", "missouri", "osage beach", "lake of the ozarks"],
+    "plot-date": ["2017"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["zero gravity management", "media rights capital", "aggregate films", "headhunter films", "man, woman & child prouctions"],
+    "production-geo": ["usa", "missouri", "lake ozark", "georgia", "lake allatoona", "lake lanier"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["female", "cis"],
+    "cast-lead-2-sexualities": ["straight"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-genders": [""],
