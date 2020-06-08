@@ -5,18 +5,18 @@
     "type": "serial",
     "id": "1",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt9612516",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Space_Force_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["space", "united states armed forces", "moon", "china", "politics"],
+    "plot-geo": ["usa", "colorado", "wild horse", "washington dc"],
+    "plot-date": ["2020s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["deedle-dee productions", "film flam", "3 arts entertainment"],
+    "production-geo": ["usa", "california", "los angeles"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
