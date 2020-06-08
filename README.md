@@ -1,6 +1,6 @@
 # alpha60-metadata
 
-Experimental schema for media objects. 
+Experimental schema for media objects. Organized per media object, where media object is defined as a particular media instance such as a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, future leaks of presidential tax reports, etc.
 
 Goal is to provide a serialized form of media object useful for creating in-memory objects at runtime, and support sorting by streaming platform, genre, and cast diversity. Schema in development, to represent Bechdel, Villalobos, Gagen, DuVernay tests. Tagging to quantify “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
 
