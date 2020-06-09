@@ -1,18 +1,18 @@
 {
-    "name": "",
+    "name": "Human Flow",
     "name-key": "human-flow",
     "name-key-sub": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt6573444",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Human_Flow",
 
-    "genre-tags": [""],
+    "genre-tags": ["documentary"],
 
-    "plot-tags": [""],
+    "plot-tags": ["refugee camp", "artist", "displacement", "forced migration", "human rights", "unhcr"],
     "plot-geo": [""],
-    "plot-date": [""],
+    "plot-date": ["2010s"],
 
     "distribution-tags": [""],
     "production-tags": [""],
