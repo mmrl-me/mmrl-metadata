@@ -1,12 +1,12 @@
 {
-    "name": "",
+    "name": "I Love Dick",
     "name-key": "i-love-dick",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "1",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt5478730",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/I_Love_Dick_(TV_series)",
 
     "genre-tags": [""],
 
