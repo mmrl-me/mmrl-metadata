@@ -1,25 +1,25 @@
 {
-    "name": "",
+    "name": "Westworld",
     "name-key": "westworld-210",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "210",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt0475784",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["scifi", "drama", "western", "mystery"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["artificial intelligence", "robot", "android", "theme park", "remake", "murder", "old west", "diverse ensemble"],
+    "plot-geo": ["delos parks", "westworld park"],
+    "plot-date": ["2050s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["hbo", "warner bros television distribution"],
+    "production-tags": ["hbo entertainment", "kilter films", "bad robot productions", "warner bros television"],
+    "production-geo": ["usa", "california", "los angeles"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": [""],
 
     "cast-lead-2-ethnicities": [""],
