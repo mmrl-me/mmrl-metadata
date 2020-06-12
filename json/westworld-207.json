@@ -1,18 +1,18 @@
 {
-    "name": "",
+    "name": "Westworld",
     "name-key": "westworld-207",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "207",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt0475784",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["scifi", "drama", "western", "mystery"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["artificial intelligence", "robot", "android", "theme park", "remake", "murder", "old west", "diverse ensemble"],
+    "plot-geo": ["delos parks", "westworld park"],
+    "plot-date": ["2050s"],
 
     "distribution-tags": [""],
     "production-tags": [""],
