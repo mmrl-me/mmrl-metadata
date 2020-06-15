@@ -23,7 +23,7 @@
     "cast-lead-1-sexualities": ["straight"],
 
     "cast-lead-2-ethnicities": ["white"],
-    "cast-lead-2-genders": ["trans", "female"],
+    "cast-lead-2-genders": ["trans", "cis", "female", "cis female playing trans female"],
     "cast-lead-2-sexualities": [""],
 
     "cast-lead-3-ethnicities": ["white"],
