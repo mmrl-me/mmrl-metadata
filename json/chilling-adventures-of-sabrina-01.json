@@ -40,11 +40,11 @@
 
     "cast-lead-6-ethnicities": ["black"],
     "cast-lead-6-genders": ["cis", "female"],
-    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-sexualities": ["straight"],
 
     "cast-lead-7-ethnicities": ["white"],
-    "cast-lead-7-genders": ["ambiguous"],
-    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-genders": ["trans", "male"],
+    "cast-lead-7-sexualities": ["queer"],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-genders": [""],
