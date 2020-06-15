@@ -20,7 +20,7 @@
 
     "cast-lead-1-ethnicities": ["black", "african american"],
     "cast-lead-1-genders": ["cis", "male"],
-    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-sexualities": ["pansexual"],
 
     "cast-lead-2-ethnicities": ["black", "african american"],
     "cast-lead-2-genders": ["cis", "female"],
@@ -28,11 +28,11 @@
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-genders": ["cis", "female"],
-    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-sexualities": ["pansexual"],
 
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-genders": ["cis", "female"],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-sexualities": ["pansexual"],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-genders": ["cis", "male"],
@@ -40,15 +40,15 @@
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-genders": ["cis", "male"],
-    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-sexualities": ["pansexual"],
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-genders": ["cis", "male"],
-    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-sexualities": ["pansexual"],
 
     "cast-lead-8-ethnicities": ["latinx"],
     "cast-lead-8-genders": ["cis", "male"],
-    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-sexualities": ["pansexual"],
 
     "notes": ["bernard, charlotte, dolores, maeve, sizemore, teddy, peter, hector"],
 
