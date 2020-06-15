@@ -18,15 +18,15 @@
     "production-tags": ["frequency films", "friendly films", "skeeter rosenbaum productions", "fox21 television studios", "universal cable productions"],
     "production-geo": ["usa", "texas", "dallas", "malta"],
 
-    "cast-lead-1-ethnicities": ["latina"],
+    "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": ["latina"],
+    "cast-lead-2-ethnicities": ["latinx"],
     "cast-lead-2-genders": ["cis", "female"],
     "cast-lead-2-sexualities": ["straight"],
 
-    "cast-lead-3-ethnicities": ["latino"],
+    "cast-lead-3-ethnicities": ["latinx"],
     "cast-lead-3-genders": ["cis", "male"],
     "cast-lead-3-sexualities": ["straight"],
 
@@ -34,7 +34,7 @@
     "cast-lead-4-genders": ["cis", "female"],
     "cast-lead-4-sexualities": ["straight"],
 
-    "cast-lead-5-ethnicities": ["latino"],
+    "cast-lead-5-ethnicities": ["latinx"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
 
