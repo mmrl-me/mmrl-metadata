@@ -34,7 +34,7 @@
     "cast-lead-4-genders": ["cis", "female"],
     "cast-lead-4-sexualities": ["lesbian"],
 
-    "cast-lead-5-ethnicities": ["asian"],
+    "cast-lead-5-ethnicities": ["asian", "ambiguous", "asian playing ambiguous"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
 
