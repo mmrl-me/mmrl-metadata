@@ -18,39 +18,39 @@
     "production-tags": ["scott free productions", "king size productions", "cbs television studios"],
     "production-geo": ["usa", "new york city"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-sexualities": ["lesbian"],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
-    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ethnicities": ["black british", "african american", "black british playing african american"],
+    "cast-lead-3-genders": ["cis", "female"],
+    "cast-lead-3-sexualities": ["straight"],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ethnicities": ["black british", "african american", "black british playing african american"],
+    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-sexualities": ["straight"],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-genders": [""],
-    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-ethnicities": ["white"],
+    "cast-lead-5-genders": ["cis", "male"],
+    "cast-lead-5-sexualities": ["straight"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ethnicities": ["white"],
+    "cast-lead-6-genders": ["cis", "male"],
+    "cast-lead-6-sexualities": ["straight"],
 
-    "cast-lead-7-ethnicities": [""],
-    "cast-lead-7-genders": [""],
-    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ethnicities": ["white"],
+    "cast-lead-7-genders": ["cis", "male"],
+    "cast-lead-7-sexualities": ["straight"],
 
-    "cast-lead-8-ethnicities": [""],
-    "cast-lead-8-genders": [""],
-    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ethnicities": ["black", "african american"],
+    "cast-lead-8-genders": ["cis", "male"],
+    "cast-lead-8-sexualities": ["straight"],
 
-    "notes": [""],
+    "notes": ["diane, maia, lucca, adrian, kurt, henry, colin, barbara"],
 
     "data-version": "20200524"
 }
