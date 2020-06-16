@@ -30,7 +30,7 @@
     "cast-lead-3-genders": ["male", "cis"],
     "cast-lead-3-sexualities": ["straight"],
 
-    "cast-lead-4-ethnicities": ["alien"],
+    "cast-lead-4-ethnicities": ["alien", "african american", "african american playing alien"],
     "cast-lead-4-genders": ["male", "cis"],
     "cast-lead-4-sexualities": ["gay"],
 
@@ -38,7 +38,7 @@
     "cast-lead-5-genders": ["male", "cis"],
     "cast-lead-5-sexualities": [""],
 
-    "cast-lead-6-ethnicities": ["alien", "nonbiological"],
+    "cast-lead-6-ethnicities": ["alien", "nonbiological", "white", "white playing alien"],
     "cast-lead-6-genders": ["male"],
     "cast-lead-6-sexualities": ["straight"],
     
