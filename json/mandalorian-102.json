@@ -1,29 +1,29 @@
 {
-    "name": "",
+    "name": "The Mandalorian",
     "name-key": "mandalorian-102",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "102",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt8111088",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Mandalorian",
 
-    "genre-tags": [""],
+    "genre-tags": ["action", "adventure", "scifi", "space western"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
+    "plot-tags": ["baby yoda", "star wars", "bounty hunter", "father figure", "spin off", "antihero"],
+    "plot-geo": ["space"],
     "plot-date": [""],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["disney+", "walt disney television"],
+    "production-tags": ["lucasfilm", "fairview entertainment", "golem creations", "walt disney studios"],
+    "production-geo": ["usa", "california", "manhattan beach studios"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
+    "cast-lead-1-ethnicities": ["mandalorian", "alien", "latinx", "latinx playing alien"],
+    "cast-lead-1-genders": ["male"],
     "cast-lead-1-sexualities": [""],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
+    "cast-lead-2-ethnicities": ["yoda", "alien"],
+    "cast-lead-2-genders": ["male"],
     "cast-lead-2-sexualities": [""],
 
     "cast-lead-3-ethnicities": [""],
