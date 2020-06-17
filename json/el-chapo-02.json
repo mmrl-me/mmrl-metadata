@@ -1,29 +1,29 @@
 {
-    "name": "",
+    "name": "El Chapo",
     "name-key": "el-chapo-02",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "2",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt6692188",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/El_Chapo_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["crime", "drama", "thriller", "biopic"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["drug cartel", "biography", "war on drugs", "government corruption", "prison escape"],
+    "plot-geo": ["mexico", "guadalajara", "sinaloa", "culiacan"],
+    "plot-date": ["1980s", "1990s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix", "univision"],
+    "production-tags": ["story house entertainment", "univision studios"],
+    "production-geo": ["colombia", "tabio"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["latinx"],
+    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
+    "cast-lead-2-ethnicities": ["latinx"],
+    "cast-lead-2-genders": ["male", "cis"],
     "cast-lead-2-sexualities": [""],
 
     "cast-lead-3-ethnicities": [""],
