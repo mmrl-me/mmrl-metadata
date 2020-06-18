@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt9777644",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Da_5_Bloods",
 
-    "genre-tags": ["adventure", "drama"],
+    "genre-tags": ["adventure", "drama", "diverse ensemble"],
 
-    "plot-tags": ["vietnam war", "veterans", "us army", "treasure hunt", "diverse ensemble"],
+    "plot-tags": ["vietnam war", "veterans", "us army", "treasure hunt"],
     "plot-geo": ["vietnam", "ho chi minh city],
     "plot-date": ["2010s"],
 
