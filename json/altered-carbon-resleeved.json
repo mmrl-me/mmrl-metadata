@@ -1,56 +1,56 @@
 {
-    "name": "",
+    "name": "Altered Carbon: Resleeved",
     "name-key": "altered-carbon-resleeved",
     "name-key-sub": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
+    "id-imdb": "https://www.imdb.com/title/tt9310328",
     "id-wikipedia": "",
 
-    "genre-tags": [""],
+    "genre-tags": ["anime", "action", "crime", "drama", "thriller", "scifi", "mystery"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["cyberpunk", "yakuza", "manga", "tattoo artist", "artificial intelligence"],
+    "plot-geo": ["latimer"],
+    "plot-date": ["2131"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["studio anima", "keywords studios los angeles"],
+    "production-geo": ["japan", "usa", "california", "los angeles"],
 
     "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
+    "cast-lead-1-genders": ["male"],
     "cast-lead-1-sexualities": [""],
 
     "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
+    "cast-lead-2-genders": ["female"],
     "cast-lead-2-sexualities": [""],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-genders": ["female"],
     "cast-lead-3-sexualities": [""],
 
     "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
+    "cast-lead-4-genders": ["male"],
     "cast-lead-4-sexualities": [""],
 
     "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-genders": [""],
+    "cast-lead-5-genders": ["male"],
     "cast-lead-5-sexualities": [""],
 
     "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-genders": [""],
+    "cast-lead-6-genders": ["male"],
     "cast-lead-6-sexualities": [""],
 
     "cast-lead-7-ethnicities": [""],
-    "cast-lead-7-genders": [""],
+    "cast-lead-7-genders": ["male"],
     "cast-lead-7-sexualities": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
 
-    "notes": [""],
+    "notes": ["takeshi, reileen, holly, tanaseda, shinji, genzo, ogai"],
 
     "data-version": "20200524"
 }
