@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt5853176",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Good_Fight",
 
-    "genre-tags": ["legal drama", "political drama", "crime", "drama", "spin off"],
+    "genre-tags": ["legal drama", "political drama", "crime", "drama", "spin off", "diverse ensemble"],
 
-    "plot-tags": ["diverse ensemble", "law firm", "office politics", "female lawyer", "ponzi scheme"],
+    "plot-tags": ["law firm", "office politics", "female lawyer", "ponzi scheme"],
     "plot-geo": ["usa", "illinois", "chicago"],
     "plot-date": ["2010s"],
 
