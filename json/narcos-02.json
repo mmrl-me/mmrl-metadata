@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt2707408",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Narcos",
 
-    "genre-tags": ["crime", "drama", "thriller", "biography"],
+    "genre-tags": ["crime", "drama", "thriller", "biography", "diverse ensemble"],
 
-    "plot-tags": ["cartel", "kingpin", "narcotics", "cocaine", "dea", "pablo escobar", "diverse ensemble"],
+    "plot-tags": ["cartel", "kingpin", "narcotics", "cocaine", "dea", "pablo escobar"],
     "plot-geo": ["colombia"],
     "plot-date": ["1980s", "1990s"],
 
