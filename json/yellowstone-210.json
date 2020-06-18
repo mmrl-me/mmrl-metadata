@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt4236770",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)",
 
-    "genre-tags": ["drama", "western", "neo-western"],
+    "genre-tags": ["drama", "western", "neo-western", "diverse ensemble"],
 
-    "plot-tags": ["cattle ranch", "frontier", "politics", "native americans", "shootout", "diverse ensemble"],
+    "plot-tags": ["cattle ranch", "frontier", "politics", "native americans", "shootout"],
     "plot-geo": ["usa", "montana"],
     "plot-date": ["2010s"],
 
