@@ -15,27 +15,27 @@
     "plot-date": ["unspecified future"],
 
     "distribution-tags": ["netflix"],
-    "production-tags": [""],
-    "production-geo": ["brasil", "sao paulo"],
+    "production-tags": ["boutique filmes"],
+    "production-geo": ["brazil", "sao paulo"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
+    "cast-lead-1-ethnicities": ["brazilian"],
+    "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": [""],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
+    "cast-lead-2-ethnicities": ["brazilian"],
+    "cast-lead-2-genders": ["cis", "female"],
     "cast-lead-2-sexualities": [""],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
+    "cast-lead-3-ethnicities": ["brazilian"],
+    "cast-lead-3-genders": ["cis", "male"],
     "cast-lead-3-sexualities": [""],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
+    "cast-lead-4-ethnicities": ["brazilian"],
+    "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": [""],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-genders": [""],
+    "cast-lead-5-ethnicities": ["black", "afro-brazilian"],
+    "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": [""],
 
     "cast-lead-6-ethnicities": [""],
