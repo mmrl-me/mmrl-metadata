@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt0475784",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
 
-    "genre-tags": ["scifi", "drama", "western", "mystery"],
+    "genre-tags": ["scifi", "drama", "western", "mystery", "diverse ensemble"],
 
-    "plot-tags": ["artificial intelligence", "robot", "android", "theme park", "remake", "murder", "old west", "diverse ensemble"],
+    "plot-tags": ["artificial intelligence", "robot", "android", "theme park", "remake", "murder", "old west"],
     "plot-geo": ["delos parks"],
     "plot-date": ["2050s"],
 
