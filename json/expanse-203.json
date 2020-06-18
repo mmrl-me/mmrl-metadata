@@ -1,22 +1,22 @@
 {
-    "name": "",
+    "name": "The Expanse",
     "name-key": "expanse-203",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "203",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt3230854",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Expanse_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["scifi", "drama", "mystery", "thriller", "diverse ensemble"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["united nations security council", "space colonization", "conspiracy"],
+    "plot-geo": ["earth", "mars", "tycho station", "eros", "ganymede"],
+    "plot-date": ["24th century"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["amazon prime video", "syfy", "legendary television distribution"],
+    "production-tags": ["penguin in a parka", "seandanielco", "alcon entertainment", "just so", "hivemind" "amazon studios"],
+    "production-geo": ["canada", "toronto"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
@@ -50,7 +50,7 @@
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
 
-    "notes": [""],
+    "notes": ["joe miller, james holden, alex kamal, naomi nagata, amos burton, julie mao, bobbie draper, chrisjen avasarala"],
 
     "data-version": "20200524"
 }
