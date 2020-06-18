@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt7908628",
     "id-wikipedia": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)",
 
-    "genre-tags": ["mockumentary", "comedy", "horror", "fantasy"],
+    "genre-tags": ["mockumentary", "comedy", "horror", "fantasy", "diverse ensemble"],
 
-    "plot-tags": ["vampire", "spinoff", "satire", "vampire hunter", "diverse ensemble"],
+    "plot-tags": ["vampire", "spinoff", "satire", "vampire hunter"],
     "plot-geo": ["usa", "new york city", "staten island"],
     "plot-date": ["2010s"],
 
