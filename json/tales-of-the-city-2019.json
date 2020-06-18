@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt7087260",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Tales_of_the_City_(2019_miniseries)",
 
-    "genre-tags": ["drama", "miniseries", "diverse ensemble", "reboot"],
+    "genre-tags": ["drama", "miniseries", "diverse ensemble", "reboot", "diverse ensemble"],
 
-    "plot-tags": ["lgbtq", "homecoming", "queer history", "vito russo test", "hiv", "trans", "diverse ensemble"],
+    "plot-tags": ["lgbtq", "homecoming", "queer history", "vito russo test", "hiv", "trans"],
     "plot-geo": ["usa", "california", "san francisco"],
     "plot-date": ["2019"],
 
