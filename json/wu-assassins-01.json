@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt8652642",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Wu_Assassins",
 
-    "genre-tags": ["action", "crime", "drama", "fantasy"],
+    "genre-tags": ["action", "crime", "drama", "fantasy", "diverse ensemble"],
 
-    "plot-tags": ["martial arts", "supernatural", "action hero", "russian mob", "same sex kiss", "diverse ensemble"],
+    "plot-tags": ["martial arts", "supernatural", "action hero", "russian mob", "same sex kiss"],
     "plot-geo": ["usa", "california", "san francisco"],
     "plot-date": ["2019"],
 
