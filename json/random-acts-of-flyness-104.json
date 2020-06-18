@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt7942806",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Random_Acts_of_Flyness",
 
-    "genre-tags": ["sketch comedy", "comedy", "variety"],
+    "genre-tags": ["sketch comedy", "comedy", "variety", "diverse ensemble"],
 
-    "plot-tags": ["melodrama", "diverse ensemble", "surrealism", "race", "blackness", "queer", "police violence", "white privilege", "black masculinity"],
+    "plot-tags": ["melodrama", "surrealism", "race", "blackness", "queer", "police violence", "white privilege", "black masculinity"],
     "plot-geo": ["usa"],
     "plot-date": ["2018"],
 
