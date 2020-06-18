@@ -11,7 +11,7 @@
     "genre-tags": ["action", "drama", "scifi", "thriller"],
 
     "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "doppelganger", "diverse ensemble"],
-    "plot-geo": ["bay city"],
+    "plot-geo": ["bay city", "urban"],
     "plot-date": ["2384"],
 
     "distribution-tags": ["netflix"],
