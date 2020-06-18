@@ -8,9 +8,9 @@
     "id-imdb": "https://www.imdb.com/title/tt8101850",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Undone_(TV_series)",
 
-    "genre-tags": ["animation", "adult animation", "cgi", "drama", "fantasy", "mystery", "psychological thriller"],
+    "genre-tags": ["animation", "adult animation", "cgi", "drama", "fantasy", "mystery", "psychological thriller", "diverse ensemble"],
 
-    "plot-tags": ["father daughter relationship", "time travel", "near death experience", "murder", "diverse ensemble"],
+    "plot-tags": ["father daughter relationship", "time travel", "near death experience", "murder"],
     "plot-geo": ["usa", "texas", "san antonio", "mexico"],
     "plot-date": ["2010s"],
 
