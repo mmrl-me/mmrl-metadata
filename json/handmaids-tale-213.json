@@ -8,7 +8,7 @@
     "id-imdb": "https://www.imdb.com/title/tt5834204",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)",
 
-    "genre-tags": ["drama", "speculative fiction", "thriller", "diverse ensemble"],
+    "genre-tags": ["drama", "speculative fiction", "thriller"],
 
     "plot-tags": ["dystopia", "fundamentalism", "slavery", "totalitarianism", "reproductive rights", "violence against women", "second american civil war"],
     "plot-geo": ["usa", "gilead", "boston"],
