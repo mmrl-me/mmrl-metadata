@@ -18,7 +18,7 @@
     "production-tags": ["lucasfilm", "fairview entertainment", "golem creations", "walt disney studios"],
     "production-geo": ["usa", "california", "manhattan beach studios"],
 
-    "cast-lead-1-ethnicities": ["mandalorian", "alien", "latinx", "latinx playing alien"],
+    "cast-lead-1-ethnicities": ["mandalorian", "alien", "latinx", "latinx playing alien", "latinx playing unknown"],
     "cast-lead-1-genders": ["male"],
     "cast-lead-1-sexualities": [""],
 
