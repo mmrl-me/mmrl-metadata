@@ -22,7 +22,7 @@
     "cast-lead-1-genders": ["male", "cis"],
     "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": ["multiracial"],
+    "cast-lead-2-ethnicities": ["multiracial", "unknown"],
     "cast-lead-2-genders": ["male", "cis"],
     "cast-lead-2-sexualities": [""],
 
