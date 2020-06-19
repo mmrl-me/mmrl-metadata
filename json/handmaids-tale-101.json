@@ -30,11 +30,11 @@
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["straight"],
 
-    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-ethnicities": ["latina", "unknown", "latina playing unknown"],
     "cast-lead-4-genders": ["cis", "female"],
     "cast-lead-4-sexualities": ["lesbian"],
 
-    "cast-lead-5-ethnicities": ["asian", "ambiguous", "asian playing ambiguous"],
+    "cast-lead-5-ethnicities": ["asian", "unknown", "asian playing unknown"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
 
