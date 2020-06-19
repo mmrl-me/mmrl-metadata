@@ -20,13 +20,13 @@
 
     "cast-lead-1-ethnicities": ["japanese"],
     "cast-lead-1-genders": ["male", "cis"],
-    "cast-lead-1-sexualities": ["gay subtext"],
+    "cast-lead-1-sexualities": ["ambiguous", "gay", "bisexual"],
 
-    "cast-lead-2-ethnicities": ["russian"],
+    "cast-lead-2-ethnicities": ["russian", "japanese playing russian"],
     "cast-lead-2-genders": ["male", "cis"],
-    "cast-lead-2-sexualities": ["gay subtext"],
+    "cast-lead-2-sexualities": ["ambiguous", "gay"],
 
-    "cast-lead-3-ethnicities": ["russian"],
+    "cast-lead-3-ethnicities": ["russian", "japanese playing russian"],
     "cast-lead-3-genders": ["male", "cis"],
     "cast-lead-3-sexualities": [""],
 
