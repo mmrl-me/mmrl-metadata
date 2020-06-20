@@ -5,12 +5,12 @@
     "type": "",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/name/nm1317917",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Stormy_Daniels",
 
-    "genre-tags": ["porn", "sex work"],
+    "genre-tags": ["porn", "sex work", "documentary", "news"],
 
-    "plot-tags": [""],
+    "plot-tags": ["scandal", "us politics"],
     "plot-geo": [""],
     "plot-date": [""],
 
@@ -18,9 +18,9 @@
     "production-tags": [""],
     "production-geo": [""],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["bisexual"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-genders": [""],
