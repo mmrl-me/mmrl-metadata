@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+x="0px" y="0px"
+width="1920px" height="1080px"
+viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080">
+
+<title>walking-dead-713</title>
+<defs>
+    <filter id="gblur10" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+      <feOffset dx="0" dy="0" />
+     </filter>
+    <filter id="gblur20" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur10y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 10" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur20y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+  </defs>
+
+<rect x="0" y="0" width="1920" height="1080"
+ style="fill:rgb(0,100,66); fill-opacity:0.4; stroke:rgb(0,100,66); stroke-opacity:0; stroke-width:1" />
+<text x="25" y="97" text-anchor="start"  font-family="Apercu" font-size="72" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">walking-dead-713</text>
+<text x="25" y="165" text-anchor="start"  font-family="Apercu" font-size="16" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">genre-tags</text>
+<text x="25" y="195" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">drama, horror, thriller, zombie apocalypse, diverse ensemble</text>
+<text x="25" y="250" text-anchor="start"  font-family="Apercu" font-size="16" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">plot-tags</text>
+<text x="25" y="280" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">survival, zombie, virus, based on comic, gore, character death, community</text>
+<text x="25" y="335" text-anchor="start"  font-family="Apercu" font-size="16" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">distribution-tags</text>
+<text x="25" y="365" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">amc, netflix</text>
+<text x="25" y="918" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">https://www.imdb.com/title/tt1520211</text>
+<text x="25" y="946" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)</text>
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-logo-outline-inverse.svg" x="-50" y="955" width="96" height="100"
+ />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-logo-outline-inverse.svg" x="1820" y="955" width="96" height="100"
+ />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-identity-2.svg" x="25" y="994" width="162" height="61"
+ />
+<circle cx="460" cy="540" r="54" style="fill:rgb(230,230,230); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="460" y="870" text-anchor="middle"  font-family="Apercu" font-size="30" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">ethnicities</text>
+<text x="460" y="900" text-anchor="middle"  font-family="Apercu" font-size="18" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">4</text>
+<circle cx="520" cy="545" r="15" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="544" y="547" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(5,544,547)">1  -> </text>
+<text x="574" y="550" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(5,574,550)">african american</text>
+<circle cx="400" cy="545" r="45" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="345" y="550" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(175,345,550)">3  -> </text>
+<text x="315" y="552" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(175,315,552)">white</text>
+<circle cx="960" cy="540" r="54" style="fill:rgb(230,230,230); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="960" y="870" text-anchor="middle"  font-family="Apercu" font-size="30" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">genders</text>
+<text x="960" y="900" text-anchor="middle"  font-family="Apercu" font-size="18" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">4</text>
+<circle cx="960" cy="600" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="960" y="670" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(90,960,670)">2  -> </text>
+<text x="951" y="699" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(95,951,699)">male</text>
+<text x="968" y="699" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(85,968,699)">female</text>
+<circle cx="950" cy="481" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="937" y="411" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,937,411)">4  -> </text>
+<text x="932" y="382" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,932,382)">cis</text>
+<circle cx="1460" cy="540" r="54" style="fill:rgb(230,230,230); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1460" y="870" text-anchor="middle"  font-family="Apercu" font-size="30" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">sexualities</text>
+<text x="1460" y="900" text-anchor="middle"  font-family="Apercu" font-size="18" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">3</text>
+<circle cx="1450" cy="481" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1437" y="411" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,1437,411)">3  -> </text>
+<text x="1432" y="382" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,1432,382)">straight</text>
+</svg>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+x="0px" y="0px"
+width="1920px" height="1080px"
+viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080">
+
+<title>american-crime-story-205</title>
+<defs>
+    <filter id="gblur10" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+      <feOffset dx="0" dy="0" />
+     </filter>
+    <filter id="gblur20" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur10y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 10" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur20y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+  </defs>
+
+<rect x="0" y="0" width="1920" height="1080"
+ style="fill:rgb(176,224,230); fill-opacity:0.4; stroke:rgb(176,224,230); stroke-opacity:0; stroke-width:1" />
+<text x="25" y="97" text-anchor="start"  font-family="Apercu" font-size="72" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">american-crime-story-205</text>
+<text x="25" y="165" text-anchor="start"  font-family="Apercu" font-size="16" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">genre-tags</text>
+<text x="25" y="195" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">true crime, anthology, drama, biopic</text>
+<text x="25" y="250" text-anchor="start"  font-family="Apercu" font-size="16" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">plot-tags</text>
+<text x="25" y="280" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">serial killer, gay escort, fashion designer, nonlinear timeline</text>
+<text x="25" y="335" text-anchor="start"  font-family="Apercu" font-size="16" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">distribution-tags</text>
+<text x="25" y="365" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">fx, 20th television</text>
+<text x="25" y="918" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">https://www.imdb.com/title/tt2788432/</text>
+<text x="25" y="946" text-anchor="start"  font-family="Apercu" font-size="14" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">https://en.wikipedia.org/wiki/American_Crime_Story</text>
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-logo-outline-inverse.svg" x="-50" y="955" width="96" height="100"
+ />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-logo-outline-inverse.svg" x="1820" y="955" width="96" height="100"
+ />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-identity-2.svg" x="25" y="994" width="162" height="61"
+ />
+<circle cx="460" cy="540" r="54" style="fill:rgb(230,230,230); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="460" y="870" text-anchor="middle"  font-family="Apercu" font-size="30" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">ethnicities</text>
+<text x="460" y="900" text-anchor="middle"  font-family="Apercu" font-size="18" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">4</text>
+<circle cx="460" cy="600" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="460" y="670" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(90,460,670)">2  -> </text>
+<text x="451" y="699" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(95,451,699)">latinx</text>
+<text x="468" y="699" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(85,468,699)">latinx playing white</text>
+<circle cx="450" cy="481" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="437" y="411" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,437,411)">4  -> </text>
+<text x="432" y="382" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,432,382)">white</text>
+<circle cx="960" cy="540" r="54" style="fill:rgb(230,230,230); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="960" y="870" text-anchor="middle"  font-family="Apercu" font-size="30" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">genders</text>
+<text x="960" y="900" text-anchor="middle"  font-family="Apercu" font-size="18" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">4</text>
+<circle cx="1020" cy="545" r="15" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1044" y="547" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(5,1044,547)">1  -> </text>
+<text x="1074" y="550" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(5,1074,550)">female</text>
+<circle cx="900" cy="545" r="45" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="845" y="550" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(175,845,550)">3  -> </text>
+<text x="815" y="552" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(175,815,552)">male</text>
+<circle cx="950" cy="481" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="937" y="411" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,937,411)">4  -> </text>
+<text x="932" y="382" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,932,382)">cis</text>
+<circle cx="1460" cy="540" r="54" style="fill:rgb(230,230,230); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1460" y="870" text-anchor="middle"  font-family="Apercu" font-size="30" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">sexualities</text>
+<text x="1460" y="900" text-anchor="middle"  font-family="Apercu" font-size="18" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">3</text>
+<circle cx="1450" cy="481" r="60" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1437" y="411" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,1437,411)">3  -> </text>
+<text x="1432" y="382" text-anchor="start"  font-family="Apercu" font-size="12" text-align="start" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(260,1432,382)">gay</text>
+</svg>
+
