@@ -5,33 +5,33 @@
     "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt4995790",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Square_(2017_film)",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy", "drama"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["modern art", "museum", "social satire", "curator", "journalism", "media"],
+    "plot-geo": ["sweden", "stockholm"],
+    "plot-date": ["2010s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["triart film", "alamode filmverleih", "bac films", "scanbox entertainment"],
+    "production-tags": ["plattform produktion", "film i vast", "essential filmproduktion gmbh", "parisienne", "coproduction office", "sveriges television", "imperative entertainment", "arte france cinema", "zdf arte"],
+    "production-geo": ["sweden", "stockholm", "gothenburg", "germany", "berlin"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-sexualities": ["straight"],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-genders": ["cis", "male"],
     "cast-lead-3-sexualities": [""],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
+    "cast-lead-4-ethnicities": ["unknown"],
+    "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": [""],
 
     "cast-lead-5-ethnicities": [""],
