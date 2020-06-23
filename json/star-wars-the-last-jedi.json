@@ -5,13 +5,13 @@
     "type": "film",
     "id": "8",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt2527336",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Star_Wars%3A_The_Last_Jedi",
 
-    "genre-tags": [""],
+    "genre-tags": ["space opera", "action", "adventure", "fantasy", "scifi"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
+    "plot-tags": ["sequet", "resistance", "jedi", "mutiny"],
+    "plot-geo": ["canto bight", "ahch-to", "space"],
     "plot-date": [""],
 
     "distribution-tags": [""],
