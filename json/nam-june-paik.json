@@ -1,16 +1,16 @@
 {
-    "name": "",
+    "name": "Nam June Paik",
     "name-key": "paik,nam-june",
     "name-key-sub": "",
     "type": "",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/name/nm0656760",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Nam_June_Paik",
 
-    "genre-tags": [""],
+    "genre-tags": ["video art", "neo-dada"],
 
-    "plot-tags": [""],
+    "plot-tags": ["electronic superhighway"],
     "plot-geo": [""],
     "plot-date": [""],
 
@@ -18,9 +18,9 @@
     "production-tags": [""],
     "production-geo": [""],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["korean"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-genders": [""],
