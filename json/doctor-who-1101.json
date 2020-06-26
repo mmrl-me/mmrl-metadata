@@ -8,7 +8,7 @@
     "id-imdb": "https://www.imdb.com/title/tt0436992",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Doctor_Who",
 
-    "genre-tags": ["scifi", "drama", "adventure", "mystery"],
+    "genre-tags": ["scifi", "drama", "adventure", "mystery", "diverse ensemble"],
 
     "plot-tags": ["time travel", "space travel", "alien", "time lord", "tardis"],
     "plot-geo": ["deep space", "united kingdom", "sheffield"],
