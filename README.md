@@ -68,8 +68,10 @@ Schema description is as follows:
     
 * * *
  
- Background and Extended Rubric Documentation in this doc: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
-    
+ Background 
+ * Research Questions: https://docs.google.com/document/d/1HOTHqnXEvVQruwxvVD_nsizBc_jA5eItwPY4wHyLkMU/edit#
+ * Tagging Diary: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
+ * Metadata Media Glyph Notes: https://docs.google.com/document/d/1VNKFYL3B7LRe46GPbgxPFM9ne1knue7i_RrU09gRvDw/edit#heading=h.hiv3sny6952h
 
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF"
 * __name-key__ *machine generated* key to hydrate this persistent representation to an in-memory a60::collection object. *Don't change this.*
