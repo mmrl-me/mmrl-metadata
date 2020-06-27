@@ -1,12 +1,23 @@
 # alpha60-metadata
 
+__Intro__
+
 Experimental schema for media objects. 
 
 Organized per media object, where *media object* is defined as a particular media instance such as a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, future leaks of presidential tax reports, etc.
 
 The goal is to provide a serialized form of each media object; useful for creating in-memory objects at runtime, and support sorting by streaming platform, genre, and cast diversity while at the same time implementing lean data practices. This schema is in development, is considered experimental, and will remain versioned and unfixed. Design goal is to represent Bechdel, Villalobos, Gagen, DuVernay tests. With additional tagging to quantify or infer “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
 
-Schema description is as follows:
+
+ __Background__
+ 
+ * Research Questions: https://docs.google.com/document/d/1HOTHqnXEvVQruwxvVD_nsizBc_jA5eItwPY4wHyLkMU/edit#
+ * Tagging Diary: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
+ * Metadata Media Glyph Notes: https://docs.google.com/document/d/1VNKFYL3B7LRe46GPbgxPFM9ne1knue7i_RrU09gRvDw/edit#heading=h.hiv3sny6952h
+ 
+* * *
+
+__Schema Description__
 
     {
         "name": "",
@@ -68,11 +79,6 @@ Schema description is as follows:
     
 * * *
  
- Background 
- * Research Questions: https://docs.google.com/document/d/1HOTHqnXEvVQruwxvVD_nsizBc_jA5eItwPY4wHyLkMU/edit#
- * Tagging Diary: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
- * Metadata Media Glyph Notes: https://docs.google.com/document/d/1VNKFYL3B7LRe46GPbgxPFM9ne1knue7i_RrU09gRvDw/edit#heading=h.hiv3sny6952h
-
 * __name__ what the media property calls itself: identifier with capitalization and typographic flourish, such as "Westworld" or "#blackAF"
 * __name-key__ *machine generated* key to hydrate this persistent representation to an in-memory a60::collection object. *Don't change this.*
 * __name-key-sub__ optional *machine generated* key for subsetting collections to a particular episode or title. *Don't change this.*
@@ -92,3 +98,6 @@ Schema description is as follows:
 * __production-geo__ union wikipedia country of origin and imdb production details locations 
 * __notes__ optional, overflow and space for custom or prototype tagging 
 * __data-version__ last time new data fields were added, in compressed ISO date format, where 20200524 means YYYY-MM-DD of 2020-05-24. *Don't change this.*
+
+* * *
+
