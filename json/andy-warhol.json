@@ -1,16 +1,16 @@
 {
-    "name": "",
+    "name": "Andy Warhol",
     "name-key": "warhol,andy",
     "name-key-sub": "",
     "type": "",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/name/nm0912238",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Andy_Warhol",
 
-    "genre-tags": [""],
+    "genre-tags": ["pop art", "gay porn", "visual art"],
 
-    "plot-tags": [""],
+    "plot-tags": ["celebrity culture", "commodification"],
     "plot-geo": [""],
     "plot-date": [""],
 
@@ -18,9 +18,9 @@
     "production-tags": [""],
     "production-geo": [""],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["gay"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-genders": [""],
