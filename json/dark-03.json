@@ -2,55 +2,55 @@
     "name": "Dark",
     "name-key": "dark-03",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "3",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt5753856",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Dark_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["scifi", "thriller", "crime", "drama", "mystery"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["time travel", "missing children", "wormhole", "nuclear power plant", "alternate dimension"],
+    "plot-geo": ["germany", "winden", "winden im elztal],
+    "plot-date": ["2010s", "1980s", "1950s", "2020s", "1880s", "2050s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["netflix"],
+    "production-tags": ["wiedemann & berg television"],
+    "production-geo": ["germany"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-sexualities": ["straight"],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
-    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-genders": ["cis", "female"],
+    "cast-lead-3-sexualities": ["straight"],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-sexualities": ["straight"],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-genders": [""],
-    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-ethnicities": ["white"],
+    "cast-lead-5-genders": ["cis", "female"],
+    "cast-lead-5-sexualities": ["straight"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ethnicities": ["white"],
+    "cast-lead-6-genders": ["cis", "female"],
+    "cast-lead-6-sexualities": ["straight"],
 
-    "cast-lead-7-ethnicities": [""],
-    "cast-lead-7-genders": [""],
-    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ethnicities": ["white"],
+    "cast-lead-7-genders": ["cis", "female"],
+    "cast-lead-7-sexualities": ["straight"],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
 
-    "notes": [""],
+    "notes": ["jonas, martha, hannah, ullrich, katharina, claudia, regina", "gets tagged on wikipedia as 2010s lgbt-related drama television series, probably because there is a trans sex worker and two secondary possibly lesbian characters"],
 
     "data-version": "20200524"
 }
