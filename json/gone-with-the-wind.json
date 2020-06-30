@@ -1,45 +1,45 @@
 {
-    "name": "",
+    "name": "Gone with the Wind",
     "name-key": "",
     "name-key-sub": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt0031381",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)",
 
-    "genre-tags": [""],
+    "genre-tags": ["drama", "history", "romance", "war", "melodrama"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["american south", "civil war", "reconstruction", "confederacy", "controversy", "carpetbaggers", "slavery", "racism", "racist black stereotypes", "marital rape"],
+    "plot-geo": ["usa", "georgia", "atlanta", "tara plantation"],
+    "plot-date": ["1860s"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["loew's inc"],
+    "production-tags": ["selznick international pictures", "metro-goldwyn-mayer"],
+    "production-geo": ["usa", "california"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["straight"],
 
-    "cast-lead-2-ethnicities": [""],
-    "cast-lead-2-genders": [""],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["cis", "male"],
+    "cast-lead-2-sexualities": ["straight"],
 
-    "cast-lead-3-ethnicities": [""],
-    "cast-lead-3-genders": [""],
-    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-genders": ["cis", "female"],
+    "cast-lead-3-sexualities": ["straight"],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-genders": [""],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-sexualities": ["straight"],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-genders": [""],
+    "cast-lead-5-ethnicities": ["black", "african american"],
+    "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": [""],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-genders": [""],
+    "cast-lead-6-ethnicities": ["black", "african american"],
+    "cast-lead-6-genders": ["cis", "female"],
     "cast-lead-6-sexualities": [""],
 
     "cast-lead-7-ethnicities": [""],
@@ -50,7 +50,7 @@
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
 
-    "notes": [""],
+    "notes": ["scarlett, rhett, melanie, ashley, mammy, prissy"],
 
     "data-version": "20200524"
 }
