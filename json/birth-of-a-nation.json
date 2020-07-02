@@ -8,7 +8,7 @@
     "id-imdb": "https://www.imdb.com/title/tt0004972",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
 
-    "genre-tags": ["drama", "history", "war", "silent film"],
+    "genre-tags": ["drama", "history", "war", "silent film", "diverse ensemble"],
 
     "plot-tags": ["racism", "blackface", "civil war", "reconstruction", "lincoln assassination", "ku klux klan", "white supremacy", "controversy", "confederacy", "lynching", "american south", "racist black stereotypes"],
     "plot-geo": ["usa", "south carolina", "washington dc", "virginia"],
