@@ -19,19 +19,19 @@
     "production-geo": ["usa"],
 
     "cast-lead-1-ethnicities": ["alien"],
-    "cast-lead-1-genders": ["masculine"],
+    "cast-lead-1-genders": ["male"],
     "cast-lead-1-sexualities": ["ambiguous"],
 
     "cast-lead-2-ethnicities": ["alien"],
-    "cast-lead-2-genders": ["masculine"],
+    "cast-lead-2-genders": ["male"],
     "cast-lead-2-sexualities": ["ambiguous"],
 
     "cast-lead-3-ethnicities": ["alien"],
-    "cast-lead-3-genders": ["masculine"],
+    "cast-lead-3-genders": ["male"],
     "cast-lead-3-sexualities": ["ambiguous"],
 
     "cast-lead-4-ethnicities": ["alien"],
-    "cast-lead-4-genders": ["feminine"],
+    "cast-lead-4-genders": ["female"],
     "cast-lead-4-sexualities": ["ambiguous"],
 
     "cast-lead-5-ethnicities": [""],
