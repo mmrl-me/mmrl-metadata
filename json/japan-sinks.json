@@ -18,19 +18,19 @@
     "production-tags": ["science saru"],
     "production-geo": ["japan"],
 
-    "cast-lead-1-ethnicities": ["filipino-japanese", "asian pacific"],
+    "cast-lead-1-ethnicities": ["filipino-japanese", "asian pacific", "asian american", "asian american voicing filipino-japanese"],
     "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": [""],
 
-    "cast-lead-2-ethnicities": ["filipino-japanese", "asian pacific"],
+    "cast-lead-2-ethnicities": ["filipino-japanese", "asian pacific", "white", "white voicing filipino-japanese"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": [""],
 
-    "cast-lead-3-ethnicities": ["filipino", "asian pacific"],
+    "cast-lead-3-ethnicities": ["filipino", "asian pacific", "chinese canadian", "chinese canadian voicing filipino"],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["straight"],
 
-    "cast-lead-4-ethnicities": ["japanese", "asian pacific"],
+    "cast-lead-4-ethnicities": ["japanese", "asian pacific", "black", "african american", "black voicing japanese"],
     "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": ["straight"],
 
