@@ -1,22 +1,22 @@
 {
-    "name": "LOVE DEATH + ROBOTS",
-    "name-key": "love-death-robots-01",
+    "name": "",
+    "name-key": "",
     "name-key-sub": "",
-    "type": "serial",
-    "id": "1",
+    "type": "",
+    "id": "",
 
-    "id-imdb": "https://www.imdb.com/title/tt9561862",
-    "id-wikipedia": "https://en.wikipedia.org/wiki/Love,_Death_%26_Robots",
+    "id-imdb": "",
+    "id-wikipedia": "",
 
-    "genre-tags": ["adult animation", "anthology", "science fiction", "short", "comedy", "horror", "diverse ensemble"],
+    "genre-tags": [""],
 
-    "plot-tags": ["anthology", "cyberpunk", "artificial intelligence", "android", "gore", "alternate universe"],
+    "plot-tags": [""],
     "plot-geo": [""],
-    "plot-date": ["future"],
+    "plot-date": [""],
 
-    "distribution-tags": ["netflix"],
-    "production-tags": ["netflix", "blur studio"],
-    "production-geo": ["usa", "california"],
+    "distribution-tags": [""],
+    "production-tags": [""],
+    "production-geo": [""],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-genders": [""],
@@ -68,5 +68,5 @@
 
     "notes": [""],
 
-    "data-version": "20200720"
+    "data-version": "20200719"
 }

@@ -21,36 +21,52 @@
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": [""],
+    "cast-lead-1-z": [""],
 
     "cast-lead-2-ethnicities": ["iranian canadian", "unknown", "iranian canadian playing unknown"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["straight"],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
 
     "cast-lead-3-ethnicities": ["black", "british dominican"],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["straight"],
+    "cast-lead-3-ages": [""],
+    "cast-lead-3-z": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": ["queer subtext"],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
 
     "cast-lead-5-ethnicities": ["samoan"],
     "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": ["straight"],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
 
     "cast-lead-6-ethnicities": ["ojibwe"],
     "cast-lead-6-genders": ["cis", "female"],
     "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
 
     "cast-lead-7-ethnicities": ["iranian american", "south asian", "iranian american playing south asian"],
     "cast-lead-7-genders": ["cis", "female"],
     "cast-lead-7-sexualities": ["straight"],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
 
     "notes": ["james holden, alex kamal, naomi nagata, amos burton, bobbie draper, camina drummer, chrisjen avasarala"],
 
-    "data-version": "20200524"
+    "data-version": "20200720"
 }

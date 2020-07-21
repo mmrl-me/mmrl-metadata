@@ -21,36 +21,52 @@
     "cast-lead-1-ethnicities": ["latinx", "white", "latinx playing white"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": [""],
+    "cast-lead-1-z": [""],
 
     "cast-lead-2-ethnicities": ["black", "african american", "white", "black playing white"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["straight"],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
 
     "cast-lead-3-ethnicities": ["chinese american", "white", "chinese american playing white"],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["straight"],
+    "cast-lead-3-ages": [""],
+    "cast-lead-3-z": [""],
 
     "cast-lead-4-ethnicities": ["black", "african american", "white", "black playing white"],
     "cast-lead-4-genders": ["cis", "female"],
     "cast-lead-4-sexualities": ["straight"],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
 
     "cast-lead-5-ethnicities": ["latinx", "white", "latinx playing white"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
 
     "cast-lead-6-ethnicities": ["black", "african american", "white", "black playing white"],
     "cast-lead-6-genders": ["cis", "male"],
     "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
 
     "cast-lead-7-ethnicities": ["black", "african american", "white", "black playing white"],
     "cast-lead-7-genders": ["cis", "male"],
     "cast-lead-7-sexualities": ["straight"],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
 
     "cast-lead-8-ethnicities": ["black", "african american", "white", "black playing white"],
     "cast-lead-8-genders": ["cis", "male"],
     "cast-lead-8-sexualities": ["straight"],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
 
     "notes": ["hamilton, burr, eliza, angelica, laurens/phillip, lafayette/jefferson, mulligan/madison, washington"],
 
-    "data-version": "20200524"
+    "data-version": "20200720"
 }

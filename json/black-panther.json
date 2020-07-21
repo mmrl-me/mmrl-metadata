@@ -21,36 +21,52 @@
     "cast-lead-1-ethnicities": ["black", "african american"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": [""],
+    "cast-lead-1-z": [""],
 
     "cast-lead-2-ethnicities": ["black", "african american"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["straight"],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
 
     "cast-lead-3-ethnicities": ["black", "mexican kenyan"],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["straight"],
+    "cast-lead-3-ages": [""],
+    "cast-lead-3-z": [""],
 
     "cast-lead-4-ethnicities": ["black", "african american"],
     "cast-lead-4-genders": ["cis", "female"],
     "cast-lead-4-sexualities": ["straight"],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
 
     "cast-lead-5-ethnicities": ["black", "tobagonian american"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
 
     "cast-lead-6-ethnicities": ["black", "african american"],
     "cast-lead-6-genders": ["cis", "female"],
     "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
 
     "cast-lead-7-ethnicities": ["black", "african american"],
     "cast-lead-7-genders": ["cis", "male"],
     "cast-lead-7-sexualities": ["straight"],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
 
     "notes": [""],
 
-    "data-version": "20200524"
+    "data-version": "20200720"
 }
