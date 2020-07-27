@@ -1,12 +1,12 @@
 {
-    "name": "",
+    "name": "The Alienist",
     "name-key": "alienist-201",
     "name-key-sub": "",
-    "type": "",
+    "type": "serial",
     "id": "201",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt4604612",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Alienist_(TV_series)",
 
     "genre-tags": [""],
 
