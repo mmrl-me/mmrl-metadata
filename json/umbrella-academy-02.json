@@ -1,0 +1,72 @@
+{
+    "name": "The Umbrella Academy",
+    "name-key": "umbrella-academy-01",
+    "name-key-sub": "",
+    "type": "serial",
+    "id": "1",
+
+    "id-imdb": "https://www.imdb.com/title/tt1312171",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)",
+
+    "genre-tags": ["black comedy", "drama", "scifi", "superhero", "fantasy", "diverse ensemble"],
+
+    "plot-tags": ["alternate history", "superhero", "dysfunctional family", "apocalypse", "time travel"],
+    "plot-geo": ["USA", "urban"],
+    "plot-date": ["2010s"],
+
+    "distribution-tags": ["netflix"],
+    "production-tags": ["borderline entertainment", "dark horse entertainment", "universal cable productions"],
+    "production-geo": ["canada", "ontario", "toronto"],
+
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-genders": ["female", "cis"],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": [""],
+    "cast-lead-1-z": [""],
+
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-genders": ["male", "cis"],
+    "cast-lead-2-sexualities": ["straight"],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
+
+    "cast-lead-3-ethnicities": ["latinx"],
+    "cast-lead-3-genders": ["male", "cis"],
+    "cast-lead-3-sexualities": ["straight"],
+    "cast-lead-3-ages": [""],
+    "cast-lead-3-z": [""],
+
+    "cast-lead-4-ethnicities": ["african american", "multiracial"],
+    "cast-lead-4-genders": ["female", "cis"],
+    "cast-lead-4-sexualities": ["straight"],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
+
+    "cast-lead-5-ethnicities": ["white"],
+    "cast-lead-5-genders": ["male", "cis"],
+    "cast-lead-5-sexualities": ["gay"],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
+
+    "cast-lead-6-ethnicities": ["white"],
+    "cast-lead-6-genders": ["male", "cis"],
+    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
+
+    "notes": [""],
+
+    "data-version": "20200720"
+}
