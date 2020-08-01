@@ -19,48 +19,56 @@
     "production-geo": ["colombia", "bogota", "cartagena"],
 
     "cast-lead-1-ethnicities": ["latinx"],
+    "cast-lead-1-nationalities": [""],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": [""],
     "cast-lead-1-z": [""],
 
     "cast-lead-2-ethnicities": ["latinx"],
+    "cast-lead-2-nationalities": [""],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],
 
     "cast-lead-3-ethnicities": ["latinx"],
+    "cast-lead-3-nationalities": [""],
     "cast-lead-3-genders": ["cis", "male"],
     "cast-lead-3-sexualities": ["gay"],
     "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
 
     "cast-lead-4-ethnicities": ["latinx"],
+    "cast-lead-4-nationalities": [""],
     "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
 
     "cast-lead-5-ethnicities": ["spanish", "latinx", "spanish playing latinx"],
+    "cast-lead-5-nationalities": [""],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
 
     "cast-lead-6-ethnicities": ["spanish", "latinx", "spanish playing latinx"],
+    "cast-lead-6-nationalities": [""],
     "cast-lead-6-genders": ["cis", "male"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
 
     "cast-lead-7-ethnicities": ["spanish", "latinx", "spanish playing latinx"],
+    "cast-lead-7-nationalities": [""],
     "cast-lead-7-genders": ["cis", "male"],
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
 
     "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-nationalities": [""],
     "cast-lead-8-genders": [""],
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
@@ -68,5 +76,5 @@
 
     "notes": [""],
 
-    "data-version": "20200720"
+    "data-version": "20200801"
 }

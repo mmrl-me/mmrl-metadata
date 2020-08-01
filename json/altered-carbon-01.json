@@ -19,48 +19,56 @@
     "production-geo": ["canada", "vancouver"],
 
     "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-nationalities": [""],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": [""],
     "cast-lead-1-ages": [""],
     "cast-lead-1-z": [""],
 
     "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-nationalities": [""],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],
 
     "cast-lead-3-ethnicities": ["latinx"],
+    "cast-lead-3-nationalities": [""],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
 
     "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-nationalities": [""],
     "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": [""],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
 
     "cast-lead-5-ethnicities": ["south asian"],
+    "cast-lead-5-nationalities": [""],
     "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
 
     "cast-lead-6-ethnicities": ["black", "african american"],
+    "cast-lead-6-nationalities": [""],
     "cast-lead-6-genders": ["cis", "male"],
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
 
     "cast-lead-7-ethnicities": ["white"],
+    "cast-lead-7-nationalities": [""],
     "cast-lead-7-genders": ["cis", "female"],
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
 
     "cast-lead-8-ethnicities": ["black", "african american"],
+    "cast-lead-8-nationalities": [""],
     "cast-lead-8-genders": ["cis", "female"],
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
@@ -68,5 +76,5 @@
 
     "notes": ["takeshi kovacks, laurens bancroft, kristin ortega, edgar poe, reileen, vernon elliott, miriam bancroft, quell falconer"],
 
-    "data-version": "20200720"
+    "data-version": "20200801"
 }
