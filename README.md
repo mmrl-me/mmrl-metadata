@@ -10,7 +10,9 @@ The goal is to provide a serialized form of each media object; useful for creati
 
 
  __Background__
- 
+
+ * mailing list (ask for access): media-metadata-glyphs@googlegroups.com
+ * Shared Google Drive (ask for access): https://drive.google.com/drive/folders/1ntRMW6nlBdmg9PC9DLw67l2im-vYcZYz
  * Research Questions: https://docs.google.com/document/d/1HOTHqnXEvVQruwxvVD_nsizBc_jA5eItwPY4wHyLkMU/edit#
  * Tagging Diary: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
  * Metadata Media Glyph Notes: https://docs.google.com/document/d/1VNKFYL3B7LRe46GPbgxPFM9ne1knue7i_RrU09gRvDw/edit#heading=h.hiv3sny6952h
@@ -19,63 +21,87 @@ The goal is to provide a serialized form of each media object; useful for creati
 
 __Schema Description__
 
-    {
-        "name": "",
-        "name-key": "",
-        "name-key-sub": "",
+{
+    "name": "",
+    "name-key": "",
+    "name-key-sub": "",
+    "type": "",
+    "id": "",
 
-        "type": "",
-        "id": "",
+    "id-imdb": "",
+    "id-wikipedia": "",
 
-        "id-imdb": "",
-        "id-wikipedia": "",
+    "genre-tags": [""],
 
-        "genre-tags": [""],
-        
-        "plot-tags": [""],
-        "plot-geo": [""],
-        "plot-date": [""],
-          
-        "distribution-tags": [""],
-        "production-tags": [""],
-        "production-geo": [""],
+    "plot-tags": [""],
+    "plot-geo": [""],
+    "plot-date": [""],
 
-        "cast-lead-1-ethnicities": [""],
-        "cast-lead-1-genders": [""],
-        "cast-lead-1-sexualities": [""],
-        
-        "cast-lead-2-ethnicities": [""],
-        "cast-lead-2-genders": [""],
-        "cast-lead-2-sexualities": [""],
-        
-        "cast-lead-3-ethnicities": [""],
-        "cast-lead-3-genders": [""],
-        "cast-lead-3-sexualities": [""],
-        
-        "cast-lead-4-ethnicities": [""],
-        "cast-lead-4-genders": [""],
-        "cast-lead-4-sexualities": [""],
-        
-        "cast-lead-5-ethnicities": [""],
-        "cast-lead-5-genders": [""],
-        "cast-lead-5-sexualities": [""],
-        
-        "cast-lead-6-ethnicities": [""],
-        "cast-lead-6-genders": [""],
-        "cast-lead-6-sexualities": [""],
-        
-        "cast-lead-7-ethnicities": [""],
-        "cast-lead-7-genders": [""],
-        "cast-lead-7-sexualities": [""],
-        
-        "cast-lead-8-ethnicities": [""],
-        "cast-lead-8-genders": [""],
-        "cast-lead-8-sexualities": [""],
-        
-        "notes": [""],
-        
-        "data-version": "20200524"
-    }
+    "distribution-tags": [""],
+    "production-tags": [""],
+    "production-geo": [""],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-nationalities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ages": [""],
+    "cast-lead-1-z": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-nationalities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-nationalities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ages": [""],
+    "cast-lead-3-z": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-nationalities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-nationalities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-nationalities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-nationalities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-nationalities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
+
+    "notes": [""],
+
+    "data-version": "20200801"
+}
+
     
 * * *
  
@@ -91,8 +117,11 @@ __Schema Description__
 * __plot-geo__ ostensible geography of media property
 * __plot-date__ ostensible time period, deduced from media property, with multiple time periods separated by comma if be
 * __cast-lead-1..8-ethnicities__ lead ethnicity, comma separated list
+* __cast-lead-1..8-nationalities__ lead nationality, comma separated list
 * __cast-lead-1..8-genders__ lead gender, comma separated list
 * __cast-lead-1..8-sexualities__ lead sexuality, comma separated list
+* __cast-lead-1..8-sexualities__ lead age deciles, comma separated list
+* __cast-lead-1..8-z__ lead forms, animal, vegetable, mineral, comma separated list
 * __distribution-tags__ wikipedia distributor, such as "netflix" or "disney+" or "cbs all access"
 * __production-tags__ optional, unknown if useful, put prouduction overflow here
 * __production-geo__ union wikipedia country of origin and imdb production details locations 
