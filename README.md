@@ -21,7 +21,7 @@ The goal is to provide a serialized form of each media object; useful for creati
 
 __Schema Description__
 
-{
+  {
     "name": "",
     "name-key": "",
     "name-key-sub": "",
@@ -100,7 +100,7 @@ __Schema Description__
     "notes": [""],
 
     "data-version": "20200801"
-}
+  }
 
     
 * * *
