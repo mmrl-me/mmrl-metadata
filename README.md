@@ -120,8 +120,8 @@ __Schema Description__
 * __cast-lead-1..8-nationalities__ lead nationality, comma separated list
 * __cast-lead-1..8-genders__ lead gender, comma separated list
 * __cast-lead-1..8-sexualities__ lead sexuality, comma separated list
-* __cast-lead-1..8-sexualities__ lead age deciles, comma separated list
-* __cast-lead-1..8-z__ lead forms, animal, vegetable, mineral, comma separated list
+* __cast-lead-1..8-ages__ lead age deciles, comma separated list
+* __cast-lead-1..8-z__ lead form: animal, vegetable, mineral, spirit or other, comma separated list
 * __distribution-tags__ wikipedia distributor, such as "netflix" or "disney+" or "cbs all access"
 * __production-tags__ optional, unknown if useful, put prouduction overflow here
 * __production-geo__ union wikipedia country of origin and imdb production details locations 
