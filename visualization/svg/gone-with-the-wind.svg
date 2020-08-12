@@ -46,26 +46,26 @@ viewBox="0 0 3840 1080" enable-background="new 0 0 3840 1080">
  />
 <image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-identity-2.svg" x="0" y="994" width="140" height="52"
  />
-<circle cx="533" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
-<text x="533" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">ethnicities</text>
-<text x="533" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
-<circle cx="483" cy="573" r="40" style="fill:rgb(62,44,34); fill-opacity:1; stroke:rgb(128,128,128); stroke-opacity:0; stroke-width:3" />
-<text x="434" y="601" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,434,601)">4  -> </text>
-<text x="406" y="617" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,406,617)">white</text>
-<circle cx="583" cy="573" r="20" style="fill:rgb(177,56,47); fill-opacity:1; stroke:rgb(128,128,128); stroke-opacity:0; stroke-width:3" />
-<text x="612" y="594" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,612,594)">2  -> </text>
-<text x="637" y="613" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,637,613)">black</text>
-<circle cx="1006" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
-<text x="1006" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">nationalities</text>
-<text x="1006" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
-<text x="1006" y="600" text-anchor="middle"  font-family="Apercu" font-size="39px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:0.66; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">USA</text>
-<circle cx="1479" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
-<text x="1479" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">genders</text>
-<text x="1479" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
-<circle cx="1469" cy="481" r="60" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
-<text x="1459" y="405" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,1459,405)">6  -> </text>
-<text x="1455" y="373" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,1455,373)">cis</text>
-<g id="inset radial svg" transform="rotate(-123,1428,572) translate(1299,443) scale(2.58)">
+<circle cx="566" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="566" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">ethnicities</text>
+<text x="566" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
+<circle cx="516" cy="573" r="40" style="fill:rgb(62,44,34); fill-opacity:1; stroke:rgb(128,128,128); stroke-opacity:0; stroke-width:3" />
+<text x="467" y="601" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,467,601)">4  -> </text>
+<text x="439" y="617" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,439,617)">white</text>
+<circle cx="616" cy="573" r="20" style="fill:rgb(177,56,47); fill-opacity:1; stroke:rgb(128,128,128); stroke-opacity:0; stroke-width:3" />
+<text x="645" y="594" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,645,594)">2  -> </text>
+<text x="670" y="613" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,670,613)">black</text>
+<circle cx="1107" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1107" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">nationalities</text>
+<text x="1107" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
+<text x="1107" y="600" text-anchor="middle"  font-family="Apercu" font-size="39px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:0.66; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">USA</text>
+<circle cx="1648" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="1648" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">genders</text>
+<text x="1648" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
+<circle cx="1638" cy="481" r="60" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
+<text x="1628" y="405" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,1628,405)">6  -> </text>
+<text x="1624" y="373" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,1624,373)">cis</text>
+<g id="inset radial svg" transform="rotate(-123,1597,572) translate(1468,443) scale(2.58)">
  <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -102,8 +102,8 @@ viewBox="0 0 3840 1080" enable-background="new 0 0 3840 1080">
 </svg>
 
 </g>
-<text x="1427" y="570" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,1427,570)">4</text>
-<g id="inset radial svg" transform="rotate(-236,1529,572) translate(1464,508) scale(1.29)">
+<text x="1596" y="570" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,1596,570)">4</text>
+<g id="inset radial svg" transform="rotate(-236,1698,572) translate(1633,508) scale(1.29)">
  <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -147,44 +147,44 @@ viewBox="0 0 3840 1080" enable-background="new 0 0 3840 1080">
 </svg>
 
 </g>
-<text x="1527" y="575" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,1527,575)">2</text>
-<circle cx="1952" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
-<text x="1952" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">sexualities</text>
-<text x="1952" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
-<circle cx="1902" cy="573" r="40" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
-<text x="1853" y="601" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,1853,601)">4  -> </text>
-<text x="1825" y="617" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,1825,617)">straight</text>
-<circle cx="2002" cy="573" r="20" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
-<text x="2031" y="594" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,2031,594)">2  -> </text>
-<text x="2056" y="613" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,2056,613)">unknown</text>
-<circle cx="2425" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
-<text x="2425" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">ages</text>
-<text x="2425" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
-<circle cx="2425" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.266667; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.533333; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.8; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.15; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.3; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.45; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="56" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.6; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.16; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.24; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="56" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.32; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="68" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.4; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.2; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.4; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.1; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="56" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.133333; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="68" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.166667; stroke-width:1.5" />
-<circle cx="2425" cy="540" r="80" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.2; stroke-width:1.5" />
-<circle cx="2898" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
-<text x="2898" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">z</text>
-<text x="2898" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
-<circle cx="2888" cy="481" r="60" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
-<text x="2878" y="405" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,2878,405)">6  -> </text>
-<text x="2874" y="373" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,2874,373)">human</text>
+<text x="1696" y="575" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,1696,575)">2</text>
+<circle cx="2189" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="2189" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">sexualities</text>
+<text x="2189" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
+<circle cx="2139" cy="573" r="40" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
+<text x="2090" y="601" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,2090,601)">4  -> </text>
+<text x="2062" y="617" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(149,2062,617)">straight</text>
+<circle cx="2239" cy="573" r="20" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
+<text x="2268" y="594" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,2268,594)">2  -> </text>
+<text x="2293" y="613" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,2293,613)">unknown</text>
+<circle cx="2730" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="2730" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">ages</text>
+<text x="2730" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
+<circle cx="2730" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.266667; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.533333; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.8; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.15; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.3; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.45; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="56" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.6; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.16; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.24; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="56" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.32; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="68" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.4; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.2; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.4; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="20" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="32" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="44" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.1; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="56" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.133333; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="68" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.166667; stroke-width:1.5" />
+<circle cx="2730" cy="540" r="80" style="fill:rgb(255,255,255); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.2; stroke-width:1.5" />
+<circle cx="3271" cy="540" r="54" style="fill:rgb(0,0,0); fill-opacity:0.2; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" />
+<text x="3271" y="870" text-anchor="middle"  font-family="Apercu" font-size="30px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">z</text>
+<text x="3271" y="900" text-anchor="middle"  font-family="Apercu" font-size="18px" text-align="center" font-weight="400" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6</text>
+<circle cx="3261" cy="481" r="60" style="fill:rgb(128,128,128); fill-opacity:0; stroke:rgb(128,128,128); stroke-opacity:1; stroke-width:3" />
+<text x="3251" y="405" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,3251,405)">6  -> </text>
+<text x="3247" y="373" text-anchor="start"  font-family="Apercu" font-size="12px" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(263,3247,373)">human</text>
 </svg>
 
