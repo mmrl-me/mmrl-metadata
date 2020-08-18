@@ -8,10 +8,10 @@
     "id-imdb": "",
     "id-wikipedia": "https://en.wikipedia.org/wiki/3D_printed_firearms",
 
-    "genre-tags": ["CAD", "crime", "legal drama", "open source digital publishing"],
+    "genre-tags": ["cad", "crime", "legal drama", "open source digital publishing"],
 
-    "plot-tags": ["USA", "Department of State", "court", "appeal", "export ban", "takedown", "undetectable firearms act", "international traffic in arms regulations", "ITAR", "constitution", "second ammendment", "first ammendment"],
-    "plot-geo": ["USA", "texas", "washington"],
+    "plot-tags": ["usa", "department of state", "court", "appeal", "export ban", "takedown", "undetectable firearms act", "international traffic in arms regulations", "itar", "constitution", "second amendment", "first amendment"],
+    "plot-geo": ["usa", "texas", "washington"],
     "plot-date": ["2010s", "2020s"],
 
     "distribution-tags": [""],
@@ -19,11 +19,11 @@
     "production-geo": ["usa", "texas"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": [""],
+    "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male"],
-    "cast-lead-1-sexualities": [""],
-    "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": ["30-39"],
+    "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
