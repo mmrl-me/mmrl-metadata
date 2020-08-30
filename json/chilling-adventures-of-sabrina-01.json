@@ -42,7 +42,7 @@
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["gbr", "usa", "gbr x usa playing gbr"],
     "cast-lead-4-genders": ["cis", "male"],
-    "cast-lead-4-sexualities": ["pansexual"],
+    "cast-lead-4-sexualities": ["pansexual", "unknown", "unknown playing pansexual"],
     "cast-lead-4-ages": ["100+", "20-29", "20-29 playing 100+"],
     "cast-lead-4-z": ["witch"],
 
@@ -63,7 +63,7 @@
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["usa"],
     "cast-lead-7-genders": ["trans", "male"],
-    "cast-lead-7-sexualities": ["queer"],
+    "cast-lead-7-sexualities": ["queer", "pansexual"],
     "cast-lead-7-ages": ["10-19"],
     "cast-lead-7-z": ["human"],
 
