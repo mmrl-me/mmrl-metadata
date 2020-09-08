@@ -2,28 +2,28 @@
     "name": "Black Is King",
     "name-key": "black-is-king",
     "name-key-sub": "",
-    "type": "",
+    "type": "visual album",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt12607910",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Black_Is_King",
 
-    "genre-tags": [""],
+    "genre-tags": ["visual album", "music," "fantasy", "drama", "adventure"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
+    "plot-tags": ["black lives matter", "the lion king"],
+    "plot-geo": ["africa"],
     "plot-date": [""],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["disney+"],
+    "production-tags": ["walt disney pictures", "parkwood entertainment"],
+    "production-geo": ["usa"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-nationalities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
-    "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-ethnicities": ["black"],
+    "cast-lead-1-nationalities": ["usa"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": ["30-39"],
+    "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["beyoncé"],
 
     "data-version": "20200801"
 }
