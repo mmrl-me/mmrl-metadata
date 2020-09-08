@@ -2,28 +2,28 @@
     "name": "Folklore",
     "name-key": "folklore",
     "name-key-sub": "",
-    "type": "",
+    "type": "studio album",
     "id": "",
 
     "id-imdb": "",
-    "id-wikipedia": "",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)",
 
-    "genre-tags": [""],
+    "genre-tags": ["indie folk", "alternative rock", "electro-folk", "chamber pop"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["surprise album", "pandemic release", "cottagecore", "lesbian subtext", "queerbaiting"],
+    "plot-geo": ["usa"],
+    "plot-date": ["2020"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["republic"],
+    "production-tags": ["long pond", "kitty committee", "rough customer", "electric lady", "conway"],
+    "production-geo": ["usa", "new york city", "hudson valley", "new york", "los angeles", "california"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-nationalities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
-    "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-nationalities": ["usa"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": ["30-39"],
+    "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["taylor swift"],
 
     "data-version": "20200801"
 }
