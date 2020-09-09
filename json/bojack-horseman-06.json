@@ -18,14 +18,14 @@
     "production-tags": ["netflix", "tornante television", "shadowmachine", "boxer vs raptor"],
     "production-geo": ["usa", "los angeles"],
 
-    "cast-lead-1-ethnicities": ["white", "horse"],
+    "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["50-59"],
     "cast-lead-1-z": ["horse"],
 
-    "cast-lead-2-ethnicities": ["white", "cat"],
+    "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
     "cast-lead-2-genders": ["female", "cis"],
     "cast-lead-2-sexualities": ["straight"],
@@ -39,7 +39,7 @@
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
 
-    "cast-lead-4-ethnicities": ["white","dog"],
+    "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["male", "cis"],
     "cast-lead-4-sexualities": ["straight"],
