@@ -36,7 +36,7 @@
     "cast-lead-3-nationalities": ["usa"],
     "cast-lead-3-genders": ["male", "cis"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["0-9", "10-19"],
+    "cast-lead-3-ages": ["00-09", "10-19"],
     "cast-lead-3-z": ["human"],
 
     "cast-lead-4-ethnicities": ["white"],
