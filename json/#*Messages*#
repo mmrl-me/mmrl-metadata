@@ -1,0 +1,28 @@
+Loading /usr/share/emacs/site-lisp/site-start.d/autoconf-init.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/clang-format.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/clang-include-fixer.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/clang-rename.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/cmake-init.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/desktop-entry-mode-init.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/mercurial-site-start.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/rpmdev-init.el (source)...done
+Loading /usr/share/emacs/site-lisp/site-start.d/systemtap-init.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Mark saved where search started [2 times]
+Saving file /home/bkoz/src/alpha60-metadata/json/into-the-badlands-308.json...
+Wrote /home/bkoz/src/alpha60-metadata/json/into-the-badlands-308.json
+(No changes need to be saved)
+Mark saved where search started
+Saving file /home/bkoz/src/alpha60-metadata/json/into-the-badlands-203.json...
+Wrote /home/bkoz/src/alpha60-metadata/json/into-the-badlands-203.json
+completing-read-default: Command attempted to use minibuffer while in minibuffer
+Wrote /home/bkoz/src/alpha60-metadata/json/*Messages*
+Saving file /home/bkoz/src/alpha60-metadata/json/*Messages*...
+Wrote /home/bkoz/src/alpha60-metadata/json/*Messages*
+Quit
+Saving file /home/bkoz/src/alpha60-metadata/json/*Messages*...
+Wrote /home/bkoz/src/alpha60-metadata/json/*Messages*
+Save file /home/bkoz/src/alpha60-metadata/json/*Messages*? (y, n, !, ., q, C-r, C-f, d or C-h) 
+Save file /home/bkoz/src/alpha60-metadata/json/*Messages*? (y, n, !, ., q, C-r, C-f, d or C-h) y
+Saving file /home/bkoz/src/alpha60-metadata/json/*Messages*...
+Wrote /home/bkoz/src/alpha60-metadata/json/*Messages*
