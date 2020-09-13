@@ -18,12 +18,12 @@
     "production-tags": ["bbc studios"],
     "production-geo": ["united kingdom", "wales", "england"],
 
-    "cast-lead-1-ethnicities": ["white", "alien", "white playing an alien"],
+    "cast-lead-1-ethnicities": ["white", "white playing an alien"],
     "cast-lead-1-nationalities": [""],
     "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-z": ["alien"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": [""],
