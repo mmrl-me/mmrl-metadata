@@ -35,9 +35,9 @@
     "cast-lead-3-ethnicities": ["latinx"],
     "cast-lead-3-nationalities": [""],
     "cast-lead-3-genders": ["male", "cis"],
-    "cast-lead-3-sexualities": ["straight",     "cast-lead-3-ages": [""],
+    "cast-lead-3-sexualities": ["straight", "ambiguous", "bisexual"],
+    "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
-"ambiguous", "bisexual"],
 
     "cast-lead-4-ethnicities": ["african american"],
     "cast-lead-4-nationalities": [""],

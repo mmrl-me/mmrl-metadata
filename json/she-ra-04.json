@@ -28,9 +28,9 @@
     "cast-lead-2-ethnicities": ["clone", "white"],
     "cast-lead-2-nationalities": [""],
     "cast-lead-2-genders": ["cis", "male"],
-    "cast-lead-2-sexualities": ["straight",     "cast-lead-2-ages": [""],
+    "cast-lead-2-sexualities": ["straight", "ambiguous"],
+    "cast-lead-2-ages": [""],				
     "cast-lead-2-z": [""],
-"ambiguous"],
 
     "cast-lead-3-ethnicities": ["cat", "white"],
     "cast-lead-3-nationalities": [""],

@@ -47,7 +47,7 @@
     "cast-lead-4-z": ["human"],
 
     "cast-lead-5-ethnicities": ["black"],
-    "cast-lead-5-nationalities": ["usa," "gbr", "gbr playing usa"],
+    "cast-lead-5-nationalities": ["usa", "gbr", "gbr playing usa"],
     "cast-lead-5-genders": ["female", "cis"],
     "cast-lead-5-sexualities": ["ambiguous"],
     "cast-lead-5-ages": ["30-39"],
