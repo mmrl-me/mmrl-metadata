@@ -43,7 +43,7 @@
     "cast-lead-4-nationalities": ["ita"],
     "cast-lead-4-genders": ["female", "cis"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["40-42"],
+    "cast-lead-4-ages": ["40-49"],
     "cast-lead-4-z": ["human"],
 
     "cast-lead-5-ethnicities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["gianni versace, andrew cunanan, antonio d'amico, donatella versace"],
 
     "data-version": "20200801"
 }
