@@ -18,12 +18,12 @@
     "production-tags": ["dreamworks animation television", "mattel creations", "ne4u"],
     "production-geo": ["usa", "illinois", "chicago"],
 
-    "cast-lead-1-ethnicities": ["first one", "white"],
+    "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": [""],
     "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": ["lesbian"],
     "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-z": ["first one"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": [""],
