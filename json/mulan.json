@@ -1,18 +1,18 @@
 {
-    "name": "",
+    "name": "Mulan",
     "name-key": "mulan",
     "name-key-sub": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt4566758",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Mulan_(2020_film)",
 
-    "genre-tags": [""],
+    "genre-tags": ["action", "drama", "adventure", "family"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["remake", "gender disguise", "heroine", "warrior"],
+    "plot-geo": ["china"],
+    "plot-date": ["1400s"],
 
     "distribution-tags": [""],
     "production-tags": [""],
