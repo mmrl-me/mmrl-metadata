@@ -46,12 +46,12 @@
     "cast-lead-4-ages": ["60-69"],
     "cast-lead-4-z": ["human"],
 
-    "cast-lead-5-ethnicities": ["black", "african american"],
-    "cast-lead-5-nationalities": [""],
+    "cast-lead-5-ethnicities": ["black"],
+    "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": ["straight"],
-    "cast-lead-5-ages": [""],
-    "cast-lead-5-z": [""],
+    "cast-lead-5-ages": ["40-49"],
+    "cast-lead-5-z": ["human"],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa"],
