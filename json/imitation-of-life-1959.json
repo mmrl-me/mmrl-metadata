@@ -22,14 +22,14 @@
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": ["straight"],
-    "cast-lead-1-ages": ["30-39", "40-49", "30-39 playing 30-39 and 40-49"],
+    "cast-lead-1-ages": ["30-39", "40-49", "30-39 playing 30-39, 40-49"],
     "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": ["black"],
     "cast-lead-2-nationalities": ["usa"],
     "cast-lead-2-genders": ["cis", "female"],
     "cast-lead-2-sexualities": ["unknown"],
-    "cast-lead-2-ages": ["30-39", "40-49", "40-49 playing 30-39 and 40-49"],
+    "cast-lead-2-ages": ["30-39", "40-49", "40-49 playing 30-39, 40-49"],
     "cast-lead-2-z": ["human"],
 
     "cast-lead-3-ethnicities": ["latinx", "white", "latinx playing white"],
