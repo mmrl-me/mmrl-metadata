@@ -26,14 +26,14 @@
     "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": ["white", "asian pacific playing white"],
-    "cast-lead-2-nationalities": ["rus"],
+    "cast-lead-2-nationalities": ["rus", "jpn playing rus"],
     "cast-lead-2-genders": ["male", "cis"],
     "cast-lead-2-sexualities": ["ambiguous", "gay"],
     "cast-lead-2-ages": ["20-29"],
     "cast-lead-2-z": ["human"],
 
     "cast-lead-3-ethnicities": ["white", "asian pacific playing white"],
-    "cast-lead-3-nationalities": ["rus"],
+    "cast-lead-3-nationalities": ["rus", "jpn playing rus"],
     "cast-lead-3-genders": ["male", "cis"],
     "cast-lead-3-sexualities": ["ambiguous"],
     "cast-lead-3-ages": ["10-19"],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["yuri katsuki, viktor nikiforov, yuri plisetsky"],
 
     "data-version": "20200801"
 }
