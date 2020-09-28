@@ -18,12 +18,12 @@
     "production-tags": ["ac films", "participant media"],
     "production-geo": [""],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-nationalities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
-    "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-ethnicities": ["asian pacific"],
+    "cast-lead-1-nationalities": ["chn"],
+    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": ["60-69"],
+    "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["ai weiwei"],
 
     "data-version": "20200801"
 }
