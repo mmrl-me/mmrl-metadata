@@ -39,12 +39,12 @@
     "cast-lead-3-ages": ["00-09"],
     "cast-lead-3-z": ["ai"],
 
-    "cast-lead-4-ethnicities": ["asian pacific", "indigenous", "multi", "maori", "asian pacific playing alien"],
+    "cast-lead-4-ethnicities": ["asian pacific", "indigenous", "multi", "maori"],
     "cast-lead-4-nationalities": ["aus playing unknown"],
     "cast-lead-4-genders": ["male", "cis"],
     "cast-lead-4-sexualities": ["ambiguous"],
     "cast-lead-4-ages": ["20-29"],
-    "cast-lead-4-z": ["alien"],
+    "cast-lead-4-z": ["alien", "human playing alien"],
 
     "cast-lead-5-ethnicities": ["black", "multi"],
     "cast-lead-5-nationalities": ["usa playing unknown"],
