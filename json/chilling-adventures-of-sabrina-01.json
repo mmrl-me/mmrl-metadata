@@ -40,7 +40,7 @@
     "cast-lead-3-z": ["human"],
 
     "cast-lead-4-ethnicities": ["black"],
-    "cast-lead-4-nationalities": ["gbr", "usa", "gbr x usa playing gbr"],
+    "cast-lead-4-nationalities": ["gbr", "usa", "gbr, usa playing gbr"],
     "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": ["pansexual", "unknown", "unknown playing pansexual"],
     "cast-lead-4-ages": ["100+", "20-29", "20-29 playing 100+"],

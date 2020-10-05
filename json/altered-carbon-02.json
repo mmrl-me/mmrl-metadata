@@ -19,7 +19,7 @@
     "production-geo": ["canada", "vancouver"],
 
     "cast-lead-1-ethnicities": ["asian pacific", "black", "black playing asian pacific"],
-    "cast-lead-1-nationalities": ["jpn", "hun", "usa", "usa playing jpn x hun", "kor playing jpn x hun"],
+    "cast-lead-1-nationalities": ["jpn", "hun", "usa", "usa playing jpn, hun", "kor playing jpn, hun"],
     "cast-lead-1-genders": ["cis", "male", "male playing female"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["100+", "30-39", "30-39 playing 100+"],

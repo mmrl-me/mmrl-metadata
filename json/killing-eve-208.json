@@ -19,7 +19,7 @@
     "production-geo": ["london", "united kingdom"],
 
     "cast-lead-1-ethnicities": ["asian pacific"],
-    "cast-lead-1-nationalities": ["usa", "gbr", "can", "usa x can playing usa x gbr"],
+    "cast-lead-1-nationalities": ["usa", "gbr", "can", "usa, can playing usa, gbr"],
     "cast-lead-1-genders": ["cis", "female"],
     "cast-lead-1-sexualities": ["straight", "ambiguous", "homoerotic subtext"],  
     "cast-lead-1-ages": ["40-49"],

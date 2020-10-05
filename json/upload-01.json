@@ -19,14 +19,14 @@
     "production-geo": ["canada", "vancouver"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["usa", "can", "can x usa playing usa"],
+    "cast-lead-1-nationalities": ["usa", "can", "can, usa playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39", "20-29", "30-39 playing 20-29"],
     "cast-lead-1-z": ["ai"],
 
     "cast-lead-2-ethnicities": ["black"],
-    "cast-lead-2-nationalities": ["usa", "cmr", "usa x cmr playing usa"],
+    "cast-lead-2-nationalities": ["usa", "cmr", "usa, cmr playing usa"],
     "cast-lead-2-genders": ["cis", "female"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39"],

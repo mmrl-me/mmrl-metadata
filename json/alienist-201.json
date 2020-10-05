@@ -19,7 +19,7 @@
     "production-geo": ["hungary", "budapest"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["usa", "esp", "deu", "esp x deu playing usa"],
+    "cast-lead-1-nationalities": ["usa", "esp", "deu", "esp, deu playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["31-40"],

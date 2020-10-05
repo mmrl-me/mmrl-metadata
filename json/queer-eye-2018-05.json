@@ -26,7 +26,7 @@
     "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": ["asian pacific"],
-    "cast-lead-2-nationalities": ["usa", "gbr", "gbr x usa"],
+    "cast-lead-2-nationalities": ["usa", "gbr", "gbr, usa"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["gay"],
     "cast-lead-2-ages": ["30-39"],

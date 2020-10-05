@@ -19,14 +19,14 @@
     "production-geo": ["japan", "usa", "california", "los angeles"],
 
     "cast-lead-1-ethnicities": ["asian pacific"],
-    "cast-lead-1-nationalities": ["jpn", "hun", "jpn playing jpn x hun"],
+    "cast-lead-1-nationalities": ["jpn", "hun", "jpn playing jpn, hun"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["100+", "30-39", "30-39 playing 100+"],
     "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": ["asian pacific"],
-    "cast-lead-2-nationalities": ["jpn", "hun", "jpn playing jpn x hun"],
+    "cast-lead-2-nationalities": ["jpn", "hun", "jpn playing jpn, hun"],
     "cast-lead-2-genders": ["cis", "female"],
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": ["100+", "30-39", "30-39 playing 100+"],

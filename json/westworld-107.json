@@ -19,7 +19,7 @@
     "production-geo": ["usa", "california", "los angeles"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["gbr x usa"],
+    "cast-lead-1-nationalities": ["gbr, usa"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["70-79"],

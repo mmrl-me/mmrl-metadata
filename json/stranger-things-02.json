@@ -19,7 +19,7 @@
     "production-geo": ["usa", "georgia"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["can", "usa", "can x usa playing usa"],
+    "cast-lead-1-nationalities": ["can", "usa", "can, usa playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["ambiguous", "gay subtext"],
     "cast-lead-1-ages": ["10-19"],

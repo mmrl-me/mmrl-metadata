@@ -33,7 +33,7 @@
     "cast-lead-2-z": ["vampire"],
 
     "cast-lead-3-ethnicities": ["white"],
-    "cast-lead-3-nationalities": ["gbr", "cyp", "romani", "gbr x cyp playing romani"],
+    "cast-lead-3-nationalities": ["gbr", "cyp", "romani", "gbr, cyp playing romani"],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["pansexual", "unknown playing pansexual"],
     "cast-lead-3-ages": ["100+", "30-39", "30-39 playing 100+"],

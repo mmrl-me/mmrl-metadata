@@ -19,14 +19,14 @@
     "production-geo": ["south africa", "cape town"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["dnk", "dnk playing n/a"],
+    "cast-lead-1-nationalities": ["dnk", "unknown", "dnk playing unknown"],
     "cast-lead-1-genders": ["female"],
     "cast-lead-1-sexualities": [""],
     "cast-lead-1-ages": ["30-39", "unknown", "30-39 playing unknown"],
     "cast-lead-1-z": ["android"],
 
     "cast-lead-2-ethnicities": ["black"],
-    "cast-lead-2-nationalities": ["gbr", "gbr playing n/a"],
+    "cast-lead-2-nationalities": ["gbr", "unknown", "gbr playing unknown"],
     "cast-lead-2-genders": ["male"],
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": ["20-29", "unknown", "20-29 playing unknown"],

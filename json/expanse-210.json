@@ -19,7 +19,7 @@
     "production-geo": ["canada", "toronto"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["usa", "n/a", "usa playing n/a"],
+    "cast-lead-1-nationalities": ["usa", "unknown", "usa playing unknown"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["40-49"],
@@ -33,14 +33,14 @@
     "cast-lead-2-z": ["human"],
 
     "cast-lead-3-ethnicities": ["middle/near eastern"],
-    "cast-lead-3-nationalities": ["can", "n/a", "can playing n/a"],
+    "cast-lead-3-nationalities": ["can", "unknown", "can playing unknown"],
     "cast-lead-3-genders": ["cis", "male"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["50-59"],
     "cast-lead-3-z": ["human"],
 
     "cast-lead-4-ethnicities": ["black"],
-    "cast-lead-4-nationalities": ["gbr", "dom", "n/a", "gbr x dom playing n/a"],
+    "cast-lead-4-nationalities": ["gbr", "dom", "unknown", "gbr, dom playing unknown"],
     "cast-lead-4-genders": ["cis", "female"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
@@ -61,7 +61,7 @@
     "cast-lead-6-z": ["human"],
 
     "cast-lead-7-ethnicities": ["asian pacific"],
-    "cast-lead-7-nationalities": ["wsm", "nzl", "n/a", "wsm x nzl playing n/a"],
+    "cast-lead-7-nationalities": ["wsm", "nzl", "unknown", "wsm, nzl playing unknown"],
     "cast-lead-7-genders": ["cis", "female"],
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["20-29"],

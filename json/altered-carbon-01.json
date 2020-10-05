@@ -19,7 +19,7 @@
     "production-geo": ["canada", "vancouver"],
 
     "cast-lead-1-ethnicities": ["asian pacific", "white", "white playing asian pacific"],
-    "cast-lead-1-nationalities": ["jpn", "hun", "swe", "usa", "swe x usa playing jpn x hun"],
+    "cast-lead-1-nationalities": ["jpn", "hun", "swe", "usa", "swe, usa playing jpn, hun"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["100+", "30-39", "30-39 playing 100+"],
@@ -47,7 +47,7 @@
     "cast-lead-4-z": ["ai"],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
-    "cast-lead-5-nationalities": ["aus", "tib", "jpn", "hung", "aus x tib playing jpn x hun"],
+    "cast-lead-5-nationalities": ["aus", "tib", "jpn", "hung", "aus, tib playing jpn, hun"],
     "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": ["unknown", "straight", "straight playing unknown"],
     "cast-lead-5-ages": ["100+", "30-39", "30-39 playing 100+"],

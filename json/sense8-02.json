@@ -19,7 +19,7 @@
     "production-geo": ["usa", "illinois", "chicago", "kenya", "nairobi", "germany", "berlin", "mexico", "mexico city", "south korea", "seoul", "california", "san francisco", "india", "mumbai", "united kingdom", "london"],
 
     "cast-lead-1-ethnicities": ["black"],
-    "cast-lead-1-nationalities": ["ken", "usa", "ken x usa playing ken"],
+    "cast-lead-1-nationalities": ["ken", "usa", "ken, usa playing ken"],
     "cast-lead-1-genders": ["cis", "male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],

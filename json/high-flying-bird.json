@@ -26,7 +26,7 @@
     "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": ["black"],
-    "cast-lead-2-nationalities": ["usa", "deu", "deu x usa playing usa"],
+    "cast-lead-2-nationalities": ["usa", "deu", "deu, usa playing usa"],
     "cast-lead-2-genders": ["female", "cis"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["20-29"],

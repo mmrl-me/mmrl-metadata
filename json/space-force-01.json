@@ -47,7 +47,7 @@
     "cast-lead-4-z": ["human"],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
-    "cast-lead-5-nationalities": ["hkg x usa"],
+    "cast-lead-5-nationalities": ["hkg", "usa"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": ["30-39"],

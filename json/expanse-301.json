@@ -26,14 +26,14 @@
     "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": ["middle/near eastern"],
-    "cast-lead-2-nationalities": ["can", "n/a", "can playing n/a"],
+    "cast-lead-2-nationalities": ["can", "unknown", "can playing unknown"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["50-59"],
     "cast-lead-2-z": ["human"],
 
     "cast-lead-3-ethnicities": ["black"],
-    "cast-lead-3-nationalities": ["gbr", "dom", "n/a", "gbr x dom playing n/a"],
+    "cast-lead-3-nationalities": ["gbr", "dom", "unknown", "gbr, dom playing unknown"],
     "cast-lead-3-genders": ["cis", "female"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
@@ -47,7 +47,7 @@
     "cast-lead-4-z": ["human"],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
-    "cast-lead-5-nationalities": ["wsm", "nzl", "n/a", "wsm x nzl playing n/a"],
+    "cast-lead-5-nationalities": ["wsm", "nzl", "unknown", "wsm, nzl playing unknown"],
     "cast-lead-5-genders": ["cis", "female"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["20-29"],

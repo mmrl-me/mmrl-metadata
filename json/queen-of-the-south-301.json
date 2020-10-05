@@ -47,7 +47,7 @@
     "cast-lead-4-z": ["human"],
 
     "cast-lead-5-ethnicities": ["latinx"],
-    "cast-lead-5-nationalities": ["mex", "usa", "dom", "dom x usa playing mex"],
+    "cast-lead-5-nationalities": ["mex", "usa", "dom", "dom, usa playing mex"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["40-49"],
