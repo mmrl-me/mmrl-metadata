@@ -1,6 +1,6 @@
 {
     "name": "",
-    "name-key": "test-ages-6",
+    "name-key": "test-ages-7",
     "name-key-sub": "",
     "type": "test",
     "id": "",
@@ -22,21 +22,21 @@
     "cast-lead-1-nationalities": [""],
     "cast-lead-1-genders": [""],
     "cast-lead-1-sexualities": [""],
-    "cast-lead-1-ages": ["00-09 playing 20-29"],
+    "cast-lead-1-ages": ["00-09", "10-19", "20-29", "30-39", "40-49", "50-59", "60-69", "70-79", "80-89", "90-99", "unknown", "100+"],
     "cast-lead-1-z": [""],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
     "cast-lead-2-genders": [""],
     "cast-lead-2-sexualities": [""],
-    "cast-lead-2-ages": ["90-99 playing 70-79"],
+    "cast-lead-2-ages": ["100+", "unknown"],
     "cast-lead-2-z": [""],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-nationalities": [""],
     "cast-lead-3-genders": [""],
     "cast-lead-3-sexualities": [""],
-    "cast-lead-3-ages": [""],
+    "cast-lead-3-ages": ["20-29 playing 40-49", "80-89 playing 60-69"],
     "cast-lead-3-z": [""],
 
     "cast-lead-4-ethnicities": [""],
