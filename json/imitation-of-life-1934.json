@@ -50,7 +50,7 @@
     "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis", "male"],
     "cast-lead-5-sexualities": ["unknown"],
-    "cast-lead-5-ages": ["40-40", "50-59", "50-59 playing 40-49, 50-59"],
+    "cast-lead-5-ages": ["40-49", "50-59", "50-59 playing 40-49, 50-59"],
     "cast-lead-5-z": ["human"],
 
     "cast-lead-6-ethnicities": ["white"],
