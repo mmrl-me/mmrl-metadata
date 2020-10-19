@@ -1,0 +1,1369 @@
+{
+    "genders": [
+        {
+            "number": 1,
+            "id": "cis",
+            "count": 1050
+        },
+        {
+            "number": 2,
+            "id": "male",
+            "count": 594
+        },
+        {
+            "number": 3,
+            "id": "female",
+            "count": 482
+        },
+        {
+            "number": 4,
+            "id": "trans",
+            "count": 8
+        },
+        {
+            "number": 5,
+            "id": "unknown",
+            "count": 1
+        },
+        {
+            "number": 6,
+            "id": "male playing female",
+            "count": 1
+        },
+        {
+            "number": 7,
+            "id": "cis female playing unknown",
+            "count": 1
+        },
+        {
+            "number": 8,
+            "id": "cis female playing trans female",
+            "count": 1
+        },
+        {
+            "number": 9,
+            "id": "cis female playing cis male",
+            "count": 1
+        },
+        {
+            "number": 10,
+            "id": "cis female passing as male",
+            "count": 1
+        }
+    ],
+    "sexualities": [
+        {
+            "number": 1,
+            "id": "straight",
+            "count": 821
+        },
+        {
+            "number": 2,
+            "id": "ambiguous",
+            "count": 74
+        },
+        {
+            "number": 3,
+            "id": "gay",
+            "count": 50
+        },
+        {
+            "number": 4,
+            "id": "pansexual",
+            "count": 48
+        },
+        {
+            "number": 5,
+            "id": "lesbian",
+            "count": 35
+        },
+        {
+            "number": 6,
+            "id": "unknown",
+            "count": 21
+        },
+        {
+            "number": 7,
+            "id": "straight playing lesbian",
+            "count": 19
+        },
+        {
+            "number": 8,
+            "id": "bisexual",
+            "count": 10
+        },
+        {
+            "number": 9,
+            "id": "gay subtext",
+            "count": 9
+        },
+        {
+            "number": 10,
+            "id": "straight playing queer subtext",
+            "count": 8
+        },
+        {
+            "number": 11,
+            "id": "queer subtext",
+            "count": 8
+        },
+        {
+            "number": 12,
+            "id": "queer",
+            "count": 7
+        },
+        {
+            "number": 13,
+            "id": "asexual",
+            "count": 4
+        },
+        {
+            "number": 14,
+            "id": "unknown playing pansexual",
+            "count": 3
+        },
+        {
+            "number": 15,
+            "id": "straight playing unknown",
+            "count": 3
+        },
+        {
+            "number": 16,
+            "id": "unknown playing lesbian",
+            "count": 2
+        },
+        {
+            "number": 17,
+            "id": "straight playing pansexual",
+            "count": 2
+        },
+        {
+            "number": 18,
+            "id": "homoerotic subtext",
+            "count": 2
+        },
+        {
+            "number": 19,
+            "id": "gay playing straight",
+            "count": 2
+        },
+        {
+            "number": 20,
+            "id": "unknown playing straight",
+            "count": 1
+        },
+        {
+            "number": 21,
+            "id": "unknown playing gay",
+            "count": 1
+        },
+        {
+            "number": 22,
+            "id": "straight playing queer",
+            "count": 1
+        },
+        {
+            "number": 23,
+            "id": "straight playing gay",
+            "count": 1
+        },
+        {
+            "number": 24,
+            "id": "poly",
+            "count": 1
+        }
+    ],
+    "ethnicities": [
+        {
+            "number": 1,
+            "id": "white",
+            "count": 668
+        },
+        {
+            "number": 2,
+            "id": "black",
+            "count": 206
+        },
+        {
+            "number": 3,
+            "id": "latinx",
+            "count": 96
+        },
+        {
+            "number": 4,
+            "id": "asian pacific",
+            "count": 96
+        },
+        {
+            "number": 5,
+            "id": "middle/near eastern",
+            "count": 31
+        },
+        {
+            "number": 6,
+            "id": "multi",
+            "count": 25
+        },
+        {
+            "number": 7,
+            "id": "unknown",
+            "count": 12
+        },
+        {
+            "number": 8,
+            "id": "african american",
+            "count": 11
+        },
+        {
+            "number": 9,
+            "id": "south asian",
+            "count": 8
+        },
+        {
+            "number": 10,
+            "id": "middle/near eastern playing asian pacific",
+            "count": 8
+        },
+        {
+            "number": 11,
+            "id": "latinx playing unknown",
+            "count": 8
+        },
+        {
+            "number": 12,
+            "id": "latinx playing white",
+            "count": 7
+        },
+        {
+            "number": 13,
+            "id": "asian pacific playing unknown",
+            "count": 6
+        },
+        {
+            "number": 14,
+            "id": "black playing white",
+            "count": 5
+        },
+        {
+            "number": 15,
+            "id": "asian pacific playing white",
+            "count": 4
+        },
+        {
+            "number": 16,
+            "id": "white playing latinx",
+            "count": 3
+        },
+        {
+            "number": 17,
+            "id": "vietnamese american",
+            "count": 3
+        },
+        {
+            "number": 18,
+            "id": "afro puerto rican",
+            "count": 3
+        },
+        {
+            "number": 19,
+            "id": "afro latinx",
+            "count": 3
+        },
+        {
+            "number": 20,
+            "id": "white playing black",
+            "count": 2
+        },
+        {
+            "number": 21,
+            "id": "white playing asian pacific",
+            "count": 2
+        },
+        {
+            "number": 22,
+            "id": "indigenous",
+            "count": 2
+        },
+        {
+            "number": 23,
+            "id": "etherian",
+            "count": 2
+        },
+        {
+            "number": 24,
+            "id": "white playing middle/near eastern",
+            "count": 1
+        },
+        {
+            "number": 25,
+            "id": "tobagonian american",
+            "count": 1
+        },
+        {
+            "number": 26,
+            "id": "spanish",
+            "count": 1
+        },
+        {
+            "number": 27,
+            "id": "south asian american",
+            "count": 1
+        },
+        {
+            "number": 28,
+            "id": "pakistani american",
+            "count": 1
+        },
+        {
+            "number": 29,
+            "id": "ojibwe",
+            "count": 1
+        },
+        {
+            "number": 30,
+            "id": "maori",
+            "count": 1
+        },
+        {
+            "number": 31,
+            "id": "latinx playing black passing as white",
+            "count": 1
+        },
+        {
+            "number": 32,
+            "id": "japanese american",
+            "count": 1
+        },
+        {
+            "number": 33,
+            "id": "japanese",
+            "count": 1
+        },
+        {
+            "number": 34,
+            "id": "hispanic",
+            "count": 1
+        },
+        {
+            "number": 35,
+            "id": "black playing asian pacific",
+            "count": 1
+        },
+        {
+            "number": 36,
+            "id": "black passing as white",
+            "count": 1
+        }
+    ],
+    "nationalities": [
+        {
+            "number": 1,
+            "id": "usa",
+            "count": 695
+        },
+        {
+            "number": 2,
+            "id": "gbr",
+            "count": 194
+        },
+        {
+            "number": 3,
+            "id": "unknown",
+            "count": 132
+        },
+        {
+            "number": 4,
+            "id": "gbr playing unknown",
+            "count": 66
+        },
+        {
+            "number": 5,
+            "id": "gbr playing usa",
+            "count": 51
+        },
+        {
+            "number": 6,
+            "id": "usa playing unknown",
+            "count": 39
+        },
+        {
+            "number": 7,
+            "id": "mex",
+            "count": 35
+        },
+        {
+            "number": 8,
+            "id": "can",
+            "count": 23
+        },
+        {
+            "number": 9,
+            "id": "aus",
+            "count": 19
+        },
+        {
+            "number": 10,
+            "id": "jpn",
+            "count": 17
+        },
+        {
+            "number": 11,
+            "id": "gbr, usa playing usa",
+            "count": 16
+        },
+        {
+            "number": 12,
+            "id": "deu",
+            "count": 16
+        },
+        {
+            "number": 13,
+            "id": "dnk",
+            "count": 15
+        },
+        {
+            "number": 14,
+            "id": "rus",
+            "count": 14
+        },
+        {
+            "number": 15,
+            "id": "aus playing usa",
+            "count": 14
+        },
+        {
+            "number": 16,
+            "id": "dom",
+            "count": 13
+        },
+        {
+            "number": 17,
+            "id": "bra",
+            "count": 13
+        },
+        {
+            "number": 18,
+            "id": "tur",
+            "count": 11
+        },
+        {
+            "number": 19,
+            "id": "nzl",
+            "count": 11
+        },
+        {
+            "number": 20,
+            "id": "ind",
+            "count": 11
+        },
+        {
+            "number": 21,
+            "id": "dnk playing unknown",
+            "count": 11
+        },
+        {
+            "number": 22,
+            "id": "can playing unknown",
+            "count": 11
+        },
+        {
+            "number": 23,
+            "id": "chn",
+            "count": 9
+        },
+        {
+            "number": 24,
+            "id": "wsm, nzl playing unknown",
+            "count": 8
+        },
+        {
+            "number": 25,
+            "id": "wsm",
+            "count": 8
+        },
+        {
+            "number": 26,
+            "id": "gbr, dom playing unknown",
+            "count": 8
+        },
+        {
+            "number": 27,
+            "id": "col",
+            "count": 8
+        },
+        {
+            "number": 28,
+            "id": "wakanda",
+            "count": 7
+        },
+        {
+            "number": 29,
+            "id": "nor",
+            "count": 7
+        },
+        {
+            "number": 30,
+            "id": "fra",
+            "count": 7
+        },
+        {
+            "number": 31,
+            "id": "ita",
+            "count": 6
+        },
+        {
+            "number": 32,
+            "id": "can playing usa",
+            "count": 6
+        },
+        {
+            "number": 33,
+            "id": "tha playing unknown",
+            "count": 5
+        },
+        {
+            "number": 34,
+            "id": "tha",
+            "count": 5
+        },
+        {
+            "number": 35,
+            "id": "gbr, usa",
+            "count": 5
+        },
+        {
+            "number": 36,
+            "id": "esp",
+            "count": 5
+        },
+        {
+            "number": 37,
+            "id": "dom, usa playing mex",
+            "count": 5
+        },
+        {
+            "number": 38,
+            "id": "bra playing mex",
+            "count": 5
+        },
+        {
+            "number": 39,
+            "id": "usa playing wakanda",
+            "count": 4
+        },
+        {
+            "number": 40,
+            "id": "usa playing alien",
+            "count": 4
+        },
+        {
+            "number": 41,
+            "id": "swe",
+            "count": 4
+        },
+        {
+            "number": 42,
+            "id": "nzl playing usa",
+            "count": 4
+        },
+        {
+            "number": 43,
+            "id": "ken",
+            "count": 4
+        },
+        {
+            "number": 44,
+            "id": "hun",
+            "count": 4
+        },
+        {
+            "number": 45,
+            "id": "usa, gbr playing gbr",
+            "count": 3
+        },
+        {
+            "number": 46,
+            "id": "phl",
+            "count": 3
+        },
+        {
+            "number": 47,
+            "id": "kor",
+            "count": 3
+        },
+        {
+            "number": 48,
+            "id": "isl",
+            "count": 3
+        },
+        {
+            "number": 49,
+            "id": "hkg",
+            "count": 3
+        },
+        {
+            "number": 50,
+            "id": "chl",
+            "count": 3
+        },
+        {
+            "number": 51,
+            "id": "can, usa playing usa",
+            "count": 3
+        },
+        {
+            "number": 52,
+            "id": "usa, can playing usa, gbr",
+            "count": 2
+        },
+        {
+            "number": 53,
+            "id": "usa playing rus",
+            "count": 2
+        },
+        {
+            "number": 54,
+            "id": "usa playing mex",
+            "count": 2
+        },
+        {
+            "number": 55,
+            "id": "nzl playing gbr",
+            "count": 2
+        },
+        {
+            "number": 56,
+            "id": "mex playing col",
+            "count": 2
+        },
+        {
+            "number": 57,
+            "id": "ken, usa playing ken",
+            "count": 2
+        },
+        {
+            "number": 58,
+            "id": "jpn, phl",
+            "count": 2
+        },
+        {
+            "number": 59,
+            "id": "jpn playing unknown",
+            "count": 2
+        },
+        {
+            "number": 60,
+            "id": "jpn playing rus",
+            "count": 2
+        },
+        {
+            "number": 61,
+            "id": "jpn playing jpn, hun",
+            "count": 2
+        },
+        {
+            "number": 62,
+            "id": "gbr, usa playing gbr",
+            "count": 2
+        },
+        {
+            "number": 63,
+            "id": "gbr playing rus",
+            "count": 2
+        },
+        {
+            "number": 64,
+            "id": "gbr playing isl",
+            "count": 2
+        },
+        {
+            "number": 65,
+            "id": "dnk playing usa",
+            "count": 2
+        },
+        {
+            "number": 66,
+            "id": "chn, usa playing chn",
+            "count": 2
+        },
+        {
+            "number": 67,
+            "id": "chl, usa playing usa",
+            "count": 2
+        },
+        {
+            "number": 68,
+            "id": "bra playing usa",
+            "count": 2
+        },
+        {
+            "number": 69,
+            "id": "arg",
+            "count": 2
+        },
+        {
+            "number": 70,
+            "id": "yug playing tur",
+            "count": 1
+        },
+        {
+            "number": 71,
+            "id": "yug",
+            "count": 1
+        },
+        {
+            "number": 72,
+            "id": "vnm",
+            "count": 1
+        },
+        {
+            "number": 73,
+            "id": "ven playing col",
+            "count": 1
+        },
+        {
+            "number": 74,
+            "id": "ven",
+            "count": 1
+        },
+        {
+            "number": 75,
+            "id": "usa, cmr playing usa",
+            "count": 1
+        },
+        {
+            "number": 76,
+            "id": "usa playing usa, wakanda",
+            "count": 1
+        },
+        {
+            "number": 77,
+            "id": "usa playing jpn, hun",
+            "count": 1
+        },
+        {
+            "number": 78,
+            "id": "usa playing gbr, gha",
+            "count": 1
+        },
+        {
+            "number": 79,
+            "id": "usa playing gbr",
+            "count": 1
+        },
+        {
+            "number": 80,
+            "id": "usa playing fra, usa",
+            "count": 1
+        },
+        {
+            "number": 81,
+            "id": "usa playing fra",
+            "count": 1
+        },
+        {
+            "number": 82,
+            "id": "usa playing chn",
+            "count": 1
+        },
+        {
+            "number": 83,
+            "id": "usa playing can",
+            "count": 1
+        },
+        {
+            "number": 84,
+            "id": "tto, usa playing wakanda",
+            "count": 1
+        },
+        {
+            "number": 85,
+            "id": "tto",
+            "count": 1
+        },
+        {
+            "number": 86,
+            "id": "tib",
+            "count": 1
+        },
+        {
+            "number": 87,
+            "id": "swe, usa playing jpn, hun",
+            "count": 1
+        },
+        {
+            "number": 88,
+            "id": "swe playing col",
+            "count": 1
+        },
+        {
+            "number": 89,
+            "id": "sau playing unknown",
+            "count": 1
+        },
+        {
+            "number": 90,
+            "id": "sau",
+            "count": 1
+        },
+        {
+            "number": 91,
+            "id": "rus, isr playing rus",
+            "count": 1
+        },
+        {
+            "number": 92,
+            "id": "romani",
+            "count": 1
+        },
+        {
+            "number": 93,
+            "id": "prt playing col",
+            "count": 1
+        },
+        {
+            "number": 94,
+            "id": "prt",
+            "count": 1
+        },
+        {
+            "number": 95,
+            "id": "nld playing unknown",
+            "count": 1
+        },
+        {
+            "number": 96,
+            "id": "nga",
+            "count": 1
+        },
+        {
+            "number": 97,
+            "id": "multi",
+            "count": 1
+        },
+        {
+            "number": 98,
+            "id": "mex, ken playing wakanda",
+            "count": 1
+        },
+        {
+            "number": 99,
+            "id": "mac, nzl playing chn",
+            "count": 1
+        },
+        {
+            "number": 100,
+            "id": "mac",
+            "count": 1
+        },
+        {
+            "number": 101,
+            "id": "kor playing jpn, hun",
+            "count": 1
+        },
+        {
+            "number": 102,
+            "id": "ken, mex playing unknown",
+            "count": 1
+        },
+        {
+            "number": 103,
+            "id": "isr",
+            "count": 1
+        },
+        {
+            "number": 104,
+            "id": "isl playing unknown",
+            "count": 1
+        },
+        {
+            "number": 105,
+            "id": "irn",
+            "count": 1
+        },
+        {
+            "number": 106,
+            "id": "idn playing chn, idn",
+            "count": 1
+        },
+        {
+            "number": 107,
+            "id": "idn",
+            "count": 1
+        },
+        {
+            "number": 108,
+            "id": "hung",
+            "count": 1
+        },
+        {
+            "number": 109,
+            "id": "hkg, chn playing chn",
+            "count": 1
+        },
+        {
+            "number": 110,
+            "id": "hkg playing chn",
+            "count": 1
+        },
+        {
+            "number": 111,
+            "id": "gha",
+            "count": 1
+        },
+        {
+            "number": 112,
+            "id": "gbr, usa playing unknown",
+            "count": 1
+        },
+        {
+            "number": 113,
+            "id": "gbr, nga playing unknown",
+            "count": 1
+        },
+        {
+            "number": 114,
+            "id": "gbr, cyp playing romani",
+            "count": 1
+        },
+        {
+            "number": 115,
+            "id": "gbr playing ind",
+            "count": 1
+        },
+        {
+            "number": 116,
+            "id": "esp, deu playing usa",
+            "count": 1
+        },
+        {
+            "number": 117,
+            "id": "esp playing chl",
+            "count": 1
+        },
+        {
+            "number": 118,
+            "id": "dnk playing swe",
+            "count": 1
+        },
+        {
+            "number": 119,
+            "id": "deu, usa playing usa",
+            "count": 1
+        },
+        {
+            "number": 120,
+            "id": "deu playing unknown",
+            "count": 1
+        },
+        {
+            "number": 121,
+            "id": "cyp",
+            "count": 1
+        },
+        {
+            "number": 122,
+            "id": "cmr",
+            "count": 1
+        },
+        {
+            "number": 123,
+            "id": "chl playing unknown",
+            "count": 1
+        },
+        {
+            "number": 124,
+            "id": "che playing fra, rus",
+            "count": 1
+        },
+        {
+            "number": 125,
+            "id": "che",
+            "count": 1
+        },
+        {
+            "number": 126,
+            "id": "bra playing col",
+            "count": 1
+        },
+        {
+            "number": 127,
+            "id": "aus, tib playing jpn, hun",
+            "count": 1
+        },
+        {
+            "number": 128,
+            "id": "aus playing unknown",
+            "count": 1
+        },
+        {
+            "number": 129,
+            "id": "aus playing gbr",
+            "count": 1
+        },
+        {
+            "number": 130,
+            "id": "arg, esp playing mex",
+            "count": 1
+        },
+        {
+            "number": 131,
+            "id": "arg playing col",
+            "count": 1
+        }
+    ],
+    "ages": [
+        {
+            "number": 1,
+            "id": "30-39",
+            "count": 357
+        },
+        {
+            "number": 2,
+            "id": "40-49",
+            "count": 257
+        },
+        {
+            "number": 3,
+            "id": "20-29",
+            "count": 193
+        },
+        {
+            "number": 4,
+            "id": "50-59",
+            "count": 123
+        },
+        {
+            "number": 5,
+            "id": "10-19",
+            "count": 102
+        },
+        {
+            "number": 6,
+            "id": "60-69",
+            "count": 88
+        },
+        {
+            "number": 7,
+            "id": "unknown",
+            "count": 78
+        },
+        {
+            "number": 8,
+            "id": "30-39 playing 20-29",
+            "count": 34
+        },
+        {
+            "number": 9,
+            "id": "20-29 playing 10-19",
+            "count": 34
+        },
+        {
+            "number": 10,
+            "id": "100+",
+            "count": 24
+        },
+        {
+            "number": 11,
+            "id": "40-49 playing 30-39",
+            "count": 23
+        },
+        {
+            "number": 12,
+            "id": "70-79",
+            "count": 12
+        },
+        {
+            "number": 13,
+            "id": "30-39 playing 100+",
+            "count": 9
+        },
+        {
+            "number": 14,
+            "id": "40-49 playing 100+",
+            "count": 7
+        },
+        {
+            "number": 15,
+            "id": "60-69 playing 50-59",
+            "count": 5
+        },
+        {
+            "number": 16,
+            "id": "40-49 playing unknown",
+            "count": 5
+        },
+        {
+            "number": 17,
+            "id": "40-49 playing 20-29",
+            "count": 5
+        },
+        {
+            "number": 18,
+            "id": "30-39 playing 10-19",
+            "count": 5
+        },
+        {
+            "number": 19,
+            "id": "20-29 playing 30-39",
+            "count": 5
+        },
+        {
+            "number": 20,
+            "id": "90-99",
+            "count": 4
+        },
+        {
+            "number": 21,
+            "id": "80-89",
+            "count": 4
+        },
+        {
+            "number": 22,
+            "id": "20-29 playing unknown",
+            "count": 4
+        },
+        {
+            "number": 23,
+            "id": "00-09",
+            "count": 4
+        },
+        {
+            "number": 24,
+            "id": "70-79 playing 50-59",
+            "count": 3
+        },
+        {
+            "number": 25,
+            "id": "60-69 playing 10-19, 60-69",
+            "count": 3
+        },
+        {
+            "number": 26,
+            "id": "30-39 playing unknown",
+            "count": 3
+        },
+        {
+            "number": 27,
+            "id": "30-39 playing 30-39, 40-49",
+            "count": 3
+        },
+        {
+            "number": 28,
+            "id": "60-69 playing unknown",
+            "count": 2
+        },
+        {
+            "number": 29,
+            "id": "50-59 playing 100+",
+            "count": 2
+        },
+        {
+            "number": 30,
+            "id": "40-49 playing 50-59",
+            "count": 2
+        },
+        {
+            "number": 31,
+            "id": "30-39 playing 20-29, 30-39, 40-49",
+            "count": 2
+        },
+        {
+            "number": 32,
+            "id": "80-89 playing 90-99",
+            "count": 1
+        },
+        {
+            "number": 33,
+            "id": "70-79 playing 80-89",
+            "count": 1
+        },
+        {
+            "number": 34,
+            "id": "50-59 playing 40-49, 50-59",
+            "count": 1
+        },
+        {
+            "number": 35,
+            "id": "50-59 playing 10-19, 60-69",
+            "count": 1
+        },
+        {
+            "number": 36,
+            "id": "40-49 playing 40-49, 50-59, 60-69",
+            "count": 1
+        },
+        {
+            "number": 37,
+            "id": "40-49 playing 30-39, 40-49",
+            "count": 1
+        },
+        {
+            "number": 38,
+            "id": "40-49 playing 20-29, 30-39, 40-49",
+            "count": 1
+        },
+        {
+            "number": 39,
+            "id": "30-39 playing 10-19, 20-29, 40-49, 50-59, 60-69",
+            "count": 1
+        },
+        {
+            "number": 40,
+            "id": "20-29 playing 30-39, 40-49, 50-59",
+            "count": 1
+        },
+        {
+            "number": 41,
+            "id": "20-29 playing 100+",
+            "count": 1
+        },
+        {
+            "number": 42,
+            "id": "20-29 playing 10-19, 20-29, 30-39, 40-49",
+            "count": 1
+        },
+        {
+            "number": 43,
+            "id": "20-29 playing 10-19, 20-29",
+            "count": 1
+        }
+    ],
+    "z": [
+        {
+            "number": 1,
+            "id": "human",
+            "count": 956
+        },
+        {
+            "number": 2,
+            "id": "host",
+            "count": 58
+        },
+        {
+            "number": 3,
+            "id": "alien",
+            "count": 37
+        },
+        {
+            "number": 4,
+            "id": "human playing alien",
+            "count": 34
+        },
+        {
+            "number": 5,
+            "id": "sensate",
+            "count": 16
+        },
+        {
+            "number": 6,
+            "id": "ai",
+            "count": 16
+        },
+        {
+            "number": 7,
+            "id": "klingon",
+            "count": 8
+        },
+        {
+            "number": 8,
+            "id": "kelpien",
+            "count": 8
+        },
+        {
+            "number": 9,
+            "id": "hybrid",
+            "count": 6
+        },
+        {
+            "number": 10,
+            "id": "witch",
+            "count": 5
+        },
+        {
+            "number": 11,
+            "id": "unknown",
+            "count": 4
+        },
+        {
+            "number": 12,
+            "id": "superhero",
+            "count": 4
+        },
+        {
+            "number": 13,
+            "id": "metahuman",
+            "count": 4
+        },
+        {
+            "number": 14,
+            "id": "yoda",
+            "count": 3
+        },
+        {
+            "number": 15,
+            "id": "vampire",
+            "count": 3
+        },
+        {
+            "number": 16,
+            "id": "mandalorian",
+            "count": 3
+        },
+        {
+            "number": 17,
+            "id": "cyborg",
+            "count": 3
+        },
+        {
+            "number": 18,
+            "id": "artificial lifeform",
+            "count": 3
+        },
+        {
+            "number": 19,
+            "id": "cat",
+            "count": 2
+        },
+        {
+            "number": 20,
+            "id": "ape",
+            "count": 2
+        },
+        {
+            "number": 21,
+            "id": "android",
+            "count": 2
+        },
+        {
+            "number": 22,
+            "id": "unknown humanoid alien species",
+            "count": 1
+        },
+        {
+            "number": 23,
+            "id": "horse",
+            "count": 1
+        },
+        {
+            "number": 24,
+            "id": "first one",
+            "count": 1
+        },
+        {
+            "number": 25,
+            "id": "energy vampire",
+            "count": 1
+        },
+        {
+            "number": 26,
+            "id": "dog",
+            "count": 1
+        },
+        {
+            "number": 27,
+            "id": "clone",
+            "count": 1
+        }
+    ]
+}
