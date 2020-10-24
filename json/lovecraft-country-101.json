@@ -1,18 +1,18 @@
 {
-    "name": "",
+    "name": "Lovecraft Country",
     "name-key": "lovecraft-country-101",
     "name-key-sub": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "101",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt6905686",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Lovecraft_Country_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["drama", "horror", "supernatural", "fantasy", "mystery", "scifi", "thriller"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["racism", "segregation", "time paradox"],
+    "plot-geo": ["usa", "massachusetts", "devon county"],
+    "plot-date": ["1950s"],
 
     "distribution-tags": [""],
     "production-tags": [""],
@@ -42,7 +42,7 @@
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-nationalities": [""],
     "cast-lead-4-genders": [""],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-sexualities": ["gay"],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
 
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["atticus, george, leti, montrose"],
 
     "data-version": "20200801"
 }
