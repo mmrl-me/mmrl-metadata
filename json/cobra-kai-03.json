@@ -1,9 +1,9 @@
 {
     "name": "Cobra Kai",
-    "name-key": "cobra-kai-02",
+    "name-key": "cobra-kai-03",
     "name-key-sub": "",
     "type": "serial",
-    "id": "2",
+    "id": "3",
 
     "id-imdb": "https://www.imdb.com/title/tt7221388",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Cobra_Kai",
@@ -12,7 +12,7 @@
 
     "plot-tags": ["sequel", "karate kid", "father figure", "rivalry", "bullying", "minor character elaboration"],
     "plot-geo": ["usa", "california", "los angeles", "reseda"],
-    "plot-date": ["2019"],
+    "plot-date": ["2020"],
 
     "distribution-tags": ["sony pictures television", "youtube premium"],
     "production-tags": ["hurwitz & schlossberg productions", "overbrook entertainment", "sony pictures television"],
