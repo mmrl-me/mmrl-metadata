@@ -1,29 +1,29 @@
 {
-    "name": "",
+    "name": "The Lego Star Wars Holiday Special",
     "name-key": "lego-star-wars-holiday-special-2020",
     "name-key-sub": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt12885438/",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Lego_Star_Wars#Television_specials",
 
-    "genre-tags": [""],
+    "genre-tags": ["animation", "short", "action", "scifi"],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["holiday special", "time travel", "star wars", "parody", "life day"],
+    "plot-geo": ["space"],
+    "plot-date": ["35 aby"],
 
     "distribution-tags": ["disney+"],
-    "production-tags": [""],
-    "production-geo": [""],
+    "production-tags": ["atomic cartoons", "lucasfilm", "the lego group"],
+    "production-geo": ["usa", "california", "los angeles"],
 
-    "cast-lead-1-ethnicities": [""],
-    "cast-lead-1-nationalities": [""],
-    "cast-lead-1-genders": [""],
-    "cast-lead-1-sexualities": [""],
-    "cast-lead-1-ages": [""],
-    "cast-lead-1-z": [""],
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-nationalities": ["gbr", "unknown", "gbr playing unknown"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": ["20-29"],
+    "cast-lead-1-z": ["human"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": [""],
+    "notes": ["rey; other than that, every star wars character ever shows up but various versions and only for snippets?"],
 
     "data-version": "20200801"
 }
