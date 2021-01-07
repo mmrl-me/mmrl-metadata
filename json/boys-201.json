@@ -12,7 +12,7 @@
 
     "plot-tags": ["based on a comic book", "vigilante", "cia", "revenge", "superpowers", "alternate universe"],
     "plot-geo": ["usa", "new york", "new york city"],
-    "plot-date": ["present day"],
+    "plot-date": ["present day", "2019", "2020"],
 
     "distribution-tags": ["amazon prime video"],
     "production-tags": ["amazon studios", "original film", "point grey pictures", "sony pictures television"],
@@ -29,7 +29,7 @@
     "cast-lead-2-nationalities": ["usa"],
     "cast-lead-2-genders": ["male", "cis"],
     "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["unknown", "20-29", "20-29 playing unknown"],
+    "cast-lead-2-ages": ["20-29"],
     "cast-lead-2-z": ["human"],
 
     "cast-lead-3-ethnicities": ["white"],
@@ -43,22 +43,22 @@
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["female", "cis"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["unknown", "20-29", "20-29 playing unknown"],
+    "cast-lead-4-ages": ["20-29"],
     "cast-lead-4-z": ["human", "superhero"],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-nationalities": [""],
-    "cast-lead-5-genders": [""],
-    "cast-lead-5-sexualities": [""],
-    "cast-lead-5-ages": [""],
-    "cast-lead-5-z": [""],
+    "cast-lead-5-ethnicities": ["white"],
+    "cast-lead-5-nationalities": ["irl","usa", "irl playing usa"],
+    "cast-lead-5-genders": ["female", "cis"],
+    "cast-lead-5-sexualities": ["bisexual"],
+    "cast-lead-5-ages": ["30-39"],
+    "cast-lead-5-z": ["human", "superhero"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-nationalities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
-    "cast-lead-6-ages": [""],
-    "cast-lead-6-z": [""],
+    "cast-lead-6-ethnicities": ["black"],
+    "cast-lead-6-nationalities": ["usa"],
+    "cast-lead-6-genders": ["male", "cis"],
+    "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": ["30-39", "20-29", "20-29 playing 30-39"],
+    "cast-lead-6-z": ["human"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": ["billy butcher, hughie campbell, homelander, annie january/starlight"],
+    "notes": ["billy butcher, hughie campbell, homelander, annie january/starlight, queen maeve, a-train"],
 
     "data-version": "20200801"
 }
