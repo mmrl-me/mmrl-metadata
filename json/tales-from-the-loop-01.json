@@ -39,26 +39,26 @@
     "cast-lead-3-ages": ["40-49"],
     "cast-lead-3-z": ["human"],
 
-    "cast-lead-4-ethnicities": [""],
-    "cast-lead-4-nationalities": [""],
-    "cast-lead-4-genders": [""],
-    "cast-lead-4-sexualities": [""],
-    "cast-lead-4-ages": [""],
-    "cast-lead-4-z": [""],
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-nationalities": ["usa"],
+    "cast-lead-4-genders": ["male", "cis"],
+    "cast-lead-4-sexualities": ["straight"],
+    "cast-lead-4-ages": ["10-19"],
+    "cast-lead-4-z": ["human"],
 
-    "cast-lead-5-ethnicities": [""],
-    "cast-lead-5-nationalities": [""],
-    "cast-lead-5-genders": [""],
-    "cast-lead-5-sexualities": [""],
-    "cast-lead-5-ages": [""],
-    "cast-lead-5-z": [""],
+    "cast-lead-5-ethnicities": ["white"],
+    "cast-lead-5-nationalities": ["usa"],
+    "cast-lead-5-genders": ["male", "cis"],
+    "cast-lead-5-sexualities": ["straight"],
+    "cast-lead-5-ages": ["00-09"],
+    "cast-lead-5-z": ["human"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-nationalities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
-    "cast-lead-6-ages": [""],
-    "cast-lead-6-z": [""],
+    "cast-lead-6-ethnicities": ["black"],
+    "cast-lead-6-nationalities": ["usa"],
+    "cast-lead-6-genders": ["male", "cis"],
+    "cast-lead-6-sexualities": ["gay"],
+    "cast-lead-6-ages": ["40-49"],
+    "cast-lead-6-z": ["human"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": ["loretta, russ, george"],
+    "notes": ["loretta, russ, george, jakob, cole, gaddis"],
 
     "data-version": "20200801"
 }
