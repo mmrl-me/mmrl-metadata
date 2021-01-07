@@ -53,12 +53,12 @@
     "cast-lead-5-ages": ["50-59"],
     "cast-lead-5-z": ["human"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-nationalities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
-    "cast-lead-6-ages": [""],
-    "cast-lead-6-z": [""],
+    "cast-lead-6-ethnicities": ["white"],
+    "cast-lead-6-nationalities": ["usa"],
+    "cast-lead-6-genders": ["cis", "male"],
+    "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": ["60-69"],
+    "cast-lead-6-z": ["human"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -74,7 +74,7 @@
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
 
-    "notes": ["the protagonist, neil, priya, kat, andrei"],
+    "notes": ["the protagonist, neil, priya, kat, andrei, fay"],
 
     "data-version": "20200801"
 }
