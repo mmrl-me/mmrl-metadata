@@ -25,11 +25,11 @@
     "cast-lead-1-ages": ["40-49"],
     "cast-lead-1-z": ["human"],
 
-    "cast-lead-2-ethnicities": ["african american"],
+    "cast-lead-2-ethnicities": ["black"],
     "cast-lead-2-nationalities": ["usa"],
     "cast-lead-2-genders": ["female", "cis"],
     "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["40-49"],
+    "cast-lead-2-ages": ["40-49","50-59", "50-59 playing 40-49"],
     "cast-lead-2-z": ["human"],
 
     "cast-lead-3-ethnicities": ["white"],
@@ -40,24 +40,24 @@
     "cast-lead-3-z": ["human"],
 
     "cast-lead-4-ethnicities": ["black"],
-    "cast-lead-4-nationalities": ["usa playing unknown"],
+    "cast-lead-4-nationalities": ["usa","usa playing world x"],
     "cast-lead-4-genders": ["male", "cis"],
     "cast-lead-4-sexualities": ["gay"],
     "cast-lead-4-ages": ["unknown", "10-19"],
     "cast-lead-4-z": ["alien", "human", "human playing alien"],
 
     "cast-lead-5-ethnicities": ["black"],
-    "cast-lead-5-nationalities": ["usa playing unknown"],
+    "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["male", "cis"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["30-39"],
     "cast-lead-5-z": ["human"],
 
     "cast-lead-6-ethnicities": ["white"],
-    "cast-lead-6-nationalities": ["gbr playing unknown"],
+    "cast-lead-6-nationalities": ["gbr","gbr playing world x"],
     "cast-lead-6-genders": ["male"],
     "cast-lead-6-sexualities": ["straight"],
-    "cast-lead-6-ages": ["100+"],
+    "cast-lead-6-ages": ["100+", "30-39", "30-39 playing 100+"],
     "cast-lead-6-z": ["alien", "ai","artificial lifeform", "human", "human playing alien"],
 
     "cast-lead-7-ethnicities": [""],
