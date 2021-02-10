@@ -4,14 +4,16 @@ __Intro__
 
 Experimental schema for describing diversity and identity for individuals in and casts of media objects. Where *media object* is defined as a particular media instance: a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, a document containing a year of presidential tax reports, etc.
 
-This schema is in development, is considered experimental, and will remain versioned yet unfixed. Design goal is to represent Bechdel, Villalobos, Gagen, DuVernay tests. With additional tagging to quantify or infer “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags.  
+This schema is in development, is considered experimental, and will remain versioned yet stubbornly unfixed. Design goal is to  
 
-Other goals include 
-* enumerate six dimensions of identity: age, sexuality, gender, nationality, ethnicity, and "z" or transhuman/human/meta categories
-* enumerate a useful but minimal set of tags for describing each of the identity dimensions
-* providing a serialized form of metadata for each media object; useful for creating in-memory objects at runtime
-* support for mechanical/computational sorting and organizing of media objects by streaming platform, genre, and cast diversity
-* implementing lean data practices with "just enough" data to ask pre-defined data questions 
+__Goals__ 
+* Enumerate six dimensions of identity: age, sexuality, gender, nationality, ethnicity, and "z" or transhuman/human/meta categories
+* Enumerate a useful but minimal set of tags for describing each of the identity dimensions
+* Enumerate tags for common biases 
+* Represent Bechdel, Villalobos, Gagen, DuVernay tests. With additional tagging to quantify or infer “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags. 
+* Provide a serialized form of metadata for each media object; useful for creating in-memory objects at runtime
+* Support for mechanical/computational sorting and organizing of media objects by streaming platform, genre, and cast diversity
+* Implement lean data practices with "just enough" data to ask pre-defined data questions 
 
  __Background__
 
