@@ -4,9 +4,9 @@ __Intro__
 
 Experimental schema for describing diversity and identity for individuals in and casts of media objects. Where *media object* is defined as a particular media instance: a film, a season of a netflix show, an episode of a broadcast television series, a software release, an album release, a leak of a CDC report, a document containing a year of presidential tax reports, etc.
 
-This schema is in development, is considered experimental, and will remain versioned yet stubbornly unfixed. Design goal is to  
+This schema is in development, is considered experimental, and will remain versioned yet stubbornly unfixed. 
 
-__Goals__ 
+__Design Goals__ 
 * Enumerate six dimensions of identity: age, sexuality, gender, nationality, ethnicity, and "z" or transhuman/human/meta categories
 * Enumerate a useful but minimal set of tags for describing each of the identity dimensions
 * Enumerate tags for common biases 
