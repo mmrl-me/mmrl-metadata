@@ -2,6 +2,7 @@
     "name": "Space Force",
     "name-key": "space-force-01",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "1",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Space_Force_(TV_series)",
 
     "genre-tags": ["comedy"],
+    "bias-tags": [""],
 
     "plot-tags": ["space", "united states armed forces", "moon", "china", "politics"],
     "plot-geo": ["usa", "colorado", "wild horse", "washington dc"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["50-59"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": ["60-69"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": [""],
     "cast-lead-4-ages": ["20-29", "10-19", "20-29 playing 10-19"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
     "cast-lead-5-nationalities": ["hkg", "usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": ["30-39"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["black"],
     "cast-lead-6-nationalities": ["usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": ["30-39"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["usa"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["50-59"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["mark, adrian, tony, erin, chan, angela, maggie"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

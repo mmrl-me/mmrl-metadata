@@ -2,6 +2,7 @@
     "name": "Narcos: Mexico",
     "name-key": "narcos-mexico-01",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "1",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Narcos:_Mexico",
 
     "genre-tags": ["crime", "drama", "biography", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["war on drugs", "cartel", "dea", "narcotics", "marijuana", "corruption"],
     "plot-geo": ["mexico"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39", "40-49", "40-49 playing 30-39"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["latinx"],
     "cast-lead-2-nationalities": ["mex"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["latinx"],
     "cast-lead-3-nationalities": ["mex"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["latinx"],
     "cast-lead-4-nationalities": ["mex", "usa", "usa playing mex"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["latinx"],
     "cast-lead-5-nationalities": ["mex"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["50-59"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["40-49"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["latinx"],
     "cast-lead-7-nationalities": ["mex", "arg", "esp", "arg, esp playing mex"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["40-49"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["kiki, miguel, rafa, mika, don neto, kuykendall, nava"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

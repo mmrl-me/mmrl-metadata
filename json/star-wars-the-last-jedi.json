@@ -2,6 +2,7 @@
     "name": "Star Wars: Episode VIII - The Last Jedi",
     "name-key": "eoy-curiosities-leaks-2017-2018",
     "name-key-sub": "Star",
+    "name-key-canonical": "",
     "type": "film",
     "id": "",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Star_Wars%3A_The_Last_Jedi",
 
     "genre-tags": ["space opera", "action", "adventure", "fantasy", "scifi", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["sequet", "resistance", "jedi", "mutiny"],
     "plot-geo": ["canto bight", "ahch-to", "space"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa", "world x", "usa playing world x"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["60-69"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa", "world x", "usa playing world x"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa", "world x", "usa playing world x"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["50-59"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["black"],
     "cast-lead-5-nationalities": ["gbr", "nga", "world x", "gbr, nga playing world x"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["20-29"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["latinx"],
     "cast-lead-6-nationalities": ["usa", "world x", "usa playing world x"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["30-39"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["asian pacific"],
     "cast-lead-7-nationalities": ["usa", "world x", "usa playing world x"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["20-29"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["black", "unknown", "black playing unknown"],
     "cast-lead-8-nationalities": ["ken", "mex", "world x", "ken, mex playing world x"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["unknown"],
     "cast-lead-8-ages": ["30-39", "100+", "30-39 playing 100+"],
     "cast-lead-8-z": ["unknown humanoid alien species"],
+    "cast-lead-8-names": [""],
 
     "notes": ["rey, luke skywalker, kylo ren, leia organa, finn, poe dameron, rose, maz kanata"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

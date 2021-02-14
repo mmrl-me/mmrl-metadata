@@ -2,6 +2,7 @@
     "name": "Westworld",
     "name-key": "westworld-107",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "107",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
 
     "genre-tags": ["scifi", "drama", "western", "mystery", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["artificial intelligence", "robot", "android", "theme park", "remake", "murder", "old west"],
     "plot-geo": ["delos parks", "westworld park"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["70-79"],
     "cast-lead-1-z": ["human", "ai"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["black"],
     "cast-lead-2-nationalities": ["usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39"],
     "cast-lead-2-z": ["human", "host"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["black"],
     "cast-lead-3-nationalities": ["gbr"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["pansexual"],
     "cast-lead-3-ages": ["40-49", "30-39", "40-49 playing 30-39"],
     "cast-lead-3-z": ["host"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["pansexual"],
     "cast-lead-4-ages": ["50-59"],
     "cast-lead-4-z": ["host"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["60-69"],
     "cast-lead-5-z": ["human", "host", "hybrid"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["pansexual"],
     "cast-lead-6-ages": ["30-39"],
     "cast-lead-6-z": ["host"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["usa"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["pansexual"],
     "cast-lead-7-ages": ["30-39"],
     "cast-lead-7-z": ["host"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["white"],
     "cast-lead-8-nationalities": ["dnk"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["straight"],
     "cast-lead-8-ages": ["40-49"],
     "cast-lead-8-z": ["human"],
+    "cast-lead-8-names": [""],
 
     "notes": ["robert ford, charlotte hale, maeve millay, bernard, william, dolores abernathy, clementine, theresa"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

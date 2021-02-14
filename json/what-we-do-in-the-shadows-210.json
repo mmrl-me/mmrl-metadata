@@ -2,6 +2,7 @@
     "name": "What We Do in the Shadows",
     "name-key": "what-we-do-in-the-shadows-210",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "210",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)",
 
     "genre-tags": ["mockumentary", "comedy", "horror", "fantasy", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["vampire", "spinoff", "satire", "vampire hunter"],
     "plot-geo": ["usa", "new york city", "staten island"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["pansexual", "straight playing pansexual"],
     "cast-lead-1-ages": ["100+", "40-49", "40-49 playing 100+"],
     "cast-lead-1-z": ["vampire"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["gbr"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["pansexual", "unknown playing pansexual"],
     "cast-lead-2-ages": ["100+", "40-49", "40-49 playing 100+"],
     "cast-lead-2-z": ["vampire"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["gbr", "cyp", "romani", "gbr, cyp playing romani"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["pansexual", "unknown playing pansexual"],
     "cast-lead-3-ages": ["100+", "30-39", "30-39 playing 100+"],
     "cast-lead-3-z": ["vampire"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["latinx"],
     "cast-lead-4-nationalities": ["usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["pansexual", "queer"],
     "cast-lead-4-ages": ["20-29"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["pansexual", "straight playing pansexual"],
     "cast-lead-5-ages": ["100+", "40-49", "40-49 playing 100+"],
     "cast-lead-5-z": ["energy vampire"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["nandor, laszlo, nadja, guillermo, colin"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

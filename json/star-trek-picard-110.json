@@ -2,6 +2,7 @@
     "name": "Star Trek: Picard",
     "name-key": "star-trek-picard-110",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "110",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Star_Trek:_Picard",
 
     "genre-tags": ["action", "adventure", "drama", "scifi", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["sequel", "shared universe", "final mission", "space travel", "regret", "android"],
     "plot-geo": ["space"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["90-99", "80-89", "80-89 playing 90-99"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["can playing unknown"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["unknown", "30-39", "30-39 playing unknown"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["asian pacific", "white", "multi"],
     "cast-lead-3-nationalities": ["gbr, usa playing unknown"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["00-09", "20-29", "20-29 playing 00-09"],
     "cast-lead-3-z": ["ai"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["asian pacific", "indigenous", "multi", "maori"],
     "cast-lead-4-nationalities": ["aus playing unknown"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["ambiguous"],
     "cast-lead-4-ages": ["20-29"],
     "cast-lead-4-z": ["alien", "human playing alien"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["black", "multi"],
     "cast-lead-5-nationalities": ["usa playing unknown"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["unknown", "50-59", "50-59 playing unknown"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["latinx"],
     "cast-lead-6-nationalities": ["chl playing unknown"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["unknown", "40-49", "40-49 playing unknown"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": [""],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

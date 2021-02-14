@@ -2,6 +2,7 @@
     "name": "The Walking Dead",
     "name-key": "walking-dead-916",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "916",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)",
 
     "genre-tags": ["drama", "horror", "thriller", "zombie apocalypse", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["survival", "zombie", "virus", "based on comic", "gore", "character death", "community"],
     "plot-geo": ["usa", "georgia", "atlanta", "south"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["40-49"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["ambiguous"],
     "cast-lead-2-ages": ["40-49"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["40-49", "50-59"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39", "40-49"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": [""],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

@@ -2,6 +2,7 @@
     "name": "Blade Runner 2049",
     "name-key": "eoy-curiosities-leaks-2017-2018",
     "name-key-sub": "2049",
+    "name-key-canonical": "",
     "type": "film",
     "id": "",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Blade_Runner_2049",
 
     "genre-tags": ["action", "drama", "mystery", "science fiction"],
+    "bias-tags": [""],
 
     "plot-tags": ["replicant", "android", "detective", "cyberpunk", "artificial intelligence", "dystopia", "sequel", "corporation"],
     "plot-geo": ["los angeles"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["unknown"],
     "cast-lead-1-z": ["ai", "human", "unknown"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa playing unknown"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["unknown"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa playing unknown"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["ambiguous"],
     "cast-lead-3-ages": ["unknown"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa playing unknown"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["unknown"],
     "cast-lead-4-z": ["human", "ai", "unknown"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["nld playing unknown"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["ambiguous"],
     "cast-lead-5-ages": ["10-19"],
     "cast-lead-5-z": ["ai"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["k, niander wallace, lt. joshi, rick deckard, luv"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

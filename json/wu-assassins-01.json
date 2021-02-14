@@ -2,6 +2,7 @@
     "name": "Wu Assassins",
     "name-key": "wu-assassins-01",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "1",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Wu_Assassins",
 
     "genre-tags": ["action", "crime", "drama", "fantasy", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["martial arts", "supernatural", "action hero", "russian mob", "same sex kiss"],
     "plot-geo": ["usa", "california", "san francisco"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["asian pacific"],
     "cast-lead-2-nationalities": ["hkg", "chn", "hkg playing chn"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["50-59"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["asian pacific"],
     "cast-lead-3-nationalities": ["chn", "usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["asian pacific"],
     "cast-lead-4-nationalities": ["usa", "gbr", "gbr playing usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa", "can", "can playing usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["30-39"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["kai jin, uncle six, jenny wah, lu xin lee, christine c.g. gavin"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

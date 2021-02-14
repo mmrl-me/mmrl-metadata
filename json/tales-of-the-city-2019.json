@@ -2,6 +2,7 @@
     "name": "Tales of the City",
     "name-key": "tales-of-the-city-2019",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "1",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Tales_of_the_City_(2019_miniseries)",
 
     "genre-tags": ["drama", "miniseries", "diverse ensemble", "reboot", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["lgbtq", "homecoming", "queer history", "vito russo test", "hiv", "trans"],
     "plot-geo": ["usa", "california", "san francisco"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["50-59"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": ["80-89", "90-99", "80-89 playing 90-99"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa", "aus", "aus playing usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["gay"],
     "cast-lead-3-ages": ["40-49"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa", "can", "can playing usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["50-59"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa", "can", "can playing usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["lesbian"],
     "cast-lead-5-ages": ["30-39"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["latinx"],
     "cast-lead-6-nationalities": ["usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["bisexual", "queer"], 
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["asian pacific"],
     "cast-lead-7-nationalities": ["usa"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["lesbian", "queer"], 
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["black"],
     "cast-lead-8-nationalities": ["usa"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["gay"],
     "cast-lead-8-ages": ["30-39"],
     "cast-lead-8-z": ["human"],
+    "cast-lead-8-names": [""],
 
     "notes": ["mary ann singleton, anna madrigal, michael tolliver, brian hawkins, shawna hawkins, jake rodriguez, margot park, ben marshall"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

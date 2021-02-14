@@ -2,6 +2,7 @@
     "name": "The Good Fight",
     "name-key": "good-fight-301",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "301",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Good_Fight",
 
     "genre-tags": ["legal drama", "political drama", "crime", "drama", "spin off", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["law firm", "office politics", "female lawyer", "ponzi scheme"],
     "plot-geo": ["usa", "illinois", "chicago"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["60-69"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa", "gbr", "gbr playing usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["lesbian", "straight", "straight playing lesbian"],
     "cast-lead-2-ages": ["30-39"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["black"],
     "cast-lead-3-nationalities": ["usa", "gbr", "gbr playing usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["usa", "gbr", "gbr, usa playing usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["60-69"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["black"],
     "cast-lead-5-nationalities": ["usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["40-49"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["20-29"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["usa", "gbr", "gbr playing usa"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["40-49"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["diane, maia, lucca, adrian, liz, marissa, roland"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

@@ -2,6 +2,7 @@
     "name": "Altered Carbon: Resleeved",
     "name-key": "altered-carbon-resleeved",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "film",
     "id": "",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "",
 
     "genre-tags": ["anime", "action", "crime", "drama", "thriller", "scifi", "mystery"],
+    "bias-tags": [""],
 
     "plot-tags": ["cyberpunk", "yakuza", "manga", "tattoo artist", "artificial intelligence"],
     "plot-geo": ["latimer"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["100+", "30-39", "30-39 playing 100+"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["asian pacific"],
     "cast-lead-2-nationalities": ["jpn", "hun", "jpn playing jpn, hun"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": ["100+", "30-39", "30-39 playing 100+"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["asian pacific"],
     "cast-lead-3-nationalities": ["jpn"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": ["unknown", "20-29", "20-29 playing unknown"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["asian pacific"],
     "cast-lead-4-nationalities": ["jpn"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": [""],
     "cast-lead-4-ages": ["100+", "40-49", "40-49 playing 100+"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
     "cast-lead-5-nationalities": ["jpn"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": ["unknown", "40-49", "40-49 playing unknown"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["asian pacific"],
     "cast-lead-6-nationalities": ["jpn"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": ["unknown", "60-69", "60-69 playing unknown"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["asian pacific"],
     "cast-lead-7-nationalities": ["jpn"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": ["unknown", "60-69", "60-69 playing unknown"],
     "cast-lead-7-z": ["ai"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["takeshi, reileen, holly, tanaseda, shinji, genzo, ogai"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

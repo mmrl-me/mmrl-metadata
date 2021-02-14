@@ -2,6 +2,7 @@
     "name": "Sense8",
     "name-key": "sense8-03",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "3",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Sense8",
 
     "genre-tags": ["scifi", "drama", "mystery", "thriller"],
+    "bias-tags": [""],
 
     "plot-tags": ["diverse ensemble", "lgbtq", "psychic connection", "telepathy", "conspiracy"],
     "plot-geo": ["usa", "illinois", "chicago", "kenya", "nairobi", "germany", "berlin", "mexico", "mexico city", "south korea", "seoul", "california", "san francisco", "india", "mumbai", "united kingdom", "london"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human", "sensate"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["asian pacific"],
     "cast-lead-2-nationalities": ["kor"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-2-z": ["human", "sensate"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["lesbian"],
     "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-3-z": ["human", "sensate"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["asian pacific"],
     "cast-lead-4-nationalities": ["ind"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["20-29"],
     "cast-lead-4-z": ["human", "sensate"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["gbr", "isl", "gbr playing isl"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["20-29"],
     "cast-lead-5-z": ["human", "sensate"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["deu"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-6-z": ["human", "sensate"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["hispanic", "spanish"],
     "cast-lead-7-nationalities": ["esp"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["gay"],
     "cast-lead-7-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-7-z": ["human", "sensate"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["white"],
     "cast-lead-8-nationalities": ["usa"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["straight"],
     "cast-lead-8-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-8-z": ["human", "sensate"],
+    "cast-lead-8-names": [""],
 
     "notes": ["capheus onyango, sun bak, nomi marks, kala dandekar, riley blue, wolfgang bogdanow, lito rodriguez, will gorski"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

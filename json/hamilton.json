@@ -2,6 +2,7 @@
     "name": "Hamilton",
     "name-key": "hamilton",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "film",
     "id": "",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Hamilton_(2020_film)",
 
     "genre-tags": ["biography", "drama", "history", "musical", "fanfic", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["racebending", "american dream", "american revolution", "founding fathers", "broadway musical", "filmed stage production", "hip hop", "rap"],
     "plot-geo": ["usa", "new york city", "washington dc"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29", "30-39", "40-49", "30-39 playing 20-29, 30-39, 40-49"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["black", "white", "black playing white"],
     "cast-lead-2-nationalities": ["usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["20-29", "30-39", "40-49", "30-39 playing 20-29, 30-39, 40-49"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["asian pacific", "white", "asian pacific playing white"],
     "cast-lead-3-nationalities": ["usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["10-19", "20-29", "30-39", "40-49", "20-29 playing 10-19, 20-29, 30-39, 40-49"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["black", "white", "black playing white"],
     "cast-lead-4-nationalities": ["usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["20-29", "30-39", "40-49", "40-49 playing 20-29, 30-39, 40-49"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["latinx", "white", "latinx playing white"],
     "cast-lead-5-nationalities": ["usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["10-19", "20-29", "20-29 playing 10-19, 20-29"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["black", "white", "black playing white"],
     "cast-lead-6-nationalities": ["usa", "fra", "usa playing fra, usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["10-19", "20-29", "30-39", "40-49", "50-59", "60-69", "30-39 playing 10-19, 20-29, 40-49, 50-59, 60-69"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["black", "white", "black playing white"],
     "cast-lead-7-nationalities": ["usa"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["20-29", "30-39", "40-49", "50-59", "20-29 playing 30-39, 40-49, 50-59"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["black", "white", "black playing white"],
     "cast-lead-8-nationalities": ["usa"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["straight"],
     "cast-lead-8-ages": ["40-49", "50-59", "60-69", "40-49 playing 40-49, 50-59, 60-69"],
     "cast-lead-8-z": ["human"],
+    "cast-lead-8-names": [""],
 
     "notes": ["hamilton, burr, eliza, angelica, laurens/phillip, lafayette/jefferson, mulligan/madison, washington"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

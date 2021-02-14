@@ -2,6 +2,7 @@
     "name": "Vanguard",
     "name-key": "vanguard",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "film",
     "id": "",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Vanguard_(film)",
 
     "genre-tags": ["action", "adventure"],
+    "bias-tags": [""],
 
     "plot-tags": ["terrorism", "security"],
     "plot-geo": ["great britain", "london", "africa", "jiadebala", "uae", "dubai"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["60-69"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["asian pacific"],
     "cast-lead-2-nationalities": ["chn", "twn", "twn playing chn"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["50-59"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["middle/near eastern"],
     "cast-lead-3-nationalities": ["pse", "pse playing unknown"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["asian pacific"],
     "cast-lead-4-nationalities": ["chn"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
     "cast-lead-5-nationalities": ["chn"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["20-29"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["asian pacific"],
     "cast-lead-6-nationalities": ["chn"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["30-39"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["tang huanting, qin, omar, zhang kaixuan, lei zhenyu, mi ya"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

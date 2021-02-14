@@ -2,6 +2,7 @@
     "name": "Skam",
     "name-key": "skam-03",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "3",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Skam_(TV_series)",
 
     "genre-tags": ["teen drama", "romance", "diverse ensemble"],
+    "bias-tags": [""],
 
     "plot-tags": ["high school", "identity", "sexuality", "mental health", "relationships"],
     "plot-geo": ["norway", "oslo"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["gay"],
     "cast-lead-1-ages": ["10-19"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["nor"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["gay"],
     "cast-lead-2-ages": ["20-29"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["nor"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["gay"],
     "cast-lead-3-ages": ["10-19"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["nor"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["10-19"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["black"],
     "cast-lead-5-nationalities": ["nor"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["10-19"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["latinx", "multi"],
     "cast-lead-6-nationalities": ["nor"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["10-19"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["middle/near eastern"],
     "cast-lead-7-nationalities": ["nor"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["10-19"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
 
     "notes": ["isak valtersen, eskild tryggvasson, even bech næsheim, magnus fossbakken, mahdi disi, jonas noah vasquez, sana bakkoush"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

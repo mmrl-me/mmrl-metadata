@@ -2,6 +2,7 @@
     "name": "Stranger Things",
     "name-key": "stranger-things-02",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "2",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Stranger_Things",
 
     "genre-tags": ["scifi", "horror", "period drama", "fantasy", "mystery", "thriller"],
+    "bias-tags": [""],
 
     "plot-tags": ["supernatural", "government conspiracy", "telekinesis", "parallel universe"],
     "plot-geo": ["usa", "indiana", "hawkins"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["unknown"],
     "cast-lead-1-ages": ["10-19"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39", "40-49", "40-49 playing 30-39"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa", "gbr", "gbr playing usa"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["10-19"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["40-49"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["10-19"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa", "can", "can playing usa"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["10-19"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["black"],
     "cast-lead-7-nationalities": ["usa"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["10-19"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["white"],
     "cast-lead-8-nationalities": ["usa"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["straight"],
     "cast-lead-8-ages": ["10-19", "20-29", "20-29 playing 10-19"],
     "cast-lead-8-z": ["human"],
+    "cast-lead-8-names": [""],
 
     "notes": ["will byers, joyce byers, eleven/jane hopper, jim hopper, dustin henderson, mike wheeler, lucas sinclair, nancy wheeler"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }

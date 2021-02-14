@@ -2,6 +2,7 @@
     "name": "Game of Thrones",
     "name-key": "game-of-thrones-707",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "serial",
     "id": "707",
 
@@ -9,6 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Game_of_Thrones",
 
     "genre-tags": ["fantasy", "drama", "tragedy", "action", "adventure", "romance"],
+    "bias-tags": [""],
 
     "plot-tags": ["politics", "war between families", "iron throne", "dynasty"],
     "plot-geo": ["westeros", "essos"],
@@ -24,6 +26,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["40-49"],
     "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["unknown", "gbr", "gbr playing unknown"],
@@ -31,6 +34,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["40-49"],
     "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["unknown", "gbr", "gbr playing unknown"],
@@ -38,6 +42,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["unknown", "gbr", "gbr playing unknown"],
@@ -45,6 +50,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["unknown", "gbr", "gbr playing unknown"],
@@ -52,6 +58,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["10-19", "20-29", "20-29 playing 10-19"],
     "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["unknown", "gbr", "gbr playing unknown"],
@@ -59,6 +66,7 @@
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["10-19", "20-29", "20-29 playing 10-19"],
     "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["unknown", "gbr", "gbr playing unknown"],
@@ -66,6 +74,7 @@
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["10-19"],
     "cast-lead-7-z": ["human"],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": ["white"],
     "cast-lead-8-nationalities": ["unknown", "usa", "usa playing unknown"],
@@ -73,8 +82,9 @@
     "cast-lead-8-sexualities": ["straight"],
     "cast-lead-8-ages": ["30-39", "40-49", "40-49 playing 30-39"],
     "cast-lead-8-z": ["human"],
+    "cast-lead-8-names": [""],
     
     "notes": ["jaime lannister, cersei lannister, daenerys targeryen, jon snow, sansa stark, arya stark, bran stark, tyrion lannister"],
 
-    "data-version": "20200801"
+    "data-version": "20210214"
 }
