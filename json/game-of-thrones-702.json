@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Game_of_Thrones",
 
     "genre-tags": ["fantasy", "drama", "tragedy", "action", "adventure", "romance"],
-    "bias-tags": [""],
+    "bias-tags": ["W"],
 
     "plot-tags": ["politics", "war between families", "iron throne", "dynasty"],
     "plot-geo": ["westeros", "essos"],
