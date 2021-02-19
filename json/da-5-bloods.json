@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Da_5_Bloods",
 
     "genre-tags": ["adventure", "drama", "diverse ensemble"],
-    "bias-tags": [""],
+    "bias-tags": ["B", "X"],
 
     "plot-tags": ["vietnam war", "veterans", "us army", "treasure hunt"],
     "plot-geo": ["vietnam", "ho chi minh city"],

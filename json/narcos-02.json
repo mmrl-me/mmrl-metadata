@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Narcos",
 
     "genre-tags": ["crime", "drama", "thriller", "biography", "diverse ensemble"],
-    "bias-tags": [""],
+    "bias-tags": ["B"],
 
     "plot-tags": ["cartel", "kingpin", "narcotics", "cocaine", "dea", "pablo escobar"],
     "plot-geo": ["colombia"],
