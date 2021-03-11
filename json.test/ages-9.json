@@ -1,0 +1,80 @@
+{
+    "name": "",
+    "name-key": "test-ages-9",
+    "name-key-sub": "",
+    "type": "test",
+    "id": "",
+
+    "id-imdb": "",
+    "id-wikipedia": "",
+
+    "genre-tags": [""],
+
+    "plot-tags": [""],
+    "plot-geo": [""],
+    "plot-date": [""],
+
+    "distribution-tags": ["hbo"],
+    "production-tags": [""],
+    "production-geo": [""],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-nationalities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ages": ["00-09", "10-19", "20-29", "30-39", "40-49", "50-59", "60-69", "70-79", "80-89", "90-99", "unknown", "100+"],
+    "cast-lead-1-z": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-nationalities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ages": ["100+", "unknown"],
+    "cast-lead-2-z": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-nationalities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ages": ["20-29 playing 00-09", "70-79 playing 90-99"],
+    "cast-lead-3-z": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-nationalities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ages": ["10-19 playing unknown", "80-89 playing 100+"],
+    "cast-lead-4-z": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-nationalities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-nationalities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-nationalities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-nationalities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
+
+    "notes": [""],
+
+    "data-version": "20200801"
+}
