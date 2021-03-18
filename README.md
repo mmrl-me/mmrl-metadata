@@ -17,7 +17,7 @@ __Design Goals__
 
  __Background__
 
- * mailing list (ask for access): media-metadata-glyphs@googlegroups.com
+ * mailing list (ask for access): mmrl@googlegroups.com
  * Shared Google Drive (ask for access): https://drive.google.com/drive/folders/1ntRMW6nlBdmg9PC9DLw67l2im-vYcZYz
  * Research Questions: https://docs.google.com/document/d/1HOTHqnXEvVQruwxvVD_nsizBc_jA5eItwPY4wHyLkMU/edit#
  * Tagging Diary: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
