@@ -31,6 +31,7 @@ __Schema Description__
     "name": "",
     "name-key": "",
     "name-key-sub": "",
+    "name-key-canonical": "",
     "type": "",
     "id": "",
 
