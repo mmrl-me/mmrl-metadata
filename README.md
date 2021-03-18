@@ -1,4 +1,4 @@
-# alpha60-metadata
+# mmrl-metadata
 
 __Intro__
 
@@ -17,7 +17,7 @@ __Design Goals__
 
  __Background__
 
- * mailing list (ask for access): media-metadata-glyphs@googlegroups.com
+ * mailing list (ask for access): mmrl@googlegroups.com
  * Shared Google Drive (ask for access): https://drive.google.com/drive/folders/1ntRMW6nlBdmg9PC9DLw67l2im-vYcZYz
  * Research Questions: https://docs.google.com/document/d/1HOTHqnXEvVQruwxvVD_nsizBc_jA5eItwPY4wHyLkMU/edit#
  * Tagging Diary: https://docs.google.com/document/d/13EYleLGOzrNcB8ZtPQnwgNBLCf0IIjOl9Yq2rMCCDjY/edit
@@ -38,14 +38,19 @@ __Schema Description__
     "id-wikipedia": "",
 
     "genre-tags": [""],
+    "bias-tags": [""],
 
     "plot-tags": [""],
     "plot-geo": [""],
     "plot-date": [""],
 
     "distribution-tags": [""],
+    
     "production-tags": [""],
     "production-geo": [""],
+
+    "reception-positive-tags": [""],
+    "reception-negative-tags": [""],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-nationalities": [""],
@@ -53,6 +58,7 @@ __Schema Description__
     "cast-lead-1-sexualities": [""],
     "cast-lead-1-ages": [""],
     "cast-lead-1-z": [""],
+    "cast-lead-1-name": [""],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -60,20 +66,23 @@ __Schema Description__
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],
-
+    "cast-lead-2-name": [""],
+    
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-nationalities": [""],
     "cast-lead-3-genders": [""],
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
-
+    "cast-lead-3-name": [""],
+    
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-nationalities": [""],
     "cast-lead-4-genders": [""],
     "cast-lead-4-sexualities": [""],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
+    "cast-lead-4-name": [""],    
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -81,13 +90,15 @@ __Schema Description__
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
-
+    "cast-lead-5-name": [""],
+    
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
     "cast-lead-6-genders": [""],
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
+    "cast-lead-6-name": [""],    
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -95,6 +106,7 @@ __Schema Description__
     "cast-lead-7-sexualities": [""],
     "cast-lead-7-ages": [""],
     "cast-lead-7-z": [""],
+    "cast-lead-7-name": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
@@ -102,10 +114,11 @@ __Schema Description__
     "cast-lead-8-sexualities": [""],
     "cast-lead-8-ages": [""],
     "cast-lead-8-z": [""],
+    "cast-lead-8-name": [""],
 
     "notes": [""],
 
-    "data-version": "20200801"
+    "data-version": "20210317"
     }
 
     
