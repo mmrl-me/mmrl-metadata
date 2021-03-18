@@ -20,6 +20,9 @@
     "production-tags": ["walt disney pictures", "5000 broadway productions", "nevis productions", "old 320 sycamore pictures", "radicalmedia"],
     "production-geo": ["usa", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx", "white", "latinx playing white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["hamilton, burr, eliza, angelica, laurens/phillip, lafayette/jefferson, mulligan/madison, washington"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

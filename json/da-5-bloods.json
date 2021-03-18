@@ -20,6 +20,9 @@
     "production-tags": ["40 acres and a mule filmworks", "rahway road", "lloyd levin beatriz levin production"],
     "production-geo": ["vietnam", "ho chi minh city", "thailand", "chiang mai"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa", "gbr", "gbr playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["paul, otis, eddie, melvin, norman, david, vinh, hedy"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

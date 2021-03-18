@@ -20,6 +20,9 @@
     "production-tags": ["ac films", "participant media"],
     "production-geo": [""],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["chn"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["ai weiwei"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

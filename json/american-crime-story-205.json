@@ -20,6 +20,9 @@
     "production-tags": ["scott & larry productions", "color force", "ryan murphy productions", "fxp", "fox 21 television studios"],
     "production-geo": ["usa", "florida", "miami"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white", "latinx", "latinx playing white"],
     "cast-lead-1-nationalities": ["ita"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["gianni versace, andrew cunanan, antonio d'amico, donatella versace"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["atlas entertainment", "the stone quarry", "dc films"],
     "production-geo": ["usa", "washington dc", "spain", "andalucia", "almeria"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["isr", "world x", "isr playing world x"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["diana prince/wonder woman, steve trevor, barbara minerva, maxwell lord, antiope, hippolyta"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

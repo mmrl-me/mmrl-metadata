@@ -20,6 +20,9 @@
     "production-tags": ["sid gentle films ltd", "endeavour content"],
     "production-geo": ["london", "united kingdom"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["usa", "gbr", "can", "usa, can playing usa, gbr"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["eve, oksana"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

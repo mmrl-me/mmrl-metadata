@@ -19,6 +19,9 @@
     "production-tags": ["long pond", "kitty committee", "rough customer", "electric lady", "conway"],
     "production-geo": ["usa", "new york city", "hudson valley", "new york", "los angeles", "california"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -85,5 +88,5 @@
 
     "notes": ["taylor swift"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["jordan productions", "shark vs bear", "point grey pictures", "sony pictures television", "showtime networks"],
     "production-geo": ["usa", "california", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["mo monroe, blair pfaff, dawn towner, keith shankar"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

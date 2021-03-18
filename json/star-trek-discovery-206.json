@@ -20,6 +20,9 @@
     "production-tags": ["cbs television studios", "living dead guy productions", "master key production", "roddenberry entertainment", "secret hideout"],
     "production-geo": ["canada", "ontario", "toronto", "pinewood toronto studios"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa", "unknown", "usa playing unknown"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["michael burnham, saru, ash tyler, paul stamets, sylvia tilly, hugh culber, christopher pike"],
     
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

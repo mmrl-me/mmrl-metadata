@@ -20,6 +20,9 @@
     "production-tags": ["west & kucserka", "midnight radio", "abc signature studios"],
     "production-geo": ["usa", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black", "multi"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["rob, clyde, cherise, simon, mac, cameron"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

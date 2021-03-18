@@ -20,6 +20,9 @@
     "production-tags": ["dna tv", "fxp", "scott rudin productions"],
     "production-geo": ["usa", "california", "santa cruz", "san francisco", "uk"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific", "multi"],
     "cast-lead-1-nationalities": ["usa", "gbr", "gbr playing usa"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["lily, jamie (age is a guess - he graduated HS in 2008, which most likely makes him barely 30), forest, lyndon, stewart, katie"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

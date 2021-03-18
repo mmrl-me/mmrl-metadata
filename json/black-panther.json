@@ -20,6 +20,9 @@
     "production-tags": ["marvel studios"],
     "production-geo": ["usa", "oakland", "atlanta", "south korea", "new york city", "africa"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa", "world x", "usa playing world x"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["t'challa, n'jadaka, nakia, okoye, m'baku, ramonda, zuri"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

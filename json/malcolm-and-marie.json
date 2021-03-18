@@ -20,6 +20,9 @@
     "production-tags": ["black and white", "35mm"],
     "production-geo": ["usa", "california"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["female"],
@@ -86,5 +89,5 @@
 
     "notes": [""],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

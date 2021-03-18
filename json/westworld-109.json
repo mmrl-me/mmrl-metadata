@@ -20,6 +20,9 @@
     "production-tags": ["hbo entertainment", "kilter films", "bad robot productions", "warner bros television", "jerry weintraub productions"],
     "production-geo": ["usa", "california", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["gbr"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["maeve millay, bernard, william, logan, dolores abernathy, robert ford, ashley stubbs, teddy"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

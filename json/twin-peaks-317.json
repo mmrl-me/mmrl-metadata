@@ -20,6 +20,9 @@
     "production-tags": ["lynch/frost productions", "showtime", "twin peaks productions", "rancho rosa partnership"],
     "production-geo": ["usa", "washington", "california"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male","cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["dale cooper"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

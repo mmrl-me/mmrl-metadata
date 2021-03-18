@@ -20,6 +20,9 @@
     "production-tags": [""],
     "production-geo": [""],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-nationalities": [""],
     "cast-lead-1-genders": [""],
@@ -86,5 +89,5 @@
 
     "notes": [""],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

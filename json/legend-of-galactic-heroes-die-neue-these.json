@@ -20,6 +20,9 @@
     "production-tags": ["production i.g."],
     "production-geo": ["japan", "tokyo"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white", "asian pacific playing white"],
     "cast-lead-1-nationalities": ["jpn playing unknown"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["reinhard von lohengramm, yang wen-li"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

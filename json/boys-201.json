@@ -20,6 +20,9 @@
     "production-tags": ["amazon studios", "original film", "point grey pictures", "sony pictures television"],
     "production-geo": ["canada", "ontario", "toronto"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr", "nzl playing gbr"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["billy butcher, hughie campbell, homelander, annie january/starlight, queen maeve, a-train"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

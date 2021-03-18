@@ -20,6 +20,9 @@
     "production-tags": ["deedle-dee productions", "3 arts entertainment", "reunion pacific entertainment", "baral-waley productions", "amazon studios"],
     "production-geo": ["canada", "vancouver"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa", "can", "can, usa playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["nathan brown, nora antony, ingrid kannerman, aleesha, luke"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

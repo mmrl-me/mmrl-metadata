@@ -19,6 +19,9 @@
     "production-tags": ["cbs eye animation productions", "secret hideout", "important science", "roddenberry entertainment", "titmouse"],
     "production-geo": [""],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa playing unknown"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -85,5 +88,5 @@
 
     "notes": ["takedown"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

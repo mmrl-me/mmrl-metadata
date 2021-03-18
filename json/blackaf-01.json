@@ -20,6 +20,9 @@
     "production-tags": ["khalabo ink society", "le train train"],
     "production-geo": ["usa", "california", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["kenya barris, joya barris"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

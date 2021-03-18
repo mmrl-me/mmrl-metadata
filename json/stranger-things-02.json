@@ -20,6 +20,9 @@
     "production-tags": ["21 laps entertainment", "monkey massacre"],
     "production-geo": ["usa", "georgia"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["can", "usa", "can, usa playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["will byers, joyce byers, eleven/jane hopper, jim hopper, dustin henderson, mike wheeler, lucas sinclair, nancy wheeler"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

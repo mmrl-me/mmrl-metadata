@@ -20,6 +20,9 @@
     "production-tags": ["walt disney pictures", "jason t. reed productions", "good fear productions"],
     "production-geo": ["china", "new zealand", "auckland", "xinjiang"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["chn", "usa", "chn, usa playing chn"],
     "cast-lead-1-genders": ["cis", "female", "male", "cis female passing as male"],
@@ -86,5 +89,5 @@
 
     "notes": ["mulan, commander tung, bori khan, chen honghui, xianniang, the emperor"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

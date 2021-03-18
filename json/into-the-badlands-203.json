@@ -20,6 +20,9 @@
     "production-tags": ["millar/gough ink", "double feature films", "amc studios"],
     "production-geo": ["usa", "louisiana", "ireland"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["sunny, m.k., quinn, minerva"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

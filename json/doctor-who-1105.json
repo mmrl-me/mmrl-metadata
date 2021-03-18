@@ -20,6 +20,9 @@
     "production-tags": ["bbc studios"],
     "production-geo": ["united kingdom", "wales", "england"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["the doctor, graham o'brien, ryan sinclair, yasmin khan"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

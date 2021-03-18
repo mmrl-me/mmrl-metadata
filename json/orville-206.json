@@ -20,6 +20,9 @@
     "production-tags": ["fuzzy door productions", "20th century fox television"],
     "production-geo": ["usa", "california", "los angeles", "universal studios", "20th century fox studios"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["ed mercer, claire finn, gordon malloy, bortus, john lamarr, isaac"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

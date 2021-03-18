@@ -20,6 +20,9 @@
     "production-tags": ["sweatpants productions", "working title television", "universal television", "nbcuniversal international"],
     "production-geo": ["usa", "california", "san francisco", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["mary ann singleton, anna madrigal, michael tolliver, brian hawkins, shawna hawkins, jake rodriguez, margot park, ben marshall"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

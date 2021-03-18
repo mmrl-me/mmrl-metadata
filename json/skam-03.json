@@ -20,6 +20,9 @@
     "production-tags": ["nrk"],
     "production-geo": ["norway", "oslo"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["nor"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["isak valtersen, eskild tryggvasson, even bech næsheim, magnus fossbakken, mahdi disi, jonas noah vasquez, sana bakkoush"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["lucasfilm ltd"],
     "production-geo": ["ireland", "skellig michael", "england"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr", "unknown", "gbr playing unknown"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["rey, luke skywalker, kylo ren, leia organa, finn, poe dameron, rose, maz kanata"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

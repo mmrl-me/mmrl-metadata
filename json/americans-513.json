@@ -20,6 +20,9 @@
     "production-tags": ["nemo films", "amblin television", "fox television studios", "fox 21 television studios", "fx productions"],
     "production-geo": ["usa", "new york", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["rus", "usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["philip jennings", "elizabeth jennings", "henry jennings", "paige jennings", "stan beeman"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

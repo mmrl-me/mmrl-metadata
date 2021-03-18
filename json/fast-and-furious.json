@@ -20,6 +20,9 @@
     "production-tags": ["original film", "one race films", "mrc", "china film"],
     "production-geo": ["usa", "california", "los angeles", "aze", "dom", "georgia", "atlanta", "colorado", "can", "ontario", "are", "abu dhabi"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["multi", "ambiguous"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["dominic toretto, brian o'conner, luke hobbs, letty ortiz, mia toretto, deckard shaw, roman pearce, tej parker"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

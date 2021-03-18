@@ -20,6 +20,9 @@
     "production-tags": ["studio jms", "georgeville television", "venus castina llc", "elizabeth bay productions", "unpronounceable productions"],
     "production-geo": ["usa", "illinois", "chicago", "kenya", "nairobi", "germany", "berlin", "mexico", "mexico city", "south korea", "seoul", "california", "san francisco", "india", "mumbai", "united kingdom", "london"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["ken", "usa", "ken, usa playing ken"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["capheus onyango, sun bak, nomi marks, kala dandekar, riley blue, wolfgang bogdanow, lito rodriguez, will gorski"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

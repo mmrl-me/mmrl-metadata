@@ -20,6 +20,9 @@
     "production-tags": ["fxp", "two canoes pictures", "343 incorporated"],
     "production-geo": ["canada", "toronto"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["middle/near eastern"],
     "cast-lead-1-nationalities": ["irn", "gbr"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["nandor, laszlo, nadja, guillermo, colin"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

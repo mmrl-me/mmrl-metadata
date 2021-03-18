@@ -20,6 +20,9 @@
     "production-tags": ["virgo productions", "mythology entertainment", "phoenix pictures", "skydance television"],
     "production-geo": ["canada", "vancouver"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific", "white", "white playing asian pacific"],
     "cast-lead-1-nationalities": ["jpn", "hun", "swe", "usa", "swe, usa playing jpn, hun"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["takeshi kovacks, laurens bancroft, kristin ortega, edgar poe, reileen, vernon elliott, miriam bancroft, quell falconer"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

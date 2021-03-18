@@ -20,6 +20,9 @@
     "production-tags": ["gaumont international television"],
     "production-geo": ["colombia", "bogota", "cartagena"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["chl", "usa", "chl, usa playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["javier pena, gilberto rodriguez orejuela, helmer herrera, miguel rodriguez orejuela, jorge salcedo cabrera, guillermo pallomari, jose santacruz londono"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["china film (shanghai) international media co", "china film group corporation", "epitome capital", "shanghai lix entertainment", "shanghai tencent pictures culture media", "shenzhen media film & televison", "tencent pictures"],
     "production-geo": ["zambia", "uae", "dubai", "taiwan", "great britain", "london", "india"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["hkg", "chn", "hkg playing chn"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["tang huanting, qin, omar, zhang kaixuan, lei zhenyu, mi ya"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

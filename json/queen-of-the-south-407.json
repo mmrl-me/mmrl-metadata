@@ -20,6 +20,9 @@
     "production-tags": ["frequency films", "friendly films", "skeeter rosenbaum productions", "fox21 television studios", "universal cable productions"],
     "production-geo": ["usa", "texas", "dallas"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["mex", "bra", "bra playing mex"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["teresa mendoza, camila vargas, james valdez, kelly anne van awken, pote galvez"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

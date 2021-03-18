@@ -20,6 +20,9 @@
     "production-tags": ["justin roiland's solo vanity card productions", "important science", "20th century fox television"],
     "production-geo": ["usa"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white", "white playing unknown"],
     "cast-lead-1-nationalities": ["usa", "usa playing world x"],
     "cast-lead-1-genders": ["male"],
@@ -86,5 +89,5 @@
 
     "notes": ["korvo, terry, yumyulack, jesse, the pupa, tim"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

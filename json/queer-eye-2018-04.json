@@ -20,6 +20,9 @@
     "production-tags": ["scout productions", "itv entertainment"],
     "production-geo": ["usa", "atlanta"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["can"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["antoni porowski, tan france, karamo brown, bobby berk, jonathan van ness"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["virgo productions", "mythology entertainment", "phoenix pictures", "skydance television"],
     "production-geo": ["canada", "vancouver"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific", "black", "black playing asian pacific"],
     "cast-lead-1-nationalities": ["jpn", "hun", "usa", "usa playing jpn, hun", "kor playing jpn, hun"],
     "cast-lead-1-genders": ["cis", "male", "male playing female"],
@@ -86,5 +89,5 @@
 
     "notes": ["takeshi, edgar poe, danica harlan, trepp, dig 301/annabel lee, jaeger, quell falconer"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

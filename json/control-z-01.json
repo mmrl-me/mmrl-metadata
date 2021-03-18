@@ -21,6 +21,9 @@
     "production-tags": ["lemon studios"],
     "production-geo": ["mexico"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["mex"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["sofia herrera, javier williams, raul leon, isabela de la fuente"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

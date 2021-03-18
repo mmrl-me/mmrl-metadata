@@ -20,6 +20,9 @@
     "production-tags": ["plan b entertainment", "anonymous content", "netflix"],
     "production-geo": ["usa", "california", "los angeles", "new york", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa", "rus"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": [""],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

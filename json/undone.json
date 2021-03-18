@@ -20,6 +20,9 @@
     "production-tags": ["tornante company", "boxer vs raptor", "submarine amsterdam", "hive house project", "amazon studios"],
     "production-geo": ["usa", "illinois", "chicago"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["alma winograd-diaz, jacob winograd, camila diaz, sam, tunde, becca"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

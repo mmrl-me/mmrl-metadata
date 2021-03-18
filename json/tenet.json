@@ -20,6 +20,9 @@
     "production-tags": ["warner bros. pictures", "syncopy"],
     "production-geo": ["denmark", "estonia", "india", "italy", "norway", "united kingdom", "usa"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["the protagonist, neil, priya, kat, andrei, fay"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

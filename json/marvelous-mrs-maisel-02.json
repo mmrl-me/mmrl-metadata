@@ -20,6 +20,9 @@
     "production-tags": ["dorothy parker drank here productions"],
     "production-geo": ["usa", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["midge, suzie, joel, abe, rose, moishe"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

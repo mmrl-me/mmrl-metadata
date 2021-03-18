@@ -20,6 +20,9 @@
     "production-tags": ["idiot box productions", "circle of confusion", "skybound entertainment", "valhalla entertainment", "amc"],
     "production-geo": ["usa", "georgia"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["rick grimes, daryl dixon, carol peletier, michonne"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

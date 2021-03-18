@@ -20,6 +20,9 @@
     "production-tags": ["dundee productions", "hbo originals"],
     "production-geo": ["uk", "london", "leavesden", "warner bros studios"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["ryan clark, herman judd, matt spencer, iris kimura, bille mcevoy, rav mulcair"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

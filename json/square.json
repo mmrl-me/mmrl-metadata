@@ -20,6 +20,9 @@
     "production-tags": ["plattform produktion", "film i vast", "essential filmproduktion gmbh", "parisienne", "coproduction office", "sveriges television", "imperative entertainment", "arte france cinema", "zdf arte"],
     "production-geo": ["sweden", "stockholm", "gothenburg", "germany", "berlin"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["dnk", "swe", "dnk playing swe"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["christian, anne"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["anonymous content", "paramount television", "parliament of owls", "rubicon tv"],
     "production-geo": ["usa", "new york", "new york city"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["annie landsberg, owen milgrim, james mantleray, azumi fujita, greta mantleray, porter milgrim"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

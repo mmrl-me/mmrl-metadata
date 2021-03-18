@@ -20,6 +20,9 @@
     "production-tags": ["netflix", "tornante television", "shadowmachine", "boxer vs raptor"],
     "production-geo": ["usa", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -87,5 +90,5 @@
 
     "notes": ["bojack horseman, princess carolyn, diane nguyen, mr. peanutbutter, todd chavez"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

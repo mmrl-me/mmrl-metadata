@@ -20,6 +20,9 @@
     "production-tags": ["weiner bros", "picrow", "amazon studios"],
     "production-geo": ["romania", "constanta", "czech repubic", "prague"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr"],
     "cast-lead-1-genders": ["trans", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["candance, jack, ondine, george"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

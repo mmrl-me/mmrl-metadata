@@ -20,6 +20,9 @@
     "production-tags": ["boutique filmes"],
     "production-geo": ["brazil", "sao paulo"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black", "latinx"],
     "cast-lead-1-nationalities": ["bra"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["fernando carvalho, michele santana, ezequiel, rafael moreira, joana coelho"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["film afrika", "lit entertainment", "shadycat productions", "scott free productions"],
     "production-geo": ["south africa", "cape town"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["dnk", "unknown", "dnk playing unknown"],
     "cast-lead-1-genders": ["female"],
@@ -86,5 +89,5 @@
 
     "notes": ["mother, father, campion, sue, caleb,"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

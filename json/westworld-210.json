@@ -20,6 +20,9 @@
     "production-tags": ["hbo entertainment", "kilter films", "bad robot productions", "warner bros television"],
     "production-geo": ["usa", "california", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["dolores, william, maeve, logan, hector, sizemore, clementine, charlotte"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

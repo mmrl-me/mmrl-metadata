@@ -20,6 +20,9 @@
     "production-tags": ["paramount television", "studio t", "anonymous content", "vanessa productions, ltd", "stuma productions"],
     "production-geo": ["hungary", "budapest"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa", "esp", "deu", "esp, deu playing usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["takedown", "laszlo, john, sara"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

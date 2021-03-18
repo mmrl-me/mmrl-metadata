@@ -20,6 +20,9 @@
     "production-tags": ["tipping point films"],
     "production-geo": ["india"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["ind"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["dolly, brajesh, biswa, sunny, rocky"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

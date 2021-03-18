@@ -20,6 +20,9 @@
     "production-tags": ["high bridge productions", "crystal diner productions", "gran via productions", "sony pictures television", "amc"],
     "production-geo": ["usa", "new mexico", "albuquerque"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["saul goodman, mike ehrmantraut, kim wexler, howard hamlin, nacho varga, chuck mcgill"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

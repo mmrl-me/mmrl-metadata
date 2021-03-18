@@ -20,6 +20,9 @@
     "production-tags": ["invisible narratives", "catchlight studios", "platinum dunes"],
     "production-geo": ["usa", "california", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["multi", "white", "asian pacific"],
     "cast-lead-1-nationalities": ["nzl", "usa", "nzl playing usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["nico, sara, lester, emmett harland, may, piper griffin, michael dozer, william griffin"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

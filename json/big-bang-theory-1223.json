@@ -20,6 +20,9 @@
     "production-tags": ["chuck lorre productions", "warner bros television"],
     "production-geo": ["california", "burbank", "warner bros studios"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["male", "cis"],
@@ -87,5 +90,5 @@
 
     "notes": ["leonard hofstadter, sheldon cooper, penny, howard wolowitz, raj koothrappali, bernadette rotsenkowski, amy farrah fowler"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

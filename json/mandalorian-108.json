@@ -20,6 +20,9 @@
     "production-tags": ["lucasfilm", "fairview entertainment", "golem creations", "walt disney studios"],
     "production-geo": ["usa", "california", "manhattan beach studios"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["usa", "chl", "world x", "usa, chl playing world x"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["the mandalorian, the child, gideon, ig-11, cara dune, greef karga"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

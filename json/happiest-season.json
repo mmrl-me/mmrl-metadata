@@ -20,6 +20,9 @@
     "production-tags": ["tristar pictures", "entertainment one", "temple hill entertainment", "tristar productions"],
     "production-geo": ["usa", "pennsylvania", "pittsburgh"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["abby, harper, sloane, riley, john, jane, ted, tipper"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

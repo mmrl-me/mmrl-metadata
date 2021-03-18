@@ -20,6 +20,9 @@
     "production-tags": ["claussen + putz filmproduktion"],
     "production-geo": ["germany", "munich", "frieburg"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["deu"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["mia akerlund, tanja lorenz, niklas, jasper"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

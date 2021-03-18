@@ -20,6 +20,9 @@
     "production-tags": ["berlanti productions", "jeremy carver productions", "dc entertainment", "warner bros television"],
     "production-geo": ["usa", "georgia"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["jane, rita farr, vic stone, larry trainor, cliff steele, the chief, eric morden"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

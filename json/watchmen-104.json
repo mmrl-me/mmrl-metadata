@@ -20,6 +20,9 @@
     "production-tags": ["white rabbit, paramount television, dc entertainment, warner bros television"],
     "production-geo": ["USA", "georgia"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["female", "cis"],
@@ -86,5 +89,5 @@
 
     "notes": ["angela abar, judd crawford, adrian veidt, wade tillman, laurie blake, will reeves, cal abar/dr. manhattan, lady trieu; vietnam is an american state in this universe"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

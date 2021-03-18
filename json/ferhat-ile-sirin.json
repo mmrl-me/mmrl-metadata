@@ -20,6 +20,9 @@
     "production-tags": ["artistanbul", "03 turkey medya"],
     "production-geo": ["turkey", "istanbul"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["middle/near eastern"],
     "cast-lead-1-nationalities": ["tur"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["banu, ferhat, sirin, husrev, yigit"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

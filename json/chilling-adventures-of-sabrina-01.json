@@ -20,6 +20,9 @@
     "production-tags": ["archie comics", "warner bros television", "berlanti productions"],
     "production-geo": ["canada", "vancouver"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "female"],
@@ -86,5 +89,5 @@
 
     "notes": ["takedown", "sabrina, zelda, harvey, ambrose, prudence, roz, theo, hilda"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

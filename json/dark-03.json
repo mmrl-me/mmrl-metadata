@@ -20,6 +20,9 @@
     "production-tags": ["wiedemann & berg television"],
     "production-geo": ["germany"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["deu"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["jonas, martha, hannah, ullrich, katharina, claudia, regina", "gets tagged on wikipedia as 2010s lgbt-related drama television series, probably because there is a trans sex worker and two secondary possibly lesbian characters"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

@@ -20,6 +20,9 @@
     "production-tags": ["studio anima", "keywords studios los angeles"],
     "production-geo": ["japan", "usa", "california", "los angeles"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["jpn", "hun", "jpn playing jpn, hun"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["takeshi, reileen, holly, tanaseda, shinji, genzo, ogai"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

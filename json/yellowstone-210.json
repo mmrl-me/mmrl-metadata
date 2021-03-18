@@ -20,6 +20,9 @@
     "production-tags": ["linson entertainment", "bosque ranch productions", "treehouse films", "101 studios"],
     "production-geo": ["usa", "montana", "utah"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["takedown", "john dutton, kayce dutton, beth dutton, jamie dutton"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

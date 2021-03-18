@@ -20,6 +20,9 @@
     "production-tags": ["bozdag film", "tekden film"],
     "production-geo": ["turkey", "istanbul"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["middle/near eastern"],
     "cast-lead-1-nationalities": ["tur"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["osman, sofia, bamsi, dundar, alisar, bala"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }

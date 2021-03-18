@@ -20,6 +20,9 @@
     "production-tags": ["gaumont international television"],
     "production-geo": ["mexico"],
 
+    "reception-positive": [""],
+    "reception-negative": [""],
+
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["mex", "usa", "usa playing mex"],
     "cast-lead-1-genders": ["cis", "male"],
@@ -86,5 +89,5 @@
 
     "notes": ["kiki, miguel, rafa, mika, don neto, kuykendall, nava"],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }
