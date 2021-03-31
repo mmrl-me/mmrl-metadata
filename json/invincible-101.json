@@ -1,12 +1,12 @@
 {
-    "name": "",
+    "name": "Invincible",
     "name-key": "invincible-101",
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "101",
 
-    "id-imdb": "",
+    "id-imdb": "https://www.imdb.com/title/tt6741278",
     "id-wikipedia": "",
 
     "genre-tags": [""],
@@ -16,8 +16,8 @@
     "plot-geo": [""],
     "plot-date": [""],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
+    "distribution-tags": ["amazon prime video"],
+    "production-tags": ["amazon studios", "image comics", "skybound entertainment"],
     "production-geo": [""],
 
     "reception-positive": [""],
@@ -88,7 +88,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-name": [""],
 
-    "notes": [""],
+    "notes": ["takedown"],
 
     "data-version": "20210214"
 }
