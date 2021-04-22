@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["unknown", "white", "white playing unknown"],
     "cast-lead-1-nationalities": ["usa"],
-    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["50-59", "40-49", "40-49 playing 50-59)],
     "cast-lead-1-z": ["human", "animal", "horse", "multi"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["unknown", "white", "white playing unknown"],
     "cast-lead-2-nationalities": ["usa"],
-    "cast-lead-2-genders": ["female", "cis"],
+    "cast-lead-2-genders": ["cis female"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["40-49", "50-59", "50-59 playing 40-49)],
     "cast-lead-2-z": ["human", "animal", "cat", "multi"],
@@ -41,7 +41,7 @@
 
     "cast-lead-3-ethnicities": ["asian pacific", "vietnamese american", "white", "white playing asian pacific"],
     "cast-lead-3-nationalities": ["usa"],
-    "cast-lead-3-genders": ["female", "cis"],
+    "cast-lead-3-genders": ["cis female"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39", "40-49", "30-39 playing 30-39, 40-49)],
     "cast-lead-3-z": ["human"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["unknown", "white", "white playing unknown"],
     "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["male", "cis"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["40-49", "50-59"],
     "cast-lead-4-z": ["human", "animal", "dog", "multi"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["white", "latinx", "ambiguous", "white playing ambiguous"],
     "cast-lead-5-nationalities": ["usa"],
-    "cast-lead-5-genders": ["male", "cis"],
+    "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight", "asexual"],
     "cast-lead-5-ages": ["20-29", "30-39," "40-49", "30-39, 40-49 playing 20-29, 30-39"],
     "cast-lead-5-z": ["human"],
@@ -65,7 +65,7 @@
 
     "cast-lead-6-ethnicities": ["unknown", "black", "black playing unknown"],
     "cast-lead-6-nationalities": ["usa"],
-    "cast-lead-6-genders": ["male", "cis"],
+    "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["unknown," "20-29", "20-29 playing unknown"],
     "cast-lead-6-z": ["human", "animal", "buffalo", "multi"],
