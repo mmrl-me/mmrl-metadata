@@ -12,13 +12,13 @@
     "genre-tags": ["visual album", "music", "fantasy", "drama", "adventure"],
     "bias-tags": [""],
 
-    "plot-tags": ["black lives matter", "the lion king"],
+    "plot-tags": ["black lives matter", "the lion king", "afrofuturism"],
     "plot-geo": ["africa"],
     "plot-date": [""],
 
     "distribution-tags": ["disney+"],
     "production-tags": ["walt disney pictures", "parkwood entertainment"],
-    "production-geo": ["usa"],
+    "production-geo": ["usa", "nigeria", "south africa", "ghana", "united kingdom"],
 
     "reception-positive": [""],
     "reception-negative": [""],
@@ -29,7 +29,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["spirit ancestor", "beyoncé knowles carter"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["beyoncé"],
+    "notes": [""],
 
     "data-version": "20210317"
 }
