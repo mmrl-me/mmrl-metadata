@@ -20,8 +20,8 @@
     "production-tags": ["walt disney pictures", "5000 broadway productions", "nevis productions", "old 320 sycamore pictures", "radicalmedia"],
     "production-geo": ["usa", "new york city"],
 
-    "reception-positive": ["educational use"],
-    "reception-negative": ["historical inaccuracy"],
+    "reception-positive": ["educational use", "make american history sexy again"],
+    "reception-negative": ["historical inaccuracy", "these dudes are all slaveowners"],
 
     "cast-lead-1-ethnicities": ["latinx", "white", "latinx playing white"],
     "cast-lead-1-nationalities": ["usa"],
