@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
 
     "genre-tags": ["scifi", "drama", "western", "mystery", "diverse ensemble"],
-    "bias-tags": [""],
+    "bias-tags": ["Y"],
 
     "plot-tags": ["dystopia", "artificial intelligence", "robot", "android", "theme park", "remake", "murder", "old west", "diverse ensemble"],
     "plot-geo": ["usa", "california", "los angeles"],
@@ -21,7 +21,7 @@
     "production-geo": ["usa", "california", "los angeles", "singapore"],
 
     "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-negative": ["draining and convoluted plot"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
