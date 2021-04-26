@@ -23,21 +23,21 @@
     "reception-positive": [""],
     "reception-negative": [""],
 
-    "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["dnk", "unknown", "dnk playing unknown"],
-    "cast-lead-1-genders": ["female"],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ethnicities": ["white", "unknown", "white playing unknown"],
+    "cast-lead-1-nationalities": ["dnk", "world x", "dnk playing world x"],
+    "cast-lead-1-genders": ["cis female"],
+    "cast-lead-1-sexualities": ["unknown"],
     "cast-lead-1-ages": ["30-39", "unknown", "30-39 playing unknown"],
-    "cast-lead-1-z": ["android"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-z": ["ai"],
+    "cast-lead-1-names": ["mother", "amanda collin"],
 
     "cast-lead-2-ethnicities": ["black"],
-    "cast-lead-2-nationalities": ["gbr", "unknown", "gbr playing unknown"],
-    "cast-lead-2-genders": ["male"],
-    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-nationalities": ["gbr", "world x", "gbr playing world x"],
+    "cast-lead-2-genders": ["cis male"],
+    "cast-lead-2-sexualities": ["unknown"],
     "cast-lead-2-ages": ["20-29", "unknown", "20-29 playing unknown"],
-    "cast-lead-2-z": ["android"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-z": ["ai"],
+    "cast-lead-2-names": ["father", "abubakar salim"],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["aus"],
@@ -45,7 +45,7 @@
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": ["10-19"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["campion"],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["gbr"],
@@ -53,7 +53,7 @@
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["20-29"],
     "cast-lead-4-z": ["human"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-names": ["sue"],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["aus"],
@@ -61,7 +61,7 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["40-49"],
     "cast-lead-5-z": ["human"],
-    "cast-lead-5-names": [""],
+    "cast-lead-5-names": ["caleb"],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["mother, father, campion, sue, caleb,"],
+    "notes": [""],
 
     "data-version": "20210317"
 }
