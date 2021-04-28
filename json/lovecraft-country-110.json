@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Lovecraft_Country_(TV_series)",
 
     "genre-tags": ["drama", "horror", "supernatural", "fantasy", "mystery", "scifi", "thriller"],
-    "bias-tags": [""],
+    "bias-tags": ["V"],
 
     "plot-tags": ["racism", "segregation", "time paradox", "closeted gay", "lesbian relationship"],
     "plot-geo": ["usa", "massachusetts", "devon county"],
@@ -21,7 +21,7 @@
     "production-geo": ["usa", "georgia", "atlanta", "illinois", "elburn", "odell"],
 
     "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-negative": ["violence", "unintentionally reifies stereotypes"],
 
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
@@ -29,15 +29,15 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["atticus"],
 
-    "cast-lead-2-ethnicities": ["black"],
-    "cast-lead-2-nationalities": ["usa"],
-    "cast-lead-2-genders": ["cis", "male"],
-    "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["60-69"],
-    "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-nationalities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
+    "cast-lead-2-names": ["diana"],
 
     "cast-lead-3-ethnicities": ["black"],
     "cast-lead-3-nationalities": ["usa"],
@@ -45,15 +45,15 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["leti"],
 
-    "cast-lead-4-ethnicities": ["black"],
-    "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["cis", "male"],
-    "cast-lead-4-sexualities": ["gay", "straight", "straight playing gay"],
-    "cast-lead-4-ages": ["50-59"],
-    "cast-lead-4-z": ["human"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-nationalities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
+    "cast-lead-4-names": ["christina"],
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -61,7 +61,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
-    "cast-lead-5-names": [""],
+    "cast-lead-5-names": ["ruby"],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -69,7 +69,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
-    "cast-lead-6-names": [""],
+    "cast-lead-6-names": ["ji-ah"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["atticus, george, leti, montrose"],
+    "notes": [""],
 
     "data-version": "20210317"
 }
