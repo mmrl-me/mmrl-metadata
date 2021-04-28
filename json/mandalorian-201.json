@@ -20,24 +20,24 @@
     "production-tags": ["lucasfilm", "fairview entertainment", "golem creations", "walt disney studios"],
     "production-geo": ["usa", "california", "manhattan beach studios"],
 
-    "reception-positive": [""],
+    "reception-positive": ["BABY YODA"],
     "reception-negative": [""],
 
     "cast-lead-1-ethnicities": ["latinx", "latinx playing unknown"],
-    "cast-lead-1-nationalities": ["usa", "chl", "unknown", "usa, chl playing unknown"],
-    "cast-lead-1-genders": ["cis", "male"],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-nationalities": ["usa", "chl", "world x", "usa, chl playing world x"],
+    "cast-lead-1-genders": ["cis male"],
+    "cast-lead-1-sexualities": ["unknown"],
     "cast-lead-1-ages": ["40-49", "unknown", "40-49 playing unknown"],
     "cast-lead-1-z": ["mandalorian", "alien", "human playing alien", "human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["the mandalorian/din djarin", "pedro pascal"],
 
     "cast-lead-2-ethnicities": ["unknown"],
-    "cast-lead-2-nationalities": ["unknown"],
+    "cast-lead-2-nationalities": ["world x"],
     "cast-lead-2-genders": ["male"],
-    "cast-lead-2-sexualities": [""],
-    "cast-lead-2-ages": [""],
+    "cast-lead-2-sexualities": ["unknown"],
+    "cast-lead-2-ages": ["50-59", "ambiguous"],
     "cast-lead-2-z": ["yoda", "alien"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["the child/grogu"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["the mandalorian, the child"],
+    "notes": [""],
 
     "data-version": "20210317"
 }
