@@ -44,7 +44,7 @@
     "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["pan", "straight", "straight playing pan"],
     "cast-lead-3-ages": ["50-59"],
-    "cast-lead-3-z": ["host"],
+    "cast-lead-3-z": ["ai", "host"],
     "cast-lead-3-names": ["bernard", "jeffrey wright"],
 
     "cast-lead-4-ethnicities": ["white"],
@@ -60,7 +60,7 @@
     "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["pan", "straight", "straight playing pan"],
     "cast-lead-5-ages": ["30-39"],
-    "cast-lead-5-z": ["host"],
+    "cast-lead-5-z": ["ai", "host"],
     "cast-lead-5-names": ["stubbs", "luke hemsworth"],
 
     "cast-lead-6-ethnicities": ["white"],
