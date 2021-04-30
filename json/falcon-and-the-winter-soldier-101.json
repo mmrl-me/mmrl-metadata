@@ -10,10 +10,10 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier",
 
     "genre-tags": ["action", "adventure", "drama", "scifi"],
-    "bias-tags": [""],
+    "bias-tags": ["Y", "B"],
 
     "plot-tags": ["superhero", "buddy comedy", "marvel comics", "marvel cinematic universe", "spin off", "captain america"],
-    "plot-geo": [""],
+    "plot-geo": ["usa"],
     "plot-date": ["2020s"],
 
     "distribution-tags": ["disney platform distribution", "disney+"],
