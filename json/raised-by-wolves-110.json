@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["white", "unknown", "white playing unknown"],
     "cast-lead-1-nationalities": ["dnk", "world x", "dnk playing world x"],
-    "cast-lead-1-genders": ["cis female"],
+    "cast-lead-1-genders": ["cis female", "female", "cis female playing female"],
     "cast-lead-1-sexualities": ["unknown"],
     "cast-lead-1-ages": ["30-39", "unknown", "30-39 playing unknown"],
     "cast-lead-1-z": ["ai"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["black"],
     "cast-lead-2-nationalities": ["gbr", "world x", "gbr playing world x"],
-    "cast-lead-2-genders": ["cis male"],
+    "cast-lead-2-genders": ["cis male", "male", "cis male playing male"],
     "cast-lead-2-sexualities": ["unknown"],
     "cast-lead-2-ages": ["20-29", "unknown", "20-29 playing unknown"],
     "cast-lead-2-z": ["ai"],
