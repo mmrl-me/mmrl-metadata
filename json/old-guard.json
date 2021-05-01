@@ -25,7 +25,7 @@
     
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["zaf", "usa", "zaf, usa playing unknown"],
+    "cast-lead-1-nationalities": ["zaf", "usa", "nonextant nation", "scythia", "zaf, usa playing nonextant nation"],
     "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["ambiguous", "bisexual", "queer subtext"],
     "cast-lead-1-ages": ["100+", "ambiguous", "40-49", "40-49 playing 100+"],
@@ -49,9 +49,9 @@
     "cast-lead-3-name": ["sebastien le livre/booker", "matthias schoenaerts"],
 
     "cast-lead-4-ethnicities": ["middle eastern/north african (mena)"],
-    "cast-lead-4-nationalities": ["nld", "nld playing unknown"],
+    "cast-lead-4-nationalities": ["nld", "nld playing unknown", "maghreb"],
     "cast-lead-4-genders": ["cis male"],
-    "cast-lead-4-sexualities": ["gay"],
+    "cast-lead-4-sexualities": ["gay", "straight", "straight playing gay"],
     "cast-lead-4-ages": ["100+", "ambiguous", "30-39", "30-39 playing 100+"],
     "cast-lead-4-z": ["metahuman"],
     "cast-lead-4-name": ["yusuf al-kaysani/joe", "marwan kenzari"],
@@ -59,7 +59,7 @@
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["ita"],
     "cast-lead-5-genders": ["cis male"],
-    "cast-lead-5-sexualities": ["gay"],
+    "cast-lead-5-sexualities": ["gay", "straight", "straight playing gay"],
     "cast-lead-5-ages": ["100+", "ambiguous", "30-39", "30-39 playing 100+"],
     "cast-lead-5-z": ["metahuman"],
     "cast-lead-5-name": ["nicolo di genova/nicky", "luca marinelli"],
