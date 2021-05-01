@@ -33,18 +33,18 @@
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa", "world x", "usa playing world x"],
-    "cast-lead-2-genders": ["cis male", "male"],
+    "cast-lead-2-genders": ["male"],
     "cast-lead-2-sexualities": ["unknown"],
     "cast-lead-2-ages": ["100+", "40-49", "40-49 playing 100+"],
     "cast-lead-2-z": ["ai"],
     "cast-lead-2-names": ["edgar poe", "chris conner"],
 
     "cast-lead-3-ethnicities": ["latinx", "white", "multi"],
-    "cast-lead-3-nationalities": ["usa", "world x", "usa playing world x"],
+    "cast-lead-3-nationalities": ["usa", "world x", "usa playing world x", "harlan's world"],
     "cast-lead-3-genders": ["cis female"],
     "cast-lead-3-sexualities": ["unknown"],
     "cast-lead-3-ages": ["30-39", "unknown", "30-39 playing unknown"],
-    "cast-lead-3-z": ["human", "alien", "harlan's world"],
+    "cast-lead-3-z": ["human"],
     "cast-lead-3-names": ["danica harlan", "lela loren"],
 
     "cast-lead-4-ethnicities": ["black"],
@@ -52,7 +52,7 @@
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["lesbian", "straight", "straight playing lesbian"],
     "cast-lead-4-ages": ["30-39", "unknown", "30-39 playing unknown"],
-    "cast-lead-4-z": ["human", "alien"],
+    "cast-lead-4-z": ["human"],
     "cast-lead-4-names": ["trepp", "simone missick"],
 
     "cast-lead-5-ethnicities": ["white"],
