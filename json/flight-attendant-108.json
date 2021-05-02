@@ -1,24 +1,24 @@
 {
-    "name": "",
+    "name": "The Flight Attendant",
     "name-key": "flight-attendant-108",
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "108",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt7569576",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Flight_Attendant_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy", "drama", "mystery", "thriller", "comedy-drama"],
     "bias-tags": [""],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["murder", "alcoholism", "corruption", "fbi", "corporate espionage"],
+    "plot-geo": ["usa", "new york city", "thailand", "bankgkok"],
+    "plot-date": ["2020"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["hbo max", "warner bros. television distribution", "warnermedia direct"],
+    "production-tags": ["yes, norman productions", "berlanti productions", "warner bros. television studios"],
+    "production-geo": ["usa", "new york city", "thailand", "bangkok"],
 
     "reception-positive": [""],
     "reception-negative": [""],
@@ -29,7 +29,7 @@
     "cast-lead-1-sexualities": [""],
     "cast-lead-1-ages": [""],
     "cast-lead-1-z": [""],
-    "cast-lead-1-name": [""],
+    "cast-lead-1-name": ["cassie", "kaley cuoco"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -37,7 +37,7 @@
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],
-    "cast-lead-2-name": [""],
+    "cast-lead-2-name": ["alex", "michiel huisman"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-nationalities": [""],
@@ -45,15 +45,15 @@
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
-    "cast-lead-3-name": [""],
+    "cast-lead-3-name": ["annie", "zosia mamet"],
 
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-nationalities": [""],
     "cast-lead-4-genders": [""],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-sexualities": ["gay"],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
-    "cast-lead-4-name": [""],
+    "cast-lead-4-name": ["davey", "t.r. knight"],
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -61,7 +61,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
-    "cast-lead-5-name": [""],
+    "cast-lead-5-name": ["miranda", "michelle gomez"],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -69,7 +69,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
-    "cast-lead-6-name": [""],
+    "cast-lead-6-name": ["buckley", "colin woodell"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
