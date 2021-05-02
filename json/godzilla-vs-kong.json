@@ -1,24 +1,24 @@
 {
-    "name": "",
+    "name": "Godzilla vs. Kong",
     "name-key": "godzilla-vs-kong",
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt5034838",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Godzilla_vs._Kong",
 
-    "genre-tags": [""],
+    "genre-tags": ["action", "scifi", "thriller", ],
     "bias-tags": [""],
 
-    "plot-tags": [""],
+    "plot-tags": ["kaiju", "monsterverse", "crossover", "sequel"],
     "plot-geo": [""],
     "plot-date": [""],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["warner bros. pictures", "toho"],
+    "production-tags": ["legendary pictures"],
+    "production-geo": ["usa", "new york city", "australia", "queensland"],
 
     "reception-positive": [""],
     "reception-negative": [""],    
