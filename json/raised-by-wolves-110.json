@@ -23,7 +23,7 @@
     "reception-positive": [""],
     "reception-negative": [""],
 
-    "cast-lead-1-ethnicities": ["white", "unknown", "white playing unknown"],
+    "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["dnk", "world x", "dnk playing world x"],
     "cast-lead-1-genders": ["cis female", "female", "cis female playing female"],
     "cast-lead-1-sexualities": ["unknown"],
