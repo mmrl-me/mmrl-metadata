@@ -28,7 +28,7 @@
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["50-59", "40-49", "50-59 playing 40-49"],
-    "cast-lead-1-z": ["human"],
+    "cast-lead-1-z": ["human", "spectral", "ambiguous"],
     "cast-lead-1-name": ["joe", "jamie foxx"],
 
     "cast-lead-2-ethnicities": ["white", "unknown", "white playing unknown"],
