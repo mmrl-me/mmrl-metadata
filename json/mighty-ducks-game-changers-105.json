@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Mighty_Ducks:_Game_Changers",
 
     "genre-tags": ["sports comedy-drama", "comedy", "drama", "sports"],
-    "bias-tags": [""],
+    "bias-tags": ["T", "S"],
 
     "plot-tags": ["hockey", "underdogs", "competitive youth sports"],
     "plot-geo": ["usa", "minnesota"],
