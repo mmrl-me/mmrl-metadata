@@ -12,7 +12,7 @@
     "genre-tags": ["comedy", "drama", "mystery", "thriller", "comedy-drama"],
     "bias-tags": ["W", "D"],
 
-    "plot-tags": ["murder", "alcoholism", "corruption", "fbi", "corporate espionage"],
+    "plot-tags": ["murder", "alcoholism", "corruption", "fbi", "corporate espionage", "woman-led"],
     "plot-geo": ["usa", "new york city", "thailand", "bankgkok"],
     "plot-date": ["2020"],
 
