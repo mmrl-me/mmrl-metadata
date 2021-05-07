@@ -25,10 +25,10 @@
     
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["usa", "gbr", "arg", "usa, gbr, arg playing usa"],
+    "cast-lead-1-nationalities": ["usa, gbr, arg playing usa"],
     "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["straight", "bisexual", "queer subtext"],
-    "cast-lead-1-ages": ["10-19", "20-29", "20-29 playing 10-19"],
+    "cast-lead-1-ages": ["20-29 playing 10-19"],
     "cast-lead-1-z": ["human"],
     "cast-lead-1-name": ["elizabeth harmon", "anya taylor-joy"],
 
@@ -36,15 +36,15 @@
     "cast-lead-2-nationalities": ["usa"],
     "cast-lead-2-genders": ["cis male"],
     "cast-lead-2-sexualities": ["unknown"],
-    "cast-lead-2-ages": ["50-59","60-69", "50-59 playing 50-59, 60-69"],
+    "cast-lead-2-ages": ["50-59 playing 50-59, 60-69"],
     "cast-lead-2-z": ["human"],
     "cast-lead-2-name": ["william shaibel", "bill camp"],
 
     "cast-lead-3-ethnicities": ["white"],
-    "cast-lead-3-nationalities": ["usa", "gbr", "gbr playing usa"],
+    "cast-lead-3-nationalities": ["gbr playing usa"],
     "cast-lead-3-genders": ["cis female"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-3-ages": ["30-39 playing 20-29"],
     "cast-lead-3-z": ["human"],
     "cast-lead-3-name": ["alice harmon", "chloe pirrie"],
 
@@ -52,15 +52,15 @@
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["40-49", "unknown", "40-49 playing unknown"],
+    "cast-lead-4-ages": ["40-49 playing unknown"],
     "cast-lead-4-z": ["human"],
     "cast-lead-4-name": ["alma wheatley", "marielle heller"],
 
     "cast-lead-5-ethnicities": ["white"],
-    "cast-lead-5-nationalities": ["pol", "rus", "pol playing rus"],
+    "cast-lead-5-nationalities": ["pol playing rus"],
     "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight"],
-    "cast-lead-5-ages": ["40-49", "unknown", "40-49 playing unknown"],
+    "cast-lead-5-ages": ["40-49 playing unknown"],
     "cast-lead-5-z": ["human"],
     "cast-lead-5-name": ["vasily borgov", "marcin dorocinsky"],
 
@@ -68,7 +68,7 @@
     "cast-lead-6-nationalities": ["usa"],
     "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
-    "cast-lead-6-ages": ["30-39", "20-29", "30-39 playing 20-29"],
+    "cast-lead-6-ages": ["30-39 playing 20-29"],
     "cast-lead-6-z": ["human"],
     "cast-lead-6-name": ["benny watts", "thomas brodie-sangster"],
 

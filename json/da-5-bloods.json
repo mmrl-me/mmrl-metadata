@@ -24,10 +24,10 @@
     "reception-negative": ["war movie tropes of vietnamese people"],
 
     "cast-lead-1-ethnicities": ["black"],
-    "cast-lead-1-nationalities": ["usa", "gbr", "gbr, usa playing usa"],
+    "cast-lead-1-nationalities": ["gbr, usa playing usa"],
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
-    "cast-lead-1-ages": ["60-69", "10-19", "60-69 playing 10-19, 60-69"],
+    "cast-lead-1-ages": ["60-69 playing 10-19, 60-69"],
     "cast-lead-1-z": ["human"],
     "cast-lead-1-names": ["paul", "delroy lindo"],
 
@@ -35,7 +35,7 @@
     "cast-lead-2-nationalities": ["usa"],
     "cast-lead-2-genders": ["cis male"],
     "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["60-69", "10-19", "60-69 playing 10-19, 60-69"],
+    "cast-lead-2-ages": ["60-69 playing 10-19, 60-69"],
     "cast-lead-2-z": ["human"],
     "cast-lead-2-names": ["otis", "clarke peters"],
 
@@ -43,7 +43,7 @@
     "cast-lead-3-nationalities": ["usa"],
     "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["60-69", "50-59", "10-19", "50-59 playing 10-19, 60-69"],
+    "cast-lead-3-ages": ["50-59 playing 10-19, 60-69"],
     "cast-lead-3-z": ["human"],
     "cast-lead-3-names": ["eddie", "norm lewis"],
 
@@ -51,7 +51,7 @@
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["cis", "male"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["60-69", "10-19", "60-69 playing 10-19, 60-69"],
+    "cast-lead-4-ages": ["60-69 playing 10-19, 60-69"],
     "cast-lead-4-z": ["human"],
     "cast-lead-4-names": ["melvin", "isiah whitlock jr"],
 
@@ -59,7 +59,7 @@
     "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight"],
-    "cast-lead-5-ages": ["40-49", "20-29", "40-49 playing 20-29"],
+    "cast-lead-5-ages": ["40-49 playing 20-29"],
     "cast-lead-5-z": ["human"],
     "cast-lead-5-names": ["normam", "chadwick boseman"],
 
@@ -67,7 +67,7 @@
     "cast-lead-6-nationalities": ["usa"],
     "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
-    "cast-lead-6-ages": ["30-39", "unknown"],
+    "cast-lead-6-ages": ["30-39 playing unknown"],
     "cast-lead-6-z": ["human"],
     "cast-lead-6-names": ["david", "jonathan majors"],
 

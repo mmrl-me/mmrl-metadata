@@ -41,7 +41,7 @@
     "cast-lead-2-name": ["godzilla"],
 
     "cast-lead-3-ethnicities": ["white"],
-    "cast-lead-3-nationalities": ["usa", "swe", "swe playing usa"],
+    "cast-lead-3-nationalities": ["swe playing usa"],
     "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["40-49"],
@@ -49,7 +49,7 @@
     "cast-lead-3-name": ["nathan lind", "alexander skarsgard"],
 
     "cast-lead-4-ethnicities": ["white"],
-    "cast-lead-4-nationalities": ["gbr", "usa", "gbr playing usa"],
+    "cast-lead-4-nationalities": ["gbr playing usa"],
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["10-19"],
@@ -59,7 +59,7 @@
     "cast-lead-5-ethnicities": ["black"],
     "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis male"],
-    "cast-lead-5-sexualities": ["unknown", "straight", "unknown playing straight"],
+    "cast-lead-5-sexualities": ["unknown playing straight"],
     "cast-lead-5-ages": ["30-39"],
     "cast-lead-5-z": ["human"],
     "cast-lead-5-name": ["bernie hayes", "brian tyree henry"],
