@@ -9,7 +9,7 @@
     "id-imdb": "https://www.imdb.com/title/tt5034838",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Godzilla_vs._Kong",
 
-    "genre-tags": ["action", "scifi", "thriller", ],
+    "genre-tags": ["action", "scifi", "thriller"],
     "bias-tags": ["B", "Y"],
 
     "plot-tags": ["kaiju", "monsterverse", "crossover", "sequel"],
