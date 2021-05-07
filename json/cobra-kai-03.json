@@ -51,7 +51,7 @@
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["40-49", "unknown", "40-49 playing unknown"],
+    "cast-lead-4-ages": ["40-49 playing unknown"],
     "cast-lead-4-z": ["human"],
     "cast-lead-4-names": ["amanda larusso", "courtney henggeler"],
 
@@ -59,7 +59,7 @@
     "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight"],
-    "cast-lead-5-ages": ["10-19", "20-29", "20-29 playing 10-19"],
+    "cast-lead-5-ages": ["20-29 playing 10-19"],
     "cast-lead-5-z": ["human"],
     "cast-lead-5-names": ["samantha larusso", "mary mouser"],
 
@@ -67,7 +67,7 @@
     "cast-lead-6-nationalities": ["usa"],
     "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
-    "cast-lead-6-ages": ["10-19", "20-29", "20-29 playing 10-19"],
+    "cast-lead-6-ages": ["20-29 playing 10-19"],
     "cast-lead-6-z": ["human"],
     "cast-lead-6-names": ["robby keene", "tanner buchanan"],
 
