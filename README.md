@@ -13,7 +13,11 @@ __Design Goals__
 * Represent Bechdel, Villalobos, Gagen, DuVernay tests. With additional tagging to quantify or infer “diverse ensemble,”  “fully realized lives”, “scenery in white lives” tags. 
 * Provide a serialized form of metadata for each media object; useful for creating in-memory objects at runtime
 * Support for mechanical/computational sorting and organizing of media objects by streaming platform, genre, and cast diversity
-* Implement lean data practices with "just enough" data to ask pre-defined data questions 
+* Used to visualize individual character/role dimensions
+* Used to visualize multiple individuals as a cast of a specific media object
+* Used to visualize multiple media objects in aggregate
+* Use major/minor tagging grammars like "20-29 playing 30-39" to represent complexity 
+* Explore use of lean data practices with "just enough" data to ask pre-defined data questions 
 
  __Background__
 
