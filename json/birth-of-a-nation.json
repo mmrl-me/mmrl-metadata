@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Birth_of_a_Nation",
 
     "genre-tags": ["drama", "history", "war", "silent film", "diverse ensemble"],
-    "bias-tags": [""],
+    "bias-tags": ["B", "D", "E", "S", "T", "V", "W", "Y"],
 
     "plot-tags": ["racism", "blackface", "civil war", "reconstruction", "lincoln assassination", "ku klux klan", "white supremacy", "controversy", "confederacy", "lynching", "american south", "racist black stereotypes"],
     "plot-geo": ["usa", "south carolina", "washington dc", "virginia"],
@@ -20,8 +20,8 @@
     "production-tags": ["david w griffith corp"],
     "production-geo": ["usa", "california"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["classic"],
+    "reception-negative": ["long", "racist", "problematic"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
