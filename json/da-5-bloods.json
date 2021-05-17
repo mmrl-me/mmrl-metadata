@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["60-69 playing 10-19, 60-69"],
     "cast-lead-4-z": ["human"],
