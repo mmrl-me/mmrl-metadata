@@ -1,0 +1,93 @@
+{
+    "name": "Queen of the South",
+    "name-key": "queen-of-the-south-510",
+    "name-key-sub": "",
+    "name-key-canonical": "",
+    "type": "serial",
+    "id": "510",
+
+    "id-imdb": "https://www.imdb.com/title/tt1064899",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Queen_of_the_South_(TV_series)",
+
+    "genre-tags": ["action", "crime", "drama", "thriller", "adaptation", "diverse ensemble"],
+    "bias-tags": [""],
+
+    "plot-tags": ["narcotics", "drug running", "cartel", "drug empire", "female drug lord", "queen pin"],
+    "plot-geo": ["usa", "texas", "dallas", "arizona", "phoenix", "mexico", "sinaloa"],
+    "plot-date": ["2010s"],
+
+    "distribution-tags": ["usa network"],
+    "production-tags": ["frequency films", "friendly films", "skeeter rosenbaum productions", "fox21 television studios", "universal cable productions"],
+    "production-geo": ["usa", "texas", "dallas"],
+
+    "reception-positive": [""],
+    "reception-negative": [""],
+
+    "cast-lead-1-ethnicities": ["latinx"],
+    "cast-lead-1-nationalities": ["mex", "bra", "bra playing mex"],
+    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-ages": ["30-39"],
+    "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": [""],
+
+    "cast-lead-2-ethnicities": ["latinx"],
+    "cast-lead-2-nationalities": ["mex"],
+    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-sexualities": ["straight"],
+    "cast-lead-2-ages": ["50-59"],
+    "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": [""],
+
+    "cast-lead-3-ethnicities": ["latinx"],
+    "cast-lead-3-nationalities": ["usa", "gbr", "gbr playing usa"],
+    "cast-lead-3-genders": ["cis", "male"],
+    "cast-lead-3-sexualities": ["straight"],
+    "cast-lead-3-ages": ["30-39"],
+    "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": [""],
+
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-nationalities": ["usa"],
+    "cast-lead-4-genders": ["cis", "female"],
+    "cast-lead-4-sexualities": ["straight"],
+    "cast-lead-4-ages": ["30-39"],
+    "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": [""],
+
+    "cast-lead-5-ethnicities": ["latinx"],
+    "cast-lead-5-nationalities": ["mex", "usa", "dom", "dom, usa playing mex"],
+    "cast-lead-5-genders": ["cis", "male"],
+    "cast-lead-5-sexualities": ["straight"],
+    "cast-lead-5-ages": ["40-49"],
+    "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-nationalities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
+    "cast-lead-6-names": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-nationalities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-nationalities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
+
+    "notes": ["teresa mendoza, camila vargas, james valdez, kelly anne van awken, pote galvez"],
+
+    "data-version": "20210317"
+}
