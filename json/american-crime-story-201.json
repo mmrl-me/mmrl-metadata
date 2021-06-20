@@ -10,10 +10,10 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/American_Crime_Story",
 
     "genre-tags": ["true crime", "anthology", "biography", "crime", "drama"],
-    "bias-tags": ["W"],
+    "bias-tags": ["B, Q, Y"],
 
-    "plot-tags": ["serial killer", "gay escort", "fashion designer", "nonlinear timeline" ],
-    "plot-geo": ["usa", "florida", "miami", "minnesota", "minneapolis", "illinois", "chicago", "california", "la jolla"],
+    "plot-tags": ["serial killer", "gay escort", "fashion designer"],
+    "plot-geo": ["usa", "miami", "minneapolis", "chicago", "la jolla"],
     "plot-date": ["1997", "1990s"],
 
     "distribution-tags": ["netflix", "fx", "20th television"],
