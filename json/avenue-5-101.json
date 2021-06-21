@@ -20,8 +20,8 @@
     "production-tags": ["dundee productions", "hbo originals"],
     "production-geo": ["uk", "london", "leavesden", "warner bros studios"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["great writing", "creative concept"],
+    "reception-negative": ["underdeveloped characters", "quick pacing"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr"],
