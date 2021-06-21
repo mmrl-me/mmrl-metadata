@@ -8,7 +8,6 @@
 
     "id-imdb": "https://www.imdb.com/title/tt2149175",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Americans",
-    // season 5 wikipedia page: https://en.wikipedia.org/wiki/The_Americans_(season_5)
 
     "genre-tags": ["crime", "drama", "mystery", "spy thriller"],
     "bias-tags": ["Y"],
@@ -30,7 +29,7 @@
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["40-49"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": ["philip jennings", "matthew rhys"], // russian name mischa
+    "cast-lead-1-names": ["philip jennings", "matthew rhys"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa playng rus"],
@@ -38,7 +37,7 @@
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["40-49"],
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": ["elzabeth jennings", "keri russel"], // russian name nadezhda
+    "cast-lead-2-names": ["elzabeth jennings", "keri russel"],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa playing usa"],
