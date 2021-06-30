@@ -52,7 +52,7 @@
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["unknown"],
     "cast-lead-4-ages": ["20-29 playing 10-19"],
-    "cast-lead-4-z": ["fantasy", "demon", "ambiguous"],
+    "cast-lead-4-z": ["human playing fantasy", "demon"],
     "cast-lead-4-names": ["nezuko kamado", "akari kito"],
 
     "cast-lead-5-ethnicities": ["asian pacific"],
@@ -68,7 +68,7 @@
     "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["unknown"],
     "cast-lead-6-ages": ["40-49 playing unknown"],
-    "cast-lead-6-z": ["fantasy", "demon"],
+    "cast-lead-6-z": ["human playing fantasy", "demon"],
     "cast-lead-6-names": ["enmu", "daisuke hirakawa"],
 
     "cast-lead-7-ethnicities": [""],
