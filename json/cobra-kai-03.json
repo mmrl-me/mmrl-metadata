@@ -13,7 +13,7 @@
     "bias-tags": ["B", "Y"],
 
     "plot-tags": ["sequel", "karate kid", "father figure", "rivalry", "bullying", "minor character elaboration"],
-    "plot-geo": ["usa", "california", "los angeles", "reseda"],
+    "plot-geo": ["usa", "california", "los angeles", "reseda", "okinawa"],
     "plot-date": ["2018"],
 
     "distribution-tags": ["sony pictures television", "youtube premium"],
@@ -21,7 +21,7 @@
     "production-geo": ["usa", "georgia", "atlanta", "california", "los angeles"],
 
     "reception-positive": ["nostalgia trip"],
-    "reception-negative": ["where are the asians", "cultural appropriation"],
+    "reception-negative": ["where are the asians", "cultural appropriation", "tript to okinawa/ cameos still just prop up white character",],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
