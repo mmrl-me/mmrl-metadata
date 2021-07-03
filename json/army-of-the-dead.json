@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Army_of_the_Dead",
 
     "genre-tags": ["action", "thriller", "scifi", "crime", "horror"],
-    "bias-tags": [""],
+    "bias-tags": ["Y"],
 
     "plot-tags": ["zombies", "heist", "diverse ensemble", "possible time loop", "diverse ensemble"],
     "plot-geo": ["usa", "nevada", "las vegas"],
@@ -20,10 +20,10 @@
     "production-tags": ["the stone quarry"],
     "production-geo": ["albuquerque", "new mexico","new jersey", "las vegas", "nevada", "los angeles", "california"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["diverse cast", "chris d'elia replaced by tig notaro after he was fired due to sexual misconduct allegations", "capable, non-sexualized main female characters", "vanderohe and dieter put the romance in 'bromance'"],
+    "reception-negative": ["scotts wife fridged, zombie lady fridged", "not diverse production crew, only diverse in front of camera"],
 
-    "cast-lead-1-ethnicities": ["multi", "white", "asian pacific"],
+    "cast-lead-1-ethnicities": ["multi", "white", "asian pacific", "filipino"],
     "cast-lead-1-nationalities": ["usa"],
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
