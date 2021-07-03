@@ -7,21 +7,21 @@
     "id": "101",
 
     "id-imdb": "https://www.imdb.com/title/tt6741278",
-    "id-wikipedia": "",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Invincible_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["animation", "action", "adventure", "superhero", "scifi", "drama"],
     "bias-tags": [""],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["based on comic book", "adaptation racebending", "asian pacific-led", "family relationship", "aliens", "semi satire"],
+    "plot-geo": ["earth", "usa", "moon", "mars"],
+    "plot-date": ["2020s"],
 
-    "distribution-tags": ["amazon prime video"],
+    "distribution-tags": ["amazon prime"],
     "production-tags": ["amazon studios", "image comics", "skybound entertainment"],
     "production-geo": [""],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["debbie has a LOT more agency in the show compared to the comic. A LOT", "gay rep in best friend", "more diverse fake justice league in terms of race and gender (possibly to fit walking dead cast but still)"],
+    "reception-negative": ["gay best friend is gay But the show cut out his coming out arc from comics, skipping any focus on a queer storyline"],
 
 
     "cast-lead-1-ethnicities": [""],
@@ -30,7 +30,7 @@
     "cast-lead-1-sexualities": [""],
     "cast-lead-1-ages": [""],
     "cast-lead-1-z": [""],
-    "cast-lead-1-name": [""],
+    "cast-lead-1-name": ["marc grayson", "invincible"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -38,7 +38,7 @@
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],
-    "cast-lead-2-name": [""],
+    "cast-lead-2-name": ["nolan grayson", "omni-man"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-nationalities": [""],
@@ -46,7 +46,7 @@
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
-    "cast-lead-3-name": [""],
+    "cast-lead-3-name": ["debbie grayson"],
 
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-nationalities": [""],
@@ -54,7 +54,7 @@
     "cast-lead-4-sexualities": [""],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
-    "cast-lead-4-name": [""],
+    "cast-lead-4-name": ["samantha eve wilkins", "atom eve"],
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -62,7 +62,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
-    "cast-lead-5-name": [""],
+    "cast-lead-5-name": ["cecil stedman"],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -70,7 +70,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
-    "cast-lead-6-name": [""],
+    "cast-lead-6-name": ["amber bennett"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
