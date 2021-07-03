@@ -13,15 +13,15 @@
     "bias-tags": ["B", "Y"],
 
     "plot-tags": ["sequel", "karate kid", "father figure", "rivalry", "bullying", "minor character elaboration"],
-    "plot-geo": ["usa", "california", "los angeles", "reseda", "okinawa"],
-    "plot-date": ["2018"],
+    "plot-geo": ["usa", "california", "los angeles", "reseda", "okinawa", "vietnam"],
+    "plot-date": ["2020", "1960s"],
 
     "distribution-tags": ["sony pictures television", "youtube premium"],
     "production-tags": ["hurwitz & schlossberg productions", "overbrook entertainment", "sony pictures television"],
     "production-geo": ["usa", "georgia", "atlanta", "california", "los angeles"],
 
-    "reception-positive": ["nostalgia trip"],
-    "reception-negative": ["where are the asians", "cultural appropriation", "tript to okinawa/ cameos still just prop up white character",],
+    "reception-positive": ["nostalgia trip", "latinx cast lead"],
+    "reception-negative": ["where are the asians", "cultural appropriation", "tript to okinawa/ cameos still just prop up white character", "miguel recovers from being disabled after an injury by trying hard enough/ drinking a beer at a concert"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
