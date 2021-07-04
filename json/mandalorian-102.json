@@ -10,11 +10,11 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Mandalorian",
 
     "genre-tags": ["action", "adventure", "scifi", "space western"],
-    "bias-tags": [""],
+    "bias-tags": ["B", "Y"],
 
     "plot-tags": ["baby yoda", "star wars", "bounty hunter", "father figure", "spin off", "antihero"],
     "plot-geo": ["space", "nevarro", "arvala-7", "sorgan", "tatooine"],
-    "plot-date": ["B", "Y"],
+    "plot-date": ["9 ABY"],
 
     "distribution-tags": ["disney+", "walt disney television"],
     "production-tags": ["lucasfilm", "fairview entertainment", "golem creations", "walt disney studios"],
@@ -48,7 +48,7 @@
     "cast-lead-3-names": ["cara dune", "gina carano"],
 
     "cast-lead-4-ethnicities": ["black"],
-    "cast-lead-4-nationalities": ["usa playing unknown"],
+    "cast-lead-4-nationalities": ["usa playing world x"],
     "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight playing unknown"],
     "cast-lead-4-ages": ["70-79 playing unknown"],
@@ -64,7 +64,7 @@
     "cast-lead-5-names": ["kuiil", "nick nolte"],
 
     "cast-lead-6-ethnicities": ["mulit, indigenous playing unknown"],
-    "cast-lead-6-nationalities": ["nzl playing unknown"],
+    "cast-lead-6-nationalities": ["nzl playing world x"],
     "cast-lead-6-genders": ["cis male playing male"],
     "cast-lead-6-sexualities": ["unknown playing asexual"],
     "cast-lead-6-ages": ["40-49 playing unknown"],
