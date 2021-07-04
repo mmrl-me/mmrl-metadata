@@ -6,7 +6,7 @@
     "type": "serial",
     "id": "102",
 
-        "id-imdb": "https://www.imdb.com/title/tt8111088",
+    "id-imdb": "https://www.imdb.com/title/tt8111088",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Mandalorian",
 
     "genre-tags": ["action", "adventure", "scifi", "space western"],
@@ -23,10 +23,10 @@
     "reception-positive": ["POC/latinx lead of star wars show", "diverse cast/ POC minor characters not as ambiguous aliens", "strong female characters" "fennec, farmer woman, the armorer, cara", "diverse directors"],
     "reception-negative": ["doesn't pass bechdel test", "trope of erasing POC through alien characters bc of latinx lead never seen without his helmet/full suit"],
 
-    "cast-lead-1-ethnicities": ["latinx playing unknown"],
+    "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["usa, chl playing world x, aq vetina"],
     "cast-lead-1-genders": ["cis male"],
-    "cast-lead-1-sexualities": ["unknown"],
+    "cast-lead-1-sexualities": ["unknown playing straight"],
     "cast-lead-1-ages": ["40-49 playing unknown"],
     "cast-lead-1-z": ["mandalorian", "human"],
     "cast-lead-1-names": ["din djarin", "the mandalorian", "pedro pascal"],
@@ -63,13 +63,13 @@
     "cast-lead-5-z": ["alien", "ugnaught"],
     "cast-lead-5-names": ["kuiil", "nick nolte"],
 
-    "cast-lead-6-ethnicities": ["white"],
-    "cast-lead-6-nationalities": ["deu playing unknown"],
-    "cast-lead-6-genders": ["cis male"],
-    "cast-lead-6-sexualities": ["straight playing unknown"],
-    "cast-lead-6-ages": ["70-79 playing unknown"],
-    "cast-lead-6-z": ["human"],
-    "cast-lead-6-names": ["the client", "werner herzog"],
+    "cast-lead-6-ethnicities": ["mulit, indigenous playing unknown"],
+    "cast-lead-6-nationalities": ["nzl playing unknown"],
+    "cast-lead-6-genders": ["cis male playing male"],
+    "cast-lead-6-sexualities": ["unknown playing asexual"],
+    "cast-lead-6-ages": ["40-49 playing unknown"],
+    "cast-lead-6-z": ["android"],
+    "cast-lead-6-names": ["ig-11", "taika waitit"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
