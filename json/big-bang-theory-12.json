@@ -1,0 +1,93 @@
+{
+    "name": "The Big Bang Theory",
+    "name-key": "big-bang-theory-12",
+    "name-key-sub": "",
+    "name-key-canonical": "",
+    "type": "serial",
+    "id": "12",
+
+    "id-imdb": "https://www.imdb.com/title/tt0898266",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory",
+
+    "genre-tags": ["comedy", "romance", "sitcom"],
+    "bias-tags": ["Y"],
+
+    "plot-tags": ["nerd", "geek culture", "friendship", "science", "social awkwardness"],
+    "plot-geo": ["usa", "pasadena"],
+    "plot-date": ["2000s", "2010s"],
+
+    "distribution-tags": ["warner bros television distribution"],
+    "production-tags": ["chuck lorre productions", "warner bros television"],
+    "production-geo": ["burbank", "warner bros studios"],
+
+    "reception-positive": ["satisfying ending"],
+    "reception-negative": ["too much laugh track", "not as good as previous seasons"],
+
+    "cast-lead-1-ethnicities": ["white"],
+    "cast-lead-1-nationalities": ["usa"],
+    "cast-lead-1-genders": ["cis male"],
+    "cast-lead-1-sexualities": ["gay playing ambiguous", "asexual"],
+    "cast-lead-1-ages": ["40-49 playing 30-39"],
+    "cast-lead-1-z": ["human"],
+    "cast-lead-1-names": ["sheldon cooper", "jim parsons"],
+
+    "cast-lead-2-ethnicities": ["white"],
+    "cast-lead-2-nationalities": ["bel playing usa"],
+    "cast-lead-2-genders": ["cis male"],
+    "cast-lead-2-sexualities": ["straight"], 
+    "cast-lead-2-ages": ["40-49 playing 30-39"],
+    "cast-lead-2-z": ["human"],
+    "cast-lead-2-names": ["leonard hofstadter", "johnny galecki"],
+
+    "cast-lead-3-ethnicities": ["white"],
+    "cast-lead-3-nationalities": ["usa"],
+    "cast-lead-3-genders": ["cis female"],
+    "cast-lead-3-sexualities": ["straight"],
+    "cast-lead-3-ages": ["30-39"],
+    "cast-lead-3-z": ["human"],
+    "cast-lead-3-names": ["penny", "kaley cuoco"],
+
+    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-nationalities": ["usa"],
+    "cast-lead-4-genders": ["cis male"],
+    "cast-lead-4-sexualities": ["straight"],
+    "cast-lead-4-ages": ["30-39"],
+    "cast-lead-4-z": ["human"],
+    "cast-lead-4-names": ["howard wolowitz", "simon helberg"],
+
+    "cast-lead-5-ethnicities": ["asian pacific"],
+    "cast-lead-5-nationalities": ["gbr, ind playing ind"],
+    "cast-lead-5-genders": ["cis male"],
+    "cast-lead-5-sexualities": ["straight playing ambiguous"],
+    "cast-lead-5-ages": ["30-39"],
+    "cast-lead-5-z": ["human"],
+    "cast-lead-5-names": ["rajesh koothrappali", "kunal nayyar"],
+
+    "cast-lead-6-ethnicities": ["white"],
+    "cast-lead-6-nationalities": ["usa"],
+    "cast-lead-6-genders": ["cis female"],
+    "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": ["40-49 playing 30-39"],
+    "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": ["amy farrah fowler", "mayim bialik"],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-nationalities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-nationalities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
+    "cast-lead-8-names": [""],
+
+    "notes": [""],
+
+    "data-version": "20210317"
+}
