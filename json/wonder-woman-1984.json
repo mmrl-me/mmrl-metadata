@@ -10,9 +10,9 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Wonder_Woman_1984",
 
     "genre-tags": ["action", "adventure", "fantasy"],
-    "bias-tags": [""],
+    "bias-tags": ["S", "V"],
 
-    "plot-tags": ["sequel", "based on comic book", "dc extended universe", "superhero", "greek mythology", "cold war", "wishes, body swap", "dreamstone", "woman-led"],
+    "plot-tags": ["sequel", "based on comic book", "dc extended universe", "superhero", "greek mythology", "cold war", "wishes", "body swap", "dreamstone", "woman-led", "adaptation racebending"]
     "plot-geo": ["usa", "washington dc"],
     "plot-date": ["1984"],
 
@@ -20,16 +20,16 @@
     "production-tags": ["atlas entertainment", "the stone quarry", "dc films"],
     "production-geo": ["usa", "washington dc", "spain", "andalucia", "almeria", "united kingdom"],
 
-    "reception-positive": [""],
-    "reception-negative": ["sequel overload", "question of consent in body swap plots", "arab backlash"],
+    "reception-positive": ["racebending added complexity to max", "he tried to change himself to fit the caracature of a white, successful American through the changing of his last name, dyeing his hair etc"],
+    "reception-negative": ["sequel overload", "question of consent in body possession plots", "body swap not accurate, thre is no mention of Handsome Man's (as he's credited) consiousness, had steve stayed in his body his consciousness would effectively cease to exist", "arab backlash", "negative associations with the middle east", "multiple men of color wishing for nuclear weapons", "story changed to make max lord come from a poor and abusive family as a latinx character, while his comic bg as a white man comes from old money/ has been rich his entire life", "also gave him an exaggerated accent", "barbaras wishes are all about her personal value being tied to better performing stereotypical femininity", "dianas bisexuality erased, teased by gal gadot but explicitly no queer subtext according to patty jenkins", "plot inconsistencies"]
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["isr playing world x"],
+    "cast-lead-1-nationalities": ["isr playing world x", "themyscira"],
     "cast-lead-1-genders": ["cis female"],
-    "cast-lead-1-sexualities": ["straight"],
+    "cast-lead-1-sexualities": ["straight playing ambiguous"],
     "cast-lead-1-ages": ["30-39 playing ambiguous, 100+"],
     "cast-lead-1-z": ["mythic", "amazon-olympian", "human", "ambiguous"],
-    "cast-lead-1-names": ["diana prince/wonder woman", "gal gadot"],
+    "cast-lead-1-names": ["diana prince" "wonder woman", "gal gadot"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
@@ -56,9 +56,9 @@
     "cast-lead-4-names": ["maxwell lord", "pedro pascal"],
 
     "cast-lead-5-ethnicities": ["white"],
-    "cast-lead-5-nationalities": ["usa playing world x"],
+    "cast-lead-5-nationalities": ["usa playing world x", "themyscira"],
     "cast-lead-5-genders": ["cis female"],
-    "cast-lead-5-sexualities": ["straight"],
+    "cast-lead-5-sexualities": ["straight playing ambiguous"],
     "cast-lead-5-ages": ["50-59 playing ambiguous, 100+"],
     "cast-lead-5-z": ["mythic", "amazon"],
     "cast-lead-5-names": ["antiope", "robin wright"],
@@ -66,7 +66,7 @@
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["dnk playing world x"],
     "cast-lead-6-genders": ["cis female"],
-    "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-sexualities": ["straight playing ambiguous"],
     "cast-lead-6-ages": ["50-59 playing ambiguous, 100+"],
     "cast-lead-6-z": ["mythic", "amazon"],
     "cast-lead-6-names": ["hippolyta", "connie nielsen"],
