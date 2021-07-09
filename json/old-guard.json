@@ -14,7 +14,7 @@
 
     "plot-tags": ["based on a comic", "mercenaries", "immortality"],
     "plot-geo": ["france", "paris", "uk", "england", "london", "afghanistan"],
-    "plot-date": ["present day"],
+    "plot-date": ["present day", "2020s"],
 
     "distribution-tags": ["netflix"],
     "production-tags": ["skydance media", "denver and delilah productions", "marc evans productions"],
@@ -25,12 +25,12 @@
 
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["scythia", "zaf, usa playing nonextant nation"],
+    "cast-lead-1-nationalities": ["zaf, usa playing nonextant nation", "scythia"],
     "cast-lead-1-genders": ["cis female"],
-    "cast-lead-1-sexualities": ["ambiguous", "queer subtext"],
+    "cast-lead-1-sexualities": ["straight playing ambiguous", "queer subtext"],
     "cast-lead-1-ages": ["40-49 playing ambiguous, 100+"],
     "cast-lead-1-z": ["metahuman"],
-    "cast-lead-1-name": ["andromache of scythia/andy", "charlize theron"],
+    "cast-lead-1-name": ["andromache of scythia", "andy", "charlize theron"],
 
     "cast-lead-2-ethnicities": ["black"],
     "cast-lead-2-nationalities": ["usa"],
@@ -46,7 +46,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["40-49 playing ambiguous, 100+"],
     "cast-lead-3-z": ["metahuman"],
-    "cast-lead-3-name": ["sebastien le livre/booker", "matthias schoenaerts"],
+    "cast-lead-3-name": ["sebastien le livre", "booker", "matthias schoenaerts"],
 
     "cast-lead-4-ethnicities": ["middle/near eastern", "north african"],
     "cast-lead-4-nationalities": ["nld playing unknown", "maghreb"],
