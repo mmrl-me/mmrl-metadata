@@ -20,8 +20,8 @@
     "production-tags": ["dorothy parker drank here productions", "picrow", "amazon studios"],
     "production-geo": ["usa", "new york city", "paris"],
 
-    "reception-positive": ["empowering for women", "draws on and complicates existing jewish stereotypes", "relatable jewish experiences onscreen"], 
-    "reception-negative": ["ignores nuances of jewish immigrant experience", "fails to grapple with period-relevant jewish experiences and history"],
+    "reception-positive": ["empowering for women", "draws on and complicates existing jewish stereotypes", "relatable jewish experiences onscreen", "jewish creator"], 
+    "reception-negative": ["main cast members are NOT jewish (midge, her parents, one of joels parents)", "ignores nuances of jewish immigrant experience", "fails to grapple with period-relevant jewish experiences and history", "actress for suzie is jewish, one of the goy characters in the show"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
@@ -47,7 +47,7 @@
     "cast-lead-3-z": ["human"],
     "cast-lead-3-names": ["joel maisel", "michael zegen"],
 
-    "cast-lead-4-ethnicities": ["white"],
+    "cast-lead-4-ethnicities": ["mena playing white", "lebanese"],
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["reception tags from: https://www.latimes.com/entertainment/tv/la-et-st-marvelous-maisel-and-judaism-20190105-story.html", "reception tags from: https://www.jta.org/2020/01/08/culture/the-minds-behind-the-marvelous-mrs-maisel-on-how-they-aim-to-represent-jews-on-screen"],
+    "notes": ["actor for abe is lebanese, gray area for whiteness but technichally in mena", "reception tags from: https://www.latimes.com/entertainment/tv/la-et-st-marvelous-maisel-and-judaism-20190105-story.html", "reception tags from: https://www.jta.org/2020/01/08/culture/the-minds-behind-the-marvelous-mrs-maisel-on-how-they-aim-to-represent-jews-on-screen"],
 
     "data-version": "20210317"
 }
