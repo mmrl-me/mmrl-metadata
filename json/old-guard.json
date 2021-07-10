@@ -12,7 +12,7 @@
     "genre-tags": ["action", "adventure", "fantasy", "superhero"],
     "bias-tags": ["Q"],
 
-    "plot-tags": ["based on a comic", "mercenaries", "immortality"],
+    "plot-tags": ["based on a comic", "mercenaries", "immortality", "diverse ensemble", "found family"],
     "plot-geo": ["france", "paris", "uk", "england", "london", "afghanistan"],
     "plot-date": ["present day", "2020s"],
 
@@ -20,8 +20,8 @@
     "production-tags": ["skydance media", "denver and delilah productions", "marc evans productions"],
     "production-geo": ["uk", "england", "morocco"],
 
-    "reception-positive": ["we love a big gay speech/kiss", "charize theron is getting older but beating even more people up in action movies"],
-    "reception-negative": [""],
+    "reception-positive": ["noriko becomes quynh when vietnamese cast for originally a japanese character, not treating asian people as the same", "we love a big gay speech/kiss", "gay relationship isn't blink-and-you'll-miss-it", "impossible for a bury your gays trope", "charize theron is getting older but beating even more people up in action movies", "WOC director"],
+    "reception-negative": ["fanon trend of painting joe to be angrier, more agressive than other characters", "military propaganda", "military-entertainment complex"],
 
 
     "cast-lead-1-ethnicities": ["white"],
