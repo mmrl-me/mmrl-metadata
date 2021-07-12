@@ -1,10 +1,10 @@
 {
     "name": "The Falcon and the Winter Soldier",
-    "name-key": "falcon-and-winter-soldier-101",
+    "name-key": ["falcon-and-winter-soldier-101", "falcon-and-winter-soldier-106"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "101",
+    "id": "1",
 
     "id-imdb": "https://www.imdb.com/title/tt9208876",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier",
