@@ -1,6 +1,6 @@
 {
     "name": "The Mandalorian",
-    "name-key": "mandalorian-201",
+    "name-key": ["mandalorian-201", "mandalorian-208"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
