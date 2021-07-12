@@ -1,10 +1,10 @@
 {
     "name": "The Boys",
-    "name-key": "boys-201",
+    "name-key": ["boys-201", "boys-208"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "201",
+    "id": "2",
 
     "id-imdb": "https://www.imdb.com/title/tt1190634/",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Boys_(2019_TV_series)",
