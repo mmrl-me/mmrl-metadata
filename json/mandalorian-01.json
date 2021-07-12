@@ -1,10 +1,10 @@
 {
     "name": "The Mandalorian",
-    "name-key": "mandalorian-101",
+    "name-key": ["mandalorian-101", "mandalorian-102", "mandalorian-108"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "101",
+    "id": "1",
 
     "id-imdb": "https://www.imdb.com/title/tt8111088",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Mandalorian",
