@@ -1,6 +1,6 @@
 {
     "name": "Star Trek: Discovery",
-    "name-key": "star-trek-discovery-201", "star-trek-discovery-206", "star-trek-discovery-214"],
+    "name-key": ["star-trek-discovery-201", "star-trek-discovery-206", "star-trek-discovery-214"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
