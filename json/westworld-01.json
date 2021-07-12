@@ -1,10 +1,10 @@
 {
     "name": "Westworld",
-    "name-key": "westworld-107",
+    "name-key": ["westworld-107", "westworld-109"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "107",
+    "id": "1",
 
     "id-imdb": "https://www.imdb.com/title/tt0475784/",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
