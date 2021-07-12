@@ -1,10 +1,10 @@
 {
     "name": "Star Trek: Discovery",
-    "name-key": "star-trek-discovery-101",
+    "name-key": ["star-trek-discovery-101", "star-trek-discovery-104", "star-trek-discovery-109", "star-trek-discovery-110", "star-trek-discovery-115"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "101",
+    "id": "1",
 
     "id-imdb": "https://www.imdb.com/title/tt5171438",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery",
