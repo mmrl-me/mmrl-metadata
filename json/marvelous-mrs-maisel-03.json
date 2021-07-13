@@ -10,66 +10,66 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel",
 
     "genre-tags": ["comedy", "drama", "period drama"],
-    "bias-tags": ["W"],
+    "bias-tags": ["W", "D"],
 
-    "plot-tags": ["stand up comedy", "working women", "jewish family"],
-    "plot-geo": ["usa", "new york city"],
+    "plot-tags": ["stand up comedy", "working women", "jewish family", "family relationships"],
+    "plot-geo": ["usa", "new york city"], // check
     "plot-date": ["1960"],
 
     "distribution-tags": ["amazon prime video"],
-    "production-tags": ["dorothy parker drank here productions"],
-    "production-geo": ["usa", "new york city"],
+    "production-tags": ["dorothy parker drank here productions"], // check
+    "production-geo": ["usa", "new york city"], // check
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": [""], // find
+    "reception-negative": [""], // find
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
-    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["midge maisel", "miriam maisel", "rachel brosnahan"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
-    "cast-lead-2-genders": ["cis", "female"],
-    "cast-lead-2-sexualities": ["unknown"],
+    "cast-lead-2-genders": ["cis female"],
+    "cast-lead-2-sexualities": ["straight playing unknown"],
     "cast-lead-2-ages": ["40-49"],
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["alex borstein", "suzie meyerson"], 
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
-    "cast-lead-3-genders": ["cis", "male"],
+    "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"], 
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["joel maisel", "michael zegen"],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["60-69"],
     "cast-lead-4-z": ["human"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-names": ["abe weissman", "abraham weissman", "tony shalhoub"]],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
-    "cast-lead-5-genders": ["cis", "female"],
+    "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight"],
-    "cast-lead-5-ages": ["50-59"],
+    "cast-lead-5-ages": ["50-59"], 
     "cast-lead-5-z": ["human"],
-    "cast-lead-5-names": [""],
+    "cast-lead-5-names": ["rose weissman", "marin hinkle"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-nationalities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
-    "cast-lead-6-ages": [""],
-    "cast-lead-6-z": [""],
-    "cast-lead-6-names": [""],
+    "cast-lead-6-ethnicities": ["white"],
+    "cast-lead-6-nationalities": ["usa"],
+    "cast-lead-6-genders": ["cis male"],
+    "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-ages": ["60-69"], 
+    "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": ["kevin pollak", "moishe maisel"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["midge, suzie, joel, abe, rose"],
+    "notes": ["copied from maisel-02:", ["actor for abe is lebanese, gray area for whiteness but technichally in mena", "suzie meyerson is butch but no existing secondary tags for gender currently"],
 
     "data-version": "20210317"
 }
