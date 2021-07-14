@@ -10,18 +10,18 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel",
 
     "genre-tags": ["comedy", "drama", "period drama"],
-    "bias-tags": ["W", "D"],
+    "bias-tags": ["W"],
 
     "plot-tags": ["stand up comedy", "working women", "jewish family", "family relationships"],
-    "plot-geo": ["usa", "new york city"], // check
+    "plot-geo": ["usa", "new york city", "las vegas", "florida", "miami"],
     "plot-date": ["1960"],
 
     "distribution-tags": ["amazon prime video"],
-    "production-tags": ["dorothy parker drank here productions"], // check
-    "production-geo": ["usa", "new york city"], // check
+    "production-tags": ["dorothy parker drank here productions", "picrow", "amazon studios"], 
+    "production-geo": ["usa", "new york city"],
 
-    "reception-positive": [""], // find
-    "reception-negative": [""], // find
+    "reception-positive": ["characters of color appear", "brief but realistic depiction of complications of being a closeted black musician", "midge faces appropriate backlash for insensitivity about maginalized groups' experiences"], // find
+    "reception-negative": ["plot does not spend enough time on characters of color", "tone-deaf scene in a barbershop that centered a white character's plot point", "mei lin embodies several asian stereotypes"], // find
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["copied from maisel-02:", ["actor for abe is lebanese, gray area for whiteness but technichally in mena", "suzie meyerson is butch but no existing secondary tags for gender currently"],
+    "notes": ["https://medium.com/latina-media/in-the-marvelous-mrs-maisel-season-3-pocs-step-into-the-spotlight-81fab9203787", "copied from maisel-02:", "actor for abe is lebanese, gray area for whiteness but technichally in mena", "suzie meyerson is butch but no existing secondary tags for gender currently"],
 
     "data-version": "20210317"
 }
