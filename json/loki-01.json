@@ -20,8 +20,8 @@
     "production-tags": ["marvel studios"],
     "production-geo": ["atlanta", "london"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["loki's bi!", "expansion of the mcu multiverse"],
+    "reception-negative": ["weird pacing", "loki dates loki?"],
 
     "cast-lead-1-ethnicities": ["white playing unknown"],
     "cast-lead-1-nationalities": ["gbr playing world x"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-name": [""],
 
-    "notes": [""],
+    "notes": ["other characters serve as background or are only seen in one or two episodes"],
 
     "data-version": "20210214"
 }
