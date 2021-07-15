@@ -9,8 +9,8 @@
     "id-imdb": "https://www.imdb.com/title/tt2531336",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Lupin_(French_TV_series)",
 
-    "genre-tags": ["crime", "thriller", "mystery", "drama", "action"],
-    "bias-tags": [""],
+    "genre-tags": ["crime", "thriller", "mystery", "drama", "action", "loose adaptation racebending"],
+    "bias-tags": ["B", "Y"],
 
     "plot-tags": ["thief", "mystery", "police", "revenge"],
     "plot-geo": ["france", "paris"],
@@ -20,8 +20,8 @@
     "production-tags": ["gaumont television"],
     "production-geo": ["france", "paris"],
 
-    "reception-positive": [""],
-    "reception-negative": ["no people of color in paris background"],
+    "reception-positive": ["omar sy makes the show the hit it is, acting feels effortless, magnetic", "black lead", "race awareness is part of story", "racist social perception in france used to lupins advantage, black people as 'invisible'"],
+    "reception-negative": ["few of color in paris background with the exception of cleaning services, prison, etc", "no black women", "part 2 gets too big, too complicated and takes away the charm of the smooth, sleight of hand cons of part 1", "future seasons would benefit from a return to character driven arcs over skin-of-his-teeth escapes"],
 
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["fra playing sen, fra"],
