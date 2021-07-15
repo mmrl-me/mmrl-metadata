@@ -1,10 +1,10 @@
 {
     "name": "Game of Thrones",
-    "name-key": "game-of-thrones-701",
+    "name-key": ["game-of-thrones-701", "game-of-thrones-702", "game-of-thrones-703", "game-of-thrones-704", "game-of-thrones-705", "game-of-thrones-706", "game-of-thrones-707"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "701",
+    "id": "7",
 
     "id-imdb": "https://www.imdb.com/title/tt0944947",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Game_of_Thrones",
