@@ -20,8 +20,8 @@
     "production-tags": ["marvel studios"],
     "production-geo": ["usa", "georgia", "atlanta", "czech republic"],
 
-    "reception-positive": ["homoeroticism", "queer ship", "black captain america", "thats MY captain america", "isaiah bradley", "discussion of black pov in america regarding racism, govt/patriotism, military, police brutality"],
-    "reception-negative": ["queerbaiting", "uwu-ified nazis", "zemo, a member of hydra, treated as a quirky fun character", "latinx dreamer character in comic made part of us military", "refugees vilified", "sams story sidelined for bucky"],
+    "reception-positive": ["homoeroticism", "queer ship", "black captain america", "thats MY captain america", "isaiah bradley", "discussion of black pov in america regarding racism, govt/patriotism, military, police brutality", "black lead writer"],
+    "reception-negative": ["queerbaiting", "uwu-ified nazis", "zemo, a member of hydra, treated as a quirky fun character", "latinx dreamer character in comic made part of us military", "refugees vilified", "sams story sidelined for bucky", "white director telling story centered on black character experiences"],
 
 
     "cast-lead-1-ethnicities": ["black"],
