@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Loki_(TV_series)",
 
     "genre-tags": ["action", "adventure", "fantasy", "scifi", "crime thriller", "superhero"],
-    "bias-tags": ["Q"],
+    "bias-tags": ["Q", "Y"],
 
     "plot-tags": ["god", "time travel", "multiverse", "villain"],
     "plot-geo": ["space", "new york city"],
