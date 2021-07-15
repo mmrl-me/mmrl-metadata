@@ -12,7 +12,7 @@
     "genre-tags": ["action", "adventure", "fantasy", "scifi", "crime thriller", "superhero"],
     "bias-tags": ["Q", "Y"],
 
-    "plot-tags": ["god", "time travel", "multiverse", "villain"],
+    "plot-tags": ["god", "time travel", "multiverse", "villain", "comic adaptation", "mcu"],
     "plot-geo": ["pompeii", "wisconsin", "new york city", "space"],
     "plot-date": ["79 AD", "1985", "2012", "2050", "2077"],
 
@@ -20,20 +20,20 @@
     "production-tags": ["marvel studios"],
     "production-geo": ["atlanta", "london"],
 
-    "reception-positive": ["loki's bi!", "expansion of the mcu multiverse"],
-    "reception-negative": ["weird pacing", "loki dates loki?"],
+    "reception-positive": ["loki's bi!", "expansion of the mcu multiverse", "sylvie and ravonna pretty", "CLASSIC LOKI", "ALLIGATOR LOKI", "we love a redemption arc"],
+    "reception-negative": ["weird pacing", "loki dates loki?", "ends with a lot of loose ends", "lokis genderfluidity not addressed", "cisnormative", "'male loki' and 'female loki', a ton of masc lokis but only one (1) fem loki who is the love interest"],
 
     "cast-lead-1-ethnicities": ["white playing unknown"],
-    "cast-lead-1-nationalities": ["gbr playing world x"],
-    "cast-lead-1-genders": ["cis male playing unknown"],
+    "cast-lead-1-nationalities": ["gbr playing world x", "asgard"],
+    "cast-lead-1-genders": ["cis male playing ambiguous"],
     "cast-lead-1-sexualities": ["straight playing bisexual"],
     "cast-lead-1-ages": ["40-49 playing 100+"],
     "cast-lead-1-z": ["mythic", "god"],
     "cast-lead-1-name": ["loki", "tom hiddleston"],
 
     "cast-lead-2-ethnicities": ["white playing unknown"],
-    "cast-lead-2-nationalities": ["gbr playing world x"],
-    "cast-lead-2-genders": ["cis female playing unknown"],
+    "cast-lead-2-nationalities": ["gbr playing world x", "asgard"],
+    "cast-lead-2-genders": ["cis female playing ambiguous"],
     "cast-lead-2-sexualities": ["straight playing bisexual"],
     "cast-lead-2-ages": ["30-39 playing 100+"],
     "cast-lead-2-z": ["mythic", "god"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-name": [""],
 
-    "notes": ["other characters serve as background or are only seen in one or two episodes"],
+    "notes": ["other characters serve as background or are only seen in one or two episodes", "changed gender from unknown to ambiguous since they are all loki/shapeshifters but fall under cisnormative presentations of gender"],
 
     "data-version": "20210214"
 }
