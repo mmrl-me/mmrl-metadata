@@ -1,10 +1,10 @@
 {
     "name": "Big Little Lies",
-    "name-key": "big-little-lies-201",
+    "name-key": ["big-little-lies-201", "big-little-lies-207"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "201",
+    "id": "2",
 
     "id-imdb": "https://www.imdb.com/title/tt3920596",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Big_Little_Lies_(TV_series)",
