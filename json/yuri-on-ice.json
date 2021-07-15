@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Yuri_on_Ice",
 
     "genre-tags": ["sports", "anime", "comedy", "drama", "diverse ensemble"],
-    "bias-tags": [""],
+    "bias-tags": ["Y"],
 
     "plot-tags": ["ice skating", "figure skating", "gay subtext", "lgbtq subtext", "ambiguous"],
     "plot-geo": ["japan", "hasetsu"],
@@ -20,32 +20,32 @@
     "production-tags": ["mappa"],
     "production-geo": ["japan", "tokyo"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["well-written", "gay, ambiguous relationships", "complex characters"],
+    "reception-negative": ["not enough genuine conflicts"],
 
     "cast-lead-1-ethnicities": ["asian pacific", "japanese"],
     "cast-lead-1-nationalities": ["jpn"],
-    "cast-lead-1-genders": ["male", "cis"],
-    "cast-lead-1-sexualities": ["ambiguous", "gay", "bisexual"],
-    "cast-lead-1-ages": ["20-29"],
+    "cast-lead-1-genders": ["cis male"],
+    "cast-lead-1-sexualities": ["straight playing ambiguous"],
+    "cast-lead-1-ages": ["30-39 playing 20-29"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["yuri katsuki", "toshiyuki toyonaga"],
 
-    "cast-lead-2-ethnicities": ["white", "asian pacific playing white"],
-    "cast-lead-2-nationalities": ["rus", "jpn playing rus"],
-    "cast-lead-2-genders": ["male", "cis"],
-    "cast-lead-2-sexualities": ["ambiguous", "gay"],
-    "cast-lead-2-ages": ["20-29"],
+    "cast-lead-2-ethnicities": ["asian pacific playing white"],
+    "cast-lead-2-nationalities": ["jpn playing rus"],
+    "cast-lead-2-genders": ["cis male"],
+    "cast-lead-2-sexualities": ["straight playing ambiguous"],
+    "cast-lead-2-ages": ["40-49 playing 20-29"],
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["viktor nikiforov", "junichi suwabe"],
 
-    "cast-lead-3-ethnicities": ["white", "asian pacific playing white"],
-    "cast-lead-3-nationalities": ["rus", "jpn playing rus"],
-    "cast-lead-3-genders": ["male", "cis"],
-    "cast-lead-3-sexualities": ["ambiguous"],
-    "cast-lead-3-ages": ["10-19"],
+    "cast-lead-3-ethnicities": ["asian pacific playing white"],
+    "cast-lead-3-nationalities": ["jpn playing rus"],
+    "cast-lead-3-genders": ["cis male"],
+    "cast-lead-3-sexualities": ["straight playing ambiguous"],
+    "cast-lead-3-ages": ["20-29 playing 10-19"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["yuri plisetsky", "kōki uchiyama"],
 
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["yuri katsuki, viktor nikiforov, yuri plisetsky"],
+    "notes": [""],
 
     "data-version": "20210317"
 }
