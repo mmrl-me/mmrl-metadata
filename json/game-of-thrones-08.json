@@ -1,10 +1,10 @@
 {
     "name": "Game of Thrones",
-    "name-key": "game-of-thrones-801",
+    "name-key": ["game-of-thrones-801", "game-of-thrones-803", "game-of-thrones-806"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "801",
+    "id": "8",
 
     "id-imdb": "https://www.imdb.com/title/tt0944947",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Game_of_Thrones",
