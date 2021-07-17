@@ -1,6 +1,6 @@
 {
     "name": "Doctor Who",
-    "name-key": "doctor-who-1101",
+    "name-key": ["doctor-who-1101", "doctor-who-1105"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
