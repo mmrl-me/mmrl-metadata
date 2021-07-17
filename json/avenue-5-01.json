@@ -1,6 +1,6 @@
 {
     "name": "Avenue 5",
-    "name-key": "avenue-5-101",
+    "name-key": ["avenue-5-101"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
