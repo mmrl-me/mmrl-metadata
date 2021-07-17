@@ -1,6 +1,6 @@
 {
     "name": "Black Monday",
-    "name-key": "black-monday-01",
+    "name-key": ["black-monday-106", "black-monday-110"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
