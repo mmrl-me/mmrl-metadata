@@ -1,6 +1,6 @@
 {
     "name": "The Americans",
-    "name-key": "americans-501",
+    "name-key": ["americans-501", "americans-513"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
@@ -71,13 +71,13 @@
     "cast-lead-6-z": ["human"],
     "cast-lead-6-names": ["brandon j. dirden", "dennis aderholt"],
 
-    "cast-lead-7-ethnicities": ["white"],
-    "cast-lead-7-nationalities": ["rus, nzl playing rus"],
-    "cast-lead-7-genders": ["cis male"],
-    "cast-lead-7-sexualities": ["unknown playing straight"],
-    "cast-lead-7-ages": ["30-39"],
-    "cast-lead-7-z": ["human"],
-    "cast-lead-7-names": ["costa ronin", "oleg igorevich burov"],
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-nationalities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+    "cast-lead-7-names": [""],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
