@@ -1,6 +1,6 @@
 {
     "name": "I Am the Night",
-    "name-key": "i-am-the-night-103",
+    "name-key": ["i-am-the-night-103", "i-am-the-night-106"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
