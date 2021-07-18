@@ -1,6 +1,6 @@
 {
     "name": "Into the Badlands",
-    "name-key": "into-the-badlands-308",
+    "name-key": ["into-the-badlands-308"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
