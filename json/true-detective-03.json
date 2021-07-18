@@ -1,6 +1,6 @@
 {
     "name": "True Detective",
-    "name-key": "true-detective-301",
+    "name-key": ["true-detective-301", "true-detective-308"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
