@@ -1,6 +1,6 @@
 {
     "name": "The Flight Attendant",
-    "name-key": "flight-attendant-108",
+    "name-key": ["flight-attendant-108"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
