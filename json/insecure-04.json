@@ -1,6 +1,6 @@
 {
     "name": "Insecure",
-    "name-key": "insecure-410",
+    "name-key": ["insecure-410"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
