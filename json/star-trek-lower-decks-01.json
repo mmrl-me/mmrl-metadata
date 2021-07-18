@@ -1,6 +1,6 @@
 {
     "name": "Star Trek: Lower Decks",
-    "name-key": "star-trek-lower-decks-101",
+    "name-key": ["star-trek-lower-decks-101"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
