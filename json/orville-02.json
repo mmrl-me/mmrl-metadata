@@ -1,6 +1,6 @@
 {
     "name": "The Orville",
-    "name-key": "orville-201",
+    "name-key": ["orville-201", "orville-206", "orville-214"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
