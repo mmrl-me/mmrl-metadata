@@ -1,6 +1,6 @@
 {
     "name": "Star Trek: Picard",
-    "name-key": "star-trek-picard-110",
+    "name-key": ["star-trek-picard-110"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
