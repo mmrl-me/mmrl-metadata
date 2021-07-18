@@ -1,6 +1,6 @@
 {
     "name": "The Romanoffs",
-    "name-key": "romanoffs-101",
+    "name-key": ["romanoffs-101", "romanoffs-104", "romanoffs-108"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
