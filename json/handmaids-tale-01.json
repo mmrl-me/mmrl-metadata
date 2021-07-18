@@ -1,6 +1,6 @@
 {
     "name": "The Handmaid's Tale",
-    "name-key": "handmaids-tale-101",
+    "name-key": ["handmaids-tale-101", "handmaids-tale-105"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
