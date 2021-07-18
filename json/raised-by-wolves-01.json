@@ -1,6 +1,6 @@
 {
     "name": "Raised by Wolves",
-    "name-key": "raised-by-wolves-110",
+    "name-key": ["raised-by-wolves-110"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
