@@ -1,6 +1,6 @@
 {
     "name": "I May Destroy You",
-    "name-key": "i-may-destroy-you-112",
+    "name-key": ["i-may-destroy-you-112"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
