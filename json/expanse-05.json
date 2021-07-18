@@ -1,6 +1,6 @@
 {
     "name": "The Expanse",
-    "name-key": "expanse-501",
+    "name-key": ["expanse-501", "expanse-510"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
