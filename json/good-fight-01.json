@@ -1,6 +1,6 @@
 {
     "name": "The Good Fight",
-    "name-key": "good-fight-101",
+    "name-key": ["good-fight-101", "good-fight-105", "good-fight-108", "good-fight-110"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
