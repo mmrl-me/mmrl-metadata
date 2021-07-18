@@ -1,6 +1,6 @@
 {
     "name": "Succession",
-    "name-key": "succession-210",
+    "name-key": ["succession-210"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
