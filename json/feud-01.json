@@ -1,6 +1,6 @@
 {
     "name": "Feud",
-    "name-key": "feud-101",
+    "name-key": ["feud-101", "feud-102", "feud-108"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
