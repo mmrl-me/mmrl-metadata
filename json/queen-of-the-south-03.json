@@ -1,6 +1,6 @@
 {
     "name": "Queen of the South",
-    "name-key": "queen-of-the-south-301",
+    "name-key": ["queen-of-the-south-301", "queen-of-the-south-311", "queen-of-the-south-313"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
