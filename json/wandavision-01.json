@@ -1,6 +1,6 @@
 {
     "name": "WandaVision",
-    "name-keys": ["wandavision-101", "wandavision-109"],
+    "name-key": ["wandavision-101", "wandavision-109"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
