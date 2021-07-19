@@ -20,7 +20,7 @@
     "production-tags": ["lucasfilm", "fairview entertainment", "golem creations", "walt disney studios"],
     "production-geo": ["usa", "california", "manhattan beach studios"],
 
-    "reception-positive": ["POC/latinx lead of star wars show", "diverse cast/ POC minor characters not as ambiguous aliens", "strong female characters" "fennec, farmer woman, the armorer, cara", "diverse directors"],
+    "reception-positive": ["POC/latinx lead of star wars show", "diverse cast/ POC minor characters not as ambiguous aliens", "strong female characters", "fennec, farmer woman, the armorer, cara", "diverse directors"],
     "reception-negative": ["doesn't pass bechdel test", "trope of erasing POC through alien characters bc of latinx lead never seen without his helmet/full suit"],
 
     "cast-lead-1-ethnicities": ["latinx"],

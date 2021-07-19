@@ -12,7 +12,7 @@
     "genre-tags": ["crime", "drama", "mystery", "spy thriller"],
     "bias-tags": ["Y"],
 
-    "plot-tags": ["cold war", "kgb", "family relationships", "double life", "spy", "fbi", "soviet union", "undercover", ],
+    "plot-tags": ["cold war", "kgb", "family relationships", "double life", "spy", "fbi", "soviet union", "undercover"],
     "plot-geo": ["usa", "virginia", "falls church", "washington dc"],
     "plot-date": ["1980s"],
 
@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr playing rus"],
-    "cast-lead-1-genders": ["cis male"]
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["40-49"],
     "cast-lead-1-z": ["human"],
@@ -45,7 +45,7 @@
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["00-09", "10-19"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": ["keidrich sellati", "henry jennings"], 
+    "cast-lead-3-names": ["keidrich sellati", "henry jennings"],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["can, usa playing usa"],

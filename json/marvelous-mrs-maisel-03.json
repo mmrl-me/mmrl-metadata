@@ -17,11 +17,11 @@
     "plot-date": ["1960"],
 
     "distribution-tags": ["amazon prime video"],
-    "production-tags": ["dorothy parker drank here productions", "picrow", "amazon studios"], 
+    "production-tags": ["dorothy parker drank here productions", "picrow", "amazon studios"],
     "production-geo": ["usa", "new york city"],
 
-    "reception-positive": ["characters of color appear", "brief but realistic depiction of complications of being a closeted black musician", "midge faces appropriate backlash for insensitivity about maginalized groups' experiences"], // find
-    "reception-negative": ["plot does not spend enough time on characters of color", "tone-deaf scene in a barbershop that centered a white character's plot point", "mei lin embodies several asian stereotypes"], // find
+    "reception-positive": ["characters of color appear", "brief but realistic depiction of complications of being a closeted black musician", "midge faces appropriate backlash for insensitivity about maginalized groups' experiences"],
+    "reception-negative": ["plot does not spend enough time on characters of color", "tone-deaf scene in a barbershop that centered a white character's plot point", "mei lin embodies several asian stereotypes"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
@@ -37,16 +37,16 @@
     "cast-lead-2-sexualities": ["straight playing unknown"],
     "cast-lead-2-ages": ["40-49"],
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": ["alex borstein", "suzie meyerson"], 
+    "cast-lead-2-names": ["alex borstein", "suzie meyerson"],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
     "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"], 
+    "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
     "cast-lead-3-z": ["human"],
     "cast-lead-3-names": ["joel maisel", "michael zegen"],
-    
+
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["gbr playing usa"],
     "cast-lead-4-genders": ["cis male"],
@@ -59,7 +59,7 @@
     "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight"],
-    "cast-lead-5-ages": ["60-69"], 
+    "cast-lead-5-ages": ["60-69"],
     "cast-lead-5-z": ["human"],
     "cast-lead-5-names": ["abe weissman", "abraham weissman", "tony shalhoub"],
 
@@ -67,7 +67,7 @@
     "cast-lead-6-nationalities": ["usa"],
     "cast-lead-6-genders": ["cis female"],
     "cast-lead-6-sexualities": ["straight"],
-    "cast-lead-6-ages": ["50-59"], 
+    "cast-lead-6-ages": ["50-59"],
     "cast-lead-6-z": ["human"],
     "cast-lead-6-names": ["rose weissman", "marin hinkle"],
 
