@@ -1,6 +1,6 @@
 {
     "name": "Westworld",
-    "name-key": "westworld-301",
+    "name-key": ["westworld-301", "westworld-308"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
