@@ -1,6 +1,6 @@
 {
     "name": "Twin Peaks",
-    "name-key": "twin-peaks-310",
+    "name-key": ["twin-peaks-310", "twin-peaks-317"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
