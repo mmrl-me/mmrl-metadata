@@ -1,6 +1,6 @@
 {
     "name": "Yellowstone",
-    "name-key": "yellowstone-210",
+    "name-key": ["yellowstone-210"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
