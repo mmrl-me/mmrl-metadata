@@ -1,6 +1,6 @@
 {
     "name": "Star Wars: The Clone Wars",
-    "name-key": "clone-wars-712",
+    "name-key": ["clone-wars-712"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
