@@ -1,6 +1,6 @@
 {
     "name": "Watchmen",
-    "name-key": "watchmen-104",
+    "name-key": ["watchmen-104", "watchmen-109"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
