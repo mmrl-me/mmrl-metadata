@@ -9,7 +9,7 @@
     "id-imdb": "https://www.imdb.com/title/tt3398228",
     "id-wikipedia": "https://en.wikipedia.org/wiki/BoJack_Horseman",
 
-    "genre-tags": ["animation", "adult animation", "black comedy", "drama", "sitcom", "satire", "surreal humor"],
+    "genre-tags": ["animation", "adult animation", "drama", "sitcom", "satire", "surreal humor", "depression", "tragicomedy"],
     "bias-tags": ["E"],
 
     "plot-tags": ["anthropomorphic animal", "alternate world", "hollywood", "actor", "drug addition", "depression", "self destructive", "entertainment industry", "sadcom"],
@@ -20,8 +20,8 @@
     "production-tags": ["netflix", "tornante television", "shadowmachine", "boxer vs raptor"],
     "production-geo": ["usa", "los angeles"],
 
-    "reception-positive": ["portrayal of fat characters", "diane stays fat and it's a good thing", "portrayal of mental health"],
-    "reception-negative": [""],
+    "reception-positive": ["normalizes weght gain", "diane stays fat and it's a good and healing thing", "realstic portrayal of mental health", "realistic portayal of queer/asexual characters", "],
+    "reception-negative": ["does not engage with diane's experience as a specifically vietnamese-american woman"],
 
     "cast-lead-1-ethnicities": ["white playing unknown"],
     "cast-lead-1-nationalities": ["usa"],
@@ -39,7 +39,7 @@
     "cast-lead-2-z": ["human", "animal", "cat", "multi"],
     "cast-lead-2-names": ["princess carolyn", "amy sedaris"],
 
-    "cast-lead-3-ethnicities": ["asian pacific", "vietnamese american", "white playing asian pacific"],
+    "cast-lead-3-ethnicities": ["vietnamese american", "white playing asian pacific"],
     "cast-lead-3-nationalities": ["usa"],
     "cast-lead-3-genders": ["cis female"],
     "cast-lead-3-sexualities": ["straight"],
@@ -63,13 +63,13 @@
     "cast-lead-5-z": ["human"],
     "cast-lead-5-names": ["todd chavez", "aaron paul"],
 
-    "cast-lead-6-ethnicities": ["unknown", "black", "black playing unknown"],
+    "cast-lead-6-ethnicities": ["black playing unknown"],
     "cast-lead-6-nationalities": ["usa"],
     "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["20-29 playing unknown"],
-    "cast-lead-6-z": ["human", "animal", "buffalo", "multi"],
-    "cast-lead-6-names": ["guy", "lakeith stanfield"],
+    "cast-lead-6-z": ["human", "animal", "bison", "multi"],
+    "cast-lead-6-names": ["guy", "lakeith stanfield", "keith stanfield"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["todd's stepfather is latinx; his biological father is not mentioned"],
+    "notes": ["todd's stepfather is latinx; his biological father is not mentioned", "reception tags about diane pulled from interview withs how producer"],
 
     "data-version": "20210317"
 }
