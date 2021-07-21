@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+x="0px" y="0px"
+width="3240px" height="3240px"
+viewBox="0 0 3240 3240" enable-background="new 0 0 3240 3240">
+
+<title>i-may-destroy-you-media-object</title>
+<defs>
+    <filter id="gblur10" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+      <feOffset dx="0" dy="0" />
+     </filter>
+    <filter id="gblur20" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur10y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 10" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur20y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+  </defs>
+
+<rect x="0" y="0" width="3240" height="3240"
+ style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/mmrl-logo-type-paths.svg" x="3086" y="3154" width="108" height="40"
+ />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-identity-2.svg" x="0" y="3154" width="140" height="52"
+ />
+<text x="25" y="140" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,25,140)">I May Destroy You</text>
+<text x="25" y="25" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,25,25)">media-object</text>
+<text x="81" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,81,25)">imdb</text>
+<text x="81" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,81,140)">https://www.imdb.com/title/tt11204260</text>
+<text x="105" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,105,25)">wikipedia</text>
+<text x="105" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,105,140)">https://en.wikipedia.org/wiki/I_May_Destroy_You</text>
+<text x="129" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,129,25)">genre</text>
+<text x="127" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,127,140)">drama</text>
+<text x="153" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,153,25)">plot</text>
+<text x="151" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,151,140)">rape, millennial, celebrity, gay, dark humor, dating, relationships, sexual assault, diverse ensemble, sexual consent</text>
+<text x="177" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,177,25)">distribution</text>
+<text x="175" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,175,140)">bbc studios, warner bros. television distribution, bbc one, hbo</text>
+<text x="557" y="947" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">ages</text>
+<text x="557" y="977" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">6</text>
+<circle cx="367" cy="557" r="80" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.666667; stroke-width:3" />
+<circle cx="367" cy="557" r="90" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.166667; stroke-width:3" />
+<circle cx="367" cy="557" r="70" style="fill:rgb(0,0,0); fill-opacity:0; stroke:rgb(0,0,0); stroke-opacity:0.166667; stroke-width:3" />
+<path d="M 1606.32,519.412 L 1603.58,511.895 1622.04,517.052 1609.06,526.93 1606.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 1633.68,519.412 A 40 40 0 1 1 1606.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="1620" y="947" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">genders</text>
+<text x="1620" y="977" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">6</text>
+<line x1="1568" y1="587" x2="1559" y2="592" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1551" y="597" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(329,1551,597)">4</text>
+<g id="inset radial svg" transform="rotate(-120,1498,628) translate(1406,536) scale(1.84667)">
+ <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg982">
+  <defs
+     id="defs976" />
+  <metadata
+     id="metadata979">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4"
+     style="display:none">
+    <path
+       id="path2832"
+       d="m -2.8375486,13.201434 -0.03025,4.087995"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.275828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+       x="22.39032"
+       y="-2.9436285"
+       id="text846"><tspan
+         id="tspan844"
+         x="22.39032"
+         y="-2.9436285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">48 point apercu</tspan></text>
+    <path
+       id="path892"
+       d="m 12.916412,16.485978 -0.03163,0.818609"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.126212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path894"
+       d="m 12.916412,9.1041032 -0.03163,0.8186087"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.126212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer1"
+     style="display:none">
+    <text
+       x="-17.403595"
+       y="3.7573261"
+       text-anchor="middle"
+       font-family="Apercu"
+       font-size="14.8828px"
+       text-align="center"
+       font-weight="600"
+       font-style="normal"
+       style="fill:#ad2626;fill-opacity:0.673558;stroke:#ffffff;stroke-width:0;stroke-opacity:0"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+       id="text82">♂</text>
+  </g>
+  <g
+     style="display:none"
+     id="layer2">
+    <path
+       d="m 16.163878,13.18141 c 0,0.794525 -0.283413,1.467933 -0.850238,2.020224 -0.566825,0.552291 -1.245078,0.828437 -2.034758,0.828437 -0.784835,0 -1.458243,-0.276146 -2.020224,-0.828437 -0.557136,-0.552291 -0.835704,-1.225699 -0.835704,-2.020224 0,-0.789679 0.278568,-1.446131 0.835704,-1.969354 0.561981,-0.523224 1.235389,-0.784836 2.020224,-0.784836 0.78968,0 1.467933,0.261612 2.034758,0.784836 0.566825,0.523223 0.850238,1.179675 0.850238,1.969354 z m -5.820861,-2.870462 c -0.8187477,0.760612 -1.2281215,1.717433 -1.2281215,2.870462 0,1.157875 0.4069515,2.138919 1.2208545,2.943132 0.813903,0.804214 1.794947,1.206321 2.943132,1.206321 1.153029,0 2.138918,-0.402107 2.957666,-1.206321 0.823593,-0.804213 1.235389,-1.785257 1.235389,-2.943132 0,-1.157874 -0.409374,-2.114695 -1.228122,-2.870462 C 15.584941,9.700521 14.762664,9.3517055 13.890625,9.2645016 V 7.3460157 h 1.852083 V 6.4449086 h -1.852083 v -1.867617 h -1.251238 v 1.867617 h -1.976622 v 0.9011071 h 1.976622 v 1.9257529 c -0.876884,0.082359 -1.642341,0.4287524 -2.29637,1.0391794 z"
+       style="font-style:normal;font-weight:600;font-size:14.8828px;font-family:Apercu;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-opacity:0"
+       id="path2834" />
+  </g>
+  <g
+     id="layer3"
+     style="display:none">
+    <g
+       aria-label="♀"
+       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"
+       id="use940"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         d="m 18.726064,-3.0999786 q -1.355987,0 -2.3151,0.9425763 -0.950845,0.9425763 -0.950845,2.29856318 0,1.34771872 0.950845,2.24068572 0.959113,0.892967 2.3151,0.892967 1.331182,0 2.298563,-0.892967 0.967381,-0.892967 0.967381,-2.24068572 0,-1.35598688 -0.967381,-2.29856318 -0.967381,-0.9425763 -2.298563,-0.9425763 z M 15.369169,3.407105 q -1.397328,-1.2981094 -1.397328,-3.26594412 0,-1.97610288 1.38906,-3.34862618 1.38906,-1.3725234 3.365163,-1.3725234 1.951298,0 3.348626,1.3725234 1.405596,1.3725233 1.405596,3.34862618 0,1.97610292 -1.397328,3.26594412 -1.124477,1.0417948 -2.612755,1.1906226 v 2.1828082 h 2.248954 V 7.8057942 H 19.470203 V 9.930725 H 17.981924 V 7.8057942 H 15.73297 V 6.7805358 h 2.248954 V 4.5894594 Q 16.485378,4.4488998 15.369169,3.407105 Z"
+         id="path996" />
+    </g>
+    <g
+       aria-label="⚦"
+       transform="rotate(157.5)"
+       id="text841"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.433147">
+      <path
+         d="m -4.5026327,-22.063355 -0.5787749,1.405596 q 0.4216789,0.272851 0.7027981,0.570506 0.5622385,0.595312 0.8433577,1.281573 0.3141921,0.760676 0.3141921,1.504815 0,0.744139 -0.3059239,1.496547 -0.2893874,0.711066 -0.8102848,1.256768 -0.5126292,0.537434 -1.3229141,0.884699 -0.7110663,0.305924 -1.5048147,0.305924 -0.7441392,0 -1.4882784,-0.305924 -0.777212,-0.32246 -1.2650365,-0.83509 -0.5622389,-0.595311 -0.8433579,-1.281573 -0.314192,-0.768943 -0.314192,-1.504814 0,-0.74414 0.314192,-1.521352 0.297656,-0.727602 0.8350897,-1.265036 0.545702,-0.537434 1.2981094,-0.851626 0.7276027,-0.305924 1.4965465,-0.305924 0.4795564,0 0.9012352,0.09922 l 0.5870431,-1.413865 -2.100126,-0.868162 0.4712881,-1.141014 2.1001261,0.868163 1.1079405,-2.678901 -1.8603479,0.777212 -0.4795564,-1.149282 3.8199144,-1.579228 1.58749688,3.819914 -1.14928158,0.471288 -0.7689438,-1.860348 -1.1079405,2.670633 2.100126,0.868162 -0.4795563,1.149282 z m -3.6710865,7.251222 q 0.504361,0.214974 1.0252584,0.214974 0.5208974,0 1.0252584,-0.206706 0.4960928,-0.206705 0.8681623,-0.587043 0.3720696,-0.380337 0.5870432,-0.884698 0.2067053,-0.496093 0.2067053,-1.025259 0,-0.529165 -0.2067053,-1.025258 -0.1901689,-0.471288 -0.5787749,-0.884699 -0.347265,-0.37207 -0.8681624,-0.570507 -0.5208974,-0.206705 -1.0252584,-0.206705 -0.504361,0 -1.0252584,0.206705 -0.4960928,0.206706 -0.8681624,0.570507 -0.3638013,0.363801 -0.5870431,0.884699 -0.2067053,0.479556 -0.2067053,1.025258 0,0.545702 0.1984371,1.041795 0.1984371,0.471288 0.5787749,0.876431 0.3307285,0.347265 0.8764306,0.570506 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.433147"
+         id="path993" />
+    </g>
+    <path
+       d="m 10.036448,13.173111 c 0,0.903991 0.314192,1.67569 0.942576,2.315099 0.628383,0.633898 1.39457,0.950846 2.298564,0.950844 0.90399,0 1.653642,-0.316948 2.248953,-0.950844 0.595313,-0.639408 0.892968,-1.411107 0.892967,-2.3151 0,-0.887455 -0.297656,-1.653642 -0.892967,-2.298563 -0.595311,-0.644922 -1.315647,-0.9380656 -2.219639,-0.9380656 -0.903991,0 -1.64069,0.3519486 -2.269074,0.9968696 -0.628386,0.644918 -1.00138,1.352304 -1.00138,2.23976 z m 7.94762,-0.117623 c 0,1.295353 -0.36599,2.410392 -1.424,3.466248 -0.876434,0.937062 -1.970592,1.405596 -3.282481,1.405596 -1.311889,1e-6 -2.436366,-0.474043 -3.3734309,-1.422132 C 8.9615817,15.5516 8.515098,14.440903 8.564707,13.17311 8.608807,11.916342 8.9147307,10.979278 9.4824784,10.361917 L 6.5431103,7.4391229 6.4657507,10.583989 5.2916667,9.4264377 5.3690259,5.2645814 9.5157344,5.1858334 10.698088,6.3681876 7.5352981,6.4469366 10.474666,9.3449257 c 0.804772,-0.6173595 1.739081,-0.92604 2.802924,-0.9260401 1.278817,3e-7 2.446781,0.4933352 3.260675,1.3199148 1.145405,1.1632506 1.426755,2.1564146 1.445803,3.3166876 z"
+       id="use948"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     id="g854"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;fill:#00a99b;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none"
+       x="19.430326"
+       y="-5.5115976"
+       id="text852"
+       transform="scale(1,-1)"><tspan
+         id="tspan856"
+         x="19.430326"
+         y="-5.5115976">♀</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;display:none;fill:#00a99b;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none"
+       x="28.103743"
+       y="20.560783"
+       id="text860"><tspan
+         id="tspan858"
+         x="0"
+         y="0">♀</tspan></text>
+  </g>
+  <g
+     id="g870"
+     style="display:inline">
+    <path
+       d="m 10.939304,10.903374 c -0.639218,0.639219 -0.9627245,1.40706 -0.97052,2.303525 -0.0039,0.892567 0.31376,1.658459 0.952981,2.297678 0.639218,0.639218 1.393418,0.945185 2.262599,0.917902 0.873079,-0.03118 1.629227,-0.36638 2.268446,-1.0056 0.627525,-0.627525 0.958827,-1.379776 0.993906,-2.256752 0.03508,-0.876977 -0.26699,-1.593616 -0.906209,-2.232835 -0.639219,-0.639218 -1.409009,-0.911277 -2.309371,-0.899584 -0.900362,0.01169 -1.664306,0.248141 -2.291832,0.875666 z m 5.702988,5.536644 c -0.915953,0.915953 -1.963198,1.445611 -3.457928,1.444088 -1.282335,0.04287 -2.387325,-0.399513 -3.3149707,-1.327158 C 8.9417474,15.629303 8.481822,14.498978 8.4896169,13.165973 8.4974124,11.825174 8.9670821,10.724081 9.898626,9.8626955 10.818479,9.0052094 11.697404,8.558926 12.535402,8.5238451 l -0.01172,-4.1451759 -2.278458,2.169055 -0.01169,-1.6487155 2.997578,-2.8881756 2.98785,2.8764828 v 1.6721014 l -2.292115,-2.1807477 0.02926,4.1276355 c 1.005599,0.1325209 1.884525,0.5749067 2.636776,1.3271576 0.90426,0.9042603 1.381295,2.0789763 1.372325,3.2389663 -0.01262,1.632466 -0.515948,2.533684 -1.322916,3.367589 z"
+       id="path936"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
+
+</g>
+<line x1="1672" y1="586" x2="1680" y2="591" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1689" y="596" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(29,1689,596)">2</text>
+<g id="inset radial svg" transform="rotate(-240,1727,618) translate(1682,573) scale(0.895355)">
+ <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg982">
+  <defs
+     id="defs976" />
+  <metadata
+     id="metadata979">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4"
+     style="display:none">
+    <path
+       id="path2832"
+       d="m -2.8375486,13.201434 -0.03025,4.087995"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.275828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+       x="22.39032"
+       y="-2.9436285"
+       id="text846"><tspan
+         id="tspan844"
+         x="22.39032"
+         y="-2.9436285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">48 point apercu</tspan></text>
+    <path
+       id="path892"
+       d="m 12.916412,16.485978 -0.03163,0.818609"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.126212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path894"
+       d="m 12.916412,9.1041032 -0.03163,0.8186087"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.126212px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer1"
+     style="display:none">
+    <text
+       x="-17.403595"
+       y="3.7573261"
+       text-anchor="middle"
+       font-family="Apercu"
+       font-size="14.8828px"
+       text-align="center"
+       font-weight="600"
+       font-style="normal"
+       style="fill:#ad2626;fill-opacity:0.673558;stroke:#ffffff;stroke-width:0;stroke-opacity:0"
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+       id="text82">♂</text>
+  </g>
+  <g
+     style="display:none"
+     id="layer2">
+    <path
+       d="m 16.163878,13.18141 c 0,0.794525 -0.283413,1.467933 -0.850238,2.020224 -0.566825,0.552291 -1.245078,0.828437 -2.034758,0.828437 -0.784835,0 -1.458243,-0.276146 -2.020224,-0.828437 -0.557136,-0.552291 -0.835704,-1.225699 -0.835704,-2.020224 0,-0.789679 0.278568,-1.446131 0.835704,-1.969354 0.561981,-0.523224 1.235389,-0.784836 2.020224,-0.784836 0.78968,0 1.467933,0.261612 2.034758,0.784836 0.566825,0.523223 0.850238,1.179675 0.850238,1.969354 z m -5.820861,-2.870462 c -0.8187477,0.760612 -1.2281215,1.717433 -1.2281215,2.870462 0,1.157875 0.4069515,2.138919 1.2208545,2.943132 0.813903,0.804214 1.794947,1.206321 2.943132,1.206321 1.153029,0 2.138918,-0.402107 2.957666,-1.206321 0.823593,-0.804213 1.235389,-1.785257 1.235389,-2.943132 0,-1.157874 -0.409374,-2.114695 -1.228122,-2.870462 C 15.584941,9.700521 14.762664,9.3517055 13.890625,9.2645016 V 7.3460157 h 1.852083 V 6.4449086 h -1.852083 v -1.867617 h -1.251238 v 1.867617 h -1.976622 v 0.9011071 h 1.976622 v 1.9257529 c -0.876884,0.082359 -1.642341,0.4287524 -2.29637,1.0391794 z"
+       style="font-style:normal;font-weight:600;font-size:14.8828px;font-family:Apercu;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-opacity:0"
+       id="path2834" />
+  </g>
+  <g
+     id="layer3"
+     style="display:none">
+    <g
+       aria-label="♀"
+       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"
+       id="use940"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         d="m 18.726064,-3.0999786 q -1.355987,0 -2.3151,0.9425763 -0.950845,0.9425763 -0.950845,2.29856318 0,1.34771872 0.950845,2.24068572 0.959113,0.892967 2.3151,0.892967 1.331182,0 2.298563,-0.892967 0.967381,-0.892967 0.967381,-2.24068572 0,-1.35598688 -0.967381,-2.29856318 -0.967381,-0.9425763 -2.298563,-0.9425763 z M 15.369169,3.407105 q -1.397328,-1.2981094 -1.397328,-3.26594412 0,-1.97610288 1.38906,-3.34862618 1.38906,-1.3725234 3.365163,-1.3725234 1.951298,0 3.348626,1.3725234 1.405596,1.3725233 1.405596,3.34862618 0,1.97610292 -1.397328,3.26594412 -1.124477,1.0417948 -2.612755,1.1906226 v 2.1828082 h 2.248954 V 7.8057942 H 19.470203 V 9.930725 H 17.981924 V 7.8057942 H 15.73297 V 6.7805358 h 2.248954 V 4.5894594 Q 16.485378,4.4488998 15.369169,3.407105 Z"
+         id="path996" />
+    </g>
+    <g
+       aria-label="⚦"
+       transform="rotate(157.5)"
+       id="text841"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.433147">
+      <path
+         d="m -4.5026327,-22.063355 -0.5787749,1.405596 q 0.4216789,0.272851 0.7027981,0.570506 0.5622385,0.595312 0.8433577,1.281573 0.3141921,0.760676 0.3141921,1.504815 0,0.744139 -0.3059239,1.496547 -0.2893874,0.711066 -0.8102848,1.256768 -0.5126292,0.537434 -1.3229141,0.884699 -0.7110663,0.305924 -1.5048147,0.305924 -0.7441392,0 -1.4882784,-0.305924 -0.777212,-0.32246 -1.2650365,-0.83509 -0.5622389,-0.595311 -0.8433579,-1.281573 -0.314192,-0.768943 -0.314192,-1.504814 0,-0.74414 0.314192,-1.521352 0.297656,-0.727602 0.8350897,-1.265036 0.545702,-0.537434 1.2981094,-0.851626 0.7276027,-0.305924 1.4965465,-0.305924 0.4795564,0 0.9012352,0.09922 l 0.5870431,-1.413865 -2.100126,-0.868162 0.4712881,-1.141014 2.1001261,0.868163 1.1079405,-2.678901 -1.8603479,0.777212 -0.4795564,-1.149282 3.8199144,-1.579228 1.58749688,3.819914 -1.14928158,0.471288 -0.7689438,-1.860348 -1.1079405,2.670633 2.100126,0.868162 -0.4795563,1.149282 z m -3.6710865,7.251222 q 0.504361,0.214974 1.0252584,0.214974 0.5208974,0 1.0252584,-0.206706 0.4960928,-0.206705 0.8681623,-0.587043 0.3720696,-0.380337 0.5870432,-0.884698 0.2067053,-0.496093 0.2067053,-1.025259 0,-0.529165 -0.2067053,-1.025258 -0.1901689,-0.471288 -0.5787749,-0.884699 -0.347265,-0.37207 -0.8681624,-0.570507 -0.5208974,-0.206705 -1.0252584,-0.206705 -0.504361,0 -1.0252584,0.206705 -0.4960928,0.206706 -0.8681624,0.570507 -0.3638013,0.363801 -0.5870431,0.884699 -0.2067053,0.479556 -0.2067053,1.025258 0,0.545702 0.1984371,1.041795 0.1984371,0.471288 0.5787749,0.876431 0.3307285,0.347265 0.8764306,0.570506 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.433147"
+         id="path993" />
+    </g>
+    <path
+       d="m 10.036448,13.173111 c 0,0.903991 0.314192,1.67569 0.942576,2.315099 0.628383,0.633898 1.39457,0.950846 2.298564,0.950844 0.90399,0 1.653642,-0.316948 2.248953,-0.950844 0.595313,-0.639408 0.892968,-1.411107 0.892967,-2.3151 0,-0.887455 -0.297656,-1.653642 -0.892967,-2.298563 -0.595311,-0.644922 -1.315647,-0.9380656 -2.219639,-0.9380656 -0.903991,0 -1.64069,0.3519486 -2.269074,0.9968696 -0.628386,0.644918 -1.00138,1.352304 -1.00138,2.23976 z m 7.94762,-0.117623 c 0,1.295353 -0.36599,2.410392 -1.424,3.466248 -0.876434,0.937062 -1.970592,1.405596 -3.282481,1.405596 -1.311889,1e-6 -2.436366,-0.474043 -3.3734309,-1.422132 C 8.9615817,15.5516 8.515098,14.440903 8.564707,13.17311 8.608807,11.916342 8.9147307,10.979278 9.4824784,10.361917 L 6.5431103,7.4391229 6.4657507,10.583989 5.2916667,9.4264377 5.3690259,5.2645814 9.5157344,5.1858334 10.698088,6.3681876 7.5352981,6.4469366 10.474666,9.3449257 c 0.804772,-0.6173595 1.739081,-0.92604 2.802924,-0.9260401 1.278817,3e-7 2.446781,0.4933352 3.260675,1.3199148 1.145405,1.1632506 1.426755,2.1564146 1.445803,3.3166876 z"
+       id="use948"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     id="g854"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="19.430326"
+       y="-5.5115976"
+       id="text852"
+       transform="scale(1,-1)"><tspan
+         id="tspan856"
+         x="19.430326"
+         y="-5.5115976">♀</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;display:none;fill:#00a99b;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none"
+       x="28.103743"
+       y="20.560783"
+       id="text860"><tspan
+         id="tspan858"
+         x="0"
+         y="0">♀</tspan></text>
+  </g>
+  <g
+     id="g870"
+     style="display:none">
+    <path
+       d="m 10.939304,10.903374 c -0.639218,0.639219 -0.9627245,1.40706 -0.97052,2.303525 -0.0039,0.892567 0.31376,1.658459 0.952981,2.297678 0.639218,0.639218 1.393418,0.945185 2.262599,0.917902 0.873079,-0.03118 1.629227,-0.36638 2.268446,-1.0056 0.627525,-0.627525 0.958827,-1.379776 0.993906,-2.256752 0.03508,-0.876977 -0.26699,-1.593616 -0.906209,-2.232835 -0.639219,-0.639218 -1.409009,-0.911277 -2.309371,-0.899584 -0.900362,0.01169 -1.664306,0.248141 -2.291832,0.875666 z m 5.702988,5.536644 c -0.915953,0.915953 -1.963198,1.445611 -3.457928,1.444088 -1.282335,0.04287 -2.387325,-0.399513 -3.3149707,-1.327158 C 8.9417474,15.629303 8.481822,14.498978 8.4896169,13.165973 8.4974124,11.825174 8.9670821,10.724081 9.898626,9.8626955 10.818479,9.0052094 11.697404,8.558926 12.535402,8.5238451 l -0.01172,-4.1451759 -2.278458,2.169055 -0.01169,-1.6487155 2.997578,-2.8881756 2.98785,2.8764828 v 1.6721014 l -2.292115,-2.1807477 0.02926,4.1276355 c 1.005599,0.1325209 1.884525,0.5749067 2.636776,1.3271576 0.90426,0.9042603 1.381295,2.0789763 1.372325,3.2389663 -0.01262,1.632466 -0.515948,2.533684 -1.322916,3.367589 z"
+       id="path936"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;word-spacing:0px;text-anchor:end;fill:#d32b00;fill-opacity:1;stroke-width:0.433123;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
+
+</g>
+<path d="M 2669.32,519.412 L 2666.58,511.895 2685.04,517.052 2672.06,526.93 2669.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 2696.68,519.412 A 40 40 0 1 1 2669.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="2683" y="947" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">sexualities</text>
+<text x="2683" y="977" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">6</text>
+<line x1="2683" y1="616" x2="2683" y2="626" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="2683" y="636" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(89,2683,636)">3</text>
+<circle cx="2684" cy="690" r="25" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="2684" y="724" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(89,2684,724)">straight</text>
+<line x1="2735" y1="586" x2="2743" y2="591" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="2752" y="596" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(29,2752,596)">2</text>
+<circle cx="2791" cy="618" r="16" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="2813" y="631" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(29,2813,631)">unknown -> straight</text>
+<line x1="2734" y1="526" x2="2743" y2="521" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="2752" y="516" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-30,2752,516)">1</text>
+<circle cx="2776" cy="487" r="8" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="2790" y="476" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-36,2790,476)">aromantic</text>
+<circle cx="2789" cy="511" r="8" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="2805" y="503" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-23,2805,503)">straight -> gay</text>
+<path d="M 1606.32,1582.41 L 1603.58,1574.89 1622.04,1580.05 1609.06,1589.93 1606.32,1582.41 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 1633.68,1582.41 A 40 40 0 1 1 1606.32,1582.41 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="1620" y="2010" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">ethnicities</text>
+<text x="1620" y="2040" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">6</text>
+<line x1="1620" y1="1679" x2="1620" y2="1689" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1620" y="1699" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(89,1620,1699)">3</text>
+<circle cx="1621" cy="1753" r="25" style="fill:rgb(255,29,16); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2" />
+<text x="1621" y="1787" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(89,1621,1787)">black</text>
+<line x1="1671" y1="1589" x2="1680" y2="1584" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1689" y="1579" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-30,1689,1579)">1</text>
+<circle cx="1694" cy="1531" r="8" style="fill:rgb(128,5,5); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2" />
+<text x="1705" y="1517" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-50,1705,1517)">white</text>
+<circle cx="1713" cy="1550" r="8" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="1727" y="1539" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-36,1727,1539)">north african</text>
+<circle cx="1726" cy="1574" r="8" style="fill:rgb(37,42,255); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2" />
+<text x="1742" y="1566" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-23,1742,1566)">asian pacific</text>
+<circle cx="1734" cy="1599" r="8" style="fill:rgb(100,150,245); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2" />
+<text x="1751" y="1596" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-10,1751,1596)">middle/near eastern</text>
+<text x="2683" y="2010" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">nationalities</text>
+<text x="2683" y="2040" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">6</text>
+<text x="2683" y="1660" font-family="Atkinson Hyperlegible" font-size="48.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">gbr</text>
+<text x="2683" y="1612" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">nga</text>
+<text x="2683" y="1596" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">ita</text>
+<path d="M 543.319,1582.41 L 540.583,1574.89 559.036,1580.05 546.055,1589.93 543.319,1582.41 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 570.681,1582.41 A 40 40 0 1 1 543.319,1582.41 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="557" y="2010" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">z</text>
+<text x="557" y="2040" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">6</text>
+<line x1="555" y1="1560" x2="555" y2="1550" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="555" y="1540" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(449,555,1540)">6</text>
+<circle cx="554" cy="1462" r="50" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="553" y="1402" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(449,553,1402)">human</text>
+<text x="2693" y="2723" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">Q</text>
+<text x="2673" y="2717" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="end" text-align="right" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">1</text>
+<text x="2693" y="2678" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">Y</text>
+<text x="2673" y="2672" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="end" text-align="right" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">1</text>
+<text x="2683" y="3073" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">bias</text>
+<text x="2683" y="3103" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">2</text>
+<text x="1620" y="2588" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">+</text>
+<text x="1620" y="2624" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">1</text>
+<text x="1620" y="2778" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">-</text>
+<text x="1620" y="2742" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">2</text>
+<text x="1620" y="3073" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">reception</text>
+<text x="1620" y="3103" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">3</text>
+</svg>
+

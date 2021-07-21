@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+x="0px" y="0px"
+width="3240px" height="3240px"
+viewBox="0 0 3240 3240" enable-background="new 0 0 3240 3240">
+
+<title>she-ra-04-media-object</title>
+<defs>
+    <filter id="gblur10" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+      <feOffset dx="0" dy="0" />
+     </filter>
+    <filter id="gblur20" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur10y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 10" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur20y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+  </defs>
+
+<rect x="0" y="0" width="3240" height="3240"
+ style="fill:rgb(255,255,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/mmrl-logo-type-paths.svg" x="3086" y="3154" width="108" height="40"
+ />
+<image xlink:href="/home/bkoz/src/alpha60-data/identity/a60-identity-2.svg" x="0" y="3154" width="140" height="52"
+ />
+<text x="25" y="140" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,25,140)">She-Ra and the Princesses of Power</text>
+<text x="25" y="25" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,25,25)">media-object</text>
+<text x="81" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,81,25)">imdb</text>
+<text x="81" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,81,140)">https://www.imdb.com/title/tt7745956</text>
+<text x="105" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,105,25)">wikipedia</text>
+<text x="105" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,105,140)">https://en.wikipedia.org/wiki/She-Ra_and_the_Princesses_of_Power</text>
+<text x="129" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,129,25)">genre</text>
+<text x="127" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,127,140)">reboot, diverse ensemble, animation, action, adventure, scifi, sword and planet, magical girl, fantasy, family</text>
+<text x="153" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,153,25)">plot</text>
+<text x="151" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,151,140)">resistance, heroine, alliance, teenage relationships, queer, planetary warfare</text>
+<text x="177" y="25" font-family="Atkinson Hyperlegible" font-size="12.000000px" text-anchor="start" text-align="left" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,177,25)">distribution</text>
+<text x="175" y="140" font-family="Atkinson Hyperlegible" font-size="10.000000px" text-anchor="start" text-align="left" font-weight="400" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(90,175,140)">netflix</text>
+<text x="557" y="947" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">ages</text>
+<text x="557" y="977" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">0</text>
+<path d="M 1606.32,519.412 L 1603.58,511.895 1622.04,517.052 1609.06,526.93 1606.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 1633.68,519.412 A 40 40 0 1 1 1606.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="1620" y="947" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">genders</text>
+<text x="1620" y="977" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">5</text>
+<line x1="1618" y1="497" x2="1618" y2="487" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1618" y="477" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(449,1618,477)">5</text>
+<circle cx="1617" cy="399" r="50" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="1616" y="339" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(449,1616,339)">cis</text>
+<line x1="1585" y1="605" x2="1579" y2="614" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1573" y="622" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(305,1573,622)">3</text>
+<circle cx="1540" cy="669" r="30" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="1516" y="702" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(305,1516,702)">female</text>
+<line x1="1655" y1="605" x2="1661" y2="613" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1667" y="621" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(53,1667,621)">2</text>
+<circle cx="1696" cy="660" r="20" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="1713" y="684" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(53,1713,684)">male</text>
+<path d="M 2669.32,519.412 L 2666.58,511.895 2685.04,517.052 2672.06,526.93 2669.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 2696.68,519.412 A 40 40 0 1 1 2669.32,519.412 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="2683" y="947" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">sexualities</text>
+<text x="2683" y="977" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">5</text>
+<line x1="2648" y1="605" x2="2642" y2="614" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="2636" y="622" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(305,2636,622)">3</text>
+<circle cx="2603" cy="669" r="30" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="2579" y="702" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(305,2579,702)">straight</text>
+<line x1="2718" y1="605" x2="2724" y2="613" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="2730" y="621" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(53,2730,621)">2</text>
+<circle cx="2759" cy="660" r="20" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="2776" y="684" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(53,2776,684)">lesbian</text>
+<line x1="2739" y1="538" x2="2749" y2="535" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="2758" y="532" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-18,2758,532)">1</text>
+<circle cx="2795" cy="520" r="10" style="fill:rgb(127,225,15); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2" />
+<text x="2814" y="513" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(-18,2814,513)">ambiguous</text>
+<path d="M 1606.32,1582.41 L 1603.58,1574.89 1622.04,1580.05 1609.06,1589.93 1606.32,1582.41 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 1633.68,1582.41 A 40 40 0 1 1 1606.32,1582.41 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="1620" y="2010" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">ethnicities</text>
+<text x="1620" y="2040" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">5</text>
+<line x1="1618" y1="1560" x2="1618" y2="1550" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1618" y="1540" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(449,1618,1540)">5</text>
+<circle cx="1617" cy="1462" r="50" style="fill:rgb(128,5,5); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0; stroke-width:2" />
+<text x="1616" y="1402" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="end" text-align="right" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(449,1616,1402)">white</text>
+<line x1="1655" y1="1668" x2="1661" y2="1676" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="1667" y="1684" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(53,1667,1684)">2</text>
+<circle cx="1696" cy="1723" r="20" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="1713" y="1747" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(53,1713,1747)">etherian</text>
+<text x="2683" y="2010" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">nationalities</text>
+<text x="2683" y="2040" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">0</text>
+<path d="M 543.319,1582.41 L 540.583,1574.89 559.036,1580.05 546.055,1589.93 543.319,1582.41 " style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(148,148,148); stroke-opacity:0; stroke-width:2" />
+<path d="M 570.681,1582.41 A 40 40 0 1 1 543.319,1582.41 " style="fill:rgb(148,148,148); fill-opacity:0; stroke:rgb(148,148,148); stroke-opacity:1; stroke-width:2" />
+<text x="557" y="2010" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">z</text>
+<text x="557" y="2040" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">3</text>
+<line x1="609" y1="1649" x2="617" y2="1654" style="fill:rgb(0,0,0); fill-opacity:1; stroke:rgb(0,0,0); stroke-opacity:0.25; stroke-width:1" />
+<text x="626" y="1659" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(29,626,1659)">1</text>
+<circle cx="678" cy="1649" r="16" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="702" y="1654" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(13,702,1654)">cat</text>
+<circle cx="665" cy="1681" r="16" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="687" y="1694" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(29,687,1694)">clone</text>
+<circle cx="643" cy="1709" r="16" style="fill:rgb(255,255,255); fill-opacity:0.1; stroke:rgb(0,0,0); stroke-opacity:0.5; stroke-width:2" />
+<text x="661" y="1727" font-family="Atkinson Hyperlegible" font-size="16.000000px" text-anchor="start" text-align="left" dominant-baseline="central" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2" transform="rotate(45,661,1727)">first one</text>
+<text x="2683" y="3073" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">bias</text>
+<text x="2683" y="3103" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">0</text>
+<text x="1620" y="2588" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">+</text>
+<text x="1620" y="2624" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">0</text>
+<text x="1620" y="2778" font-family="Atkinson Hyperlegible" font-size="36.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(46,46,46); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">-</text>
+<text x="1620" y="2742" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(118,118,118); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">0</text>
+<text x="1620" y="3073" font-family="Atkinson Hyperlegible" font-size="24.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">reception</text>
+<text x="1620" y="3103" font-family="Atkinson Hyperlegible" font-size="19.000000px" text-anchor="middle" text-align="center" font-weight="600" font-style="normal"  style="fill:rgb(148,148,148); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:2">0</text>
+</svg>
+
