@@ -1,0 +1,68 @@
+00-09
+10-19
+10-19 playing 00-09
+100+
+20-29
+20-29 playing 00-09
+20-29 playing 10-19
+20-29 playing 10-19, 20-29
+20-29 playing 10-19, 20-29, 30-39, 40-49
+20-29 playing 100+
+20-29 playing 30-39
+20-29 playing unknown
+30-39
+30-39 playing 10-19
+30-39 playing 10-19, 20-29
+30-39 playing 10-19, 20-29, 40-49, 50-59, 60-69
+30-39 playing 100+
+30-39 playing 20-29
+30-39 playing 20-29, 30-39, 40-49
+30-39 playing 30-39, 40-49
+30-39 playing 70-79, ambiguous
+30-39 playing 90-99, ambiguous
+30-39 playing ambiguous
+30-39 playing ambiguous, 100+
+30-39 playing unknown
+40-49
+40-49 playing 10-19
+40-49 playing 100+
+40-49 playing 20-29
+40-49 playing 20-29, 30-39
+40-49 playing 20-29, 30-39, 40-49
+40-49 playing 30-39
+40-49 playing 30-39, 40-49
+40-49 playing 40-49, 50-59
+40-49 playing 50-59
+40-49 playing 50-59, 60-69
+40-49 playing 80-89
+40-49 playing 90-99, ambiguous
+40-49 playing ambiguous
+40-49 playing ambiguous, 00-09
+40-49 playing ambiguous, 100+
+40-49 playing unknown
+50-59
+50-59 playing 10-19, 60-69
+50-59 playing 100+
+50-59 playing 40-49
+50-59 playing 40-49, 50-59
+50-59 playing 50-59, 60-69
+50-59 playing 60-69, ambiguous
+50-59 playing ambiguous, 100+
+50-59 playing unknown
+60-69
+60-69 playing 10-19, 60-69
+60-69 playing 100+
+60-69 playing 50-59
+60-69 playing 70-79
+60-69 playing unknown
+70-29
+70-79
+70-79 playing 50-59
+70-79 playing 80-89
+70-79 playing unknown
+80-89
+80-89 playing 100+
+80-89 playing 90-99
+90-99
+unknown
+unknown playing 20-29
