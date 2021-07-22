@@ -20,8 +20,8 @@
     "production-tags": ["marvel studios"],
     "production-geo": ["usa", "georgia", "atlanta", "california", "los angeles"],
 
-    "reception-positive": ["spiraling fan analysis", "omg girlboss", "what is grief if not love persevering", "agathas song is catchy"],
-    "reception-negative": ["whitewashing", "antiblack racism, violence against POC", "antisemitism", "adaptation racebending: wanda and peitro are romani in comics, made white european in the mcu", "whitewashed parents, changed names away from romani names", "uses harmful romani stereotypes like fortune teller as quriky halloween costume worn by white character", "comic romani and jewish characters working for and experimented on by hydra/ nazis voluntarily", "monica doesnt get clear motivation, only there to support wanda", "wanda is disproportionately violent against monica", "wanda terrorizes town mentally and doesn't face any repercussions, is made to seem the victim", "locking agnes in her own mind is horrific, played off as fine", "poor pacing of show", "dropped plot threads without explanation", "misleading cast teaser"],
+    "reception-positive": ["spiraling fan analysis", "strong female character"],
+    "reception-negative": ["whitewashing in adaptation racebending", "antiblack racism, violence against POC", "antisemitism", "uses harmful romani stereotypes", "offensive for characters to work for and get experimented on by hydra/ nazis voluntarily", "monica doesnt get clear motivation, only there to support wanda", "wanda is disproportionately violent against monica", "wanda terrorizes town mentally and doesn't face any repercussions, is made to seem the victim", "locking agnes in her own mind is horrific, played off as fine", "poor pacing of show", "dropped plot threads without explanation", "misleading cast teaser"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa playing world x", "sokovia"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": [""],
+    "notes": ["wanda and peitro are romani in comics, made white european in the mcu, parents, changed names away from romani names"],
 
     "data-version": "20210317"
 }
