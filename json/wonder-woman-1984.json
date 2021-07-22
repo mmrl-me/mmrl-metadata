@@ -21,7 +21,7 @@
     "production-geo": ["usa", "washington dc", "spain", "andalucia", "almeria", "united kingdom"],
 
     "reception-positive": ["racebending added complexity to max", "he tried to change himself to fit the caracature of a white, successful American through the changing of his last name, dyeing his hair etc"],
-    "reception-negative": ["tldr:", "racism", "stereotypes about women and poc", "sequel overload", "question of consent in body possession plots", "no mention of Handsome Man's consiousness, would have died had steve stayed in his body", "arab backlash", "negative associations with the middle east", "multiple men of color shown as violent, wishing for nuclear weapons", "story changed to make max lord come from a poor and abusive family as a latinx character, while his comic bg as a white man comes from old money/ has been rich his entire life", "also gave him an exaggerated accent", "barbaras personal value being tied to better performing stereotypical femininity", "dianas bisexuality erased, should be at least ambiguous per the last movie, teased by gal gadot but explicitly no queer subtext according to patty jenkins", "plot inconsistencies"],
+    "reception-negative": ["tldr:", "racism", "stereotypes about women and poc reinforce stereotypical femininity and violent POC storylines", "sequel overload", "question of consent in body possession plots", "arab backlash", "negative associations with the middle east, shown as violent, wishing for nuclear weapons", "story changed to make max lord come from a poor and abusive family as a latinx character and gave him an exaggerated accent", "barbaras personal value being tied to better performing stereotypical femininity", "dianas bisexuality erased, should be at least ambiguous per the last movie, teased by gal gadot but explicitly no queer subtext according to patty jenkins", "plot inconsistencies"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["isr playing world x", "themyscira"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["ambiguous sexuality for amazons because they live on an island without men but these characters aren't shown to be in a relationship with another woman. def not straight."],
+    "notes": ["ambiguous sexuality for amazons because they live on an island without men but these characters aren't shown to be in a relationship with another woman. def not straight.", "max lord's comic bg is a white man who comes from old money/ has been rich his entire life"],
 
     "data-version": "20210317"
 }
