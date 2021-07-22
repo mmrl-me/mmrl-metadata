@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Biohackers_(TV_series)",
 
     "genre-tags": ["drama", "scifi", "thriller", "techno-thriller"],
-    "bias-tags": ["W"],
+    "bias-tags": ["D, T, W, Y"],
 
     "plot-tags": ["synthetic biology", "revenge", "university student", "genetics", "diy biology"],
     "plot-geo": ["germany", "freiburg"],
@@ -20,40 +20,40 @@
     "production-tags": ["claussen + putz filmproduktion"],
     "production-geo": ["germany", "munich", "frieburg"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["interesting and complex plot", "enough drama and cliffhangers to keep viewers on their feet"],
+    "reception-negative": ["where are the people of color", "add more characters", "revenge storyline needs to be explained better"],
 
     "cast-lead-1-ethnicities": ["white"],
-    "cast-lead-1-nationalities": ["deu"],
-    "cast-lead-1-genders": ["female", "cis"],
+    "cast-lead-1-nationalities": ["che playing deu"],
+    "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["straight"],
-    "cast-lead-1-ages": ["10-19"],
+    "cast-lead-1-ages": ["20-29 playing 10-19"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["mia akerlund", "luna wedler"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["deu"],
-    "cast-lead-2-genders": ["female", "cis"],
-    "cast-lead-2-sexualities": ["ambiguous"],
-    "cast-lead-2-ages": ["unknown"],
+    "cast-lead-2-genders": ["cis female"],
+    "cast-lead-2-sexualities": ["straight playing ambiguous"],
+    "cast-lead-2-ages": ["40-49 playing unknown"],
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["tanja lorenz", "jessica schwarz"],
 
     "cast-lead-3-ethnicities": ["white"],
-    "cast-lead-3-nationalities": ["deu"],
-    "cast-lead-3-genders": ["male", "cis"],
+    "cast-lead-3-nationalities": ["ita playing deu"],
+    "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["unknown"],
+    "cast-lead-3-ages": ["20-29 playing unknown"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["niklas", "thomas prenn"],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["deu"],
-    "cast-lead-4-genders": ["male", "cis"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["unknown"],
+    "cast-lead-4-ages": ["20-29 playing unknown"],
     "cast-lead-4-z": ["human"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-names": ["jasper", "adrian julius tillmann"],
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["mia akerlund, tanja lorenz, niklas, jasper"],
+    "notes": ["other characters serve as background or comic relief"],
 
     "data-version": "20210317"
 }
