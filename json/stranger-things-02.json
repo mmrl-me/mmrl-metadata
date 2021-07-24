@@ -10,9 +10,9 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Stranger_Things",
 
     "genre-tags": ["scifi", "horror", "period drama", "fantasy", "mystery", "thriller"],
-    "bias-tags": [""],
+    "bias-tags": ["B", "Y"],
 
-    "plot-tags": ["supernatural", "government conspiracy", "telekinesis", "parallel universe"],
+    "plot-tags": ["supernatural", "government conspiracy", "telekinesis", "parallel universe", "'80s nostalgia"],
     "plot-geo": ["usa", "indiana", "hawkins"],
     "plot-date": ["1984"],
 
@@ -20,8 +20,8 @@
     "production-tags": ["21 laps entertainment", "monkey massacre"],
     "production-geo": ["usa", "georgia"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["lucas and dustin are fleshed out more as characters", "closure for barbs character who was forgotten about in s1"],
+    "reception-negative": ["why do the two girls in the friend group need to hate each other", "nostalgia overload"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["can, usa playing usa"],
