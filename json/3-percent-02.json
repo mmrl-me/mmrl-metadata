@@ -9,10 +9,10 @@
     "id-imdb": "https://www.imdb.com/title/tt4922804",
     "id-wikipedia": "https://en.wikipedia.org/wiki/3%25",
 
-    "genre-tags": ["action", "drama", "scifi", "thriller", "diverse ensemble"], // check diverse ensemble
+    "genre-tags": ["action", "drama", "scifi", "thriller", "diverse ensemble"],
     "bias-tags": ["Y"],
 
-    "plot-tags": ["dystopia", "poverty", "dystopic future", "classism", "dystopian tests to determine life or death", "fighting for survival", "plotting and revolution", "disabled character doesn't want paradise just to become non-disabled"],
+    "plot-tags": ["dystopia", "poverty", "dystopic future", "classism", "dystopian tests to determine life or death", "fighting for survival", "plotting and revolution", "moving up between social classes"],
     "plot-geo": ["inland", "offshore"],
     "plot-date": ["unspecified future"],
 
@@ -20,8 +20,8 @@
     "production-tags": ["boutique filmes"],
     "production-geo": ["brazil", "sao paulo", "brumadinho", "mina gerais", "porto do mangue", "rio grande do norte"],
 
-    "reception-positive": [""], // find
-    "reception-negative": [""], // find; character that uses wheelchair played by non-disabled actor
+    "reception-positive": ["approaches notions of meritocracy and privilege-based society with nuance", "points out that opportunity is not adequate solution to economic and racial inequality", "disabled character doesn't want paradise just to become non-disabled", "specifically made a point of training and employing Black, female, LGBTQ+ people starting out in the industry"],
+    "reception-negative": ["character that uses wheelchair played by non-disabled actor"],
 
     "cast-lead-1-ethnicities": ["multi","black", "latinx"],
     "cast-lead-1-nationalities": ["bra"],
@@ -35,7 +35,7 @@
     "cast-lead-2-nationalities": ["bra"],
     "cast-lead-2-genders": ["cis female"],
     "cast-lead-2-sexualities": ["lesbian playing straight"],
-    "cast-lead-2-ages": ["30-39 playing 20-29"], // i suspect we will be tagging this Y
+    "cast-lead-2-ages": ["30-39 playing 20-29"],
     "cast-lead-2-z": ["human"],
     "cast-lead-2-names": ["michele santana", "bianca comparato"],
 
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["originally released as a youtube webseries but i need a second source for that before i update distribution tags", "joana coelho kisses a girl in season 3 of 3% but this is for season 2 so technically we don't know that yet"],
+    "notes": ["originally released as a youtube webseries but i need a second source for that before i update distribution tags", "joana coelho kisses a girl in season 3 of 3% but this is for season 2 so technically we don't know that yet", "https://about.netflix.com/en/news/3-percent-inclusion-behind-the-scenes"],
 
     "data-version": "20210317"
 }
