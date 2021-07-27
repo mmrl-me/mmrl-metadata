@@ -9,67 +9,67 @@
     "id-imdb": "https://www.imdb.com/title/tt4922804",
     "id-wikipedia": "https://en.wikipedia.org/wiki/3%25",
 
-    "genre-tags": ["action", "drama", "scifi", "thriller", "diverse ensemble"],
-    "bias-tags": [""],
+    "genre-tags": ["action", "drama", "scifi", "thriller", "diverse ensemble"], // check diverse ensemble
+    "bias-tags": ["Y"],
 
-    "plot-tags": ["dystopia", "poverty", "dystopic future", "puzzle", "disabled"],
-    "plot-geo": ["inland"],
+    "plot-tags": ["dystopia", "poverty", "dystopic future", "classism", "dystopian tests to determine life or death", "fighting for survival", "plotting and revolution", "disabled character doesn't want paradise just to become non-disabled"],
+    "plot-geo": ["inland", "offshore"],
     "plot-date": ["unspecified future"],
 
     "distribution-tags": ["netflix"],
     "production-tags": ["boutique filmes"],
-    "production-geo": ["brazil", "sao paulo"],
+    "production-geo": ["brazil", "sao paulo", "brumadinho", "mina gerais", "porto do mangue", "rio grande do norte"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": [""], // find
+    "reception-negative": [""], // find; character that uses wheelchair played by non-disabled actor
 
-    "cast-lead-1-ethnicities": ["black", "latinx"],
+    "cast-lead-1-ethnicities": ["multi","black", "latinx"],
     "cast-lead-1-nationalities": ["bra"],
-    "cast-lead-1-genders": ["cis", "male"],
-    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-genders": ["cis male"],
+    "cast-lead-1-sexualities": ["unknown playing straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["fernando carvalho", "michel gomes"],
 
-    "cast-lead-2-ethnicities": ["latinx"],
+    "cast-lead-2-ethnicities": ["latinx", "white", "multi"],
     "cast-lead-2-nationalities": ["bra"],
-    "cast-lead-2-genders": ["cis", "female"],
-    "cast-lead-2-sexualities": [""],
-    "cast-lead-2-ages": ["20-29"],
+    "cast-lead-2-genders": ["cis female"],
+    "cast-lead-2-sexualities": ["lesbian playing straight"],
+    "cast-lead-2-ages": ["30-39 playing 20-29"], // i suspect we will be tagging this Y
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["michele santana", "bianca comparato"],
 
     "cast-lead-3-ethnicities": ["latinx"],
     "cast-lead-3-nationalities": ["bra"],
     "cast-lead-3-genders": ["cis", "male"],
-    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-sexualities": ["unknown playing straight"],
     "cast-lead-3-ages": ["40-49"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["ezequiel", "joão miguel"],
 
     "cast-lead-4-ethnicities": ["latinx"],
     "cast-lead-4-nationalities": ["bra"],
-    "cast-lead-4-genders": ["cis", "male"],
-    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-genders": ["cis male"],
+    "cast-lead-4-sexualities": ["unknown"], 
     "cast-lead-4-ages": ["20-29"],
     "cast-lead-4-z": ["human"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-names": ["rafael moreira", "rodolfo valente"],
 
-    "cast-lead-5-ethnicities": ["black", "latinx"],
+    "cast-lead-5-ethnicities": ["black", "latinx", "multi"],
     "cast-lead-5-nationalities": ["bra"],
-    "cast-lead-5-genders": ["cis", "female"],
-    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-genders": ["cis female"],
+    "cast-lead-5-sexualities": ["unknown"], 
     "cast-lead-5-ages": ["20-29"],
     "cast-lead-5-z": ["human"],
-    "cast-lead-5-names": [""],
+    "cast-lead-5-names": ["joana coelho", "vaneza oliveira"],
 
-    "cast-lead-6-ethnicities": [""],
-    "cast-lead-6-nationalities": [""],
-    "cast-lead-6-genders": [""],
-    "cast-lead-6-sexualities": [""],
-    "cast-lead-6-ages": [""],
-    "cast-lead-6-z": [""],
-    "cast-lead-6-names": [""],
+    "cast-lead-6-ethnicities": ["latinx", "white", "multi"],
+    "cast-lead-6-nationalities": ["bra"],
+    "cast-lead-6-genders": ["cis female"],
+    "cast-lead-6-sexualities": ["straight"],
+    "cast-lead-6-z": ["human"],
+    "cast-lead-6-names": ["marcela álvares", "laila garin"],
+   
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["fernando carvalho, michele santana, ezequiel, rafael moreira, joana coelho"],
+    "notes": ["originally released as a youtube webseries but i need a second source for that before i update distribution tags", "joana coelho kisses a girl in season 3 of 3% but this is for season 2 so technically we don't know that yet"],
 
     "data-version": "20210317"
 }
