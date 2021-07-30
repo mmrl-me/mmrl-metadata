@@ -9,69 +9,69 @@
     "id-imdb": "https://www.imdb.com/title/tt2261227",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Altered_Carbon_(TV_series)",
 
-    "genre-tags": ["action", "drama", "scifi", "thriller"],
-    "bias-tags": [""],
+    "genre-tags": ["action", "drama", "scifi", "thriller"], // check
+    "bias-tags": [""], // check
 
-    "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "doppelganger", "diverse ensemble"],
-    "plot-geo": ["bay city", "urban"],
+    "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "doppelganger", "diverse ensemble", "serial adaptation of novel", "hypothetical digital immortality but only for the wealthy in practice"], // check and add
+    "plot-geo": ["bay city", "urban", "harlan's world"], // check - what is harlan's world?
     "plot-date": ["2384"],
 
     "distribution-tags": ["netflix"],
     "production-tags": ["virgo productions", "mythology entertainment", "phoenix pictures", "skydance television"],
-    "production-geo": ["canada", "vancouver"],
+    "production-geo": ["canada", "british columbia", "vancouver"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": [""], // find and fill
+    "reception-negative": [""], // find and fill
 
-    "cast-lead-1-ethnicities": ["asian pacific", "white", "white playing asian pacific"],
-    "cast-lead-1-nationalities": ["jpn", "hun", "swe", "usa", "swe, usa playing jpn, hun"],
-    "cast-lead-1-genders": ["cis", "male"],
-    "cast-lead-1-sexualities": ["straight"],
-    "cast-lead-1-ages": ["100+", "30-39", "30-39 playing 100+"],
-    "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-ethnicities": ["asian pacific", "white", "white playing asian pacific"], // check
+    "cast-lead-1-nationalities": ["jpn", "hun", "swe", "usa", "swe, usa playing jpn, hun"], // check and reformat
+    "cast-lead-1-genders": ["cis male"], // check
+    "cast-lead-1-sexualities": ["straight"], // check
+    "cast-lead-1-ages": ["100+", "30-39", "30-39 playing 100+"], // check
+    "cast-lead-1-z": ["human"], // check ...? why 100+ and still, human?
+    "cast-lead-1-names": ["takeshi kovacks"], // fill
 
-    "cast-lead-2-ethnicities": ["white"],
-    "cast-lead-2-nationalities": ["usa", "gbr", "gbr playing usa"],
-    "cast-lead-2-genders": ["cis", "male"],
-    "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["100+", "50-59", "50-59 playing 100+"],
+    "cast-lead-2-ethnicities": ["white"], // check
+    "cast-lead-2-nationalities": ["usa", "gbr", "gbr playing usa"], // reformat? check tagging diary
+    "cast-lead-2-genders": ["cis male"], // check
+    "cast-lead-2-sexualities": ["straight"], // check
+    "cast-lead-2-ages": ["100+", "50-59", "50-59 playing 100+"], // check
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["laurens bancroft"], // fill
 
-    "cast-lead-3-ethnicities": ["latinx"],
-    "cast-lead-3-nationalities": ["mex"],
-    "cast-lead-3-genders": ["cis", "female"],
-    "cast-lead-3-sexualities": ["unknown", "straight", "straight playing unknown"],
-    "cast-lead-3-ages": ["30-39"],
+    "cast-lead-3-ethnicities": ["latinx"], // check
+    "cast-lead-3-nationalities": ["mex"], // check
+    "cast-lead-3-genders": ["cis female"], // check
+    "cast-lead-3-sexualities": ["unknown", "straight", "straight playing unknown"], // format
+    "cast-lead-3-ages": ["30-39"], // check
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["kristin ortega"], // fill
 
-    "cast-lead-4-ethnicities": ["white"],
-    "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["cis", "male"],
-    "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["unknown", "40-49", "40-49 playing unknown"],
-    "cast-lead-4-z": ["ai"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-ethnicities": ["white"], // check
+    "cast-lead-4-nationalities": ["usa"], // check
+    "cast-lead-4-genders": ["cis male"], // check, if it is an ARTIFICIAL INTELLIGENCE HOW MUCH GENDER CAN IT HAVE look at the schema kellyann!
+    "cast-lead-4-sexualities": ["straight"], // check
+    "cast-lead-4-ages": ["unknown", "40-49", "40-49 playing unknown"], // check
+    "cast-lead-4-z": ["ai"], // check
+    "cast-lead-4-names": ["edgar poe"], // fill
 
-    "cast-lead-5-ethnicities": ["asian pacific"],
-    "cast-lead-5-nationalities": ["aus", "tib", "jpn", "hung", "aus, tib playing jpn, hun"],
-    "cast-lead-5-genders": ["cis", "female"],
-    "cast-lead-5-sexualities": ["unknown", "straight", "straight playing unknown"],
-    "cast-lead-5-ages": ["100+", "30-39", "30-39 playing 100+"],
+    "cast-lead-5-ethnicities": ["asian pacific"], // check (is there no secondary tag info?)
+    "cast-lead-5-nationalities": ["aus", "tib", "jpn", "hung", "aus, tib playing jpn, hun"], // reformat, also tib does not... exist in the iso codes?
+    "cast-lead-5-genders": ["cis female"], // check
+    "cast-lead-5-sexualities": ["unknown", "straight", "straight playing unknown"], // check and reformat
+    "cast-lead-5-ages": ["100+", "30-39", "30-39 playing 100+"], // check and reformat
     "cast-lead-5-z": ["human"],
-    "cast-lead-5-names": [""],
+    "cast-lead-5-names": ["reileen"], // fill
 
-    "cast-lead-6-ethnicities": ["black"],
-    "cast-lead-6-nationalities": ["usa"],
-    "cast-lead-6-genders": ["cis", "male"],
-    "cast-lead-6-sexualities": ["straight", "unknown", "unknown playing straight"],
-    "cast-lead-6-ages": ["40-49"],
+    "cast-lead-6-ethnicities": ["black"], // check (secondary tag info?)
+    "cast-lead-6-nationalities": ["usa"], // check
+    "cast-lead-6-genders": ["cis male"], // check
+    "cast-lead-6-sexualities": ["straight", "unknown", "unknown playing straight"], // check and reformat
+    "cast-lead-6-ages": ["40-49"], // check
     "cast-lead-6-z": ["human"],
-    "cast-lead-6-names": [""],
+    "cast-lead-6-names": ["vernon elliott"], // fill
 
-    "cast-lead-7-ethnicities": ["white"],
+    "cast-lead-7-ethnicities": ["white"], 
     "cast-lead-7-nationalities": ["unknown", "can", "can playing unknown"],
     "cast-lead-7-genders": ["cis", "female"],
     "cast-lead-7-sexualities": ["straight"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": ["human"],
     "cast-lead-8-names": [""],
 
-    "notes": ["takeshi kovacks, laurens bancroft, kristin ortega, edgar poe, reileen, vernon elliott, miriam bancroft, quell falconer"],
+    "notes": ["miriam bancroft, quell falconer"],
 
     "data-version": "20210317"
 }
