@@ -12,8 +12,8 @@
     "genre-tags": ["action", "drama", "scifi", "thriller", "cyberpunk"],
     "bias-tags": ["B*", "Y"],
 
-    "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "class inequality", "diverse ensemble", "serial adaptation of novel", "hypothetical digital immortality but only for the wealthy in practice"], // check and add
-    "plot-geo": ["bay city", "urban", "harlan's world"], 
+    "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "class inequality", "diverse ensemble", "serial adaptation of novel", "hypothetical digital immortality but only for the wealthy in practice"],
+    "plot-geo": ["bay city", "urban"], 
     "plot-date": ["2384"],
 
     "distribution-tags": ["netflix"],
@@ -24,7 +24,7 @@
     "reception-negative": ["poc playing cops", "futuristic world still emphasizes violence against women and people of color", "ai changed to edgar allen poe after jimi's hendrix's estate refused to allow use of his image"],
 
     "cast-lead-1-ethnicities": ["white playing asian pacific", "asian pacific", "korean playing japanese", "chinese playing japanese"],
-    "cast-lead-1-nationalities": ["swe, usa playing jpn, hun", "swe, usa playing world x", "harlan's world", "usa playing jpn, hun", "usa playing world x"], // check nationalities of will yun lee and bryon mann
+    "cast-lead-1-nationalities": ["swe, usa playing jpn, hun", "swe, usa playing world x", "harlan's world", "usa playing jpn, hun", "usa playing world x"], 
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39 playing 100+", "40-49 playing 100+", "unknown playing 100+"], 
