@@ -1,6 +1,6 @@
 {
     "name": "The Alienist: Angel of Darkness",
-    "name-key": "alienist-201",
+    "name-key": ["alienist-201"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",

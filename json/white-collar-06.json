@@ -1,6 +1,6 @@
 {
     "name": "White Collar",
-    "name-key": "white-collar-606",
+    "name-key": ["white-collar-606"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
