@@ -10,9 +10,9 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)",
 
     "genre-tags": ["black comedy", "drama", "scifi", "superhero", "fantasy", "diverse ensemble"],
-    "bias-tags": ["Q"],
+    "bias-tags": ["Q", "B", "Y"],
 
-    "plot-tags": ["based on comic", "adaptation racebending", "alternate history", "superhero", "dysfunctional family", "apocalypse", "time travel", "diverse ensemble"],
+    "plot-tags": ["based on comic", "adaptation racebending", "alternate history", "superhero", "dysfunctional family", "apocalypse", "time travel"],
     "plot-geo": ["USA", "urban"],
     "plot-date": ["2010s"],
 
@@ -21,7 +21,7 @@
     "production-geo": ["canada", "ontario", "toronto"],
 
     "reception-positive": ["diverse cast adapted from white heterosexual comic"],
-    "reception-negative": ["antisemetic tropes", "the handler speaks yiddish, antisemitic stereotype of jewish people secretly and malevolently controlling world events", "characters of color relegated to secondary roles", "women fridged for male pain"],
+    "reception-negative": ["antisemetic tropes", "the handler speaks yiddish, antisemitic stereotype of jewish people secretly and malevolently controlling world events", "characters of color relegated to secondary roles", "allison has to perform most of the emotional labour", "women fridged for male pain"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["can playing usa"],
