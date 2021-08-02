@@ -1,10 +1,10 @@
 {
     "name": "White Collar",
-    "name-key": "white-collar-606",
+    "name-key": ["white-collar-606"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "606",
+    "id": "6",
 
     "id-imdb": "https://www.imdb.com/title/tt1358522/",
     "id-wikipedia": "https://en.wikipedia.org/wiki/White_Collar_(TV_series)",

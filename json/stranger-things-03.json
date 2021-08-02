@@ -1,6 +1,6 @@
 {
     "name": "Stranger Things",
-    "name-key": "stranger-things-03",
+    "name-key": ["stranger-things-03"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",

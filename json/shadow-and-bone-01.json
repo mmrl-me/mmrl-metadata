@@ -12,23 +12,23 @@
     "genre-tags": ["fantasy", "drama", "mystery"],
     "bias-tags": ["Y"],
 
-    "plot-tags": ["diverse ensemble", "superpowers", "fantasy politics", "racism", "war", "based on novel", "grisha", "light vs dark", "legends becoming real"], // 
-    "plot-geo": ["ravka", "ketterdam", "world x"], 
-    "plot-date": ["1800s"], 
+    "plot-tags": ["diverse ensemble", "superpowers", "fantasy politics", "racism", "war", "based on novel", "grisha", "light vs dark", "legends becoming real"],
+    "plot-geo": ["ravka", "ketterdam", "world x"],
+    "plot-date": ["1800s"],
 
     "distribution-tags": ["netflix"],
     "production-tags": ["21 laps entertainment", "chronology", "loom studios"],
-    "production-geo": ["hungary", "budapest", "keszthely", "canada", "vancouver"], 
+    "production-geo": ["hungary", "budapest", "keszthely", "canada", "vancouver"],
 
     "reception-positive": ["racially diverse casting compared to very white book cast"],
-    "reception-negative": ["inconsstent depictions of racism experienced by alina but not other characters"], 
+    "reception-negative": ["inconsstent depictions of racism experienced by alina but not other characters", "white woman cast as stunt double for actress of color (amita suman)"],
 
     "cast-lead-1-ethnicities": ["white", "asian pacific", "multi"],
     "cast-lead-1-nationalities": ["gbr playing world x", "ravkan", "shu han"],
     "cast-lead-1-genders": ["nonbinary playing cis female"],
     "cast-lead-1-sexualities": ["unknown playing straight"],
-    "cast-lead-1-ages": ["20-29 playing 10-19"], 
-    "cast-lead-1-z": [""], // checking w/ friend to see if this should be tagged as human or what
+    "cast-lead-1-ages": ["20-29 playing 10-19"],
+    "cast-lead-1-z": [""],
     "cast-lead-2-name": ["jessie mei li", "alina starkov"],
 
     "cast-lead-2-ethnicities": ["indian", "white, asian pacific, multi playing ambiguous"],
@@ -42,13 +42,13 @@
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["gbr playing world x", "kerch"],
     "cast-lead-3-genders": ["cis male"],
-    "cast-lead-3-sexualities": ["unknown playing ambiguous"], 
+    "cast-lead-3-sexualities": ["unknown playing ambiguous"],
     "cast-lead-3-ages": ["20-29 playing 10-19"],
     "cast-lead-3-z": ["human"],
     "cast-lead-3-name": ["freddy carter", "kaz brekker", "dirtyhands", "bastard of the barrel"],
 
     "cast-lead-4-ethnicities": ["asian pacific playing ambiguous", "nepali"],
-    "cast-lead-4-nationalities": ["npl, gbr playing world x", "suli"], 
+    "cast-lead-4-nationalities": ["npl, gbr playing world x", "suli"],
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["unknown playing straight"],
     "cast-lead-4-ages": ["20-29 playing 10-19"],
@@ -56,19 +56,19 @@
     "cast-lead-4-name": ["amita suman", "inej ghafa", "the wraith"],
 
     "cast-lead-5-ethnicities": ["black, white, multi playing ambiguous"],
-    "cast-lead-5-nationalities": ["gbr playing world x", "wandering isle", "novyi zem"], 
+    "cast-lead-5-nationalities": ["gbr playing world x", "wandering isle", "novyi zem"],
     "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["unknown playing bisexual"],
     "cast-lead-5-ages": ["20-29 playing 10-19"],
-    "cast-lead-5-z": [""], // he is also grisha
+    "cast-lead-5-z": [""],
     "cast-lead-5-name": ["kit young", "jesper fahey"],
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["gbr playing world x", "ravkan"],
-    "cast-lead-6-genders": ["cis male"], 
+    "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["30-39 playing ambiguous, 100+"],
-    "cast-lead-6-z": [""], // also grisha
+    "cast-lead-6-z": [""],
     "cast-lead-6-name": ["ben barnes", "general kirigan", "the darkling", "alelsander morozova"],
 
     "cast-lead-7-ethnicities": [""],

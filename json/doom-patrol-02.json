@@ -1,6 +1,6 @@
 {
     "name": "Doom Patrol",
-    "name-key": "doom-patrol-201",
+    "name-key": ["doom-patrol-201"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",

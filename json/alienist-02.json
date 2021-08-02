@@ -1,10 +1,10 @@
 {
     "name": "The Alienist: Angel of Darkness",
-    "name-key": "alienist-201",
+    "name-key": ["alienist-201"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "201",
+    "id": "2",
 
     "id-imdb": "https://www.imdb.com/title/tt4604612",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Alienist_(TV_series)",

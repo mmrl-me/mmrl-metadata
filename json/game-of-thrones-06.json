@@ -1,6 +1,6 @@
 {
     "name": "Game of Thrones",
-    "name-key": "game-of-thrones-610",
+    "name-key": ["game-of-thrones-610"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",

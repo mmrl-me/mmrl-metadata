@@ -1,10 +1,10 @@
 {
     "name": "The Good Fight",
-    "name-key": "good-fight-407",
+    "name-key": ["good-fight-407"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": "407",
+    "id": "4",
 
     "id-imdb": "https://www.imdb.com/title/tt5853176",
     "id-wikipedia": "https://en.wikipedia.org/wiki/The_Good_Fight",
