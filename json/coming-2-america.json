@@ -14,14 +14,14 @@
 
     "plot-tags": ["sequel", "royalty", "black-led", "africa", "father-son relationship", "afrofuturism", "black speculative fiction"],
     "plot-geo": ["usa", "new york", "queens", "africa", "zamunda"],
-    "plot-date": [""],
+    "plot-date": ["2018", "2010s"],
 
-    "distribution-tags": [""],
+    "distribution-tags": ["amazon studios"],
     "production-tags": ["paramount pictures", "eddie murphy productions"],
-    "production-geo": [""],
+    "production-geo": ["usa", "atlanta", "georgia", "new york city", "new york"],
 
     "reception-positive": ["stronger female roles and actors native to the continent", "depiction of wealthy, self-reliant decolonized african country"],
-    "reception-negative": ["africa generalized, perception as a monolith instead of how diverse it really is", "zamunda shown as regressive in poor treatment of women"],
+    "reception-negative": ["africa generalized, perception as a monolith instead of how diverse it really is", "zamunda shown as regressive in poor treatment of women", "zamunda represented as simple-minded, emphasis on their backwardness", "rape used as comedy", "female characters only there to support the male characters"],
 
 
     "cast-lead-1-ethnicities": [""],
