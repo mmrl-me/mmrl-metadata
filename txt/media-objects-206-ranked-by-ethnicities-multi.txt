@@ -1,0 +1,14 @@
+0.67, 4, 3-percent-02
+0.50, 3, star-trek-picard-01
+0.50, 1, blackaf-01
+0.33, 2, high-fidelity-01
+0.29, 2, star-trek-discovery-02
+0.25, 1, into-the-badlands-03
+0.25, 1, into-the-badlands-02
+0.25, 1, dolemite-is-my-name
+0.17, 1, umbrella-academy-02
+0.17, 1, umbrella-academy-01
+0.17, 1, star-trek-discovery-01
+0.17, 1, devs-01
+0.14, 1, skam-03
+0.12, 1, star-trek-discovery-03

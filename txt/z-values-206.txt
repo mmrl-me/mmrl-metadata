@@ -9,7 +9,7 @@ android
 animal
 ape
 artificial lifeform
-buffalo
+bison
 cat
 cheetah
 clone

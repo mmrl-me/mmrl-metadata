@@ -10,7 +10,8 @@ aus playing gbr
 aus playing unknown
 aus playing usa
 aus playing world x
-aus, tib playing jpn, hun
+aus, npl playing jpn, hun
+aus, npl playing world x
 bel playing fra
 bel playing usa
 bra
@@ -22,6 +23,7 @@ can playing usa
 can playing world x
 can, usa playing usa
 che
+che playing deu
 che playing fra, rus
 chl
 chl playing unknown
@@ -52,6 +54,7 @@ esp, deu playing usa
 fra
 fra playing sen, fra
 gbr
+gbr playing gbr, usa
 gbr playing ind
 gbr playing isl
 gbr playing rus
@@ -73,8 +76,6 @@ hkg
 hkg playing chn
 hkg, chn playing chn
 hun
-hung
-idn
 idn playing chn, idn
 ind
 ind, usa
@@ -86,6 +87,7 @@ irn
 isl
 isr playing world x
 ita
+ita playing deu
 jam
 jpn
 jpn playing jpn, hun
@@ -95,17 +97,22 @@ jpn, phl
 kamino
 ken
 ken, usa playing ken
+kerch
 kor
 kor playing jpn, hun
+kor playing world x
 kor, usa playing usa
 mac, nzl playing chn
 maghreb
 mandalore
 mex
 mex playing col
+mex playing mex, usa
+mex playing unknown
 mex playing usa
 mex, ken playing world x
 msy
+nextdoria
 nga
 nga playing gbr
 nga playing world x
@@ -113,6 +120,8 @@ nga, gbr playing unknown
 nld playing unknown
 nld playing usa
 nor
+novyi zem
+npl, gbr playing world x
 nzl
 nzl playing gbr
 nzl playing usa
@@ -125,20 +134,23 @@ prt
 prt playing col
 pse
 pse playing unknown
+ravkan
 romani
 rou, usa playing usa
 rouran khaganate
 rus
 scythia
+shu han
 sokovia
+suli
 swe
 swe playing col
 swe playing usa
 swe, usa playing jpn, hun
+swe, usa playing world x
 tha
 tha playing unknown
 themyscira
-tib
 tto, usa playing world x
 tur
 twn
@@ -147,6 +159,8 @@ ukr, isr playing rus
 unknown
 usa
 usa playing can
+usa playing chl
+usa playing chn
 usa playing fra
 usa playing fra, usa
 usa playing gbr
@@ -165,12 +179,16 @@ usa, chl playing world x
 usa, cmr playing usa
 usa, deu playing usa
 usa, gbr playing gbr
+usa, gbr playing usa
 usa, gbr, arg playing usa
+usa, mex playing usa
 usa, nga playing usa
+usa, zwe playing usa
 ven
 ven playing col
 ven playing ita
 viltrum
+wandering isle
 wsm
 wsm, nzl playing unknown
 wsm, nzl playing world x
@@ -178,3 +196,4 @@ yug
 yug playing tur
 zaf playing world x
 zaf, usa playing nonextant nation
+zumbada
