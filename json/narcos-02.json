@@ -1,6 +1,6 @@
 {
     "name": "Narcos",
-    "name-key": "narcos-02",
+    "name-key": ["narcos-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
