@@ -1,6 +1,6 @@
 {
     "name": "Lupin",
-    "name-key": "lupin-02",
+    "name-key": ["lupin-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
