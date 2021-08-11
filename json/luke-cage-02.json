@@ -1,6 +1,6 @@
 {
     "name": "Luke Cage",
-    "name-key": "luke-cage-02",
+    "name-key": ["luke-cage-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
