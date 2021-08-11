@@ -1,6 +1,6 @@
 {
     "name": "The Bachelor",
-    "name-key": "bachelors-23-and-01",
+    "name-key": ["the-bachelor-23"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
