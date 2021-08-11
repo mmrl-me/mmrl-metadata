@@ -1,6 +1,6 @@
 {
     "name": "The OA",
-    "name-key": "oa-02",
+    "name-key": ["oa-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
