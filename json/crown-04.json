@@ -1,6 +1,6 @@
 {
     "name": "The Crown",
-    "name-key": "crown-04",
+    "name-key": ["crown-04"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
