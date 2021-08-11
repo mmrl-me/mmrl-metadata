@@ -1,6 +1,6 @@
 {
     "name": "Space Force",
-    "name-key": "space-force-01",
+    "name-key": ["space-force-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
