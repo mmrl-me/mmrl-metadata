@@ -1,6 +1,6 @@
 {
     "name": "Skam",
-    "name-key": "skam-03",
+    "name-key": ["skam-03"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
