@@ -1,6 +1,6 @@
 {
     "name": "The Umbrella Academy",
-    "name-key": "umbrella-academy-01",
+    "name-key": ["umbrella-academy-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
