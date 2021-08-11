@@ -1,6 +1,6 @@
 {
     "name": "Invincible",
-    "name-key": "invincible-101",
+    "name-key": ["invincible-101"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
