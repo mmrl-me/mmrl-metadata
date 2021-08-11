@@ -1,6 +1,6 @@
 {
     "name": "Chilling Adventures of Sabrina",
-    "name-key": "chilling-adventures-of-sabrina-01",
+    "name-key": ["chilling-adventures-of-sabrina-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
