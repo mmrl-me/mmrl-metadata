@@ -1,6 +1,6 @@
 {
     "name": "High Fidelity",
-    "name-key": "high-fidelity-01",
+    "name-key": ["high-fidelity-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
