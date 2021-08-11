@@ -1,6 +1,6 @@
 {
     "name": "GLOW",
-    "name-key": "glow-03",
+    "name-key": ["glow-03"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
