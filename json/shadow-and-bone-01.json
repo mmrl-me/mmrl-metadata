@@ -1,6 +1,6 @@
 {
     "name": "shadow and bone",
-    "name-key": "shadow-and-bone-01",
+    "name-key": ["shadow-and-bone-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
