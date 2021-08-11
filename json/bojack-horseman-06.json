@@ -1,6 +1,6 @@
 {
     "name": "BoJack Horseman",
-    "name-key": "bojack-horseman-06",
+    "name-key": ["bojack-horseman-06"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
