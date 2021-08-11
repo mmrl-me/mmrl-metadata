@@ -1,6 +1,6 @@
 {
     "name": "Tales of the City",
-    "name-key": "tales-of-the-city-2019",
+    "name-key": ["tales-of-the-city-2019"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
