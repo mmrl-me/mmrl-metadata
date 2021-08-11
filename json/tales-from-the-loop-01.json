@@ -1,6 +1,6 @@
 {
     "name": "Tales from the Loop",
-    "name-key": "tales-from-the-loop-01",
+    "name-key": ["tales-from-the-loop-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
