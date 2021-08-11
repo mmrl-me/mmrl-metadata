@@ -1,6 +1,6 @@
 {
     "name": "House of Cards",
-    "name-key": "house-of-cards-05",
+    "name-key": ["house-of-cards-05"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "5",
