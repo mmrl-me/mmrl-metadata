@@ -1,6 +1,6 @@
 {
     "name": "3%",
-    "name-key": "3-percent-02",
+    "name-key": ["3-percent-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
