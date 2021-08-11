@@ -1,6 +1,6 @@
 {
     "name": "Dark",
-    "name-key": "dark-03",
+    "name-key": ["dark-03"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
