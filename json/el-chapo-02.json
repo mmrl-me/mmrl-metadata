@@ -1,6 +1,6 @@
 {
     "name": "El Chapo",
-    "name-key": "el-chapo-02",
+    "name-key": ["el-chapo-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
