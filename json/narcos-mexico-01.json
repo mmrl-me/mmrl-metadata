@@ -1,6 +1,6 @@
 {
     "name": "Narcos: Mexico",
-    "name-key": "narcos-mexico-01",
+    "name-key": ["narcos-mexico-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
