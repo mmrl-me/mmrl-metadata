@@ -1,6 +1,6 @@
 {
     "name": "Away",
-    "name-key": "away-01",
+    "name-key": ["away-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
