@@ -1,6 +1,6 @@
 {
     "name": "The Queen's Gambit",
-    "name-key": "queens-gambit-01",
+    "name-key": ["queens-gambit-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
