@@ -1,6 +1,6 @@
 {
     "name": "The Marvelous Mrs. Maisel",
-    "name-key": "marvelous-mrs-maisel-02",
+    "name-key": ["marvelous-mrs-maisel-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
