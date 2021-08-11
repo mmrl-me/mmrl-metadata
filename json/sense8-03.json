@@ -1,6 +1,6 @@
 {
     "name": "Sense8",
-    "name-key": "sense8-03",
+    "name-key": ["sense8-03"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
