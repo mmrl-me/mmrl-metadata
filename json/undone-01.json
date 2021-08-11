@@ -1,6 +1,6 @@
 {
     "name": "Undone",
-    "name-key": "undone-01",
+    "name-key": ["undone-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
