@@ -1,6 +1,6 @@
 {
     "name": "She-Ra and the Princesses of Power",
-    "name-key": "she-ra-04",
+    "name-key": ["she-ra-04"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
