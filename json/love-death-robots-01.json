@@ -1,6 +1,6 @@
 {
     "name": "LOVE DEATH + ROBOTS",
-    "name-key": "love-death-robots-01",
+    "name-key": ["love-death-robots-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
