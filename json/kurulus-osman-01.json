@@ -1,6 +1,6 @@
 {
     "name": "Kuruluş: Osman",
-    "name-key": "kurulus-osman-01",
+    "name-key": ["kurulus-osman-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
