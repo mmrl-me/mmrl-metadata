@@ -1,6 +1,6 @@
 {
     "name": "Solar Opposites",
-    "name-key": "solar-opposites-01",
+    "name-key": ["solar-opposites-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
