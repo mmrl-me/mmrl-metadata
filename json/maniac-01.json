@@ -1,6 +1,6 @@
 {
     "name": "Maniac",
-    "name-key": "maniac-01",
+    "name-key": ["maniac-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
