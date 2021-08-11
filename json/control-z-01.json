@@ -1,6 +1,6 @@
 {
     "name": "Control Z",
-    "name-key": "control-z-01",
+    "name-key": ["control-z-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
