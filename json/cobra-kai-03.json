@@ -1,6 +1,6 @@
 {
     "name": "Cobra Kai",
-    "name-key": "cobra-kai-03",
+    "name-key": ["cobra-kai-03"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
