@@ -1,6 +1,6 @@
 {
     "name": "The Big Bang Theory",
-    "name-key": "big-bang-theory-12",
+    "name-key": ["big-bang-theory-12"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
