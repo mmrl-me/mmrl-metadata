@@ -1,6 +1,6 @@
 {
     "name": "Altered Carbon",
-    "name-key": "altered-carbon-01",
+    "name-key": ["altered-carbon-01"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
