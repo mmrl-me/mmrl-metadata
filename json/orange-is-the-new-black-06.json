@@ -1,6 +1,6 @@
 {
     "name": "Orange Is the New Black",
-    "name-key": "orange-is-the-new-black-06",
+    "name-key": ["orange-is-the-new-black-06"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
