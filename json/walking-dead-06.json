@@ -1,6 +1,6 @@
 {
     "name": "The Walking Dead",
-    "name-key": "walking-dead-06",
+    "name-key": ["walking-dead-06"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
