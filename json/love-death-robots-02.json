@@ -1,10 +1,10 @@
 {
-    "name": "",
-    "name-key": "love-death-robots-02",
+    "name": "LOVE DEATH + ROBOTS",
+    "name-key": ["love-death-robots-02"],
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "2",
 
     "id-imdb": "",
     "id-wikipedia": "",
