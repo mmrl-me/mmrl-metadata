@@ -24,7 +24,7 @@
     "reception-negative": [""],
 
     "cast-lead-1-ethnicities": ["multi", "white", "asian pacific"],
-    "cast-lead-1-nationalities": ["nzl", "usa", "nzl playing usa"],
+    "cast-lead-1-nationalities": ["nzl playing usa"],
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
@@ -48,7 +48,7 @@
     "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["white"],
-    "cast-lead-4-nationalities": ["swe", "usa", "swe playing usa"],
+    "cast-lead-4-nationalities": ["swe playing usa"],
     "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["ambiguous"],
     "cast-lead-4-ages": ["60-69"],
@@ -65,7 +65,7 @@
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa"],
-    "cast-lead-6-genders": ["female", "cis"],
+    "cast-lead-6-genders": ["cis female"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["50-59"],
     "cast-lead-6-z": ["human"],

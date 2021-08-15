@@ -31,8 +31,8 @@
     "cast-lead-1-z": ["human"],
     "cast-lead-1-names": [""],
 
-    "cast-lead-2-ethnicities": ["white", "middle/near eastern", "white playing middle/near eastern"],
-    "cast-lead-2-nationalities": ["yug", "tur", "yug playing tur"],
+    "cast-lead-2-ethnicities": ["white playing middle/near eastern"],
+    "cast-lead-2-nationalities": ["yug playing tur"],
     "cast-lead-2-genders": ["cis female"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39"],

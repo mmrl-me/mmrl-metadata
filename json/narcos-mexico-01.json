@@ -24,10 +24,10 @@
     "reception-negative": [""],
 
     "cast-lead-1-ethnicities": ["latinx"],
-    "cast-lead-1-nationalities": ["mex", "usa", "usa playing mex"],
+    "cast-lead-1-nationalities": ["usa playing mex"],
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
-    "cast-lead-1-ages": ["30-39", "40-49", "40-49 playing 30-39"],
+    "cast-lead-1-ages": ["40-49 playing 30-39"],
     "cast-lead-1-z": ["human"],
     "cast-lead-1-names": [""],
 
@@ -48,7 +48,7 @@
     "cast-lead-3-names": [""],
 
     "cast-lead-4-ethnicities": ["latinx"],
-    "cast-lead-4-nationalities": ["mex", "usa", "usa playing mex"],
+    "cast-lead-4-nationalities": ["usa playing mex"],
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
@@ -72,7 +72,7 @@
     "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["latinx"],
-    "cast-lead-7-nationalities": ["mex", "arg", "esp", "arg, esp playing mex"],
+    "cast-lead-7-nationalities": ["arg, esp playing mex"],
     "cast-lead-7-genders": ["cis male"],
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["40-49"],

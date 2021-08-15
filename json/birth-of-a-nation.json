@@ -55,7 +55,7 @@
     "cast-lead-4-z": ["human"],
     "cast-lead-4-names": [""],
 
-    "cast-lead-5-ethnicities": ["multi", "black", "white", "white playing black"],
+    "cast-lead-5-ethnicities": ["white playing black"],
     "cast-lead-5-nationalities": ["usa"],
     "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight"],
@@ -71,7 +71,7 @@
     "cast-lead-6-z": ["human"],
     "cast-lead-6-names": [""],
 
-    "cast-lead-7-ethnicities": ["white", "black", "white playing black"],
+    "cast-lead-7-ethnicities": ["white playing black"],
     "cast-lead-7-nationalities": ["usa"],
     "cast-lead-7-genders": ["cis male"],
     "cast-lead-7-sexualities": ["straight"],

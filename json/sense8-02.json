@@ -24,7 +24,7 @@
     "reception-negative": [""],
 
     "cast-lead-1-ethnicities": ["black"],
-    "cast-lead-1-nationalities": ["ken", "usa", "ken, usa playing ken"],
+    "cast-lead-1-nationalities": ["ken, usa playing ken"],
     "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
@@ -35,7 +35,7 @@
     "cast-lead-2-nationalities": ["kor"],
     "cast-lead-2-genders": ["cis female"],
     "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-2-ages": ["30-39 playing 20-29"],
     "cast-lead-2-z": ["human", "sensate"],
     "cast-lead-2-names": [""],
 
@@ -43,7 +43,7 @@
     "cast-lead-3-nationalities": ["usa"],
     "cast-lead-3-genders": ["trans female"],
     "cast-lead-3-sexualities": ["lesbian"],
-    "cast-lead-3-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-3-ages": ["30-39 playing 20-29"],
     "cast-lead-3-z": ["human", "sensate"],
     "cast-lead-3-names": [""],
 
@@ -56,7 +56,7 @@
     "cast-lead-4-names": [""],
 
     "cast-lead-5-ethnicities": ["white"],
-    "cast-lead-5-nationalities": ["gbr", "isl", "gbr playing isl"],
+    "cast-lead-5-nationalities": ["gbr playing isl"],
     "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["20-29"],
@@ -67,15 +67,15 @@
     "cast-lead-6-nationalities": ["deu"],
     "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
-    "cast-lead-6-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-6-ages": ["30-39 playing 20-29"],
     "cast-lead-6-z": ["human", "sensate"],
     "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["white"],
-    "cast-lead-7-nationalities": ["esp"],
+    "cast-lead-7-nationalities": ["white playing latinx"],
     "cast-lead-7-genders": ["cis male"],
     "cast-lead-7-sexualities": ["gay"],
-    "cast-lead-7-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-7-ages": ["30-39 playing 20-29"],
     "cast-lead-7-z": ["human", "sensate"],
     "cast-lead-7-names": [""],
 
@@ -83,7 +83,7 @@
     "cast-lead-8-nationalities": ["usa"],
     "cast-lead-8-genders": ["cis male"],
     "cast-lead-8-sexualities": ["straight"],
-    "cast-lead-8-ages": ["20-29", "30-39", "30-39 playing 20-29"],
+    "cast-lead-8-ages": ["30-39 playing 20-29"],
     "cast-lead-8-z": ["human", "sensate"],
     "cast-lead-8-names": [""],
 
