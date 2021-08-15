@@ -1,6 +1,8 @@
 mv $src/alpha60/src/a60-metadata-analyze.exe .;
 ./a60-metadata-analyze.exe;
 
+mkdir txt ; mv *.txt ./txt/;
+
 mkdir svg ; mv *.svg ./svg/;
 mkdir svg.chord ; mv svg/*chord-graph* ./svg.chord/;
 mkdir svg.dim ; mv svg/*dimension-graph* ./svg.dim/;
