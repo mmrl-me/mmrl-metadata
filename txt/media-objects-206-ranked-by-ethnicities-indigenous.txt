@@ -1,1 +1,3 @@
 0.17, 1, true-detective-03
+0.17, 1, star-trek-picard-01
+0.14, 1, the-expanse-05

@@ -1,5 +1,4 @@
 ambiguous
-asian
 asian pacific
 asian pacific playing ambiguous
 asian pacific playing multi
@@ -23,8 +22,8 @@ chinese-american
 etherian
 filipino
 ghanian
-hispanic
 indian
+indian playing pakistani
 indigenous
 japanese
 japanese american
@@ -35,8 +34,6 @@ latinx playing black passing as white
 latinx playing unknown
 latinx playing white
 maori
-mena
-middle eastern/north african
 middle/near eastern
 middle/near eastern playing asian pacific
 mulit, indigenous playing unknown
