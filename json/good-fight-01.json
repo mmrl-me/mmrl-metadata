@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
-    "cast-lead-5-genders": ["cis", "male"],
+    "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["60-69"],
     "cast-lead-5-z": ["human"],
