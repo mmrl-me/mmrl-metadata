@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["asian pacific"],
     "cast-lead-1-nationalities": ["ind"],
-    "cast-lead-1-genders": ["cis", "female"],
+    "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["asian pacific"],
     "cast-lead-2-nationalities": ["ind"],
-    "cast-lead-2-genders": ["cis", "male"],
+    "cast-lead-2-genders": ["cis male"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["40-49"],
     "cast-lead-2-z": ["human"],
@@ -41,7 +41,7 @@
 
     "cast-lead-3-ethnicities": ["asian pacific"],
     "cast-lead-3-nationalities": ["ind"],
-    "cast-lead-3-genders": ["cis", "male"],
+    "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["40-49"],
     "cast-lead-3-z": ["human"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["asian pacific"],
     "cast-lead-4-nationalities": ["ind"],
-    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["10-19", "20-29", "20-29 playing 10-19"],
     "cast-lead-4-z": ["human"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["asian pacific"],
     "cast-lead-5-nationalities": ["ind"],
-    "cast-lead-5-genders": ["cis", "male"],
+    "cast-lead-5-genders": ["cis male"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["10-19", "20-29", "20-29 playing 10-19"],
     "cast-lead-5-z": ["human"],

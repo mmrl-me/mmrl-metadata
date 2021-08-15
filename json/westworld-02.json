@@ -25,14 +25,14 @@
 
     "cast-lead-1-ethnicities": ["black"],
     "cast-lead-1-nationalities": ["usa"],
-    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["pansexual"],
     "cast-lead-1-ages": ["50-59"],
     "cast-lead-1-z": ["host"],
     "cast-lead-1-names": [""],
 
     "cast-lead-2-ethnicities": ["white"],
-    "cast-lead-2-nationalities": ["usa", "aus", "aus playing usa"],
+    "cast-lead-2-nationalities": ["aus playing usa"],
     "cast-lead-2-genders": ["cis", "male"],
     "cast-lead-2-sexualities": ["pansexual"],
     "cast-lead-2-ages": ["30-39"],
@@ -41,7 +41,7 @@
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["swe"],
-    "cast-lead-3-genders": ["cis", "male"],
+    "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["30-39"],
     "cast-lead-3-z": ["human"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["black"],
     "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["cis", "female"],
+    "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
     "cast-lead-4-z": ["human", "host"],
@@ -65,15 +65,15 @@
 
     "cast-lead-6-ethnicities": ["black"],
     "cast-lead-6-nationalities": ["gbr"],
-    "cast-lead-6-genders": ["cis", "female"],
+    "cast-lead-6-genders": ["cis female"],
     "cast-lead-6-sexualities": ["pansexual"],
-    "cast-lead-6-ages": ["40-49", "30-39", "40-49 playing 30-39"],
+    "cast-lead-6-ages": ["40-49 playing 30-39"],
     "cast-lead-6-z": ["host"],
     "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["usa"],
-    "cast-lead-7-genders": ["cis", "male"],
+    "cast-lead-7-genders": ["cis male"],
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["60-69"],
     "cast-lead-7-z": ["human", "host", "hybrid"],
@@ -81,7 +81,7 @@
 
     "cast-lead-8-ethnicities": ["white"],
     "cast-lead-8-nationalities": ["usa"],
-    "cast-lead-8-genders": ["cis", "female"],
+    "cast-lead-8-genders": ["cis female"],
     "cast-lead-8-sexualities": ["pansexual"],
     "cast-lead-8-ages": ["30-39"],
     "cast-lead-8-z": ["host"],

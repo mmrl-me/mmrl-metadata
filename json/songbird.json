@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["multi", "white", "asian pacific"],
     "cast-lead-1-nationalities": ["nzl", "usa", "nzl playing usa"],
-    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["latinx"],
     "cast-lead-2-nationalities": ["usa"],
-    "cast-lead-2-genders": ["female", "cis"],
+    "cast-lead-2-genders": ["cis female"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["20-29"],
     "cast-lead-2-z": ["human"],
@@ -41,7 +41,7 @@
 
     "cast-lead-3-ethnicities": ["black"],
     "cast-lead-3-nationalities": ["usa"],
-    "cast-lead-3-genders": ["male", "cis"],
+    "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["ambiguous"],
     "cast-lead-3-ages": ["40-49"],
     "cast-lead-3-z": ["human"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["swe", "usa", "swe playing usa"],
-    "cast-lead-4-genders": ["male", "cis"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["ambiguous"],
     "cast-lead-4-ages": ["60-69"],
     "cast-lead-4-z": ["human"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
-    "cast-lead-5-genders": ["female", "cis"],
+    "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["30-39"],
     "cast-lead-5-z": ["human"],
@@ -73,7 +73,7 @@
 
     "cast-lead-7-ethnicities": ["white"],
     "cast-lead-7-nationalities": ["usa"],
-    "cast-lead-7-genders": ["male", "cis"],
+    "cast-lead-7-genders": ["cis male"],
     "cast-lead-7-sexualities": ["straight"],
     "cast-lead-7-ages": ["30-39"],
     "cast-lead-7-z": ["human"],
@@ -81,7 +81,7 @@
 
     "cast-lead-8-ethnicities": ["white"],
     "cast-lead-8-nationalities": ["usa"],
-    "cast-lead-8-genders": ["male", "cis"],
+    "cast-lead-8-genders": ["cis male"],
     "cast-lead-8-sexualities": ["straight"],
     "cast-lead-8-ages": ["60-69"],
     "cast-lead-8-z": ["human"],

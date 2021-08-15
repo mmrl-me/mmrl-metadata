@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["latinx"],
     "cast-lead-1-nationalities": ["col"],
-    "cast-lead-1-genders": ["male", "cis"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["00-09", "10-19", "20-29", "30-39", "40-49"],
     "cast-lead-1-z": ["human"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["latinx"],
     "cast-lead-2-nationalities": [""],
-    "cast-lead-2-genders": ["male", "cis"],
+    "cast-lead-2-genders": ["cis male"],
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],

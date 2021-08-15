@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
-    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39"],
     "cast-lead-1-z": ["human"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
-    "cast-lead-2-genders": ["cis", "female"],
+    "cast-lead-2-genders": ["cis female"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["20-29"],
     "cast-lead-2-z": ["human"],
@@ -41,7 +41,7 @@
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa", "dnk", "dnk playing usa"],
-    "cast-lead-3-genders": ["cis", "female"],
+    "cast-lead-3-genders": ["cis female"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["50-59"],
     "cast-lead-3-z": ["human"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa"],
-    "cast-lead-4-genders": ["cis", "male"],
+    "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["50-59"],
     "cast-lead-4-z": ["human"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["black"],
     "cast-lead-5-nationalities": ["usa"],
-    "cast-lead-5-genders": ["cis", "female"],
+    "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["40-49"],
     "cast-lead-5-z": ["human"],

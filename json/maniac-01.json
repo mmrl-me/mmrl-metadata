@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
-    "cast-lead-1-genders": ["female", "cis"],
+    "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["20-29"],
     "cast-lead-1-z": ["human"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa"],
-    "cast-lead-2-genders": ["male", "cis"],
+    "cast-lead-2-genders": ["cis male"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39"],
     "cast-lead-2-z": ["human"],
@@ -41,7 +41,7 @@
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
-    "cast-lead-3-genders": ["male", "cis"],
+    "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["40-49"],
     "cast-lead-3-z": ["human"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["asian pacific"],
     "cast-lead-4-nationalities": ["gbr", "jpn"],
-    "cast-lead-4-genders": ["female", "cis"],
+    "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight"],
     "cast-lead-4-ages": ["30-39"],
     "cast-lead-4-z": ["human"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
-    "cast-lead-5-genders": ["female", "cis"],
+    "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["70-79"],
     "cast-lead-5-z": ["human"],
@@ -65,7 +65,7 @@
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa", "irl", "irl playing usa"],
-    "cast-lead-6-genders": ["male", "cis"],
+    "cast-lead-6-genders": ["cis male"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["60-69"],
     "cast-lead-6-z": ["human"],

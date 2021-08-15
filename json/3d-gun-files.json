@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "name-key": "defense-distributed",
+    "name": "3D Gun Files",
+    "name-key": "3d-gun-files",
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "software",
@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa"],
-    "cast-lead-1-genders": ["cis", "male"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39"],
     "cast-lead-1-z": ["human"],
