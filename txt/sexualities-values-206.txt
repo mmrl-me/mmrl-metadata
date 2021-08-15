@@ -4,7 +4,7 @@ aromantic
 asexual
 bisexual
 bisexual playing lesbian
-bisexual playing pan
+bisexual playing pansexual
 bisexual playing straight
 gay
 gay playing ambiguous
@@ -14,8 +14,8 @@ gay subtext
 lesbian
 lesbian playing queer
 lesbian playing straight
-pan playing straight
 pansexual
+pansexual playing straight
 queer
 queer playing bisexual
 queer playing gay
@@ -27,12 +27,10 @@ straight playing bisexual
 straight playing bisexual, poly
 straight playing gay
 straight playing lesbian
-straight playing pan
 straight playing pansexual
 straight playing queer
 straight playing queer subtext
 straight playing unknown
-stright
 unknown
 unknown playing ambiguous
 unknown playing asexual

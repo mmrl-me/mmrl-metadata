@@ -1,5 +1,6 @@
 #blackaf-01
 3%-02
+3d-gun-files
 altered-carbon-01
 altered-carbon-02
 altered-carbon-resleeved
@@ -27,7 +28,6 @@ control-z-01
 da-5-bloods
 dark-03
 debris-01
-defense-distributed
 demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train
 detective-chinatown-3
 devs-01

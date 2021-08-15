@@ -45,7 +45,6 @@ north african
 ojibwe
 pakistani american
 south asian american
-spanish
 unknown
 vietnamese
 vietnamese american

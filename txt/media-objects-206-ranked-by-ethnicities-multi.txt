@@ -33,7 +33,5 @@
 0.17, 1, american-crime-story-02
 0.17, 1, altered-carbon-02
 0.14, 1, skam-03
-0.14, 1, imitation-of-life-1959
 0.12, 1, star-trek-discovery-03
 0.12, 1, songbird
-0.12, 1, birth-of-a-nation

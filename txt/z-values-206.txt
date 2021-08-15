@@ -50,7 +50,7 @@ togruta
 trill
 ugnaught
 unknown
-unknown alien spieces
+unknown alien species
 vampire
 viltrumite
 witch

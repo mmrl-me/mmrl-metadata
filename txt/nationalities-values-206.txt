@@ -1,6 +1,5 @@
 alderaan
 aq vetina
-arg
 arg playing col
 arg, esp playing mex
 arvala-7
@@ -10,8 +9,7 @@ aus playing gbr
 aus playing unknown
 aus playing usa
 aus playing world x
-aus, npl playing jpn, hun
-aus, npl playing world x
+aus, npl playing jpn, hun, world x
 bel playing fra
 bel playing usa
 bra
@@ -22,20 +20,16 @@ can playing unknown
 can playing usa
 can playing world x
 can, usa playing usa
-che
 che playing deu
 che playing fra, rus
-chl
 chl playing unknown
 chl, usa playing usa
 chn
 chn, sgp playing chn
 chn, usa playing chn
-cmr
 col
 coruscant
 cub playing unknown
-cyp
 deu
 deu playing world x
 deu, usa playing usa
@@ -45,7 +39,6 @@ dnk playing swe
 dnk playing unknown
 dnk playing usa
 dnk playing world x
-dom
 dom, usa playing mex
 esp
 esp playing chl
@@ -77,16 +70,13 @@ harlan's world
 hkg
 hkg playing chn
 hkg, chn playing chn
-hun
 idn playing chn, idn
 ind
 ind, usa
-irl
 irl playing gbr
 irl playing unknown
 irl playing usa
 irn
-isl
 isr playing world x
 ita
 ita playing deu
@@ -97,7 +87,6 @@ jpn playing rus
 jpn playing unknown
 jpn, phl
 kamino
-ken
 ken, usa playing ken
 kerch
 kor
@@ -124,7 +113,6 @@ nld playing usa
 nor
 novyi zem
 npl, gbr playing world x
-nzl
 nzl playing gbr
 nzl playing usa
 nzl playing world x
@@ -132,12 +120,9 @@ pan playing usa
 phl
 pol playing rus
 pri playing ita
-prt
 prt playing col
-pse
 pse playing unknown
 ravkan
-romani
 rou, usa playing usa
 rouran khaganate
 rus
@@ -148,14 +133,11 @@ suli
 swe
 swe playing col
 swe playing usa
-swe, usa playing jpn, hun
-swe, usa playing world x
-tha
+swe, usa playing jpn, hun, world x
 tha playing unknown
 themyscira
 tto, usa playing world x
 tur
-twn
 twn playing chn
 ukr, isr playing rus
 unknown
@@ -186,15 +168,13 @@ usa, gbr, arg playing usa
 usa, mex playing usa
 usa, nga playing usa
 usa, zwe playing usa
-ven
 ven playing col
 ven playing ita
 viltrum
 wandering isle
-wsm
+white playing latinx
 wsm, nzl playing unknown
 wsm, nzl playing world x
-yug
 yug playing tur
 zaf playing world x
 zaf, usa playing nonextant nation

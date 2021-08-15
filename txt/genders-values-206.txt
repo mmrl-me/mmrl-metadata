@@ -1,20 +1,19 @@
-cis
 cis female
 cis female passing as male
 cis female playing ambiguous
 cis female playing cis male
 cis female playing female
 cis female playing trans female
+cis female playing unknown
 cis male
 cis male playing ambiguous
-cis male playing cis male
 cis male playing male
 cis male playing unknown
 female
 male
 nonbinary
 nonbinary playing cis female
-tans male, nonbinary playing cis female
-trans
 trans female
 trans male
+trans male, nonbinary playing cis female
+unknown
