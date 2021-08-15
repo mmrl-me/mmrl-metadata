@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Tales_from_the_Loop",
 
     "genre-tags": ["drama", "scifi"],
-    "bias-tags": [""],
+    "bias-tags": ["W", "Y"],
 
     "plot-tags": ["science", "altered reality", "machine", "ensemble"],
     "plot-geo": ["usa", "ohio", "mercer"],
@@ -20,40 +20,40 @@
     "production-tags": ["indio film", "6th & idaho moving picture company", "fox21 television studios", "amazon studios"],
     "production-geo": ["canada", "winnipeg", "morden", "regina"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["creative way to incorporate scifi and the natural stages of life", "combination of nostalgic futurism", "thought provoking for viewers to wonder what exactly the town does"],
+    "reception-negative": ["every episode follows different people yet it centers mainly around one white family", "pace is too slow for viewers to be at the edge of their seats", "no real resolutions"],
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["gbr playing usa"],
     "cast-lead-1-genders": ["cis female"],
     "cast-lead-1-sexualities": ["straight"],
-    "cast-lead-1-ages": ["30-39"],
+    "cast-lead-1-ages": ["30-39 playing unknown"],
     "cast-lead-1-z": ["human"],
-    "cast-lead-1-names": [""],
+    "cast-lead-1-names": ["loretta willard", "rebecca hall"],
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["gbr playing usa"],
     "cast-lead-2-genders": ["cis male"],
     "cast-lead-2-sexualities": ["straight"],
-    "cast-lead-2-ages": ["70-79"],
+    "cast-lead-2-ages": ["70-79 playing unknown"],
     "cast-lead-2-z": ["human"],
-    "cast-lead-2-names": [""],
+    "cast-lead-2-names": ["russ willard", "jonathan pryce"],
 
     "cast-lead-3-ethnicities": ["white"],
     "cast-lead-3-nationalities": ["usa"],
     "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
-    "cast-lead-3-ages": ["40-49"],
+    "cast-lead-3-ages": ["40-49 playing unknown"],
     "cast-lead-3-z": ["human"],
-    "cast-lead-3-names": [""],
+    "cast-lead-3-names": ["george willard", "paul schneider"],
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa"],
     "cast-lead-4-genders": ["cis male"],
     "cast-lead-4-sexualities": ["straight"],
-    "cast-lead-4-ages": ["10-19"],
+    "cast-lead-4-ages": ["20-29 playing 10-19"],
     "cast-lead-4-z": ["human"],
-    "cast-lead-4-names": [""],
+    "cast-lead-4-names": ["jakob willard", "daniel zolghadri"],
 
     "cast-lead-5-ethnicities": ["white"],
     "cast-lead-5-nationalities": ["usa"],
@@ -61,14 +61,14 @@
     "cast-lead-5-sexualities": ["straight"],
     "cast-lead-5-ages": ["00-09"],
     "cast-lead-5-z": ["human"],
-    "cast-lead-5-names": [""],
+    "cast-lead-5-names": ["cole willard", "duncan joiner"],
 
-    "cast-lead-6-ethnicities": ["black"],
-    "cast-lead-6-nationalities": ["usa"],
-    "cast-lead-6-genders": ["cis male"],
-    "cast-lead-6-sexualities": ["gay"],
-    "cast-lead-6-ages": ["40-49"],
-    "cast-lead-6-z": ["human"],
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-nationalities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
     "cast-lead-6-names": [""],
 
     "cast-lead-7-ethnicities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-names": [""],
 
-    "notes": ["loretta, russ, george, jakob, cole, gaddis"],
+    "notes": ["only five main characters, rest are recurring"],
 
     "data-version": "20210317"
 }
