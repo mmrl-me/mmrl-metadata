@@ -23,8 +23,8 @@
     "reception-positive": [""],
     "reception-negative": [""],
 
-    "cast-lead-1-ethnicities": ["black playing asian pacific", "korean playing japanese"],
-    "cast-lead-1-nationalities": ["usa playing jpn, hun", "kor playing jpn, hun", "usa playing world x", "kor playing world x", "harlan's world"],
+    "cast-lead-1-ethnicities": ["black playing multi, white, asian pacific", "korean playing multi, white, japanese"],
+    "cast-lead-1-nationalities": ["usa playing jpn, hun, world x", "kor playing jpn, hun, world x", "harlan's world"],
     "cast-lead-1-genders": ["cis female playing cis male"],
     "cast-lead-1-sexualities": ["unknown playing straight"],
     "cast-lead-1-ages": ["30-39, 40-49 playing 100+"],
