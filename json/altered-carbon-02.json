@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["black playing multi, white, asian pacific", "korean playing multi, white, japanese"],
     "cast-lead-1-nationalities": ["usa playing jpn, hun, world x", "kor playing jpn, hun, world x", "harlan's world"],
-    "cast-lead-1-genders": ["cis female playing cis male"],
+    "cast-lead-1-genders": ["cis male"],
     "cast-lead-1-sexualities": ["unknown playing straight"],
     "cast-lead-1-ages": ["30-39, 40-49 playing 100+"],
     "cast-lead-1-z": ["human"],
@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["white"],
     "cast-lead-2-nationalities": ["usa playing world x", "harlan's world"],
-    "cast-lead-2-genders": ["cis male playing unknown"],
+    "cast-lead-2-genders": ["male"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["40-49 playing 100+"],
     "cast-lead-2-z": ["ai"],
@@ -52,7 +52,7 @@
     "cast-lead-4-genders": ["cis female"],
     "cast-lead-4-sexualities": ["straight playing lesbian"],
     "cast-lead-4-ages": ["30-39 playing unknown"],
-    "cast-lead-4-z": ["human"],
+    "cast-lead-4-z": ["multi", "human", "cyborg"],
     "cast-lead-4-names": ["trepp", "simone missick"],
 
     "cast-lead-5-ethnicities": ["white"],
@@ -71,13 +71,13 @@
     "cast-lead-6-z": ["human"],
     "cast-lead-6-names": ["quellcrist falconer", "quell falconer", "renee elise goldsberry"],
 
-    "cast-lead-7-ethnicities": [""],
-    "cast-lead-7-nationalities": [""],
-    "cast-lead-7-genders": [""],
-    "cast-lead-7-sexualities": [""],
-    "cast-lead-7-ages": [""],
-    "cast-lead-7-z": [""],
-    "cast-lead-7-names": [""],
+    "cast-lead-7-ethnicities": ["multi, middle/near eastern, white, black"],
+    "cast-lead-7-nationalities": ["sau, nor, pse, deu, hti, playing world x", "harlan's world"],
+    "cast-lead-7-genders": ["female"],
+    "cast-lead-7-sexualities": ["straight"],
+    "cast-lead-7-ages": ["30-39 playing 100+"],
+    "cast-lead-7-z": ["ai"],
+    "cast-lead-7-names": ["dina shihabi", "dig 301"],
 
     "cast-lead-8-ethnicities": [""],
     "cast-lead-8-nationalities": [""],
