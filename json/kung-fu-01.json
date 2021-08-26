@@ -10,7 +10,7 @@
     "id-wikipedia": "https://en.wikipedia.org/wiki/Kung_Fu_(2021_TV_series)",
 
     "genre-tags": ["action", "drama"],
-    "bias-tags": ["Q", "Y"],
+    "bias-tags": ["Q"],
 
     "plot-tags": ["kung fu", "martial arts", "chinatown", "chinese gang"],
     "plot-geo": ["china", "san francisco"],
