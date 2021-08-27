@@ -13,12 +13,12 @@
     "bias-tags": [""],
 
     "plot-tags": ["mental health", "celebrities", "trauma", "depression"],
-    "plot-geo": [""],
+    "plot-geo": ["usa"],
     "plot-date": ["2021"],
 
     "distribution-tags": ["apple+"],
     "production-tags": ["harpo productions", "radicalmedia"],
-    "production-geo": [""],
+    "production-geo": ["usa"],
 
     "reception-positive": ["destigmatizes mental health probelms", "black speakers speak about and destigmatize taboo of therapy in black communities"],
     "reception-negative": ["on an exclusive platform, it restricts the information from people who may need it most", "POV of celebrities leaves out a conversation of structures that keep treatment out of reach for regular people"],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-name": [""],
 
-    "notes": [""],
+    "notes": ["has other filming locations but im unable to find any details without access to the show itself in casae it is stated there"],
 
     "data-version": "20210214"
 }
