@@ -1,24 +1,24 @@
 {
-    "name": "",
+    "name": "Pose",
     "name-key": ["pose-307"],
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "",
-    "id": "",
+    "type": "serial",
+    "id": "3",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt7562112",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Pose_(TV_series)",
 
-    "genre-tags": [""],
+    "genre-tags": ["drama"],
     "bias-tags": [""],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["nyc queer scene", "drag culture", "aids", "chosen family", "black-led", "queer-led"],
+    "plot-geo": ["usa", "new york", "pittsburgh"],
+    "plot-date": ["1990s", "1994", "1998"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["fx", "disney-abc domestic television"],
+    "production-tags": ["color force", "brad falchuk teley-vision", "ryan murphy television", "20th television", "fxp"],
+    "production-geo": ["new york", "usa"],
 
     "reception-positive": [""],
     "reception-negative": [""],
