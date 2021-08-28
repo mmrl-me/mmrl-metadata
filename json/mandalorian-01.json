@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["unknown"],
     "cast-lead-2-nationalities": ["coruscant"],
-    "cast-lead-2-genders": ["male"],
+    "cast-lead-2-genders": ["male x"],
     "cast-lead-2-sexualities": ["unknown"],
     "cast-lead-2-ages": ["50-59"],
     "cast-lead-2-z": ["yoda", "alien"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["white playing unknown"],
     "cast-lead-5-nationalities": ["usa playing world x", "arvala-7"],
-    "cast-lead-5-genders": ["cis male playing male"],
+    "cast-lead-5-genders": ["cis male playing male x"],
     "cast-lead-5-sexualities": ["straight playing unknown"],
     "cast-lead-5-ages": ["70-79 playing unknown"],
     "cast-lead-5-z": ["alien", "ugnaught"],
@@ -65,7 +65,7 @@
 
     "cast-lead-6-ethnicities": ["mulit, indigenous playing unknown"],
     "cast-lead-6-nationalities": ["nzl playing world x"],
-    "cast-lead-6-genders": ["cis male playing male"],
+    "cast-lead-6-genders": ["cis male playing male x"],
     "cast-lead-6-sexualities": ["unknown playing asexual"],
     "cast-lead-6-ages": ["40-49 playing unknown"],
     "cast-lead-6-z": ["android"],

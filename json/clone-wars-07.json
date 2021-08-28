@@ -33,7 +33,7 @@
 
     "cast-lead-2-ethnicities": ["white playing ambiguous"],
     "cast-lead-2-nationalities": ["usa playing world x"],
-    "cast-lead-2-genders": ["cis female playing female"],
+    "cast-lead-2-genders": ["cis female playing female x"],
     "cast-lead-2-sexualities": ["straight"],
     "cast-lead-2-ages": ["30-39"],
     "cast-lead-2-z": ["fantasy", "togruta"],
@@ -49,7 +49,7 @@
 
     "cast-lead-4-ethnicities": ["white playing ambiguous"],
     "cast-lead-4-nationalities": ["usa playing world x"],
-    "cast-lead-4-genders": ["cis male playing male"],
+    "cast-lead-4-genders": ["cis male playing male x"],
     "cast-lead-4-sexualities": ["straight playing unknown"],
     "cast-lead-4-ages": ["50-59"],
     "cast-lead-4-z": ["metahuman", "clone"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["white playing unknown"],
     "cast-lead-5-nationalities": ["usa playing world x"],
-    "cast-lead-5-genders": ["cis male playing male"],
+    "cast-lead-5-genders": ["cis male playing male x"],
     "cast-lead-5-sexualities": ["straight playing unknown"],
     "cast-lead-5-ages": ["40-49"],
     "cast-lead-5-z": ["alien", "dathomirian zabrak"],
@@ -65,7 +65,7 @@
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["usa playing world x"],
-    "cast-lead-6-genders": ["cis male playing male"],
+    "cast-lead-6-genders": ["cis male playing male x"],
     "cast-lead-6-sexualities": ["straight"],
     "cast-lead-6-ages": ["50-59 playing 100+"],
     "cast-lead-6-z": ["alien", "unknown alien species"],

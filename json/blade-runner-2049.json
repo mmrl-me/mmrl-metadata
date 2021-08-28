@@ -25,7 +25,7 @@
 
     "cast-lead-1-ethnicities": ["white"],
     "cast-lead-1-nationalities": ["usa playing unknown"],
-    "cast-lead-1-genders": ["cis male playing male"],
+    "cast-lead-1-genders": ["cis male playing male x"],
     "cast-lead-1-sexualities": ["straight"],
     "cast-lead-1-ages": ["30-39 playing unknown"],
     "cast-lead-1-z": ["ai", "human", "unknown"],
@@ -57,7 +57,7 @@
 
     "cast-lead-5-ethnicities": ["latinx"],
     "cast-lead-5-nationalities": ["cub playing unknown"],
-    "cast-lead-5-genders": ["cis female playing female"],
+    "cast-lead-5-genders": ["cis female playing female x"],
     "cast-lead-5-sexualities": ["straight playing ambiguous"],
     "cast-lead-5-ages": ["20-29 playing unknown"],
     "cast-lead-5-z": ["ai"],
@@ -65,7 +65,7 @@
 
     "cast-lead-6-ethnicities": ["white"],
     "cast-lead-6-nationalities": ["nld playing unknown"],
-    "cast-lead-6-genders": ["cis female playing female"],
+    "cast-lead-6-genders": ["cis female playing female x"],
     "cast-lead-6-sexualities": ["straight playing ambiguous"],
     "cast-lead-6-ages": ["30-39 playing 10-19"],
     "cast-lead-6-z": ["ai"],
