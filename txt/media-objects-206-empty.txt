@@ -1,7 +1,2 @@
-/home/bkoz/src/mmrl-metadata/json/intergalactic-01.json
-/home/bkoz/src/mmrl-metadata/json/kung-fu-01.json
-/home/bkoz/src/mmrl-metadata/json/me-you-cant-see-01.json
-/home/bkoz/src/mmrl-metadata/json/pose-03.json
-/home/bkoz/src/mmrl-metadata/json/trese-01.json
 /home/bkoz/src/mmrl-metadata/json/underground-railroad-01.json
 /home/bkoz/src/mmrl-metadata/json/yasuke-01.json

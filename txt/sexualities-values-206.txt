@@ -6,6 +6,7 @@ bisexual
 bisexual playing lesbian
 bisexual playing pansexual
 bisexual playing straight
+bisexual playing unknown
 gay
 gay playing ambiguous
 gay playing straight
@@ -16,6 +17,7 @@ lesbian playing queer
 lesbian playing straight
 pansexual
 pansexual playing straight
+poly playing straight
 queer
 queer playing bisexual
 queer playing gay
@@ -38,4 +40,5 @@ unknown playing bisexual
 unknown playing gay
 unknown playing lesbian
 unknown playing pansexual
+unknown playing queer
 unknown playing straight

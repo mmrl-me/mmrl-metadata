@@ -25,9 +25,12 @@ god
 horse
 host
 human
+human playing ai
 human playing alien
 human playing fantasy
 human playing fantasy, witch
+human playing human, kaiju
+human playing multi
 hybrid
 kelpien
 klingon

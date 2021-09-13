@@ -16,6 +16,7 @@ bra
 bra playing col
 bra playing mex
 can
+can playing aus
 can playing unknown
 can playing usa
 can playing world x
@@ -90,8 +91,7 @@ kamino
 ken, usa playing ken
 kerch
 kor
-kor playing jpn, hun
-kor playing world x
+kor playing jpn, hun, world x
 kor, usa playing usa
 mac, nzl playing chn
 maghreb
@@ -103,6 +103,7 @@ mex playing unknown
 mex playing usa
 mex, ken playing world x
 msy
+new london
 nextdoria
 nga
 nga playing gbr
@@ -126,7 +127,9 @@ ravkan
 rou, usa playing usa
 rouran khaganate
 rus
+sau, nor, pse, deu, hti, playing world x
 scythia
+sgp playing chn
 shu han
 sokovia
 suli
@@ -137,11 +140,14 @@ swe, usa playing jpn, hun, world x
 tha playing unknown
 themyscira
 tto, usa playing world x
+ttp playing usa
 tur
 twn playing chn
 ukr, isr playing rus
 unknown
+unknown playing phl
 usa
+usa playing aus
 usa playing can
 usa playing chl
 usa playing chn
@@ -150,23 +156,25 @@ usa playing fra, usa
 usa playing gbr
 usa playing ind
 usa playing jpn
-usa playing jpn, hun
+usa playing jpn, hun, world x
 usa playing mex
 usa playing nonextant nation
 usa playing rus
 usa playing unknown
 usa playing usa
 usa playing world x
-usa playng rus
 usa, can playing usa, gbr
 usa, chl playing world x
 usa, cmr playing usa
+usa, deu playing aus
 usa, deu playing usa
+usa, dom playing usa
 usa, gbr playing gbr
 usa, gbr playing usa
 usa, gbr, arg playing usa
 usa, mex playing usa
 usa, nga playing usa
+usa, phl playing phl
 usa, zwe playing usa
 ven playing col
 ven playing ita
