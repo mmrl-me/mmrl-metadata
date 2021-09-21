@@ -12,8 +12,8 @@
     "genre-tags": ["scifi", "drama", "adventure", "mystery", "diverse ensemble"],
     "bias-tags": ["Y"],
 
-    "plot-tags": ["time travel", "space travel", "alien", "time lord", "tardis", "gallifrey", "global warming", "mystery", "identity", "mental health"],
-    "plot-geo": ["deep space", "united kingdom", "sheffield", "gchq", "gallifrey", "madagascar"],
+    "plot-tags": ["time travel", "space travel", "alien", "time lord", "tardis", "gallfrey", "global warming", "mystery", "identity", "mental health"],
+    "plot-geo": ["deep space", "united kingdom", "sheffield", "gchq", "gallfrey", "madagascar"],
     "plot-date": ["2019", "2020", "1830s", "1940s", "1900s"],
 
     "distribution-tags": ["bbc studios", "bbc one"],
@@ -56,7 +56,7 @@
     "cast-lead-4-names": ["yasmin khan", "mandip gill"],
 
     "cast-lead-5-ethnicities": ["asian pacific", "indian"],
-    "cast-lead-5-nationalities": ["gbr playing world x", "gallifrey"],
+    "cast-lead-5-nationalities": ["gbr playing world x", "gallfrey"],
     "cast-lead-5-genders": ["cis male playing ambiguous"],
     "cast-lead-5-sexualities": ["straight playing queer"],
     "cast-lead-5-ages": ["30-39 playing 100+"],
