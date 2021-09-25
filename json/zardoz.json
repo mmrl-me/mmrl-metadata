@@ -1,12 +1,12 @@
 {
-    "name": "",
-    "name-key": "",
+    "name": "Zardoz",
+    "name-key": ["zardoz"],
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "",
+    "type": "film",
     "id": "",
 
-    "id-imdb": "",
+    "id-imdb": "https://www.imdb.com/title/tt0070948",
     "id-wikipedia": "",
 
     "genre-tags": [""],
