@@ -12,7 +12,7 @@
     "genre-tags": ["action", "drama", "scifi", "thriller", "cyberpunk"],
     "bias-tags": ["B*", "Y"],
 
-    "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "class inequality", "diverse ensemble", "serial adaptation of novel", "hypothetical digital immortality but only for the wealthy in practice"],
+    "plot-tags": ["cyberpunk", "murder", "artificial intelligence", "class inequality", "diverse ensemble", "serial adaptation of novel", "digitized immortality highly abused by the wealthy", "scientific immortality", "classism", "doppelganger"],
     "plot-geo": ["bay city", "urban"],
     "plot-date": ["2384"],
 
@@ -49,8 +49,8 @@
 
     "cast-lead-4-ethnicities": ["white"],
     "cast-lead-4-nationalities": ["usa playing world x", "harlan's world"],
-    "cast-lead-4-genders": ["cis male playing unknown"],
-    "cast-lead-4-sexualities": ["straight playing unknown"],
+    "cast-lead-4-genders": ["cis male playing male x"],
+    "cast-lead-4-sexualities": ["straight playing unknow"],
     "cast-lead-4-ages": ["40-49 playing unknown"],
     "cast-lead-4-z": ["ai"],
     "cast-lead-4-names": ["edgar poe", "chris conner"],
