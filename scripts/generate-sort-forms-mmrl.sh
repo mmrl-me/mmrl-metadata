@@ -14,3 +14,6 @@ $src/alpha60/scripts/svg-dir-to-pngs-and-pdfs.sh ./svg.dim
 $src/alpha60/scripts/sort-dirs-to-type.sh ./svg
 $src/alpha60/scripts/sort-dirs-to-type.sh ./svg.chord
 $src/alpha60/scripts/sort-dirs-to-type.sh ./svg.dim
+
+mv svg forms;
+mv txt ./forms/;
