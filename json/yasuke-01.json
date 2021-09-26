@@ -44,11 +44,11 @@
     "cast-lead-3-genders": ["cis male"],
     "cast-lead-3-sexualities": ["straight"],
     "cast-lead-3-ages": ["40-49"],
-    "cast-lead-3-z": ["human"],
+    "cast-lead-3-z": ["human", "multi", "spectral"],
     "cast-lead-3-name": ["william christopher stephens", "achoja"],
 
     "cast-lead-4-ethnicities": ["unknown"],
-    "cast-lead-4-nationalities": ["unknown"],
+    "cast-lead-4-nationalities": ["jpn"],
     "cast-lead-4-genders": ["unknown"],
     "cast-lead-4-sexualities": ["unknown"],
     "cast-lead-4-ages": ["30-39 playing unknown"],
@@ -60,7 +60,7 @@
     "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["unknown"],
     "cast-lead-5-ages": ["unknown"],
-    "cast-lead-5-z": ["human"],
+    "cast-lead-5-z": ["multi", "human", "werebear"],
     "cast-lead-5-name": ["julie marcus", "nikita"],
 
     "cast-lead-6-ethnicities": ["asian pacific"],
