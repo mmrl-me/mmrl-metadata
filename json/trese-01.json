@@ -18,7 +18,7 @@
 
     "distribution-tags": ["BASE", "netflix"],
     "production-tags": ["BASE entertainment"],
-    "production-geo": ["manila"],
+    "production-geo": ["manila", "philippines"],
 
     "reception-positive": ["incorporation of traditional filipino folklore", "great representation with real filipino actors speaking tagalog"],
     "reception-negative": ["everything takes place in manila but the main characters are very white washed and the villains have darker skin"],

@@ -18,7 +18,7 @@
 
     "distribution-tags": ["netflix"],
     "production-tags": ["the stone quarry"],
-    "production-geo": ["albuquerque", "new mexico","new jersey", "las vegas", "nevada", "los angeles", "california"],
+    "production-geo": ["albuquerque", "new mexico","new jersey", "las vegas", "nevada", "los angeles", "california", "usa"],
 
     "reception-positive": ["diverse cast", "chris d'elia replaced by tig notaro after he was fired due to sexual misconduct allegations", "capable, non-sexualized main female characters", "vanderohe and dieter put the romance in 'bromance'"],
     "reception-negative": ["scotts wife fridged, zombie lady fridged", "not diverse production crew, only diverse in front of camera"],

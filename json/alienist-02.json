@@ -13,8 +13,8 @@
     "bias-tags": ["W", "Y"],
 
     "plot-tags": ["historical fiction", "psychologist", "serial killer", "corruption", "detectives", "journalists", "social and economic disparities"],
-    "plot-geo": ["1890s"],
-    "plot-date": ["usa", "new york city"],
+    "plot-geo": ["usa", "new york city"],
+    "plot-date": ["1890s"],
 
     "distribution-tags": ["tnt", "warner bros television distribution"],
     "production-tags": ["paramount television", "studio t", "anonymous content", "vanessa productions, ltd", "stuma productions"],

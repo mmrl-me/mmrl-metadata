@@ -18,7 +18,7 @@
 
     "distribution-tags": ["hbo", "warner bros television distribution"],
     "production-tags": ["hbo entertainment", "television 360", "grok! television", "generator entertainment", "startling television", "bighead littlehead"],
-    "production-geo": ["united kingdom", "ireland", "belfast", "canada", "croatia", "iceland", "malta", "morocco", "spain"],
+    "production-geo": ["uk", "ireland", "belfast", "canada", "croatia", "iceland", "malta", "morocco", "spain"],
 
     "reception-positive": ["had some satisfying moments"],
     "reception-negative": ["bad ending", "horrible character development", "very rushed"],
