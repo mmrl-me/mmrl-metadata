@@ -178,6 +178,7 @@ true-detective-03
 twin-peaks-03
 umbrella-academy-01
 umbrella-academy-02
+underground-railroad-01
 undone-01
 upload-01
 vanguard
@@ -196,5 +197,7 @@ what-we-do-in-the-shadows-02
 white-collar-06
 wonder-woman-1984
 wu-assassins-01
+yasuke-01
 yellowstone-02
 yuri-on-ice
+zardoz

@@ -38,9 +38,9 @@ mandalorian
 metahuman
 mirror
 multi
-mutahuman
 mythic
 prime
+robot
 sensate
 spectral
 stone
@@ -56,5 +56,6 @@ unknown
 unknown alien species
 vampire
 viltrumite
+werebear
 witch
 yoda

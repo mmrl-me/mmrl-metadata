@@ -11,6 +11,7 @@
 0.83, 5, trese-01
 0.83, 5, raya-and-the-last-dragon
 0.83, 5, never-have-i-ever-01
+0.50, 3, yasuke-01
 0.50, 2, into-the-badlands-03
 0.50, 2, into-the-badlands-02
 0.50, 1, lovebirds

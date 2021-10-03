@@ -10,6 +10,7 @@
 1.00, 1, random-acts-of-flyness-01
 0.83, 5, lovecraft-country-01
 0.83, 5, insecure-04
+0.67, 4, underground-railroad-01
 0.67, 4, high-fidelity-01
 0.67, 2, me-you-can't-see-01
 0.67, 2, euphoria-special
@@ -33,6 +34,7 @@
 0.38, 3, westworld-01
 0.38, 3, star-trek-discovery-03
 0.38, 3, good-fight-01
+0.33, 2, yasuke-01
 0.33, 2, watchmen-01
 0.33, 2, walking-dead-06
 0.33, 2, orange-is-the-new-black-07

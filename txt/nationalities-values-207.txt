@@ -48,7 +48,6 @@ esp, deu playing usa
 fra
 fra playing sen, fra
 gallfrey
-gallifrey
 gbr
 gbr playing gbr, usa
 gbr playing ind
@@ -109,6 +108,7 @@ nga
 nga playing gbr
 nga playing world x
 nga, gbr playing unknown
+nld
 nld playing unknown
 nld playing usa
 nor
@@ -143,11 +143,13 @@ tto, usa playing world x
 ttp playing usa
 tur
 twn playing chn
+uga
 ukr, isr playing rus
 unknown
 unknown playing phl
 usa
 usa playing aus
+usa playing ben
 usa playing can
 usa playing chl
 usa playing chn
@@ -157,11 +159,11 @@ usa playing gbr
 usa playing ind
 usa playing jpn
 usa playing jpn, hun, world x
+usa playing jpn, mwi
 usa playing mex
 usa playing nonextant nation
 usa playing rus
 usa playing unknown
-usa playing usa
 usa playing world x
 usa, can playing usa, gbr
 usa, chl playing world x
@@ -184,6 +186,7 @@ white playing latinx
 wsm, nzl playing unknown
 wsm, nzl playing world x
 yug playing tur
+zaf
 zaf playing world x
 zaf, usa playing nonextant nation
 zumbada
