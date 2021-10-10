@@ -1,0 +1,93 @@
+{
+    "name": "What If?",
+    "name-key": "what-if-2021-01",
+    "name-key-sub": "",
+    "name-key-canonical": "",
+    "type": "serial",
+    "id": "1",
+
+    "id-imdb": "",
+    "id-wikipedia": "",
+
+    "genre-tags": [""],
+    "bias-tags": [""],
+
+    "plot-tags": [""],
+    "plot-geo": [""],
+    "plot-date": [""],
+
+    "distribution-tags": [""],
+    "production-tags": [""],
+    "production-geo": [""],
+
+    "reception-positive": [""],
+    "reception-negative": [""],
+
+    "cast-lead-1-ethnicities": [""],
+    "cast-lead-1-nationalities": [""],
+    "cast-lead-1-genders": [""],
+    "cast-lead-1-sexualities": [""],
+    "cast-lead-1-ages": [""],
+    "cast-lead-1-z": [""],
+    "cast-lead-1-name": [""],
+
+    "cast-lead-2-ethnicities": [""],
+    "cast-lead-2-nationalities": [""],
+    "cast-lead-2-genders": [""],
+    "cast-lead-2-sexualities": [""],
+    "cast-lead-2-ages": [""],
+    "cast-lead-2-z": [""],
+    "cast-lead-2-name": [""],
+
+    "cast-lead-3-ethnicities": [""],
+    "cast-lead-3-nationalities": [""],
+    "cast-lead-3-genders": [""],
+    "cast-lead-3-sexualities": [""],
+    "cast-lead-3-ages": [""],
+    "cast-lead-3-z": [""],
+    "cast-lead-3-name": [""],
+
+    "cast-lead-4-ethnicities": [""],
+    "cast-lead-4-nationalities": [""],
+    "cast-lead-4-genders": [""],
+    "cast-lead-4-sexualities": [""],
+    "cast-lead-4-ages": [""],
+    "cast-lead-4-z": [""],
+    "cast-lead-4-name": [""],
+
+    "cast-lead-5-ethnicities": [""],
+    "cast-lead-5-nationalities": [""],
+    "cast-lead-5-genders": [""],
+    "cast-lead-5-sexualities": [""],
+    "cast-lead-5-ages": [""],
+    "cast-lead-5-z": [""],
+    "cast-lead-5-name": [""],
+
+    "cast-lead-6-ethnicities": [""],
+    "cast-lead-6-nationalities": [""],
+    "cast-lead-6-genders": [""],
+    "cast-lead-6-sexualities": [""],
+    "cast-lead-6-ages": [""],
+    "cast-lead-6-z": [""],
+    "cast-lead-6-name": [""],
+
+    "cast-lead-7-ethnicities": [""],
+    "cast-lead-7-nationalities": [""],
+    "cast-lead-7-genders": [""],
+    "cast-lead-7-sexualities": [""],
+    "cast-lead-7-ages": [""],
+    "cast-lead-7-z": [""],
+    "cast-lead-7-name": [""],
+
+    "cast-lead-8-ethnicities": [""],
+    "cast-lead-8-nationalities": [""],
+    "cast-lead-8-genders": [""],
+    "cast-lead-8-sexualities": [""],
+    "cast-lead-8-ages": [""],
+    "cast-lead-8-z": [""],
+    "cast-lead-8-name": [""],
+
+    "notes": [""],
+
+    "data-version": "20210317"
+}
