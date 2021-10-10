@@ -1,6 +1,6 @@
 {
     "name": "Zardoz",
-    "name-key": ["zardoz"],
+    "name-key": "zardoz",
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "film",
@@ -89,5 +89,5 @@
 
     "notes": [""],
 
-    "data-version": "20210214"
+    "data-version": "20210317"
 }
