@@ -6,22 +6,22 @@
     "type": "serial",
     "id": "1",
 
-    "id-imdb": "",
-    "id-wikipedia": "",
+    "id-imdb": "https://www.imdb.com/title/tt13623580/",
+    "id-wikipedia": "https://en.wikipedia.org/wiki/Reservation_Dogs",
 
-    "genre-tags": [""],
+    "genre-tags": ["comedy"],
     "bias-tags": [""],
 
-    "plot-tags": [""],
-    "plot-geo": [""],
-    "plot-date": [""],
+    "plot-tags": ["indigenous-led", "reservation life", "coming of age", "crime"],
+    "plot-geo": ["oklahoma", "usa"],
+    "plot-date": ["2021"],
 
-    "distribution-tags": [""],
-    "production-tags": [""],
-    "production-geo": [""],
+    "distribution-tags": ["hulu"],
+    "production-tags": ["fxp", "piki films", "film rites"],
+    "production-geo": ["oklahoma", "usa"],
 
-    "reception-positive": [""],
-    "reception-negative": [""],
+    "reception-positive": ["all indigenous writers and directors, almost entirely indigenous american cast and production team", "authentic portrayal native americans, doesnt promote harmful stereotypes"],
+    "reception-negative": ["racism and antiblacnkness against black caracters", "anger and violence projected onto a black character in an imaginary senario", "blackface in rap scenes"],
 
     "cast-lead-1-ethnicities": [""],
     "cast-lead-1-nationalities": [""],
@@ -29,7 +29,7 @@
     "cast-lead-1-sexualities": [""],
     "cast-lead-1-ages": [""],
     "cast-lead-1-z": [""],
-    "cast-lead-1-name": [""],
+    "cast-lead-1-name": ["elora danan postoak", "devery jacobs"],
 
     "cast-lead-2-ethnicities": [""],
     "cast-lead-2-nationalities": [""],
@@ -37,7 +37,7 @@
     "cast-lead-2-sexualities": [""],
     "cast-lead-2-ages": [""],
     "cast-lead-2-z": [""],
-    "cast-lead-2-name": [""],
+    "cast-lead-2-name": ["bear smallhill", "d'pharaoh woon-a-tai"],
 
     "cast-lead-3-ethnicities": [""],
     "cast-lead-3-nationalities": [""],
@@ -45,7 +45,7 @@
     "cast-lead-3-sexualities": [""],
     "cast-lead-3-ages": [""],
     "cast-lead-3-z": [""],
-    "cast-lead-3-name": [""],
+    "cast-lead-3-name": ["cheese", "lane factor"],
 
     "cast-lead-4-ethnicities": [""],
     "cast-lead-4-nationalities": [""],
@@ -53,7 +53,7 @@
     "cast-lead-4-sexualities": [""],
     "cast-lead-4-ages": [""],
     "cast-lead-4-z": [""],
-    "cast-lead-4-name": [""],
+    "cast-lead-4-name": ["willie jack", "paulina alexis"],
 
     "cast-lead-5-ethnicities": [""],
     "cast-lead-5-nationalities": [""],
@@ -61,7 +61,7 @@
     "cast-lead-5-sexualities": [""],
     "cast-lead-5-ages": [""],
     "cast-lead-5-z": [""],
-    "cast-lead-5-name": [""],
+    "cast-lead-5-name": ["william spirit knifeman", "dallas goldtooth"],
 
     "cast-lead-6-ethnicities": [""],
     "cast-lead-6-nationalities": [""],
@@ -69,7 +69,7 @@
     "cast-lead-6-sexualities": [""],
     "cast-lead-6-ages": [""],
     "cast-lead-6-z": [""],
-    "cast-lead-6-name": [""],
+    "cast-lead-6-name": ["uncle brownie", "gary farmer"],
 
     "cast-lead-7-ethnicities": [""],
     "cast-lead-7-nationalities": [""],
@@ -87,7 +87,7 @@
     "cast-lead-8-z": [""],
     "cast-lead-8-name": [""],
 
-    "notes": [""],
+    "notes": ["thread on antiblackness: https://twitter.com/mesmeraculous/status/1432046100085559301"],
 
     "data-version": "20210317"
 }
