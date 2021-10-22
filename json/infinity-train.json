@@ -60,7 +60,7 @@
     "cast-lead-5-genders": ["cis female"],
     "cast-lead-5-sexualities": ["straight playing unknown"],
     "cast-lead-5-ages": ["60-69 playing 100+"],
-    "cast-lead-5-z": ["animal", "human"],
+    "cast-lead-5-z": ["human playing animal", "cat"],
     "cast-lead-5-name": ["the cat", "samantha", "kate mulgrew"],
 
     "cast-lead-6-ethnicities": ["white"], 
