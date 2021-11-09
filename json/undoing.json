@@ -1,7 +1,7 @@
 {
     "name": "The Undoing",
-    "name-key": "",
-    "name-key-sub": "undoing",
+    "name-key": "undoing",
+    "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
     "id": "",

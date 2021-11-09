@@ -1,10 +1,10 @@
 {
     "name": "Starstruck",
-    "name-key": "star-struck",
+    "name-key": ["star-struck-101"],
     "name-key-sub": "",
     "name-key-canonical": "",
-    "type": "film",
-    "id": ["101"],
+    "type": "serial",
+    "id": "1",
 
     "id-imdb": "https://www.imdb.com/title/tt10801368/",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Starstruck_(2021_TV_series)",

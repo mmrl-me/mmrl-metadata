@@ -1,10 +1,10 @@
 {
     "name": "Infinity Train",
-    "name-key": "inifinity-train",
+    "name-key": ["inifinity-train-310"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
-    "id": ["301"],
+    "id": "3",
 
     "id-imdb": "https://www.imdb.com/title/tt8146754/",
     "id-wikipedia": "https://en.wikipedia.org/wiki/Infinity_Train",
