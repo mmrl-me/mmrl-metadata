@@ -1,6 +1,6 @@
 {
     "name": "Y: The Last Man",
-    "name-key": "y-the-last-man",
+    "name-key": ["y-the-last-man-101"],
     "name-key-sub": "",
     "name-key-canonical": "",
     "type": "serial",
