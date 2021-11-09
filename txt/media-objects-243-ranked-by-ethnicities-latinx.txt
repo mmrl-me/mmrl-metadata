@@ -26,6 +26,7 @@
 0.17, 1, flight-attendant-01
 0.17, 1, fast-and-furious-07
 0.17, 1, falcon-and-the-winter-soldier-01
+0.17, 1, doom-patrol-03
 0.17, 1, doom-patrol-02
 0.17, 1, cobra-kai-03
 0.17, 1, cobra-kai-02
@@ -34,6 +35,7 @@
 0.17, 1, army-of-the-dead
 0.14, 1, star-trek-discovery-02
 0.14, 1, skam-03
+0.14, 1, me-you-can't-see-01
 0.14, 1, altered-carbon-02
 0.12, 1, star-trek-discovery-03
 0.12, 1, songbird

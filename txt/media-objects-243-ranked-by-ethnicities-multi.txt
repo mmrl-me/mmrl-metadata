@@ -6,7 +6,6 @@
 0.33, 2, mandalorian-02
 0.33, 2, high-fidelity-01
 0.33, 2, army-of-the-dead
-0.33, 1, me-you-can't-see-01
 0.33, 1, euphoria-special
 0.33, 1, bliss
 0.29, 2, star-trek-discovery-02
@@ -24,11 +23,13 @@
 0.17, 1, tales-of-the-city-01
 0.17, 1, star-trek-discovery-01
 0.17, 1, shadow-and-bone-01
+0.17, 1, outer-banks-02
 0.17, 1, never-have-i-ever-01
 0.17, 1, lupin-02
 0.17, 1, invincible-01
 0.17, 1, intergalactic-01
 0.17, 1, insecure-04
+0.17, 1, handmaids-tale-04
 0.17, 1, falcon-and-the-winter-soldier-01
 0.17, 1, euphoria-special
 0.17, 1, devs-01

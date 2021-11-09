@@ -1,0 +1,198 @@
+alderaan
+aq vetina
+arg playing col
+arg, esp playing mex
+arvala-7
+asgard
+aus
+aus playing gbr
+aus playing unknown
+aus playing usa
+aus playing world x
+aus, npl playing jpn, hun, world x
+bel playing fra
+bel playing usa
+bra
+bra playing col
+bra playing mex
+can
+can playing aus
+can playing unknown
+can playing usa
+can playing world x
+can, usa playing usa
+che playing deu
+che playing fra, rus
+chl playing unknown
+chl, usa playing usa
+chn
+chn, sgp playing chn
+chn, usa playing chn
+col
+coruscant
+cub playing unknown
+deu
+deu playing world x
+deu, usa playing usa
+dnk
+dnk playing rus
+dnk playing swe
+dnk playing unknown
+dnk playing usa
+dnk playing world x
+dom, usa playing mex
+esp
+esp playing chl
+esp playing ita
+esp, deu playing usa
+fra
+fra playing sen, fra
+gallfrey
+gbr
+gbr playing gbr, usa
+gbr playing ind
+gbr playing isl
+gbr playing rus
+gbr playing unknown
+gbr playing usa
+gbr playing usa, world x
+gbr playing world x
+gbr, cyp playing romani
+gbr, dom playing unknown
+gbr, dom playing world x
+gbr, ind
+gbr, ind playing ind
+gbr, nga playing usa
+gbr, usa
+gbr, usa playing gbr
+gbr, usa playing unknown
+gbr, usa playing usa
+guy, gbr playing world x
+harlan's world
+hkg
+hkg playing chn
+hkg, chn playing chn
+idn playing chn, idn
+ind
+ind, usa
+irl playing gbr
+irl playing unknown
+irl playing usa
+irn
+isr playing world x
+ita
+ita playing deu
+jam
+jpn
+jpn playing jpn, hun
+jpn playing rus
+jpn playing unknown
+jpn, phl
+kamino
+ken, usa playing ken
+kerch
+kor
+kor playing jpn, hun, world x
+kor, usa playing usa
+mac, nzl playing chn
+maghreb
+mandalore
+mex
+mex playing col
+mex playing mex, usa
+mex playing unknown
+mex playing usa
+mex, ken playing world x
+msy
+new london
+nextdoria
+nga
+nga playing gbr
+nga playing world x
+nga, gbr playing unknown
+nld
+nld playing unknown
+nld playing usa
+nor
+novyi zem
+npl, gbr playing world x
+nzl
+nzl playing gbr
+nzl playing usa
+nzl playing world x
+pan playing usa
+phl
+pol playing rus
+pri playing ita
+prt playing col
+pse playing unknown
+ravkan
+rou, usa playing usa
+rouran khaganate
+rus
+sau, nor, pse, deu, hti, playing world x
+scythia
+sgp playing chn
+shu han
+sokovia
+suli
+swe
+swe playing col
+swe playing usa
+swe, usa playing jpn, hun, world x
+swz playing gbr
+syr
+tha playing unknown
+themyscira
+tto, usa playing world x
+ttp playing usa
+tur
+twn playing chn
+uga
+ukr, isr playing rus
+unknown
+unknown playing gbr
+unknown playing phl
+usa
+usa playing aus
+usa playing ben
+usa playing can
+usa playing chl
+usa playing chn
+usa playing fra
+usa playing fra, usa
+usa playing gbr
+usa playing ind
+usa playing jpn
+usa playing jpn, hun, world x
+usa playing jpn, mwi
+usa playing mex
+usa playing nonextant nation
+usa playing rus
+usa playing unknown
+usa playing world x
+usa, can playing usa, gbr
+usa, chl playing world x
+usa, cmr playing usa
+usa, deu playing aus
+usa, deu playing usa
+usa, dom playing usa
+usa, gbr playing gbr
+usa, gbr playing usa
+usa, gbr, arg playing usa
+usa, mex playing usa
+usa, nga playing usa
+usa, phl playing phl
+usa, zwe playing usa
+ven playing col
+ven playing ita
+viltrum
+wandering isle
+white playing latinx
+wsm, nzl playing unknown
+wsm, nzl playing world x
+yug playing tur
+zaf
+zaf playing world x
+zaf, usa playing nonextant nation
+zumbada

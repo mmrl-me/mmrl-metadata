@@ -1,2 +1,3 @@
 0.17, 1, tiger-king
+0.17, 1, starstruck-01
 0.17, 1, fast-and-furious-07

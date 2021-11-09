@@ -1,9 +1,12 @@
 8, birth-of-a-nation
 5, da-5-bloods
+4, reservation-dogs-01
 4, queen's-gambit-01
+4, gone-with-the-wind
 3, white-collar-06
 3, umbrella-academy-01
 3, lovecraft-country-01
+3, everybodys-talking-about-jamie
 2, wonder-woman-1984
 2, wandavision-01
 2, walking-dead-07
@@ -24,6 +27,7 @@
 2, imitation-of-life-1959
 2, imitation-of-life-1934
 2, i-may-destroy-you-01
+2, high-school-musical-the-musical-the-series-02
 2, hamilton
 2, godzilla-vs-kong
 2, flight-attendant-01
@@ -48,6 +52,7 @@
 1, twin-peaks-03
 1, tenet
 1, tales-of-the-city-01
+1, succession-03
 1, succession-02
 1, stranger-things-03
 1, star-wars-the-clone-wars-07
@@ -59,6 +64,7 @@
 1, permanent-record
 1, pacific-rim-the-black
 1, ozark-02
+1, outer-banks-02
 1, orange-is-the-new-black-07
 1, orange-is-the-new-black-06
 1, old-guard
@@ -69,12 +75,14 @@
 1, narcos-03
 1, narcos-02
 1, mandalorian-02
+1, little-fires-everywhere-01
 1, lego-star-wars-holiday-special-2020
 1, kung-fu-2021-01
 1, intergalactic-01
 1, i-love-dick
 1, house-of-cards-06
 1, house-of-cards-05
+1, handmaids-tale-04
 1, handmaid's-tale-02
 1, handmaid's-tale-01
 1, glow-03
@@ -87,6 +95,7 @@
 1, fast-and-furious-07
 1, euphoria-special
 1, eoy-curiosities-leaks-2017-2018
+1, doom-patrol-03
 1, doom-patrol-02
 1, doctor-who-12
 1, doctor-who-11

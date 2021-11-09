@@ -9,4 +9,5 @@ game-of-thrones-08
 i-may-destroy-you-01
 intergalactic-01
 old-guard
+starstruck-01
 vanguard

@@ -18,6 +18,7 @@ doctor-who-11
 doctor-who-12
 el-chapo-02
 eoy-screeners-2017-2018
+everybodys-talking-about-jamie
 expanse-02
 expanse-03
 expanse-04
@@ -28,13 +29,16 @@ game-of-thrones-07
 game-of-thrones-08
 handmaid's-tale-01
 handmaid's-tale-02
+handmaids-tale-04
 i-may-destroy-you-01
+infinity-train-03
 intergalactic-01
 jamtara-sabka-number-ayega
 japan-sinks-2020
 killing-eve-02
 kuruluş-osman-01
 legend-of-galactic-heroes-die-neue-these
+little-fires-everywhere-01
 lupin-02
 mighty-ducks-game-changers-01
 mulan
@@ -51,6 +55,7 @@ skam-03
 star-trek-discovery-01
 star-trek-discovery-02
 star-trek-discovery-03
+starstruck-01
 tales-from-the-loop-01
 trese-01
 umbrella-academy-01

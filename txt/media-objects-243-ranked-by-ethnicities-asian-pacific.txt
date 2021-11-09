@@ -17,9 +17,12 @@
 0.50, 1, lovebirds
 0.50, 1, legend-of-galactic-heroes-die-neue-these
 0.40, 2, doctor-who-12
+0.33, 2, starstruck-01
 0.33, 2, star-trek-picard-01
 0.33, 2, mighty-ducks-game-changers-01
 0.33, 2, intergalactic-01
+0.33, 2, high-school-musical-the-musical-the-series-02
+0.33, 2, everybodys-talking-about-jamie
 0.33, 2, devs-01
 0.33, 2, away-01
 0.33, 1, yuri-on-ice
@@ -43,6 +46,7 @@
 0.17, 1, invincible-01
 0.17, 1, insecure-04
 0.17, 1, i-may-destroy-you-01
+0.17, 1, handmaids-tale-04
 0.17, 1, handmaid's-tale-02
 0.17, 1, handmaid's-tale-01
 0.17, 1, expanse-04

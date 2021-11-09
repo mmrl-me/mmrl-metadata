@@ -1,0 +1,48 @@
+ambiguous
+ambiguous playing straight
+aromantic
+asexual
+bisexual
+bisexual playing gay
+bisexual playing lesbian
+bisexual playing pansexual
+bisexual playing straight
+bisexual playing unknown
+gay
+gay playing ambiguous
+gay playing straight
+gay playing unknown
+gay subtext
+lesbian
+lesbian playing queer
+lesbian playing straight
+pansexual
+pansexual playing straight
+playing straight
+poly playing straight
+queer
+queer playing bisexual
+queer playing gay
+queer playing straight
+queer playing unknown
+queer subtext
+straight
+straight playing ambiguous
+straight playing bisexual
+straight playing bisexual, poly
+straight playing gay
+straight playing lesbian
+straight playing pansexual
+straight playing queer
+straight playing queer subtext
+straight playing unknow
+straight playing unknown
+unknown
+unknown playing ambiguous
+unknown playing asexual
+unknown playing bisexual
+unknown playing gay
+unknown playing lesbian
+unknown playing pansexual
+unknown playing queer
+unknown playing straight

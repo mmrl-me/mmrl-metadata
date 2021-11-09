@@ -1,0 +1,66 @@
+ambiguous
+asian pacific
+asian pacific playing ambiguous
+asian pacific playing multi
+asian pacific playing unknown
+asian pacific playing white
+asian pacific, multi playing white
+asian pacific, white playing asian pacific
+asian pacific, white, multi
+black
+black passing as white
+black playing multi, white, asian pacific
+black playing unknown
+black playing white
+black, asian pacific playing unknown
+black, white, multi playing ambiguous
+black, white, multi playing black
+british asian
+british chinese
+chinese
+chinese american
+chinese playing multi, white, japanese
+chinese-american
+dominican
+etherian
+filipino
+ghanian
+indian
+indian playing pakistani
+indian-british
+indigenous
+japanese
+japanese american
+korean
+korean playing multi, white, japanese
+latinx
+latinx playing black passing as white
+latinx playing unknown
+latinx playing white
+maori
+middle eastern/north african
+middle/near eastern
+middle/near eastern playing asian pacific
+mulit
+mulit, indigenous playing unknown
+multi
+multi playing latinx
+nepalese playing japanese
+nepali
+north african
+ojibwe
+pakistani american
+puerto rican
+south asian american
+unknown
+vietnamese
+vietnamese american
+white
+white playing ambiguous
+white playing asian pacific
+white playing black
+white playing latinx
+white playing middle/near eastern
+white playing multi, white, asian pacific
+white playing unknown
+white, asian pacific, multi playing ambiguous
