@@ -1,0 +1,6 @@
+0.33, 2, godzilla-vs-kong
+0.17, 1, yasuke-01
+0.17, 1, tiger-king-and-i
+0.17, 1, solar-opposites-01
+0.17, 1, mandalorian-02
+0.17, 1, mandalorian-01
