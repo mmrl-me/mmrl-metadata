@@ -1,0 +1,3806 @@
+[
+    {
+        "field": "genre(s)",
+        "option": "*other"
+    },
+    {
+        "field": "genre(s)",
+        "option": "action"
+    },
+    {
+        "field": "genre(s)",
+        "option": "adult"
+    },
+    {
+        "field": "genre(s)",
+        "option": "adventure"
+    },
+    {
+        "field": "genre(s)",
+        "option": "animation"
+    },
+    {
+        "field": "genre(s)",
+        "option": "biography"
+    },
+    {
+        "field": "genre(s)",
+        "option": "comedy"
+    },
+    {
+        "field": "genre(s)",
+        "option": "crime"
+    },
+    {
+        "field": "genre(s)",
+        "option": "cyberpunk"
+    },
+    {
+        "field": "genre(s)",
+        "option": "documentary"
+    },
+    {
+        "field": "genre(s)",
+        "option": "drama"
+    },
+    {
+        "field": "genre(s)",
+        "option": "family"
+    },
+    {
+        "field": "genre(s)",
+        "option": "fantasy"
+    },
+    {
+        "field": "genre(s)",
+        "option": "film noir"
+    },
+    {
+        "field": "genre(s)",
+        "option": "game show"
+    },
+    {
+        "field": "genre(s)",
+        "option": "historical"
+    },
+    {
+        "field": "genre(s)",
+        "option": "historical fiction"
+    },
+    {
+        "field": "genre(s)",
+        "option": "horror"
+    },
+    {
+        "field": "genre(s)",
+        "option": "musical"
+    },
+    {
+        "field": "genre(s)",
+        "option": "mystery"
+    },
+    {
+        "field": "genre(s)",
+        "option": "news"
+    },
+    {
+        "field": "genre(s)",
+        "option": "reality tv"
+    },
+    {
+        "field": "genre(s)",
+        "option": "romance"
+    },
+    {
+        "field": "genre(s)",
+        "option": "satire"
+    },
+    {
+        "field": "genre(s)",
+        "option": "scifi"
+    },
+    {
+        "field": "genre(s)",
+        "option": "short"
+    },
+    {
+        "field": "genre(s)",
+        "option": "talk show"
+    },
+    {
+        "field": "genre(s)",
+        "option": "thriller"
+    },
+    {
+        "field": "genre(s)",
+        "option": "war"
+    },
+    {
+        "field": "genre(s)",
+        "option": "western"
+    },
+    {
+        "field": "plot-geo",
+        "option": "*nonextant nation"
+    },
+    {
+        "field": "plot-geo",
+        "option": "*world x"
+    },
+    {
+        "field": "-geo",
+        "option": "Afghanistan"
+    },
+    {
+        "field": "-geo",
+        "option": "Albania"
+    },
+    {
+        "field": "-geo",
+        "option": "Algeria"
+    },
+    {
+        "field": "-geo",
+        "option": "Andorra"
+    },
+    {
+        "field": "-geo",
+        "option": "Angola"
+    },
+    {
+        "field": "-geo",
+        "option": "Antigua and Barbuda"
+    },
+    {
+        "field": "-geo",
+        "option": "Argentina"
+    },
+    {
+        "field": "-geo",
+        "option": "Armenia"
+    },
+    {
+        "field": "-geo",
+        "option": "Australia"
+    },
+    {
+        "field": "-geo",
+        "option": "Austria"
+    },
+    {
+        "field": "-geo",
+        "option": "Azerbaijan"
+    },
+    {
+        "field": "-geo",
+        "option": "The Bahamas"
+    },
+    {
+        "field": "-geo",
+        "option": "Bahrain"
+    },
+    {
+        "field": "-geo",
+        "option": "Bangladesh"
+    },
+    {
+        "field": "-geo",
+        "option": "Barbados"
+    },
+    {
+        "field": "-geo",
+        "option": "Belarus"
+    },
+    {
+        "field": "-geo",
+        "option": "Belgium"
+    },
+    {
+        "field": "-geo",
+        "option": "Belize"
+    },
+    {
+        "field": "-geo",
+        "option": "Benin (Dahomey)"
+    },
+    {
+        "field": "-geo",
+        "option": "Bolivia"
+    },
+    {
+        "field": "-geo",
+        "option": "Bosnia and Herzegovina"
+    },
+    {
+        "field": "-geo",
+        "option": "Botswana"
+    },
+    {
+        "field": "-geo",
+        "option": "Brazil"
+    },
+    {
+        "field": "-geo",
+        "option": "Brunei"
+    },
+    {
+        "field": "-geo",
+        "option": "Brunswick and L\u00fcneburg"
+    },
+    {
+        "field": "-geo",
+        "option": "Bulgaria"
+    },
+    {
+        "field": "-geo",
+        "option": "Burkina Faso (Upper Volta)"
+    },
+    {
+        "field": "-geo",
+        "option": "Burma"
+    },
+    {
+        "field": "-geo",
+        "option": "Burundi"
+    },
+    {
+        "field": "-geo",
+        "option": "Cabo Verde"
+    },
+    {
+        "field": "-geo",
+        "option": "Cambodia"
+    },
+    {
+        "field": "-geo",
+        "option": "Cameroon"
+    },
+    {
+        "field": "-geo",
+        "option": "Canada"
+    },
+    {
+        "field": "-geo",
+        "option": "Cayman Islands, The"
+    },
+    {
+        "field": "-geo",
+        "option": "Central African Republic"
+    },
+    {
+        "field": "-geo",
+        "option": "Chad"
+    },
+    {
+        "field": "-geo",
+        "option": "Chile"
+    },
+    {
+        "field": "-geo",
+        "option": "China"
+    },
+    {
+        "field": "-geo",
+        "option": "Colombia"
+    },
+    {
+        "field": "-geo",
+        "option": "Comoros"
+    },
+    {
+        "field": "-geo",
+        "option": "Costa Rica"
+    },
+    {
+        "field": "-geo",
+        "option": "Cote d\u2019Ivoire (Ivory Coast)"
+    },
+    {
+        "field": "-geo",
+        "option": "Croatia"
+    },
+    {
+        "field": "-geo",
+        "option": "Cuba"
+    },
+    {
+        "field": "-geo",
+        "option": "Cyprus"
+    },
+    {
+        "field": "-geo",
+        "option": "Czech Republic"
+    },
+    {
+        "field": "-geo",
+        "option": "Democratic Republic of the Congo"
+    },
+    {
+        "field": "-geo",
+        "option": "Denmark"
+    },
+    {
+        "field": "-geo",
+        "option": "Djibouti"
+    },
+    {
+        "field": "-geo",
+        "option": "Dominica"
+    },
+    {
+        "field": "-geo",
+        "option": "Dominican Republic"
+    },
+    {
+        "field": "-geo",
+        "option": "Ecuador"
+    },
+    {
+        "field": "-geo",
+        "option": "Egypt"
+    },
+    {
+        "field": "-geo",
+        "option": "El Salvador"
+    },
+    {
+        "field": "-geo",
+        "option": "Equatorial Guinea"
+    },
+    {
+        "field": "-geo",
+        "option": "Eritrea"
+    },
+    {
+        "field": "-geo",
+        "option": "Estonia"
+    },
+    {
+        "field": "-geo",
+        "option": "Eswatini"
+    },
+    {
+        "field": "-geo",
+        "option": "Ethiopia"
+    },
+    {
+        "field": "-geo",
+        "option": "Fiji"
+    },
+    {
+        "field": "-geo",
+        "option": "Finland"
+    },
+    {
+        "field": "-geo",
+        "option": "France"
+    },
+    {
+        "field": "-geo",
+        "option": "Gabon"
+    },
+    {
+        "field": "-geo",
+        "option": "Gambia, The"
+    },
+    {
+        "field": "-geo",
+        "option": "Georgia"
+    },
+    {
+        "field": "-geo",
+        "option": "Germany"
+    },
+    {
+        "field": "-geo",
+        "option": "Ghana"
+    },
+    {
+        "field": "-geo",
+        "option": "Greece"
+    },
+    {
+        "field": "-geo",
+        "option": "Grenada"
+    },
+    {
+        "field": "-geo",
+        "option": "Guatemala"
+    },
+    {
+        "field": "-geo",
+        "option": "Guinea"
+    },
+    {
+        "field": "-geo",
+        "option": "Guinea-Bissau"
+    },
+    {
+        "field": "-geo",
+        "option": "Guyana"
+    },
+    {
+        "field": "-geo",
+        "option": "Haiti"
+    },
+    {
+        "field": "-geo",
+        "option": "Honduras"
+    },
+    {
+        "field": "-geo",
+        "option": "Hungary"
+    },
+    {
+        "field": "-geo",
+        "option": "Iceland"
+    },
+    {
+        "field": "-geo",
+        "option": "India"
+    },
+    {
+        "field": "-geo",
+        "option": "Indonesia"
+    },
+    {
+        "field": "-geo",
+        "option": "Iran"
+    },
+    {
+        "field": "-geo",
+        "option": "Iraq"
+    },
+    {
+        "field": "-geo",
+        "option": "Ireland"
+    },
+    {
+        "field": "-geo",
+        "option": "Israel"
+    },
+    {
+        "field": "-geo",
+        "option": "Italy"
+    },
+    {
+        "field": "-geo",
+        "option": "Jamaica"
+    },
+    {
+        "field": "-geo",
+        "option": "Japan"
+    },
+    {
+        "field": "-geo",
+        "option": "Jordan"
+    },
+    {
+        "field": "-geo",
+        "option": "Kazakhstan"
+    },
+    {
+        "field": "-geo",
+        "option": "Kenya"
+    },
+    {
+        "field": "-geo",
+        "option": "Kiribati"
+    },
+    {
+        "field": "-geo",
+        "option": "Korea"
+    },
+    {
+        "field": "-geo",
+        "option": "Kosovo"
+    },
+    {
+        "field": "-geo",
+        "option": "Kuwait"
+    },
+    {
+        "field": "-geo",
+        "option": "Kyrgyzstan"
+    },
+    {
+        "field": "-geo",
+        "option": "Laos"
+    },
+    {
+        "field": "-geo",
+        "option": "Latvia"
+    },
+    {
+        "field": "-geo",
+        "option": "Lebanon"
+    },
+    {
+        "field": "-geo",
+        "option": "Lesotho"
+    },
+    {
+        "field": "-geo",
+        "option": "Liberia"
+    },
+    {
+        "field": "-geo",
+        "option": "Libya"
+    },
+    {
+        "field": "-geo",
+        "option": "Liechtenstein"
+    },
+    {
+        "field": "-geo",
+        "option": "Lithuania"
+    },
+    {
+        "field": "-geo",
+        "option": "Luxembourg"
+    },
+    {
+        "field": "-geo",
+        "option": "Madagascar"
+    },
+    {
+        "field": "-geo",
+        "option": "Malawi"
+    },
+    {
+        "field": "-geo",
+        "option": "Malaysia"
+    },
+    {
+        "field": "-geo",
+        "option": "Maldives"
+    },
+    {
+        "field": "-geo",
+        "option": "Mali"
+    },
+    {
+        "field": "-geo",
+        "option": "Malta"
+    },
+    {
+        "field": "-geo",
+        "option": "Marshall Islands"
+    },
+    {
+        "field": "-geo",
+        "option": "Mauritania"
+    },
+    {
+        "field": "-geo",
+        "option": "Mauritius"
+    },
+    {
+        "field": "-geo",
+        "option": "Mexico"
+    },
+    {
+        "field": "-geo",
+        "option": "Micronesia"
+    },
+    {
+        "field": "-geo",
+        "option": "Moldova"
+    },
+    {
+        "field": "-geo",
+        "option": "Monaco"
+    },
+    {
+        "field": "-geo",
+        "option": "Mongolia"
+    },
+    {
+        "field": "-geo",
+        "option": "Montenegro"
+    },
+    {
+        "field": "-geo",
+        "option": "Morocco"
+    },
+    {
+        "field": "-geo",
+        "option": "Mozambique"
+    },
+    {
+        "field": "-geo",
+        "option": "Namibia"
+    },
+    {
+        "field": "-geo",
+        "option": "Nauru"
+    },
+    {
+        "field": "-geo",
+        "option": "Nepal"
+    },
+    {
+        "field": "-geo",
+        "option": "Netherlands, The"
+    },
+    {
+        "field": "-geo",
+        "option": "New Zealand"
+    },
+    {
+        "field": "-geo",
+        "option": "Nicaragua"
+    },
+    {
+        "field": "-geo",
+        "option": "Niger"
+    },
+    {
+        "field": "-geo",
+        "option": "Nigeria"
+    },
+    {
+        "field": "-geo",
+        "option": "North Macedonia"
+    },
+    {
+        "field": "-geo",
+        "option": "Norway"
+    },
+    {
+        "field": "-geo",
+        "option": "Oman"
+    },
+    {
+        "field": "-geo",
+        "option": "Pakistan"
+    },
+    {
+        "field": "-geo",
+        "option": "Palau"
+    },
+    {
+        "field": "-geo",
+        "option": "Panama"
+    },
+    {
+        "field": "-geo",
+        "option": "Papua New Guinea"
+    },
+    {
+        "field": "-geo",
+        "option": "Paraguay"
+    },
+    {
+        "field": "-geo",
+        "option": "Peru"
+    },
+    {
+        "field": "-geo",
+        "option": "Philippines"
+    },
+    {
+        "field": "-geo",
+        "option": "Poland"
+    },
+    {
+        "field": "-geo",
+        "option": "Portugal"
+    },
+    {
+        "field": "-geo",
+        "option": "Qatar"
+    },
+    {
+        "field": "-geo",
+        "option": "Republic of Korea (South Korea)"
+    },
+    {
+        "field": "-geo",
+        "option": "Republic of the Congo"
+    },
+    {
+        "field": "-geo",
+        "option": "Romania"
+    },
+    {
+        "field": "-geo",
+        "option": "Russia"
+    },
+    {
+        "field": "-geo",
+        "option": "Rwanda"
+    },
+    {
+        "field": "-geo",
+        "option": "Saint Kitts and Nevis"
+    },
+    {
+        "field": "-geo",
+        "option": "Saint Lucia"
+    },
+    {
+        "field": "-geo",
+        "option": "Saint Vincent and the Grenadines"
+    },
+    {
+        "field": "-geo",
+        "option": "Samoa"
+    },
+    {
+        "field": "-geo",
+        "option": "San Marino"
+    },
+    {
+        "field": "-geo",
+        "option": "Sao Tome and Principe"
+    },
+    {
+        "field": "-geo",
+        "option": "Saudi Arabia"
+    },
+    {
+        "field": "-geo",
+        "option": "Scotland"
+    },
+    {
+        "field": "-geo",
+        "option": "Senegal"
+    },
+    {
+        "field": "-geo",
+        "option": "Serbia"
+    },
+    {
+        "field": "-geo",
+        "option": "Seychelles"
+    },
+    {
+        "field": "-geo",
+        "option": "Sierra Leone"
+    },
+    {
+        "field": "-geo",
+        "option": "Singapore"
+    },
+    {
+        "field": "-geo",
+        "option": "Slovakia"
+    },
+    {
+        "field": "-geo",
+        "option": "Slovenia"
+    },
+    {
+        "field": "-geo",
+        "option": "Solomon Islands, The"
+    },
+    {
+        "field": "-geo",
+        "option": "Somalia"
+    },
+    {
+        "field": "-geo",
+        "option": "South Africa"
+    },
+    {
+        "field": "-geo",
+        "option": "South Sudan"
+    },
+    {
+        "field": "-geo",
+        "option": "Spain"
+    },
+    {
+        "field": "-geo",
+        "option": "Sri Lanka"
+    },
+    {
+        "field": "-geo",
+        "option": "Sudan"
+    },
+    {
+        "field": "-geo",
+        "option": "Suriname"
+    },
+    {
+        "field": "-geo",
+        "option": "Sweden"
+    },
+    {
+        "field": "-geo",
+        "option": "Switzerland"
+    },
+    {
+        "field": "-geo",
+        "option": "Syria"
+    },
+    {
+        "field": "-geo",
+        "option": "Tajikistan"
+    },
+    {
+        "field": "-geo",
+        "option": "Tanzania"
+    },
+    {
+        "field": "-geo",
+        "option": "Thailand"
+    },
+    {
+        "field": "-geo",
+        "option": "Timor-Leste"
+    },
+    {
+        "field": "-geo",
+        "option": "Togo"
+    },
+    {
+        "field": "-geo",
+        "option": "Tonga"
+    },
+    {
+        "field": "-geo",
+        "option": "Trinidad and Tobago"
+    },
+    {
+        "field": "-geo",
+        "option": "Tunisia"
+    },
+    {
+        "field": "-geo",
+        "option": "Turkey"
+    },
+    {
+        "field": "-geo",
+        "option": "Turkmenistan"
+    },
+    {
+        "field": "-geo",
+        "option": "Tuvalu"
+    },
+    {
+        "field": "-geo",
+        "option": "Uganda"
+    },
+    {
+        "field": "-geo",
+        "option": "Ukraine"
+    },
+    {
+        "field": "-geo",
+        "option": "United Arab Emirates"
+    },
+    {
+        "field": "-geo",
+        "option": "United Kingdom"
+    },
+    {
+        "field": "-geo",
+        "option": "United States"
+    },
+    {
+        "field": "-geo",
+        "option": "Uruguay"
+    },
+    {
+        "field": "-geo",
+        "option": "Uzbekistan"
+    },
+    {
+        "field": "-geo",
+        "option": "Vanuatu"
+    },
+    {
+        "field": "-geo",
+        "option": "Vatican City"
+    },
+    {
+        "field": "-geo",
+        "option": "Venezuela"
+    },
+    {
+        "field": "-geo",
+        "option": "Vietnam"
+    },
+    {
+        "field": "-geo",
+        "option": "Wales"
+    },
+    {
+        "field": "-geo",
+        "option": "Yemen"
+    },
+    {
+        "field": "-geo",
+        "option": "Zambia"
+    },
+    {
+        "field": "-geo",
+        "option": "Zimbabwe"
+    },
+    {
+        "field": "plot-date",
+        "option": "*BCE"
+    },
+    {
+        "field": "plot-date",
+        "option": "*future"
+    },
+    {
+        "field": "plot-date",
+        "option": "0s"
+    },
+    {
+        "field": "plot-date",
+        "option": "10s"
+    },
+    {
+        "field": "plot-date",
+        "option": "20s"
+    },
+    {
+        "field": "plot-date",
+        "option": "30s"
+    },
+    {
+        "field": "plot-date",
+        "option": "40s"
+    },
+    {
+        "field": "plot-date",
+        "option": "50s"
+    },
+    {
+        "field": "plot-date",
+        "option": "60s"
+    },
+    {
+        "field": "plot-date",
+        "option": "70s"
+    },
+    {
+        "field": "plot-date",
+        "option": "80s"
+    },
+    {
+        "field": "plot-date",
+        "option": "90s"
+    },
+    {
+        "field": "plot-date",
+        "option": "100s"
+    },
+    {
+        "field": "plot-date",
+        "option": "110s"
+    },
+    {
+        "field": "plot-date",
+        "option": "120s"
+    },
+    {
+        "field": "plot-date",
+        "option": "130s"
+    },
+    {
+        "field": "plot-date",
+        "option": "140s"
+    },
+    {
+        "field": "plot-date",
+        "option": "150s"
+    },
+    {
+        "field": "plot-date",
+        "option": "160s"
+    },
+    {
+        "field": "plot-date",
+        "option": "170s"
+    },
+    {
+        "field": "plot-date",
+        "option": "180s"
+    },
+    {
+        "field": "plot-date",
+        "option": "190s"
+    },
+    {
+        "field": "plot-date",
+        "option": "200s"
+    },
+    {
+        "field": "plot-date",
+        "option": "210s"
+    },
+    {
+        "field": "plot-date",
+        "option": "220s"
+    },
+    {
+        "field": "plot-date",
+        "option": "230s"
+    },
+    {
+        "field": "plot-date",
+        "option": "240s"
+    },
+    {
+        "field": "plot-date",
+        "option": "250s"
+    },
+    {
+        "field": "plot-date",
+        "option": "260s"
+    },
+    {
+        "field": "plot-date",
+        "option": "270s"
+    },
+    {
+        "field": "plot-date",
+        "option": "280s"
+    },
+    {
+        "field": "plot-date",
+        "option": "290s"
+    },
+    {
+        "field": "plot-date",
+        "option": "300s"
+    },
+    {
+        "field": "plot-date",
+        "option": "310s"
+    },
+    {
+        "field": "plot-date",
+        "option": "320s"
+    },
+    {
+        "field": "plot-date",
+        "option": "330s"
+    },
+    {
+        "field": "plot-date",
+        "option": "340s"
+    },
+    {
+        "field": "plot-date",
+        "option": "350s"
+    },
+    {
+        "field": "plot-date",
+        "option": "360s"
+    },
+    {
+        "field": "plot-date",
+        "option": "370s"
+    },
+    {
+        "field": "plot-date",
+        "option": "380s"
+    },
+    {
+        "field": "plot-date",
+        "option": "390s"
+    },
+    {
+        "field": "plot-date",
+        "option": "400s"
+    },
+    {
+        "field": "plot-date",
+        "option": "410s"
+    },
+    {
+        "field": "plot-date",
+        "option": "420s"
+    },
+    {
+        "field": "plot-date",
+        "option": "430s"
+    },
+    {
+        "field": "plot-date",
+        "option": "440s"
+    },
+    {
+        "field": "plot-date",
+        "option": "450s"
+    },
+    {
+        "field": "plot-date",
+        "option": "460s"
+    },
+    {
+        "field": "plot-date",
+        "option": "470s"
+    },
+    {
+        "field": "plot-date",
+        "option": "480s"
+    },
+    {
+        "field": "plot-date",
+        "option": "490s"
+    },
+    {
+        "field": "plot-date",
+        "option": "500s"
+    },
+    {
+        "field": "plot-date",
+        "option": "510s"
+    },
+    {
+        "field": "plot-date",
+        "option": "520s"
+    },
+    {
+        "field": "plot-date",
+        "option": "530s"
+    },
+    {
+        "field": "plot-date",
+        "option": "540s"
+    },
+    {
+        "field": "plot-date",
+        "option": "550s"
+    },
+    {
+        "field": "plot-date",
+        "option": "560s"
+    },
+    {
+        "field": "plot-date",
+        "option": "570s"
+    },
+    {
+        "field": "plot-date",
+        "option": "580s"
+    },
+    {
+        "field": "plot-date",
+        "option": "590s"
+    },
+    {
+        "field": "plot-date",
+        "option": "600s"
+    },
+    {
+        "field": "plot-date",
+        "option": "610s"
+    },
+    {
+        "field": "plot-date",
+        "option": "620s"
+    },
+    {
+        "field": "plot-date",
+        "option": "630s"
+    },
+    {
+        "field": "plot-date",
+        "option": "640s"
+    },
+    {
+        "field": "plot-date",
+        "option": "650s"
+    },
+    {
+        "field": "plot-date",
+        "option": "660s"
+    },
+    {
+        "field": "plot-date",
+        "option": "670s"
+    },
+    {
+        "field": "plot-date",
+        "option": "680s"
+    },
+    {
+        "field": "plot-date",
+        "option": "690s"
+    },
+    {
+        "field": "plot-date",
+        "option": "700s"
+    },
+    {
+        "field": "plot-date",
+        "option": "710s"
+    },
+    {
+        "field": "plot-date",
+        "option": "720s"
+    },
+    {
+        "field": "plot-date",
+        "option": "730s"
+    },
+    {
+        "field": "plot-date",
+        "option": "740s"
+    },
+    {
+        "field": "plot-date",
+        "option": "750s"
+    },
+    {
+        "field": "plot-date",
+        "option": "760s"
+    },
+    {
+        "field": "plot-date",
+        "option": "770s"
+    },
+    {
+        "field": "plot-date",
+        "option": "780s"
+    },
+    {
+        "field": "plot-date",
+        "option": "790s"
+    },
+    {
+        "field": "plot-date",
+        "option": "800s"
+    },
+    {
+        "field": "plot-date",
+        "option": "810s"
+    },
+    {
+        "field": "plot-date",
+        "option": "820s"
+    },
+    {
+        "field": "plot-date",
+        "option": "830s"
+    },
+    {
+        "field": "plot-date",
+        "option": "840s"
+    },
+    {
+        "field": "plot-date",
+        "option": "850s"
+    },
+    {
+        "field": "plot-date",
+        "option": "860s"
+    },
+    {
+        "field": "plot-date",
+        "option": "870s"
+    },
+    {
+        "field": "plot-date",
+        "option": "880s"
+    },
+    {
+        "field": "plot-date",
+        "option": "890s"
+    },
+    {
+        "field": "plot-date",
+        "option": "900s"
+    },
+    {
+        "field": "plot-date",
+        "option": "910s"
+    },
+    {
+        "field": "plot-date",
+        "option": "920s"
+    },
+    {
+        "field": "plot-date",
+        "option": "930s"
+    },
+    {
+        "field": "plot-date",
+        "option": "940s"
+    },
+    {
+        "field": "plot-date",
+        "option": "950s"
+    },
+    {
+        "field": "plot-date",
+        "option": "960s"
+    },
+    {
+        "field": "plot-date",
+        "option": "970s"
+    },
+    {
+        "field": "plot-date",
+        "option": "980s"
+    },
+    {
+        "field": "plot-date",
+        "option": "990s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1000s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1010s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1020s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1030s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1040s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1050s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1060s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1070s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1080s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1090s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1100s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1110s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1120s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1130s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1140s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1150s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1160s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1170s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1180s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1190s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1200s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1210s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1220s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1230s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1240s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1250s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1260s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1270s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1280s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1290s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1300s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1310s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1320s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1330s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1340s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1350s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1360s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1370s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1380s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1390s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1400s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1410s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1420s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1430s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1440s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1450s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1460s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1470s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1480s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1490s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1500s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1510s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1520s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1530s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1540s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1550s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1560s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1570s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1580s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1590s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1600s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1610s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1620s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1630s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1640s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1650s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1660s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1670s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1680s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1690s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1700s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1710s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1720s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1730s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1740s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1750s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1760s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1770s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1780s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1790s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1800s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1810s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1820s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1830s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1840s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1850s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1860s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1870s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1880s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1890s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1900s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1910s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1920s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1930s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1940s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1950s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1960s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1970s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1980s"
+    },
+    {
+        "field": "plot-date",
+        "option": "1990s"
+    },
+    {
+        "field": "plot-date",
+        "option": "2000s"
+    },
+    {
+        "field": "plot-date",
+        "option": "2010s"
+    },
+    {
+        "field": "plot-date",
+        "option": "2020s"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "*other"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "amazon prime video"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "amc network"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "aniplex"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "apple tv+"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "atv"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "bac films"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "BASE entertainment"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "batrax entertainment"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "bbc america"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "bbc one"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "bbc studios"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "cathay-keris films"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "cbs"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "cbs all access"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "crunchyroll"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "dc universe"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "disney-abc domestic television"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "disney+"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "epoch producing co."
+    },
+    {
+        "field": "distribution-tags",
+        "option": "fox / fox broadcasting company"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "fox tv "
+    },
+    {
+        "field": "distribution-tags",
+        "option": "fx / fxx / fx networks"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "gem entertainment"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "golden screen cinemas"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "gravitas ventures"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "hbo"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "hbo enterprises"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "hbo max / hbo now / hbo go"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "henry holt and company"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "hulu"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "legendary television distribution"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "loew's inc"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "metropolitan books"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "mgm television"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "mm2 entertainment"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "nbcuniversal teleivision distribution"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "netflix"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "nfp marketing and distribution"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "nrk"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "paramound network"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "republic"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "scanbox entertainment"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "showtime"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "sky one"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "sony pictures releasing"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "sony pictures releasing international"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "sony pictures teleivsion"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "splendid film"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "stx films"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "syfy"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "tnt"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "toho"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "triart film"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "universal pictures"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "univision"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "usa network"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "walt disney studios motion picture"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "walt disney television"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "warner bros. pictures"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "warner bros. television distribution"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "warnermedia direct"
+    },
+    {
+        "field": "distribution-tags",
+        "option": "youtube premium"
+    },
+    {
+        "field": "production-tags",
+        "option": "*other"
+    },
+    {
+        "field": "production-tags",
+        "option": "03 turkey media"
+    },
+    {
+        "field": "production-tags",
+        "option": "101 studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "16:14 entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "21 laps entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "3 arts entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "343 incorporated"
+    },
+    {
+        "field": "production-tags",
+        "option": "40 acres and a mule filmworks"
+    },
+    {
+        "field": "production-tags",
+        "option": "5000 broadway productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "6th &amp; idaho moving picture company"
+    },
+    {
+        "field": "production-tags",
+        "option": "a24"
+    },
+    {
+        "field": "production-tags",
+        "option": "abc signature"
+    },
+    {
+        "field": "production-tags",
+        "option": "ac films"
+    },
+    {
+        "field": "production-tags",
+        "option": "afemme"
+    },
+    {
+        "field": "production-tags",
+        "option": "aggregate films"
+    },
+    {
+        "field": "production-tags",
+        "option": "alcon entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "amazon studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "amblin television"
+    },
+    {
+        "field": "production-tags",
+        "option": "amc studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "aniplex"
+    },
+    {
+        "field": "production-tags",
+        "option": "anonymous content"
+    },
+    {
+        "field": "production-tags",
+        "option": "archie comics"
+    },
+    {
+        "field": "production-tags",
+        "option": "arte france cinema"
+    },
+    {
+        "field": "production-tags",
+        "option": "artistanbul"
+    },
+    {
+        "field": "production-tags",
+        "option": "atlas entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "atomic cartoons"
+    },
+    {
+        "field": "production-tags",
+        "option": "babieka"
+    },
+    {
+        "field": "production-tags",
+        "option": "bad robot productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "baral-waley productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "BASE entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "bbc studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "berlanti productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "best day ever productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "big indie pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "bighead littlehead"
+    },
+    {
+        "field": "production-tags",
+        "option": "blossom films"
+    },
+    {
+        "field": "production-tags",
+        "option": "blur studio"
+    },
+    {
+        "field": "production-tags",
+        "option": "borderline entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "bosque ranch productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "boutique filmes"
+    },
+    {
+        "field": "production-tags",
+        "option": "boxer vs raptor"
+    },
+    {
+        "field": "production-tags",
+        "option": "bozdag film"
+    },
+    {
+        "field": "production-tags",
+        "option": "brad falchuk teley-vision"
+    },
+    {
+        "field": "production-tags",
+        "option": "brillco"
+    },
+    {
+        "field": "production-tags",
+        "option": "brillstein entertainment partners"
+    },
+    {
+        "field": "production-tags",
+        "option": "broadway video"
+    },
+    {
+        "field": "production-tags",
+        "option": "bud yorkin productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "cartoon network studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "catchlight studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "cbs eye animation productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "cbs television studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "china film group corporation"
+    },
+    {
+        "field": "production-tags",
+        "option": "china film international"
+    },
+    {
+        "field": "production-tags",
+        "option": "chorus boy"
+    },
+    {
+        "field": "production-tags",
+        "option": "chronology"
+    },
+    {
+        "field": "production-tags",
+        "option": "chuck lorre productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "cinema vehicle services"
+    },
+    {
+        "field": "production-tags",
+        "option": "circle of confusion"
+    },
+    {
+        "field": "production-tags",
+        "option": "claussen + putz filmproduktion"
+    },
+    {
+        "field": "production-tags",
+        "option": "color force"
+    },
+    {
+        "field": "production-tags",
+        "option": "columbia pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "comedy partners"
+    },
+    {
+        "field": "production-tags",
+        "option": "conway"
+    },
+    {
+        "field": "production-tags",
+        "option": "coproduction office"
+    },
+    {
+        "field": "production-tags",
+        "option": "crazyrose"
+    },
+    {
+        "field": "production-tags",
+        "option": "crystal diner productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "daniel wilson productions inc"
+    },
+    {
+        "field": "production-tags",
+        "option": "dark horse entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "david e kelley productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "david w griffith corp"
+    },
+    {
+        "field": "production-tags",
+        "option": "davis entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "dc films / entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "deedle-dee productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "defense distributed"
+    },
+    {
+        "field": "production-tags",
+        "option": "denver and delilah productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "disney channel"
+    },
+    {
+        "field": "production-tags",
+        "option": "disney+"
+    },
+    {
+        "field": "production-tags",
+        "option": "dna tv"
+    },
+    {
+        "field": "production-tags",
+        "option": "dorothy parker drank here productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "double feature films"
+    },
+    {
+        "field": "production-tags",
+        "option": "dreamcrew"
+    },
+    {
+        "field": "production-tags",
+        "option": "dreamworks animation television"
+    },
+    {
+        "field": "production-tags",
+        "option": "dundee productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "eddie murphy productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "electric lady"
+    },
+    {
+        "field": "production-tags",
+        "option": "elizabeth bay productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "endeavor content"
+    },
+    {
+        "field": "production-tags",
+        "option": "endgame entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "entertainment one"
+    },
+    {
+        "field": "production-tags",
+        "option": "epitome capital"
+    },
+    {
+        "field": "production-tags",
+        "option": "escapist fare"
+    },
+    {
+        "field": "production-tags",
+        "option": "essential filmproduktion gmbh"
+    },
+    {
+        "field": "production-tags",
+        "option": "extension 765"
+    },
+    {
+        "field": "production-tags",
+        "option": "fairview entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "falkna productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "fan dancer"
+    },
+    {
+        "field": "production-tags",
+        "option": "film afrika"
+    },
+    {
+        "field": "production-tags",
+        "option": "film flam"
+    },
+    {
+        "field": "production-tags",
+        "option": "film i vast"
+    },
+    {
+        "field": "production-tags",
+        "option": "film rites"
+    },
+    {
+        "field": "production-tags",
+        "option": "film4 productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "flame ventures"
+    },
+    {
+        "field": "production-tags",
+        "option": "flitcraft ltd"
+    },
+    {
+        "field": "production-tags",
+        "option": "fotokem"
+    },
+    {
+        "field": "production-tags",
+        "option": "fox 21 television studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "fox television studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "friendly films"
+    },
+    {
+        "field": "production-tags",
+        "option": "fuzzy door productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "fx productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "fxp"
+    },
+    {
+        "field": "production-tags",
+        "option": "gary sanchez productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "gaumont international television / gaumont television"
+    },
+    {
+        "field": "production-tags",
+        "option": "generator entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "georgeville television"
+    },
+    {
+        "field": "production-tags",
+        "option": "goldsmith yuspa productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "golem creations"
+    },
+    {
+        "field": "production-tags",
+        "option": "good fear productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "gran via productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "grok! television"
+    },
+    {
+        "field": "production-tags",
+        "option": "harper road films"
+    },
+    {
+        "field": "production-tags",
+        "option": "harpo productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "hbo max originals / hbo enertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "headhunter films"
+    },
+    {
+        "field": "production-tags",
+        "option": "hello sunshine"
+    },
+    {
+        "field": "production-tags",
+        "option": "high bridge productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "hive house project"
+    },
+    {
+        "field": "production-tags",
+        "option": "hivemind"
+    },
+    {
+        "field": "production-tags",
+        "option": "hurwitz & schlossberg productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "hyperobject industries"
+    },
+    {
+        "field": "production-tags",
+        "option": "idiot box productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "image comics"
+    },
+    {
+        "field": "production-tags",
+        "option": "imperative entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "important science"
+    },
+    {
+        "field": "production-tags",
+        "option": "indio film"
+    },
+    {
+        "field": "production-tags",
+        "option": "invisible narratives"
+    },
+    {
+        "field": "production-tags",
+        "option": "issa rae productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "itv entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "jason t. reed productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "jax media"
+    },
+    {
+        "field": "production-tags",
+        "option": "jeff eastin &amp; warrior george productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "jenkins+pine productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "jeremy carver productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "jerry weintraub productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "jordan productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "just so"
+    },
+    {
+        "field": "production-tags",
+        "option": "justin roiland's solo vanity card productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "kaling international, inc"
+    },
+    {
+        "field": "production-tags",
+        "option": "kelly/schneider"
+    },
+    {
+        "field": "production-tags",
+        "option": "keywords studios los angeles"
+    },
+    {
+        "field": "production-tags",
+        "option": "khalabo ink society"
+    },
+    {
+        "field": "production-tags",
+        "option": "kilter films"
+    },
+    {
+        "field": "production-tags",
+        "option": "king size productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "kitty committee"
+    },
+    {
+        "field": "production-tags",
+        "option": "le train train"
+    },
+    {
+        "field": "production-tags",
+        "option": "lee caplin picture entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "left bank pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "legendary pictures / legendary entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "legendary television"
+    },
+    {
+        "field": "production-tags",
+        "option": "lemon studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "linson entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "lionsgate television"
+    },
+    {
+        "field": "production-tags",
+        "option": "lit entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "little lamb"
+    },
+    {
+        "field": "production-tags",
+        "option": "living dead guy productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "lloyd levin beatriz levin production"
+    },
+    {
+        "field": "production-tags",
+        "option": "long pond"
+    },
+    {
+        "field": "production-tags",
+        "option": "loom studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "lucasfilm animation"
+    },
+    {
+        "field": "production-tags",
+        "option": "lucasfilm animation singapore"
+    },
+    {
+        "field": "production-tags",
+        "option": "lucasfilm ltd"
+    },
+    {
+        "field": "production-tags",
+        "option": "lynch/frost productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "man, woman &amp; child prouctions"
+    },
+    {
+        "field": "production-tags",
+        "option": "mappa"
+    },
+    {
+        "field": "production-tags",
+        "option": "marc evans productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "marvel studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "marvel television"
+    },
+    {
+        "field": "production-tags",
+        "option": "master key production"
+    },
+    {
+        "field": "production-tags",
+        "option": "mattel creations"
+    },
+    {
+        "field": "production-tags",
+        "option": "media rights capital"
+    },
+    {
+        "field": "production-tags",
+        "option": "metro-goldwyn-mayer / mgm"
+    },
+    {
+        "field": "production-tags",
+        "option": "mgm television"
+    },
+    {
+        "field": "production-tags",
+        "option": "midnight radio"
+    },
+    {
+        "field": "production-tags",
+        "option": "millar/gough ink"
+    },
+    {
+        "field": "production-tags",
+        "option": "monkey massacre"
+    },
+    {
+        "field": "production-tags",
+        "option": "monkeypaw productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "moonage pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "mrc"
+    },
+    {
+        "field": "production-tags",
+        "option": "mtv entertainment studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "mvmt"
+    },
+    {
+        "field": "production-tags",
+        "option": "mythology entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "nbcuniversal international"
+    },
+    {
+        "field": "production-tags",
+        "option": "ne4u"
+    },
+    {
+        "field": "production-tags",
+        "option": "nemo films"
+    },
+    {
+        "field": "production-tags",
+        "option": "neon black"
+    },
+    {
+        "field": "production-tags",
+        "option": "netflix"
+    },
+    {
+        "field": "production-tags",
+        "option": "nevis productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "new regency"
+    },
+    {
+        "field": "production-tags",
+        "option": "next entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "nomadic pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "nrk"
+    },
+    {
+        "field": "production-tags",
+        "option": "nzk productions inc"
+    },
+    {
+        "field": "production-tags",
+        "option": "old 320 sycamore pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "one race films"
+    },
+    {
+        "field": "production-tags",
+        "option": "original film"
+    },
+    {
+        "field": "production-tags",
+        "option": "original langster"
+    },
+    {
+        "field": "production-tags",
+        "option": "overbrook entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "pacific standard"
+    },
+    {
+        "field": "production-tags",
+        "option": "paramount pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "paramount television"
+    },
+    {
+        "field": "production-tags",
+        "option": "parisienne"
+    },
+    {
+        "field": "production-tags",
+        "option": "parkwood entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "parliament of owls"
+    },
+    {
+        "field": "production-tags",
+        "option": "participant media"
+    },
+    {
+        "field": "production-tags",
+        "option": "passenger"
+    },
+    {
+        "field": "production-tags",
+        "option": "penguin in a parka"
+    },
+    {
+        "field": "production-tags",
+        "option": "penny for your thoughts entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "perhapsatron"
+    },
+    {
+        "field": "production-tags",
+        "option": "phoenix pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "picrow"
+    },
+    {
+        "field": "production-tags",
+        "option": "piki films"
+    },
+    {
+        "field": "production-tags",
+        "option": "pixar animation studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "plan b entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "platinum dunes"
+    },
+    {
+        "field": "production-tags",
+        "option": "plattform produktion"
+    },
+    {
+        "field": "production-tags",
+        "option": "point grey pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "polygon pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "production i.g."
+    },
+    {
+        "field": "production-tags",
+        "option": "project zeus"
+    },
+    {
+        "field": "production-tags",
+        "option": "quinn's house"
+    },
+    {
+        "field": "production-tags",
+        "option": "radicalmedia"
+    },
+    {
+        "field": "production-tags",
+        "option": "rahway road"
+    },
+    {
+        "field": "production-tags",
+        "option": "rancho rosa partnership"
+    },
+    {
+        "field": "production-tags",
+        "option": "red canoe productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "refuge inc."
+    },
+    {
+        "field": "production-tags",
+        "option": "regency enterprises"
+    },
+    {
+        "field": "production-tags",
+        "option": "reunion pacific entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "rock fish"
+    },
+    {
+        "field": "production-tags",
+        "option": "roddenberry entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "rough customer"
+    },
+    {
+        "field": "production-tags",
+        "option": "rubicon tv"
+    },
+    {
+        "field": "production-tags",
+        "option": "ryan murphy productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "ryan murphy television"
+    },
+    {
+        "field": "production-tags",
+        "option": "salty pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "science saru"
+    },
+    {
+        "field": "production-tags",
+        "option": "scott &amp; larry productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "scott free productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "scott rudin productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "scout productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "seandanielco"
+    },
+    {
+        "field": "production-tags",
+        "option": "secret hideout"
+    },
+    {
+        "field": "production-tags",
+        "option": "selznick international pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "shadowmachine"
+    },
+    {
+        "field": "production-tags",
+        "option": "shadycat productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "shanghai lix entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "shanghai tencent pictures culture media"
+    },
+    {
+        "field": "production-tags",
+        "option": "shark vs bear"
+    },
+    {
+        "field": "production-tags",
+        "option": "shenzhen media film &amp; televison"
+    },
+    {
+        "field": "production-tags",
+        "option": "shondaland"
+    },
+    {
+        "field": "production-tags",
+        "option": "showtime / showtime anytime / showtime networks"
+    },
+    {
+        "field": "production-tags",
+        "option": "shueisha"
+    },
+    {
+        "field": "production-tags",
+        "option": "sid gentle films ltd"
+    },
+    {
+        "field": "production-tags",
+        "option": "simpson street"
+    },
+    {
+        "field": "production-tags",
+        "option": "skeeter rosenbaum productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "skybound entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "skydance media"
+    },
+    {
+        "field": "production-tags",
+        "option": "skydance television"
+    },
+    {
+        "field": "production-tags",
+        "option": "sony pictures television"
+    },
+    {
+        "field": "production-tags",
+        "option": "startling television"
+    },
+    {
+        "field": "production-tags",
+        "option": "storm studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "story house entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "studio anima"
+    },
+    {
+        "field": "production-tags",
+        "option": "studio jms"
+    },
+    {
+        "field": "production-tags",
+        "option": "studio t"
+    },
+    {
+        "field": "production-tags",
+        "option": "stuma productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "submarine amsterdam"
+    },
+    {
+        "field": "production-tags",
+        "option": "sunmin image productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "sveriges television"
+    },
+    {
+        "field": "production-tags",
+        "option": "sweatpants productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "syncopy"
+    },
+    {
+        "field": "production-tags",
+        "option": "tekden film"
+    },
+    {
+        "field": "production-tags",
+        "option": "television 360"
+    },
+    {
+        "field": "production-tags",
+        "option": "temple hill entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "tencent pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "the lego group"
+    },
+    {
+        "field": "production-tags",
+        "option": "the littlefield company"
+    },
+    {
+        "field": "production-tags",
+        "option": "the reasonable bunch"
+    },
+    {
+        "field": "production-tags",
+        "option": "the stone quarry"
+    },
+    {
+        "field": "production-tags",
+        "option": "the walt disney company"
+    },
+    {
+        "field": "production-tags",
+        "option": "thunderbird entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "tiger aspect productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "tilted productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "tipping point films"
+    },
+    {
+        "field": "production-tags",
+        "option": "titmouse"
+    },
+    {
+        "field": "production-tags",
+        "option": "topple productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "tornante company"
+    },
+    {
+        "field": "production-tags",
+        "option": "tornante television"
+    },
+    {
+        "field": "production-tags",
+        "option": "torridon films"
+    },
+    {
+        "field": "production-tags",
+        "option": "touchstone television"
+    },
+    {
+        "field": "production-tags",
+        "option": "treehouse films"
+    },
+    {
+        "field": "production-tags",
+        "option": "tristar pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "tristar productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "true jack productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "twin peaks productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "two canoes pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "ufotable"
+    },
+    {
+        "field": "production-tags",
+        "option": "universal cable productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "universal pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "universal television"
+    },
+    {
+        "field": "production-tags",
+        "option": "universal-international pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "univision studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "unpronounceable productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "valhalla entertainment"
+    },
+    {
+        "field": "production-tags",
+        "option": "vanessa productions, ltd"
+    },
+    {
+        "field": "production-tags",
+        "option": "various artists limited"
+    },
+    {
+        "field": "production-tags",
+        "option": "venus castina llc"
+    },
+    {
+        "field": "production-tags",
+        "option": "virgo productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "walt disney animation studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "walt disney pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "warner bros. pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "warner bros. television studios"
+    },
+    {
+        "field": "production-tags",
+        "option": "warner horizon television"
+    },
+    {
+        "field": "production-tags",
+        "option": "warp films"
+    },
+    {
+        "field": "production-tags",
+        "option": "weed road pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "weiner bros"
+    },
+    {
+        "field": "production-tags",
+        "option": "west &amp; kucserka"
+    },
+    {
+        "field": "production-tags",
+        "option": "white oak pictures"
+    },
+    {
+        "field": "production-tags",
+        "option": "white rabbit"
+    },
+    {
+        "field": "production-tags",
+        "option": "wiedemann &amp; berg television"
+    },
+    {
+        "field": "production-tags",
+        "option": "wirthwhile tv"
+    },
+    {
+        "field": "production-tags",
+        "option": "wonderful films"
+    },
+    {
+        "field": "production-tags",
+        "option": "working title television"
+    },
+    {
+        "field": "production-tags",
+        "option": "yes, norman productions"
+    },
+    {
+        "field": "production-tags",
+        "option": "zdf arte"
+    },
+    {
+        "field": "production-geo",
+        "option": "*unknown"
+    },
+    {
+        "field": "positive-reception-tags",
+        "option": "*no significant diversity-related positive reception"
+    },
+    {
+        "field": "negative-reception-tags",
+        "option": "*no significant diversity-related negative reception"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth01] actor does not share ethnicity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth02] actor shares ethnicity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth03] challenges stereotypes and tropes about poc/mixed-race people"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth05] decreased visibility / investment to poc/mixed-race characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth06] increased visibility / investment to poc/ mixed-race characters compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth07] increased visibility / investment to poc/mixed-race characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth08] interracial / poc/ mixed-race relationships normalized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth09] interracial / poc/ mixed-race relationships stigmatized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth10] nuanced representation of poc/mixed-race experience / racism"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth11] poc/mixed-race characters whitewashed / not present in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth12] poc/mixed-race creative / production team for story centered on poc/mixed-race experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth13] reinforces stereotypes and tropes about poc/mixed-race people"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth14] un-nuanced representation of poc/mixed-race experience / racism"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth15] white characters racebent to poc/mixed-race characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[eth16] white creative / production team for story centered on poc/mixed-race experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat01] actor does not share nationality with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat02] actor shares nationality with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat03] challenges stereotypes and tropes about nationality"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat04] nuanced national representation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat05] production team does not share national culture for story centered on national cultural experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat06] production team shares national culture for story centered on national cultural experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat07] reinforces stereotypes and tropes about nationality"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[nat08] un-nuanced national representation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis01] actor does not share onscreen disability with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis02] actor shares onscreen disability with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis03] challenges stereotypes and tropes about disabilities"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis04] decreased visibility / investment to disabled characters compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis05] decreased visibility / investment to disabled characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis06] disability de-stigmatization"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis07] disability stigmatization"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis08] disabled characters non-disabled / has disability changed in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis09] disabled creative / production team for story centered on disabled people's experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis10] increased visibility / investment to disabled characters compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis11] increased visibility / investment to disabled characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis12] mental health de-stigmatization"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis13] mental health stigmatization"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis14] non-disabled character is disabled in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis15] non-disabled creative / production team for story centered on disabled people's experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis16] nuanced representation of disability"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis17] nuanced representation of mental health"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis18] reinforces stereotypes and tropes about disabilities"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis19] un-nuanced representation of disability"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[dis20] un-nuanced representation of mental health"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex01] actor does not share sexuality with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex02] actor shares sexuality with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex03] challenges stereotypes and tropes about queer sexuality"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex04] cishet creative / production team for story centered on queer experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex05] decreased visibility / investment of queer characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex06] decreased visibility / investment to queer characters or queer relationship compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex07] heterosexual characters made queer characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex08] increased visibility / investment of queer characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex09] increased visibility / investment to queer characters and/or queer relationship compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex10] nuanced representation of queer sexuality"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex11] queer characters made straight in adaptation / not present in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex12] queerness normalized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex13] queerness stigmatized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[sex14] reinforces stereotypes and tropes about queer sexuality"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[age01] character made older in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[age02] character made younger in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[age03] older man younger woman normalized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen01] actor does not share gender identity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen02] actor shares gender identity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen03] challenges stereotypes and tropes about trans/gnc people"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen04] challenges stereotypes and tropes about women"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen05] cis people led creative / production team for story centered on trans/gnc people's experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen06] decreased visibility / investment in story of trans/gnc characters compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen07] decreased visibility / investment in story of women compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen08] decreased visibilty and/or investment in story of women / genderqueer characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen09] gender nonconformity normalized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen10] gender nonconformity stigmatized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen11] increased visibility / investment in story of trans/gnc characters compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen12] increased visibility / investment in story of women compared to past seasons"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen13] increased visibilty and/or investment in story of women / genderqueer characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen14] men or cis characters replaced by women or trans/gnc characters in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen15] men-led creative / production team for story centered on women's experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen16] nuanced portrayal of trans experience"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen17] nuanced portrayal of women's experience"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen18] reinforces stereotypes and tropes about trans/gnc people"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen19] reinforces stereotypes and tropes about women"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen20] trans/gnc people-led creative / production team for story centered on trans/gnc people's experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen21] un-nuanced portrayal of trans experience"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen22] un-nuanced portrayal of women's experience"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen23] women or trans/gnc characters replaced by men or cis characters / not present in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[gen24] women-led creative / production team for story centered on women's experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int01] actor does not share intersectional identity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int02] actor shares intersectional identity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int03] challenges stereotypes and tropes about intersectional identity"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int04] decreased visibility / investment of characters with intersectional identities in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int05] identity change in adaptation creates intersectional impact"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int06] increased visibility / investment of characters with intersectional identities in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int07] intersectional lived experience normalized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int08] intersectional lived experience stigmatized"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int09] intersectional production team for story centered on intersectional experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int10] nuanced portrayal of intersectional experience"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int11] production team does not share intersectional identity for story centered on intersectional experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int12] reinforces stereotypes and tropes about intersectional identity"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[int13] un-nuanced portrayal of intersectional experience"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc01] actor does not share ethnoreligious identity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc02] actor shares ethnoreligous identity with character"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc03] challenges stereotypes and tropes about ethnoreligous identity"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc04] decreased visibility and/or investment in story of characters of a specific ethnoreligious background in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc05] employee(s) fired for sexual misconduct/transphobic speech/racism allegations"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc06] employee(s) not fired for sexual misconduct/transphobic speech/racism"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc07] increased visibility and/or investment in story of characters of a specific ethnoreligious background in adaptation"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc08] jewish creative / production team for story centered on jewish experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc09] muslim creative / production team for story centered on muslim experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc10] non jewish creative / production team for story centered on jewish experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc11] non muslim creative / production team for story centered on muslim experiences"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc12] nuanced portrayal of body size"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc13] nuanced portrayal of islam"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc14] nuanced portrayal of judaism"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc15] nuanced portrayal of socioeconomic class"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc16] reinforces stereotypes and tropes about ethnoreligious identit"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc17] un-nuanced portrayal of body size"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc18] un-nuanced portrayal of islam"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc19] un-nuanced portrayal of judaism"
+    },
+    {
+        "field": "-reception-tags",
+        "option": "[misc20] un-nuanced portrayal of socioeconomic class"
+    }
+]
