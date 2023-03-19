@@ -2,7 +2,7 @@
 mmrl chrome extension
 original written by jingyili@cs.stanford.edu - message with any questions!
 
-last updated v 1.01 feb 2023
+last updated v 1.2 3/19/23
 */
 
 //these are the titles that need multiselect dropdowns
@@ -36,15 +36,16 @@ fetch(url)
         makeTitlesRequired(requiredTitles);
     })
     .then(() => {
-        //finally, we add onclick listeners to the "populate" buttons
-        //so they will correctly populate the textareas
+        //finally, we add listeners to the text area to populate them on enter
         for (var i = 0; i < mainTitles.length; i++) {
-            const simplifiedTitle = simplifyTitle(mainTitles[i]);
+            const title = mainTitles[i];
+            const simplifiedTitle = simplifyTitle(title);
             // console.log("simplified title for button ", simplifiedTitle);
-            $("#"+simplifiedTitle+"-button").click(function () {
+            $("#"+simplifiedTitle+"-textarea").keypress( function(e) {
+              if (e.which == 13) { //enter or space
                 //new scope for this function
-                populateClick($(this).attr('name'));
-            });
+                populateClick($(this), title);
+            }});
         }
     });
 
@@ -77,7 +78,7 @@ function getBoxByTitle(title) {
             //the fourth parent element is the big box
         }
     }
-    console.log("ERROR: no question box with title ", title);
+    console.log("ERROR null: no question box with title ", title);
     return null;
 }
 
@@ -103,7 +104,6 @@ function makeTitlesRequired(titlesList) {
                 titleSpan.appendChild(node);
             }
         }
-        console.log("ERROR: no question box with title to make required ", title);
     }
 }
 
@@ -165,21 +165,21 @@ function addMultiSelect(title, data) {
         selectList.appendChild(option);
     }
 
-    //create button
-    var populateButton = document.createElement("button");
-    populateButton.innerHTML = "Populate";
-    populateButton.type = "submit";
-    populateButton.name = title
-    populateButton.id = simplifyTitle(title)+"-button";
-    box.appendChild(populateButton);
+    //add id to each textarea to make them easier to find
+    textBox = getTextAreaFromBox(box);
+    textBox.setAttribute("id", simplifyTitle(title)+"-textarea");
 
 }
 
-function populateClick(title) {
-    //manipulates the dom after someone clicks on "populate"
-    //to fill in the selected options into the textarea
-    
-    // console.log("populating click for ", title);
+
+
+
+function populateClick(textarea, title) {
+    //fills in the selected options into the textarea
+    // note - changed from click button due to need for user input
+
+    console.log("populating click for ", textarea, title);
+
     var simplifiedTitle = simplifyTitle(title);
     var options = $("select#"+simplifiedTitle).val();
     const height = options.length*20;
@@ -191,5 +191,10 @@ function populateClick(title) {
     textBox.parentElement.parentElement.parentElement.classList.add("CDELXb");
     textBox.setAttribute("style", "height: "+height+"px");
     textBox.value = values;
+    textBox.innerHTML = values; 
     textBox.setAttribute("data-initial-value", values);
+    console.log("finished with val ", values);
+    textBox.dispatchEvent(new Event('keypress', {keyCode: 65}));
+    textBox.setAttribute("badinput", false);
+
 }
