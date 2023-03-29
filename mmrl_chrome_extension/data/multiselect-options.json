@@ -3433,162 +3433,6 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[dis1] actor shares onscreen disability with character"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis2] actor does not share onscreen disability with character"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis3] challenges stereotypes and tropes about disabilities"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis4] reinforces stereotypes and tropes about disabilities"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis5] nuanced representation of disability"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis6] un-nuanced representation of disability"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis7] nuanced representation of mental health"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis8] un-nuanced representation of mental health"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis9] disabled creative / production team for story centered on disabled people's experiences"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis10] non-disabled creative / production team for story centered on disabled people's experiences"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis11] increased visibility / investment to disabled characters in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis12] decreased visibility / investment to disabled characters in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis13] non-disabled character is disabled in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis14] disabled characters non-disabled / has disability changed in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis15] increased visibility / investment to disabled characters compared to past seasons"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis16] decreased visibility / investment to disabled characters compared to past seasons"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis17] disability de-stigmatization"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis18] disability stigmatization"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis19] mental health de-stigmatization"
- },
- {
-   "field": "-reception-tags",
-   "option": "[dis20] mental health stigmatization"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex1] actor shares sexuality with character"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex2] actor does not share sexuality with character"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex3] challenges stereotypes and tropes about queer sexuality"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex4] reinforces stereotypes and tropes about queer sexuality"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex5] nuanced representation of queer sexuality"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex6] nuanced representation of queer sexuality"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex7] [sex6] un-nuanced representation of queer sexuality"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex8] cishet creative / production team for story centered on queer experiences"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex9] increased visibility / investment of queer characters in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex10] decreased visibility / investment of queer characters in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex11] heterosexual characters made queer characters in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex12] queer characters made straight in adaptation / not present in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex13] increased visibility / investment to queer characters and/or queer relationship compared to past seasons"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex14] decreased visibility / investment to queer characters or queer relationship compared to past seasons"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex15] queerness normalized"
- },
- {
-   "field": "-reception-tags",
-   "option": "[sex16] queerness stigmatized"
- },
- {
-   "field": "-reception-tags",
-   "option": "[age1] character made older in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[age2] character made younger in adaptation"
- },
- {
-   "field": "-reception-tags",
-   "option": "[age3] older man younger woman normalized"
- },
- {
-   "field": "-reception-tags",
    "option": "[gen1] actor shares gender identity with character"
  },
  {
@@ -3682,6 +3526,162 @@
  {
    "field": "-reception-tags",
    "option": "[gen24] gender nonconformity stigmatized"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex1] actor shares sexuality with character"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex2] actor does not share sexuality with character"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex3] challenges stereotypes and tropes about queer sexuality"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex4] reinforces stereotypes and tropes about queer sexuality"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex5] nuanced representation of queer sexuality"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex6] nuanced representation of queer sexuality"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex7] [sex6] un-nuanced representation of queer sexuality"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex8] cishet creative / production team for story centered on queer experiences"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex9] increased visibility / investment of queer characters in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex10] decreased visibility / investment of queer characters in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex11] heterosexual characters made queer characters in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex12] queer characters made straight in adaptation / not present in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex13] increased visibility / investment to queer characters and/or queer relationship compared to past seasons"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex14] decreased visibility / investment to queer characters or queer relationship compared to past seasons"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex15] queerness normalized"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[sex16] queerness stigmatized"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[age1] character made older in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[age2] character made younger in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[age3] older man younger woman normalized"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis1] actor shares onscreen disability with character"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis2] actor does not share onscreen disability with character"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis3] challenges stereotypes and tropes about disabilities"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis4] reinforces stereotypes and tropes about disabilities"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis5] nuanced representation of disability"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis6] un-nuanced representation of disability"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis7] nuanced representation of mental health"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis8] un-nuanced representation of mental health"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis9] disabled creative / production team for story centered on disabled people's experiences"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis10] non-disabled creative / production team for story centered on disabled people's experiences"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis11] increased visibility / investment to disabled characters in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis12] decreased visibility / investment to disabled characters in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis13] non-disabled character is disabled in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis14] disabled characters non-disabled / has disability changed in adaptation"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis15] increased visibility / investment to disabled characters compared to past seasons"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis16] decreased visibility / investment to disabled characters compared to past seasons"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis17] disability de-stigmatization"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis18] disability stigmatization"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis19] mental health de-stigmatization"
+ },
+ {
+   "field": "-reception-tags",
+   "option": "[dis20] mental health stigmatization"
  },
  {
    "field": "-reception-tags",
