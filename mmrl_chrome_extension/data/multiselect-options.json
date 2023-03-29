@@ -3337,39 +3337,39 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[eth1] actor shares ethnicity with character"
+   "option": "[eth01] actor shares ethnicity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth2] actor does not share ethnicity with character"
+   "option": "[eth02] actor does not share ethnicity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth3] challenges stereotypes and tropes about poc/mixed-race people"
+   "option": "[eth03] challenges stereotypes and tropes about poc/mixed-race people"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth4] reinforces stereotypes and tropes about poc/mixed-race people"
+   "option": "[eth04] reinforces stereotypes and tropes about poc/mixed-race people"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth5] nuanced representation of poc/mixed-race experience / racism"
+   "option": "[eth05] nuanced representation of poc/mixed-race experience / racism"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth6] un-nuanced representation of poc/mixed-race experience / racism"
+   "option": "[eth06] un-nuanced representation of poc/mixed-race experience / racism"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth7] poc/mixed-race creative / production team for story centered on poc/mixed-race experiences"
+   "option": "[eth07] poc/mixed-race creative / production team for story centered on poc/mixed-race experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth8] white creative / production team for story centered on poc/mixed-race experiences"
+   "option": "[eth08] white creative / production team for story centered on poc/mixed-race experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[eth9] increased visibility / investment to poc/mixed-race characters in adaptation"
+   "option": "[eth09] increased visibility / investment to poc/mixed-race characters in adaptation"
  },
  {
    "field": "-reception-tags",
@@ -3401,71 +3401,71 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[nat1] actor shares nationality with character"
+   "option": "[nat01] actor shares nationality with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat2] actor does not share nationality with character"
+   "option": "[nat02] actor does not share nationality with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat3] challenges stereotypes and tropes about nationality"
+   "option": "[nat03] challenges stereotypes and tropes about nationality"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat4] reinforces stereotypes and tropes about nationality"
+   "option": "[nat04] reinforces stereotypes and tropes about nationality"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat5] nuanced national representation"
+   "option": "[nat05] nuanced national representation"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat6] un-nuanced national representation"
+   "option": "[nat06] un-nuanced national representation"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat7] production team shares national culture for story centered on national cultural experiences"
+   "option": "[nat07] production team shares national culture for story centered on national cultural experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[nat8] production team does not share national culture for story centered on national cultural experiences"
+   "option": "[nat08] production team does not share national culture for story centered on national cultural experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen1] actor shares gender identity with character"
+   "option": "[gen01] actor shares gender identity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen2] actor does not share gender identity with character"
+   "option": "[gen02] actor does not share gender identity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen3] challenges stereotypes and tropes about trans/gnc people"
+   "option": "[gen03] challenges stereotypes and tropes about trans/gnc people"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen4] reinforces stereotypes and tropes about trans/gnc people"
+   "option": "[gen04] reinforces stereotypes and tropes about trans/gnc people"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen5] challenges stereotypes and tropes about women"
+   "option": "[gen05] challenges stereotypes and tropes about women"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen6] reinforces stereotypes and tropes about women"
+   "option": "[gen06] reinforces stereotypes and tropes about women"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen7] nuanced portrayal of trans experience"
+   "option": "[gen07] nuanced portrayal of trans experience"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen8] un-nuanced portrayal of trans experience"
+   "option": "[gen08] un-nuanced portrayal of trans experience"
  },
  {
    "field": "-reception-tags",
-   "option": "[gen9] nuanced portrayal of women's experience"
+   "option": "[gen09] nuanced portrayal of women's experience"
  },
  {
    "field": "-reception-tags",
@@ -3529,39 +3529,39 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[sex1] actor shares sexuality with character"
+   "option": "[sex01] actor shares sexuality with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex2] actor does not share sexuality with character"
+   "option": "[sex02] actor does not share sexuality with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex3] challenges stereotypes and tropes about queer sexuality"
+   "option": "[sex03] challenges stereotypes and tropes about queer sexuality"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex4] reinforces stereotypes and tropes about queer sexuality"
+   "option": "[sex04] reinforces stereotypes and tropes about queer sexuality"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex5] nuanced representation of queer sexuality"
+   "option": "[sex05] nuanced representation of queer sexuality"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex6] nuanced representation of queer sexuality"
+   "option": "[sex06] nuanced representation of queer sexuality"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex7] [sex6] un-nuanced representation of queer sexuality"
+   "option": "[sex07] un-nuanced representation of queer sexuality"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex8] cishet creative / production team for story centered on queer experiences"
+   "option": "[sex08] cishet creative / production team for story centered on queer experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[sex9] increased visibility / investment of queer characters in adaptation"
+   "option": "[sex09] increased visibility / investment of queer characters in adaptation"
  },
  {
    "field": "-reception-tags",
@@ -3593,51 +3593,51 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[age1] character made older in adaptation"
+   "option": "[age01] character made older in adaptation"
  },
  {
    "field": "-reception-tags",
-   "option": "[age2] character made younger in adaptation"
+   "option": "[age02] character made younger in adaptation"
  },
  {
    "field": "-reception-tags",
-   "option": "[age3] older man younger woman normalized"
+   "option": "[age03] older man younger woman normalized"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis1] actor shares onscreen disability with character"
+   "option": "[dis01] actor shares onscreen disability with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis2] actor does not share onscreen disability with character"
+   "option": "[dis02] actor does not share onscreen disability with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis3] challenges stereotypes and tropes about disabilities"
+   "option": "[dis03] challenges stereotypes and tropes about disabilities"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis4] reinforces stereotypes and tropes about disabilities"
+   "option": "[dis04] reinforces stereotypes and tropes about disabilities"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis5] nuanced representation of disability"
+   "option": "[dis05] nuanced representation of disability"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis6] un-nuanced representation of disability"
+   "option": "[dis06] un-nuanced representation of disability"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis7] nuanced representation of mental health"
+   "option": "[dis07] nuanced representation of mental health"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis8] un-nuanced representation of mental health"
+   "option": "[dis08] un-nuanced representation of mental health"
  },
  {
    "field": "-reception-tags",
-   "option": "[dis9] disabled creative / production team for story centered on disabled people's experiences"
+   "option": "[dis09] disabled creative / production team for story centered on disabled people's experiences"
  },
  {
    "field": "-reception-tags",
@@ -3685,39 +3685,39 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[int1] actor shares intersectional identity with character"
+   "option": "[int01] actor shares intersectional identity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[int2] actor does not share intersectional identity with character"
+   "option": "[int02] actor does not share intersectional identity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[int3] challenges stereotypes and tropes about intersectional identity"
+   "option": "[int03] challenges stereotypes and tropes about intersectional identity"
  },
  {
    "field": "-reception-tags",
-   "option": "[int4] reinforces stereotypes and tropes about intersectional identity"
+   "option": "[int04] reinforces stereotypes and tropes about intersectional identity"
  },
  {
    "field": "-reception-tags",
-   "option": "[int5] nuanced portrayal of intersectional experience"
+   "option": "[int05] nuanced portrayal of intersectional experience"
  },
  {
    "field": "-reception-tags",
-   "option": "[int6] un-nuanced portrayal of intersectional experience"
+   "option": "[int06] un-nuanced portrayal of intersectional experience"
  },
  {
    "field": "-reception-tags",
-   "option": "[int7] intersectional production team for story centered on intersectional experiences"
+   "option": "[int07] intersectional production team for story centered on intersectional experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[int8] production team does not share intersectional identity for story centered on intersectional experiences"
+   "option": "[int08] production team does not share intersectional identity for story centered on intersectional experiences"
  },
  {
    "field": "-reception-tags",
-   "option": "[int9] increased visibility / investment of characters with intersectional identities in adaptation"
+   "option": "[int09] increased visibility / investment of characters with intersectional identities in adaptation"
  },
  {
    "field": "-reception-tags",
@@ -3737,39 +3737,39 @@
  },
  {
    "field": "-reception-tags",
-   "option": "[misc1] actor shares ethnoreligous identity with character"
+   "option": "[misc01] actor shares ethnoreligous identity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc2] actor does not share ethnoreligous identity with character"
+   "option": "[misc02] actor does not share ethnoreligous identity with character"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc3] challenges stereotypes and tropes about ethnoreligous identity"
+   "option": "[misc03] challenges stereotypes and tropes about ethnoreligous identity"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc4] reinforces stereotypes and tropes about ethnoreligious identity"
+   "option": "[misc04] reinforces stereotypes and tropes about ethnoreligious identity"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc5] nuanced portrayal of body size"
+   "option": "[misc05] nuanced portrayal of body size"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc6] un-nuanced portrayal of body size"
+   "option": "[misc06] un-nuanced portrayal of body size"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc7] nuanced portrayal of islam"
+   "option": "[misc07] nuanced portrayal of islam"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc8] un-nuanced portrayal of islam"
+   "option": "[misc08] un-nuanced portrayal of islam"
  },
  {
    "field": "-reception-tags",
-   "option": "[misc9] nuanced portrayal of judaism"
+   "option": "[misc09] nuanced portrayal of judaism"
  },
  {
    "field": "-reception-tags",
