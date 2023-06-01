@@ -7,12 +7,12 @@ last updated v 1.2 3/19/23
 
 //these are the titles that need multiselect dropdowns
 var mainTitles = ["genre(s)", "plot-geo", "plot-date", "distribution-tags", 
-    "production-tags", "production-geo", "positive-reception-tags", "negative-reception-tags", "actor nationality-geo", "character nationality-geo"];
+    "production-tags", "production-geo", "positive-reception-tags", "negative-reception-tags", "actor nationality-geo", "character nationality-geo", "character ethnicity-secondary", "actor ethnicity-secondary"];
 //these are the titles to put the little red * by on the form, since the multiselect boxes breaks using google form's built in required options
 var requiredTitles = ["tagger", "property name (original)", "media type", 
     "imdb page url", "wikipedia page url", "genre(s)", "plot-geo", "plot-date", 
     "distribution-tags", "production-tags", "production-geo", "bias tags",
-    "plot tags", "positive-reception-tags", "negative-reception-tags", "cast lead pair #", "actor name", "actor ethnicity supertags", "actor gender supertags", "actor sexuality supertags", "actor age", "actor-z", "primary vs secondary character", "character name", "character ethnicity supertags", "character gender supertags", "character sexuality supertags", "character age", "character-z", "actor nationality-geo", "character nationality-geo"];
+    "plot tags", "positive-reception-tags", "negative-reception-tags", "cast lead pair #", "actor name", "actor ethnicity supertags", "actor gender supertags", "actor sexuality supertags", "actor age", "actor-z", "primary vs secondary character", "character name", "character ethnicity supertags", "character gender supertags", "character sexuality supertags", "character age", "character-z", "actor nationality-geo", "character nationality-geo", "character ethnicity-secondary tags", "actor ethnicity-secondary tags"];
 
 // MAIN runtime function below
 const url = chrome.runtime.getURL('data/multiselect-options.json');
@@ -134,6 +134,9 @@ function processData(title,data) {
       if (title.includes("-reception-tags") && row["field"] == "-reception-tags") {
         options.push(row["option"]);
       }
+      if (title.includes("ethnicity-secondary") && row["field"] == "ethnicity-secondary") {
+        options.push(row["option"]);
+      }
     }
     return options;
 }
@@ -142,7 +145,7 @@ function addMultiSelect(title, data) {
     //manipulates the DOM to actually add the multiselect elements
 
     options = processData(title,data);
-    // console.log("title ", title, " has options ", options);
+    // console.log("multiselect adding: title ", title, " has options ", options);
     
     //find the DOM element to attach
     var box = getBoxByTitle(title)
@@ -167,6 +170,7 @@ function addMultiSelect(title, data) {
 
     //add id to each textarea to make them easier to find
     textBox = getTextAreaFromBox(box);
+    console.log("setting id ", simplifyTitle(title));
     textBox.setAttribute("id", simplifyTitle(title)+"-textarea");
 
 }
